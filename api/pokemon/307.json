@@ -1,0 +1,116 @@
+{
+    "abilities": {
+        "pure-power": "Using its pure power, the Pok\u00e9mon doubles its\nAttack stat.",
+        "telepathy": "Anticipates an ally\u2019s attack and dodges it."
+    },
+    "description": {
+        "game": "ruby",
+        "text": "MEDITITE undertakes rigorous mental\ntraining deep in the mountains.\nHowever, whenever it meditates, this\fPOK\u00e9MON always loses its concentration\nand focus. As a result, its training\nnever ends."
+    },
+    "eggGroups": [
+        "humanshape"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 37,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "medicham",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/308/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "meditite",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/307/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/307.png"
+        },
+        {
+            "back_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/307.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/307.png"
+        },
+        {
+            "back_shiny_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/307.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/307.png"
+        },
+        {
+            "front_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/307.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/307.png"
+        },
+        {
+            "front_shiny_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/307.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Meditate Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 0.6,
+    "id": 307,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/307.png",
+    "name": "meditite",
+    "stats": {
+        "attack": 40,
+        "defense": 55,
+        "hp": 30,
+        "specialAttack": 40,
+        "specialDefense": 55,
+        "speed": 60
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fighting",
+            "rock"
+        ],
+        "weakTo": [
+            "fairy",
+            "flying",
+            "ghost"
+        ]
+    },
+    "types": [
+        "fighting",
+        "psychic"
+    ],
+    "weight": 11.2
+}

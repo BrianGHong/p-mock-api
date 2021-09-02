@@ -1,0 +1,109 @@
+{
+    "abilities": {
+        "aftermath": "Damages the attacker if it contacts the Pok\u00e9mon\nwith a finishing hit.",
+        "flare-boost": "Powers up special attacks when the Pok\u00e9mon\nis burned.",
+        "unburden": "Boosts the Speed stat if the Pok\u00e9mon\u2019s held item is \nused or lost."
+    },
+    "description": {
+        "game": "diamond",
+        "text": "It\u2019s drowzy in daytime, but flies\noff in the evening in big groups.\nNo one knows where they go."
+    },
+    "eggGroups": [
+        "indeterminate"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 28,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "drifblim",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/426/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "drifloon",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/425/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/426.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/426.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/426.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/426.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Blimp Pok\u00e9mon",
+    "hatchCounter": 30,
+    "height": 1.2,
+    "id": 426,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/426.png",
+    "name": "drifblim",
+    "stats": {
+        "attack": 80,
+        "defense": 44,
+        "hp": 150,
+        "specialAttack": 90,
+        "specialDefense": 54,
+        "speed": 80
+    },
+    "type_relations": {
+        "resistantTo": [
+            "poison",
+            "fighting",
+            "bug",
+            "grass"
+        ],
+        "weakTo": [
+            "dark",
+            "rock",
+            "electric",
+            "ghost",
+            "ice"
+        ]
+    },
+    "types": [
+        "ghost",
+        "flying"
+    ],
+    "weight": 15.0
+}

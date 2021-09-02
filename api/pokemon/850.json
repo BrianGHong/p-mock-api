@@ -1,0 +1,107 @@
+{
+    "abilities": {
+        "flame-body": "Contact with the Pok\u00e9mon may burn the attacker.",
+        "flash-fire": "Powers up the Pok\u00e9mon\u2019s Fire-type moves if it\u2019s hit\nby one.",
+        "white-smoke": "The Pok\u00e9mon is protected by its white smoke, which\nprevents other Pok\u00e9mon from lowering its stats."
+    },
+    "description": {
+        "game": "sword",
+        "text": "It stores flammable gas in its body and uses it to\ngenerate heat. The yellow sections on its belly\nget particularly hot."
+    },
+    "eggGroups": [],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 28,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "centiskorch",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/851/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "sizzlipede",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/850/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/850.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/850.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/850.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/850.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Radiator Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 0.7,
+    "id": 850,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/850.png",
+    "name": "sizzlipede",
+    "stats": {
+        "attack": 65,
+        "defense": 45,
+        "hp": 50,
+        "specialAttack": 50,
+        "specialDefense": 50,
+        "speed": 45
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fighting",
+            "fairy",
+            "bug",
+            "steel",
+            "ice",
+            "grass"
+        ],
+        "weakTo": [
+            "flying",
+            "rock",
+            "water"
+        ]
+    },
+    "types": [
+        "fire",
+        "bug"
+    ],
+    "weight": 1.0
+}

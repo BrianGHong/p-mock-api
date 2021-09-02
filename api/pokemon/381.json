@@ -1,0 +1,73 @@
+{
+    "abilities": {
+        "levitate": "By floating in the air, the Pok\u00e9mon receives full\nimmunity to all Ground-type moves."
+    },
+    "description": {
+        "game": "ruby",
+        "text": "LATIOS has the ability to make its foe\nsee an image of what it has seen or\nimagines in its head.\fThis POK\u00e9MON is intelligent and\nunderstands human speech."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "latios",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/381/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/381.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/381.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/381.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/381.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Eon Pok\u00e9mon",
+    "hatchCounter": 120,
+    "height": 2.0,
+    "id": 381,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/381.png",
+    "name": "latios",
+    "stats": {
+        "attack": 90,
+        "defense": 80,
+        "hp": 80,
+        "specialAttack": 130,
+        "specialDefense": 110,
+        "speed": 110
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fighting",
+            "electric",
+            "water",
+            "fire",
+            "grass",
+            "psychic"
+        ],
+        "weakTo": [
+            "dark",
+            "fairy",
+            "ghost",
+            "dragon",
+            "bug",
+            "ice"
+        ]
+    },
+    "types": [
+        "dragon",
+        "psychic"
+    ],
+    "weight": 60.0
+}

@@ -1,0 +1,65 @@
+{
+    "abilities": {
+        "levitate": "By floating in the air, the Pok\u00e9mon receives full\nimmunity to all Ground-type moves."
+    },
+    "description": {
+        "game": "diamond",
+        "text": "Shiny particles are released from\nits wings like a veil. It is said\nto represent the crescent moon."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "cresselia",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/488/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/488.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/488.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/488.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/488.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Lunar Pok\u00e9mon",
+    "hatchCounter": 120,
+    "height": 1.5,
+    "id": 488,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/488.png",
+    "name": "cresselia",
+    "stats": {
+        "attack": 70,
+        "defense": 120,
+        "hp": 120,
+        "specialAttack": 75,
+        "specialDefense": 130,
+        "speed": 85
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fighting",
+            "psychic"
+        ],
+        "weakTo": [
+            "dark",
+            "bug",
+            "ghost"
+        ]
+    },
+    "types": [
+        "psychic"
+    ],
+    "weight": 85.6
+}

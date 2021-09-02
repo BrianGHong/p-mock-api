@@ -1,0 +1,65 @@
+{
+    "abilities": {
+        "pressure": "By putting pressure on the opposing Pok\u00e9mon, it\nraises their PP usage."
+    },
+    "description": {
+        "game": "ruby",
+        "text": "The DNA of a space virus underwent a\nsudden mutation upon exposure to a\nlaser beam and resulted in DEOXYS.\fThe crystalline organ on this POK\u00e9MON\u2019s\nchest appears to be its brain."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "deoxys",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/386/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/386.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/386.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/386.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/386.png"
+        }
+    ],
+    "gender": {},
+    "genera": "DNA Pok\u00e9mon",
+    "hatchCounter": 120,
+    "height": 1.7,
+    "id": 386,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/386.png",
+    "name": "deoxys-normal",
+    "stats": {
+        "attack": 150,
+        "defense": 50,
+        "hp": 50,
+        "specialAttack": 150,
+        "specialDefense": 50,
+        "speed": 150
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fighting",
+            "psychic"
+        ],
+        "weakTo": [
+            "dark",
+            "bug",
+            "ghost"
+        ]
+    },
+    "types": [
+        "psychic"
+    ],
+    "weight": 60.8
+}

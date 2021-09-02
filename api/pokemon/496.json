@@ -1,0 +1,142 @@
+{
+    "abilities": {
+        "contrary": "Makes stat changes have an opposite effect.",
+        "overgrow": "Powers up Grass-type moves when the Pok\u00e9mon\u2019s\nHP is low."
+    },
+    "description": {
+        "game": "black",
+        "text": "It moves along the ground as if sliding.\nIts swift movements befuddle its foes,\nand it then attacks with a vine whip."
+    },
+    "eggGroups": [
+        "ground",
+        "plant"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 17,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [
+                    {
+                        "evolution_details": [
+                            {
+                                "gender": null,
+                                "held_item": null,
+                                "item": null,
+                                "known_move": null,
+                                "known_move_type": null,
+                                "location": null,
+                                "min_affection": null,
+                                "min_beauty": null,
+                                "min_happiness": null,
+                                "min_level": 36,
+                                "needs_overworld_rain": false,
+                                "party_species": null,
+                                "party_type": null,
+                                "relative_physical_stats": null,
+                                "time_of_day": "",
+                                "trade_species": null,
+                                "trigger": {
+                                    "name": "level-up",
+                                    "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                                },
+                                "turn_upside_down": false
+                            }
+                        ],
+                        "evolves_to": [],
+                        "is_baby": false,
+                        "species": {
+                            "name": "serperior",
+                            "url": "https://pokeapi.co/api/v2/pokemon-species/497/"
+                        }
+                    }
+                ],
+                "is_baby": false,
+                "species": {
+                    "name": "servine",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/496/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "snivy",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/495/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/496.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/496.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/496.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/496.png"
+        }
+    ],
+    "gender": {
+        "female": 12.5,
+        "male": 87.5
+    },
+    "genera": "Grass Snake Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 0.8,
+    "id": 496,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/496.png",
+    "name": "servine",
+    "stats": {
+        "attack": 60,
+        "defense": 75,
+        "hp": 60,
+        "specialAttack": 60,
+        "specialDefense": 75,
+        "speed": 83
+    },
+    "type_relations": {
+        "resistantTo": [
+            "ground",
+            "electric",
+            "water",
+            "grass"
+        ],
+        "weakTo": [
+            "flying",
+            "bug",
+            "fire",
+            "ice",
+            "poison"
+        ]
+    },
+    "types": [
+        "grass"
+    ],
+    "weight": 16.0
+}

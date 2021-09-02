@@ -1,0 +1,139 @@
+{
+    "abilities": {
+        "rock-head": "Protects the Pok\u00e9mon from recoil damage.",
+        "sheer-force": "Removes additional effects to increase the power\nof moves when attacking."
+    },
+    "description": {
+        "game": "ruby",
+        "text": "BAGON has a dream of one day soaring\nin the sky. In doomed efforts to fly,\nthis POK\u00e9MON hurls itself off cliffs.\fAs a result of its dives, its head has \ngrown tough and as hard as tempered\nsteel."
+    },
+    "eggGroups": [
+        "dragon"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 30,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [
+                    {
+                        "evolution_details": [
+                            {
+                                "gender": null,
+                                "held_item": null,
+                                "item": null,
+                                "known_move": null,
+                                "known_move_type": null,
+                                "location": null,
+                                "min_affection": null,
+                                "min_beauty": null,
+                                "min_happiness": null,
+                                "min_level": 50,
+                                "needs_overworld_rain": false,
+                                "party_species": null,
+                                "party_type": null,
+                                "relative_physical_stats": null,
+                                "time_of_day": "",
+                                "trade_species": null,
+                                "trigger": {
+                                    "name": "level-up",
+                                    "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                                },
+                                "turn_upside_down": false
+                            }
+                        ],
+                        "evolves_to": [],
+                        "is_baby": false,
+                        "species": {
+                            "name": "salamence",
+                            "url": "https://pokeapi.co/api/v2/pokemon-species/373/"
+                        }
+                    }
+                ],
+                "is_baby": false,
+                "species": {
+                    "name": "shelgon",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/372/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "bagon",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/371/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/371.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/371.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/371.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/371.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Rock Head Pok\u00e9mon",
+    "hatchCounter": 40,
+    "height": 0.6,
+    "id": 371,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/371.png",
+    "name": "bagon",
+    "stats": {
+        "attack": 75,
+        "defense": 60,
+        "hp": 45,
+        "specialAttack": 40,
+        "specialDefense": 30,
+        "speed": 50
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fire",
+            "grass",
+            "electric",
+            "water"
+        ],
+        "weakTo": [
+            "ice",
+            "dragon",
+            "fairy"
+        ]
+    },
+    "types": [
+        "dragon"
+    ],
+    "weight": 42.1
+}

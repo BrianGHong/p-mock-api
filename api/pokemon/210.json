@@ -1,0 +1,105 @@
+{
+    "abilities": {
+        "intimidate": "The Pok\u00e9mon intimidates opposing Pok\u00e9mon upon\nentering battle, lowering their Attack stat.",
+        "quick-feet": "Boosts the Speed stat if the Pok\u00e9mon has a\nstatus condition.",
+        "rattled": "Dark-, Ghost-, and Bug-type moves scare the\nPok\u00e9mon and boost its Speed stat."
+    },
+    "description": {
+        "game": "gold",
+        "text": "It is actually\ntimid and easily\nspooked. If at\u00ad\ftacked, it flails\nabout to fend off\nits attacker."
+    },
+    "eggGroups": [
+        "ground",
+        "fairy"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 23,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "granbull",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/210/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "snubbull",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/209/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/210.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/210.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/210.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/210.png"
+        }
+    ],
+    "gender": {
+        "female": 75.0,
+        "male": 25.0
+    },
+    "genera": "Fairy Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 1.4,
+    "id": 210,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/210.png",
+    "name": "granbull",
+    "stats": {
+        "attack": 120,
+        "defense": 75,
+        "hp": 90,
+        "specialAttack": 60,
+        "specialDefense": 60,
+        "speed": 45
+    },
+    "type_relations": {
+        "resistantTo": [
+            "dark",
+            "fighting",
+            "bug"
+        ],
+        "weakTo": [
+            "poison",
+            "steel"
+        ]
+    },
+    "types": [
+        "fairy"
+    ],
+    "weight": 48.7
+}

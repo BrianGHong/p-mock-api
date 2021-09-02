@@ -1,0 +1,65 @@
+{
+    "abilities": {
+        "frisk": "When it enters a battle, the Pok\u00e9mon can check an\nopposing Pok\u00e9mon\u2019s held item.",
+        "intimidate": "The Pok\u00e9mon intimidates opposing Pok\u00e9mon upon\nentering battle, lowering their Attack stat.",
+        "sap-sipper": "Boosts the Attack stat if hit by a Grass-type move,\ninstead of taking damage."
+    },
+    "description": {
+        "game": "soulsilver",
+        "text": "Those who stare at its antlers will\ngradually lose control of their\nsenses and be unable to stand."
+    },
+    "eggGroups": [
+        "ground"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "stantler",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/234/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/234.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/234.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/234.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/234.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Big Horn Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 1.4,
+    "id": 234,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/234.png",
+    "name": "stantler",
+    "stats": {
+        "attack": 95,
+        "defense": 62,
+        "hp": 73,
+        "specialAttack": 85,
+        "specialDefense": 65,
+        "speed": 85
+    },
+    "type_relations": {
+        "resistantTo": [],
+        "weakTo": [
+            "fighting"
+        ]
+    },
+    "types": [
+        "normal"
+    ],
+    "weight": 71.2
+}

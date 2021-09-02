@@ -1,0 +1,81 @@
+{
+    "abilities": {
+        "iron-barbs": "Inflicts damage to the attacker on contact with\niron barbs.",
+        "lightning-rod": "The Pok\u00e9mon draws in all Electric-type moves. \nInstead of being hit by Electric-type moves, \nit boosts its Sp. Atk.",
+        "sturdy": "It cannot be knocked out with one hit. One-hit KO\nmoves cannot knock it out, either."
+    },
+    "description": {
+        "game": "sun",
+        "text": "The spiny fur on its back is normally at rest.\nWhen this Pok\u00e9mon becomes agitated, its fur\nstands on end and stabs into its attackers."
+    },
+    "eggGroups": [
+        "ground",
+        "fairy"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "togedemaru",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/777/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/777.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/777.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/777.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/777.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Roly-Poly Pok\u00e9mon",
+    "hatchCounter": 10,
+    "height": 0.3,
+    "id": 777,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/777.png",
+    "name": "togedemaru",
+    "stats": {
+        "attack": 98,
+        "defense": 63,
+        "hp": 65,
+        "specialAttack": 40,
+        "specialDefense": 73,
+        "speed": 96
+    },
+    "type_relations": {
+        "resistantTo": [
+            "normal",
+            "flying",
+            "fairy",
+            "rock",
+            "electric",
+            "dragon",
+            "bug",
+            "steel",
+            "ice",
+            "grass",
+            "psychic"
+        ],
+        "weakTo": [
+            "fire",
+            "ground",
+            "fighting"
+        ]
+    },
+    "types": [
+        "electric",
+        "steel"
+    ],
+    "weight": 3.3
+}

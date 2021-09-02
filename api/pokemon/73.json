@@ -1,0 +1,111 @@
+{
+    "abilities": {
+        "clear-body": "Prevents other Pok\u00e9mon\u2019s moves or Abilities from\nlowering the Pok\u00e9mon\u2019s stats.",
+        "liquid-ooze": "Oozed liquid has strong stench, which damages\nattackers using any draining move.",
+        "rain-dish": "The Pok\u00e9mon gradually regains HP in rain."
+    },
+    "description": {
+        "game": "red",
+        "text": "The tentacles are\nnormally kept\nshort. On hunts,\fthey are extended\nto ensnare and\nimmobilize prey."
+    },
+    "eggGroups": [
+        "water3"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 30,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "tentacruel",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/73/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "tentacool",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/72/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/73.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/73.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/73.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/73.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Jellyfish Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 1.6,
+    "id": 73,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/73.png",
+    "name": "tentacruel",
+    "stats": {
+        "attack": 70,
+        "defense": 65,
+        "hp": 80,
+        "specialAttack": 80,
+        "specialDefense": 120,
+        "speed": 100
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fighting",
+            "fairy",
+            "water",
+            "bug",
+            "steel",
+            "fire",
+            "ice",
+            "poison"
+        ],
+        "weakTo": [
+            "electric",
+            "ground",
+            "psychic"
+        ]
+    },
+    "types": [
+        "water",
+        "poison"
+    ],
+    "weight": 55.0
+}

@@ -1,0 +1,138 @@
+{
+    "abilities": {
+        "competitive": "Boosts the Sp. Atk stat sharply when a stat\nis lowered.",
+        "frisk": "When it enters a battle, the Pok\u00e9mon can check an\nopposing Pok\u00e9mon\u2019s held item.",
+        "shadow-tag": "This Pok\u00e9mon steps on the opposing Pok\u00e9mon\u2019s\nshadow to prevent it from escaping."
+    },
+    "description": {
+        "game": "black",
+        "text": "They use hypnosis to control people and\nPok\u00e9mon. Tales of Gothorita leading\npeople astray are told in every corner."
+    },
+    "eggGroups": [
+        "humanshape"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 32,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [
+                    {
+                        "evolution_details": [
+                            {
+                                "gender": null,
+                                "held_item": null,
+                                "item": null,
+                                "known_move": null,
+                                "known_move_type": null,
+                                "location": null,
+                                "min_affection": null,
+                                "min_beauty": null,
+                                "min_happiness": null,
+                                "min_level": 41,
+                                "needs_overworld_rain": false,
+                                "party_species": null,
+                                "party_type": null,
+                                "relative_physical_stats": null,
+                                "time_of_day": "",
+                                "trade_species": null,
+                                "trigger": {
+                                    "name": "level-up",
+                                    "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                                },
+                                "turn_upside_down": false
+                            }
+                        ],
+                        "evolves_to": [],
+                        "is_baby": false,
+                        "species": {
+                            "name": "gothitelle",
+                            "url": "https://pokeapi.co/api/v2/pokemon-species/576/"
+                        }
+                    }
+                ],
+                "is_baby": false,
+                "species": {
+                    "name": "gothorita",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/575/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "gothita",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/574/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/575.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/575.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/575.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/575.png"
+        }
+    ],
+    "gender": {
+        "female": 75.0,
+        "male": 25.0
+    },
+    "genera": "Manipulate Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 0.7,
+    "id": 575,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/575.png",
+    "name": "gothorita",
+    "stats": {
+        "attack": 45,
+        "defense": 70,
+        "hp": 60,
+        "specialAttack": 75,
+        "specialDefense": 85,
+        "speed": 55
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fighting",
+            "psychic"
+        ],
+        "weakTo": [
+            "dark",
+            "bug",
+            "ghost"
+        ]
+    },
+    "types": [
+        "psychic"
+    ],
+    "weight": 18.0
+}

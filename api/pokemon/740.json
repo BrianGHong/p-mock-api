@@ -1,0 +1,112 @@
+{
+    "abilities": {
+        "anger-point": "The Pok\u00e9mon is angered when it takes a critical hit,\nand that maxes its Attack stat.",
+        "hyper-cutter": "The Pok\u00e9mon\u2019s proud of its powerful pincers. They\nprevent other Pok\u00e9mon from lowering its Attack stat.",
+        "iron-fist": "Powers up punching moves."
+    },
+    "description": {
+        "game": "sun",
+        "text": "It aimed for the top but got lost and ended up\non a snowy mountain. Being forced to endure\nthe cold, this Pok\u00e9mon evolved and grew fur."
+    },
+    "eggGroups": [
+        "water3"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": {
+                            "name": "mount-lanakila",
+                            "url": "https://pokeapi.co/api/v2/location/775/"
+                        },
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": null,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "crabominable",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/740/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "crabrawler",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/739/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/740.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/740.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/740.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/740.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Woolly Crab Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 1.7,
+    "id": 740,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/740.png",
+    "name": "crabominable",
+    "stats": {
+        "attack": 132,
+        "defense": 77,
+        "hp": 97,
+        "specialAttack": 62,
+        "specialDefense": 67,
+        "speed": 43
+    },
+    "type_relations": {
+        "resistantTo": [
+            "dark",
+            "ice",
+            "bug"
+        ],
+        "weakTo": [
+            "fighting",
+            "fairy",
+            "flying",
+            "steel",
+            "fire",
+            "psychic"
+        ]
+    },
+    "types": [
+        "fighting",
+        "ice"
+    ],
+    "weight": 180.0
+}

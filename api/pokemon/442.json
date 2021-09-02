@@ -1,0 +1,68 @@
+{
+    "abilities": {
+        "infiltrator": "Passes through the opposing Pok\u00e9mon\u2019s barrier,\nsubstitute, and the like and strikes.",
+        "pressure": "By putting pressure on the opposing Pok\u00e9mon, it\nraises their PP usage."
+    },
+    "description": {
+        "game": "diamond",
+        "text": "A Pok\u00e9mon that was formed by 108\nspirits. It is bound to a fissure\nin an odd keystone."
+    },
+    "eggGroups": [
+        "indeterminate"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "spiritomb",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/442/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/442.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/442.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/442.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/442.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Forbidden Pok\u00e9mon",
+    "hatchCounter": 30,
+    "height": 1.0,
+    "id": 442,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/442.png",
+    "name": "spiritomb",
+    "stats": {
+        "attack": 92,
+        "defense": 108,
+        "hp": 50,
+        "specialAttack": 92,
+        "specialDefense": 108,
+        "speed": 35
+    },
+    "type_relations": {
+        "resistantTo": [
+            "poison"
+        ],
+        "weakTo": [
+            "fighting",
+            "fairy"
+        ]
+    },
+    "types": [
+        "ghost",
+        "dark"
+    ],
+    "weight": 108.0
+}

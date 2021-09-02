@@ -1,0 +1,72 @@
+{
+    "abilities": {
+        "shields-down": "When its HP becomes half or less, the Pok\u00e9mon\u2019s\nshell breaks and it becomes aggressive."
+    },
+    "description": {
+        "game": "sun",
+        "text": "Originally making its home in the ozone layer,\nit hurtles to the ground when the shell enclosing\nits body grows too heavy."
+    },
+    "eggGroups": [
+        "mineral"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "minior",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/774/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/774.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/774.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/774.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/774.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Meteor Pok\u00e9mon",
+    "hatchCounter": 25,
+    "height": 0.3,
+    "id": 774,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/774.png",
+    "name": "minior-red-meteor",
+    "stats": {
+        "attack": 60,
+        "defense": 100,
+        "hp": 60,
+        "specialAttack": 60,
+        "specialDefense": 100,
+        "speed": 60
+    },
+    "type_relations": {
+        "resistantTo": [
+            "normal",
+            "flying",
+            "bug",
+            "fire",
+            "poison"
+        ],
+        "weakTo": [
+            "ground",
+            "rock",
+            "electric",
+            "water",
+            "steel",
+            "ice"
+        ]
+    },
+    "types": [
+        "rock",
+        "flying"
+    ],
+    "weight": 40.0
+}

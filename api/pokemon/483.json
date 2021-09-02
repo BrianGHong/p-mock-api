@@ -1,0 +1,75 @@
+{
+    "abilities": {
+        "pressure": "By putting pressure on the opposing Pok\u00e9mon, it\nraises their PP usage.",
+        "telepathy": "Anticipates an ally\u2019s attack and dodges it."
+    },
+    "description": {
+        "game": "diamond",
+        "text": "It has the power to control time.\nIt appears in Sinnoh-region myths\nas an ancient deity."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "dialga",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/483/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/483.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/483.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/483.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/483.png"
+        }
+    ],
+    "gender": {
+        "genderless": -12.5
+    },
+    "genera": "Temporal Pok\u00e9mon",
+    "hatchCounter": 120,
+    "height": 5.4,
+    "id": 483,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/483.png",
+    "name": "dialga",
+    "stats": {
+        "attack": 120,
+        "defense": 120,
+        "hp": 100,
+        "specialAttack": 150,
+        "specialDefense": 100,
+        "speed": 90
+    },
+    "type_relations": {
+        "resistantTo": [
+            "normal",
+            "flying",
+            "rock",
+            "electric",
+            "bug",
+            "water",
+            "steel",
+            "grass",
+            "psychic"
+        ],
+        "weakTo": [
+            "ground",
+            "fighting"
+        ]
+    },
+    "types": [
+        "steel",
+        "dragon"
+    ],
+    "weight": 683.0
+}

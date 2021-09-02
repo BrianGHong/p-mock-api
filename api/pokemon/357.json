@@ -1,0 +1,76 @@
+{
+    "abilities": {
+        "chlorophyll": "Boosts the Pok\u00e9mon\u2019s Speed stat in harsh sunlight.",
+        "harvest": "May create another Berry after one is used.",
+        "solar-power": "Boosts the Sp. Atk stat in harsh sunlight, but HP\ndecreases every turn."
+    },
+    "description": {
+        "game": "ruby",
+        "text": "The bunches of fruit around TROPIUS\u2019s\nneck are very popular with children.\nThis POK\u00e9MON loves fruit, and eats it\fcontinuously. Apparently, its love for\nfruit resulted in its own outgrowth\nof fruit."
+    },
+    "eggGroups": [
+        "monster",
+        "plant"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "tropius",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/357/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/357.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/357.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/357.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/357.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Fruit Pok\u00e9mon",
+    "hatchCounter": 25,
+    "height": 2.0,
+    "id": 357,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/357.png",
+    "name": "tropius",
+    "stats": {
+        "attack": 68,
+        "defense": 83,
+        "hp": 99,
+        "specialAttack": 72,
+        "specialDefense": 87,
+        "speed": 51
+    },
+    "type_relations": {
+        "resistantTo": [
+            "ground",
+            "fighting",
+            "water",
+            "grass"
+        ],
+        "weakTo": [
+            "flying",
+            "rock",
+            "fire",
+            "ice",
+            "poison"
+        ]
+    },
+    "types": [
+        "grass",
+        "flying"
+    ],
+    "weight": 100.0
+}

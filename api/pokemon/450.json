@@ -1,0 +1,115 @@
+{
+    "abilities": {
+        "sand-force": "Boosts the power of Rock-, Ground-, and Steel-type\nmoves in a sandstorm.",
+        "sand-stream": "The Pok\u00e9mon summons a sandstorm when it enters\na battle."
+    },
+    "description": {
+        "game": "diamond",
+        "text": "It blasts internally stored sand\nfrom ports on its body to create\na towering twister for attack."
+    },
+    "eggGroups": [
+        "ground"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 34,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "hippowdon",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/450/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "hippopotas",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/449/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/450.png"
+        },
+        {
+            "back_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/450.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/450.png"
+        },
+        {
+            "back_shiny_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/450.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/450.png"
+        },
+        {
+            "front_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/450.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/450.png"
+        },
+        {
+            "front_shiny_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/450.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Heavyweight Pok\u00e9mon",
+    "hatchCounter": 30,
+    "height": 2.0,
+    "id": 450,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/450.png",
+    "name": "hippowdon",
+    "stats": {
+        "attack": 112,
+        "defense": 118,
+        "hp": 108,
+        "specialAttack": 68,
+        "specialDefense": 72,
+        "speed": 47
+    },
+    "type_relations": {
+        "resistantTo": [
+            "poison",
+            "rock"
+        ],
+        "weakTo": [
+            "ice",
+            "grass",
+            "water"
+        ]
+    },
+    "types": [
+        "ground"
+    ],
+    "weight": 300.0
+}

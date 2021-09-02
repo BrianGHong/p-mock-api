@@ -1,0 +1,64 @@
+{
+    "abilities": {
+        "aura-break": "The effects of \u201cAura\u201d Abilities are reversed\nto lower the power of affected moves."
+    },
+    "description": {
+        "game": "x",
+        "text": "When the Kalos region\u2019s ecosystem falls into\ndisarray, it appears and reveals its secret power."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "zygarde",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/718/"
+        }
+    },
+    "forms": [
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/718.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/718.png"
+        }
+    ],
+    "gender": {
+        "genderless": -12.5
+    },
+    "genera": "Order Pok\u00e9mon",
+    "hatchCounter": 120,
+    "height": 5.0,
+    "id": 718,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/718.png",
+    "name": "zygarde",
+    "stats": {
+        "attack": 100,
+        "defense": 121,
+        "hp": 108,
+        "specialAttack": 81,
+        "specialDefense": 95,
+        "speed": 95
+    },
+    "type_relations": {
+        "resistantTo": [
+            "rock",
+            "electric",
+            "poison",
+            "fire"
+        ],
+        "weakTo": [
+            "fairy",
+            "dragon",
+            "ice"
+        ]
+    },
+    "types": [
+        "dragon",
+        "ground"
+    ],
+    "weight": 305.0
+}

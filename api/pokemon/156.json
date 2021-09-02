@@ -1,0 +1,141 @@
+{
+    "abilities": {
+        "blaze": "Powers up Fire-type moves when the Pok\u00e9mon\u2019s HP\nis low.",
+        "flash-fire": "Powers up the Pok\u00e9mon\u2019s Fire-type moves if it\u2019s hit\nby one."
+    },
+    "description": {
+        "game": "gold",
+        "text": "Be careful if it\nturns its back\nduring battle. It\fmeans that it will\nattack with the\nfire on its back."
+    },
+    "eggGroups": [
+        "ground"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 14,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [
+                    {
+                        "evolution_details": [
+                            {
+                                "gender": null,
+                                "held_item": null,
+                                "item": null,
+                                "known_move": null,
+                                "known_move_type": null,
+                                "location": null,
+                                "min_affection": null,
+                                "min_beauty": null,
+                                "min_happiness": null,
+                                "min_level": 36,
+                                "needs_overworld_rain": false,
+                                "party_species": null,
+                                "party_type": null,
+                                "relative_physical_stats": null,
+                                "time_of_day": "",
+                                "trade_species": null,
+                                "trigger": {
+                                    "name": "level-up",
+                                    "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                                },
+                                "turn_upside_down": false
+                            }
+                        ],
+                        "evolves_to": [],
+                        "is_baby": false,
+                        "species": {
+                            "name": "typhlosion",
+                            "url": "https://pokeapi.co/api/v2/pokemon-species/157/"
+                        }
+                    }
+                ],
+                "is_baby": false,
+                "species": {
+                    "name": "quilava",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/156/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "cyndaquil",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/155/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/156.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/156.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/156.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/156.png"
+        }
+    ],
+    "gender": {
+        "female": 12.5,
+        "male": 87.5
+    },
+    "genera": "Volcano Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 0.9,
+    "id": 156,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/156.png",
+    "name": "quilava",
+    "stats": {
+        "attack": 64,
+        "defense": 58,
+        "hp": 58,
+        "specialAttack": 80,
+        "specialDefense": 65,
+        "speed": 80
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fairy",
+            "bug",
+            "steel",
+            "fire",
+            "ice",
+            "grass"
+        ],
+        "weakTo": [
+            "ground",
+            "rock",
+            "water"
+        ]
+    },
+    "types": [
+        "fire"
+    ],
+    "weight": 19.0
+}

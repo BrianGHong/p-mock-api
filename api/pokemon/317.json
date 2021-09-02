@@ -1,0 +1,118 @@
+{
+    "abilities": {
+        "gluttony": "Makes the Pok\u00e9mon eat a held Berry when its HP\ndrops to half or less, which is sooner than usual.",
+        "liquid-ooze": "Oozed liquid has strong stench, which damages\nattackers using any draining move.",
+        "sticky-hold": "Items held by the Pok\u00e9mon are stuck fast and\ncannot be removed by other Pok\u00e9mon."
+    },
+    "description": {
+        "game": "white",
+        "text": "It swallows anything whole.\nIt sweats toxic fluids from its\nfollicles to douse foes."
+    },
+    "eggGroups": [
+        "indeterminate"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 26,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "swalot",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/317/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "gulpin",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/316/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/317.png"
+        },
+        {
+            "back_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/317.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/317.png"
+        },
+        {
+            "back_shiny_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/317.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/317.png"
+        },
+        {
+            "front_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/317.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/317.png"
+        },
+        {
+            "front_shiny_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/317.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Poison Bag Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 1.7,
+    "id": 317,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/317.png",
+    "name": "swalot",
+    "stats": {
+        "attack": 73,
+        "defense": 83,
+        "hp": 100,
+        "specialAttack": 73,
+        "specialDefense": 83,
+        "speed": 55
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fighting",
+            "fairy",
+            "grass",
+            "bug",
+            "poison"
+        ],
+        "weakTo": [
+            "ground",
+            "psychic"
+        ]
+    },
+    "types": [
+        "poison"
+    ],
+    "weight": 80.0
+}

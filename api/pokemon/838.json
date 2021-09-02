@@ -1,0 +1,143 @@
+{
+    "abilities": {
+        "flame-body": "Contact with the Pok\u00e9mon may burn the attacker.",
+        "flash-fire": "Powers up the Pok\u00e9mon\u2019s Fire-type moves if it\u2019s hit\nby one.",
+        "steam-engine": "Boosts the Pok\u00e9mon's Speed stat drastically if hit by a Fire- or Water-type move."
+    },
+    "description": {
+        "game": "sword",
+        "text": "It forms coal inside its body. Coal dropped by\nthis Pok\u00e9mon once helped fuel the lives of\npeople in the Galar region."
+    },
+    "eggGroups": [],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 18,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [
+                    {
+                        "evolution_details": [
+                            {
+                                "gender": null,
+                                "held_item": null,
+                                "item": null,
+                                "known_move": null,
+                                "known_move_type": null,
+                                "location": null,
+                                "min_affection": null,
+                                "min_beauty": null,
+                                "min_happiness": null,
+                                "min_level": 34,
+                                "needs_overworld_rain": false,
+                                "party_species": null,
+                                "party_type": null,
+                                "relative_physical_stats": null,
+                                "time_of_day": "",
+                                "trade_species": null,
+                                "trigger": {
+                                    "name": "level-up",
+                                    "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                                },
+                                "turn_upside_down": false
+                            }
+                        ],
+                        "evolves_to": [],
+                        "is_baby": false,
+                        "species": {
+                            "name": "coalossal",
+                            "url": "https://pokeapi.co/api/v2/pokemon-species/839/"
+                        }
+                    }
+                ],
+                "is_baby": false,
+                "species": {
+                    "name": "carkol",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/838/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "rolycoly",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/837/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/838.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/838.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/838.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/838.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Coal Pok\u00e9mon",
+    "hatchCounter": 15,
+    "height": 1.1,
+    "id": 838,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/838.png",
+    "name": "carkol",
+    "stats": {
+        "attack": 60,
+        "defense": 90,
+        "hp": 80,
+        "specialAttack": 60,
+        "specialDefense": 70,
+        "speed": 50
+    },
+    "type_relations": {
+        "resistantTo": [
+            "normal",
+            "flying",
+            "fairy",
+            "bug",
+            "fire",
+            "ice",
+            "poison"
+        ],
+        "weakTo": [
+            "ground",
+            "fighting",
+            "rock",
+            "water"
+        ]
+    },
+    "types": [
+        "rock",
+        "fire"
+    ],
+    "weight": 78.0
+}

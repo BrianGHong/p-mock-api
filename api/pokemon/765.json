@@ -1,0 +1,70 @@
+{
+    "abilities": {
+        "inner-focus": "The Pok\u00e9mon\u2019s intensely focused, and that protects\nthe Pok\u00e9mon from flinching.",
+        "symbiosis": "The Pok\u00e9mon passes its item to an ally that has\nused up an item.",
+        "telepathy": "Anticipates an ally\u2019s attack and dodges it."
+    },
+    "description": {
+        "game": "sun",
+        "text": "Known for its extreme intelligence, this Pok\u00e9mon\nwill look down on inexperienced Trainers, so it\u2019s\nbest suited to veteran Trainers."
+    },
+    "eggGroups": [
+        "ground"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "oranguru",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/765/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/765.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/765.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/765.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/765.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Sage Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 1.5,
+    "id": 765,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/765.png",
+    "name": "oranguru",
+    "stats": {
+        "attack": 60,
+        "defense": 80,
+        "hp": 90,
+        "specialAttack": 90,
+        "specialDefense": 110,
+        "speed": 60
+    },
+    "type_relations": {
+        "resistantTo": [
+            "psychic"
+        ],
+        "weakTo": [
+            "dark",
+            "bug",
+            "ghost"
+        ]
+    },
+    "types": [
+        "normal",
+        "psychic"
+    ],
+    "weight": 76.0
+}

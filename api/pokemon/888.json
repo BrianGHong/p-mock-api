@@ -1,0 +1,63 @@
+{
+    "abilities": {
+        "intrepid-sword": "Boosts the Pok\u00e9mon's Attack stat when the Pok\u00e9mon enters a battle."
+    },
+    "description": {
+        "game": "sword",
+        "text": "Known as a legendary hero, this Pok\u00e9mon\nabsorbs metal particles, transforming them\ninto a weapon it uses to battle."
+    },
+    "eggGroups": [],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "zacian",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/888/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/888.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/888.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/888.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/888.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Warrior Pok\u00e9mon",
+    "hatchCounter": 120,
+    "height": 2.8,
+    "id": 888,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/888.png",
+    "name": "zacian-hero",
+    "stats": {
+        "attack": 130,
+        "defense": 115,
+        "hp": 92,
+        "specialAttack": 80,
+        "specialDefense": 115,
+        "speed": 138
+    },
+    "type_relations": {
+        "resistantTo": [
+            "dark",
+            "fighting",
+            "bug"
+        ],
+        "weakTo": [
+            "poison",
+            "steel"
+        ]
+    },
+    "types": [
+        "fairy"
+    ],
+    "weight": 110.0
+}

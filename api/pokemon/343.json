@@ -1,0 +1,107 @@
+{
+    "abilities": {
+        "levitate": "By floating in the air, the Pok\u00e9mon receives full\nimmunity to all Ground-type moves."
+    },
+    "description": {
+        "game": "ruby",
+        "text": "BALTOY moves while spinning around on\nits one foot. Primitive wall paintings\ndepicting this POK\u00e9MON living among\fpeople were discovered in some ancient\nruins."
+    },
+    "eggGroups": [
+        "mineral"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 36,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "claydol",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/344/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "baltoy",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/343/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/343.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/343.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/343.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/343.png"
+        }
+    ],
+    "gender": {
+        "genderless": -12.5
+    },
+    "genera": "Clay Doll Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 0.5,
+    "id": 343,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/343.png",
+    "name": "baltoy",
+    "stats": {
+        "attack": 40,
+        "defense": 55,
+        "hp": 40,
+        "specialAttack": 40,
+        "specialDefense": 70,
+        "speed": 55
+    },
+    "type_relations": {
+        "resistantTo": [
+            "poison",
+            "rock",
+            "fighting",
+            "psychic"
+        ],
+        "weakTo": [
+            "dark",
+            "ghost",
+            "bug",
+            "water",
+            "ice",
+            "grass"
+        ]
+    },
+    "types": [
+        "ground",
+        "psychic"
+    ],
+    "weight": 21.5
+}

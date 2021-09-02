@@ -1,0 +1,143 @@
+{
+    "abilities": {
+        "blaze": "Powers up Fire-type moves when the Pok\u00e9mon\u2019s HP\nis low.",
+        "reckless": "Powers up moves that have recoil damage."
+    },
+    "description": {
+        "game": "black",
+        "text": "It can throw a fire punch by setting its\nfists on fire with its fiery chin. It cares\ndeeply about its friends."
+    },
+    "eggGroups": [
+        "ground"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 17,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [
+                    {
+                        "evolution_details": [
+                            {
+                                "gender": null,
+                                "held_item": null,
+                                "item": null,
+                                "known_move": null,
+                                "known_move_type": null,
+                                "location": null,
+                                "min_affection": null,
+                                "min_beauty": null,
+                                "min_happiness": null,
+                                "min_level": 36,
+                                "needs_overworld_rain": false,
+                                "party_species": null,
+                                "party_type": null,
+                                "relative_physical_stats": null,
+                                "time_of_day": "",
+                                "trade_species": null,
+                                "trigger": {
+                                    "name": "level-up",
+                                    "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                                },
+                                "turn_upside_down": false
+                            }
+                        ],
+                        "evolves_to": [],
+                        "is_baby": false,
+                        "species": {
+                            "name": "emboar",
+                            "url": "https://pokeapi.co/api/v2/pokemon-species/500/"
+                        }
+                    }
+                ],
+                "is_baby": false,
+                "species": {
+                    "name": "pignite",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/499/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "tepig",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/498/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/500.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/500.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/500.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/500.png"
+        }
+    ],
+    "gender": {
+        "female": 12.5,
+        "male": 87.5
+    },
+    "genera": "Mega Fire Pig Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 1.6,
+    "id": 500,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/500.png",
+    "name": "emboar",
+    "stats": {
+        "attack": 123,
+        "defense": 65,
+        "hp": 110,
+        "specialAttack": 100,
+        "specialDefense": 65,
+        "speed": 65
+    },
+    "type_relations": {
+        "resistantTo": [
+            "dark",
+            "bug",
+            "steel",
+            "fire",
+            "ice",
+            "grass"
+        ],
+        "weakTo": [
+            "ground",
+            "flying",
+            "water",
+            "psychic"
+        ]
+    },
+    "types": [
+        "fire",
+        "fighting"
+    ],
+    "weight": 150.0
+}

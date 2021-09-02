@@ -1,0 +1,67 @@
+{
+    "abilities": {
+        "battle-armor": "Hard armor protects the Pok\u00e9mon from critical hits.",
+        "defiant": "Boosts the Pok\u00e9mon\u2019s Attack stat sharply when its\nstats are lowered."
+    },
+    "description": {
+        "game": "sword",
+        "text": "Five of them are troopers, and one is the brass.\nThe brass\u2019s orders are absolute."
+    },
+    "eggGroups": [],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "falinks",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/870/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/870.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/870.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/870.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/870.png"
+        }
+    ],
+    "gender": {
+        "genderless": -12.5
+    },
+    "genera": "Formation Pok\u00e9mon",
+    "hatchCounter": 25,
+    "height": 3.0,
+    "id": 870,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/870.png",
+    "name": "falinks",
+    "stats": {
+        "attack": 100,
+        "defense": 100,
+        "hp": 65,
+        "specialAttack": 70,
+        "specialDefense": 60,
+        "speed": 75
+    },
+    "type_relations": {
+        "resistantTo": [
+            "dark",
+            "rock",
+            "bug"
+        ],
+        "weakTo": [
+            "fairy",
+            "psychic",
+            "flying"
+        ]
+    },
+    "types": [
+        "fighting"
+    ],
+    "weight": 62.0
+}

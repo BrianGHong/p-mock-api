@@ -1,0 +1,68 @@
+{
+    "abilities": {
+        "clear-body": "Prevents other Pok\u00e9mon\u2019s moves or Abilities from\nlowering the Pok\u00e9mon\u2019s stats.",
+        "ice-body": "The Pok\u00e9mon gradually regains HP in a hailstorm."
+    },
+    "description": {
+        "game": "ruby",
+        "text": "REGICE\u2019s body was made during an ice\nage. The deep-frozen body can\u2019t be\nmelted, even by fire.\fThis POK\u00e9MON controls frigid air of\nminus 328 degrees F."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "regice",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/378/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/378.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/378.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/378.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/378.png"
+        }
+    ],
+    "gender": {
+        "genderless": -12.5
+    },
+    "genera": "Iceberg Pok\u00e9mon",
+    "hatchCounter": 80,
+    "height": 1.8,
+    "id": 378,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/378.png",
+    "name": "regice",
+    "stats": {
+        "attack": 50,
+        "defense": 100,
+        "hp": 80,
+        "specialAttack": 100,
+        "specialDefense": 200,
+        "speed": 50
+    },
+    "type_relations": {
+        "resistantTo": [
+            "ice"
+        ],
+        "weakTo": [
+            "fire",
+            "rock",
+            "fighting",
+            "steel"
+        ]
+    },
+    "types": [
+        "ice"
+    ],
+    "weight": 175.0
+}

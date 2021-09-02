@@ -1,0 +1,145 @@
+{
+    "abilities": {
+        "clear-body": "Prevents other Pok\u00e9mon\u2019s moves or Abilities from\nlowering the Pok\u00e9mon\u2019s stats.",
+        "minus": "Boosts the Sp. Atk stat of the Pok\u00e9mon if an ally\nwith the Plus or Minus Ability is also in battle.",
+        "plus": "Boosts the Sp. Atk stat of the Pok\u00e9mon if an ally\nwith the Plus or Minus Ability is also in battle."
+    },
+    "description": {
+        "game": "black",
+        "text": "By changing the direction in which it\nrotates, it communicates its feelings to\nothers. When angry, it rotates faster."
+    },
+    "eggGroups": [
+        "mineral"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 38,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [
+                    {
+                        "evolution_details": [
+                            {
+                                "gender": null,
+                                "held_item": null,
+                                "item": null,
+                                "known_move": null,
+                                "known_move_type": null,
+                                "location": null,
+                                "min_affection": null,
+                                "min_beauty": null,
+                                "min_happiness": null,
+                                "min_level": 49,
+                                "needs_overworld_rain": false,
+                                "party_species": null,
+                                "party_type": null,
+                                "relative_physical_stats": null,
+                                "time_of_day": "",
+                                "trade_species": null,
+                                "trigger": {
+                                    "name": "level-up",
+                                    "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                                },
+                                "turn_upside_down": false
+                            }
+                        ],
+                        "evolves_to": [],
+                        "is_baby": false,
+                        "species": {
+                            "name": "klinklang",
+                            "url": "https://pokeapi.co/api/v2/pokemon-species/601/"
+                        }
+                    }
+                ],
+                "is_baby": false,
+                "species": {
+                    "name": "klang",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/600/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "klink",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/599/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/600.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/600.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/600.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/600.png"
+        }
+    ],
+    "gender": {
+        "genderless": -12.5
+    },
+    "genera": "Gear Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 0.6,
+    "id": 600,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/600.png",
+    "name": "klang",
+    "stats": {
+        "attack": 80,
+        "defense": 95,
+        "hp": 60,
+        "specialAttack": 70,
+        "specialDefense": 85,
+        "speed": 50
+    },
+    "type_relations": {
+        "resistantTo": [
+            "normal",
+            "flying",
+            "fairy",
+            "rock",
+            "dragon",
+            "bug",
+            "steel",
+            "ice",
+            "grass",
+            "psychic"
+        ],
+        "weakTo": [
+            "fire",
+            "ground",
+            "fighting"
+        ]
+    },
+    "types": [
+        "steel"
+    ],
+    "weight": 51.0
+}

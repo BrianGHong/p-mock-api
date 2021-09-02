@@ -1,0 +1,74 @@
+{
+    "abilities": {
+        "flash-fire": "Powers up the Pok\u00e9mon\u2019s Fire-type moves if it\u2019s hit\nby one.",
+        "gluttony": "Makes the Pok\u00e9mon eat a held Berry when its HP\ndrops to half or less, which is sooner than usual.",
+        "white-smoke": "The Pok\u00e9mon is protected by its white smoke, which\nprevents other Pok\u00e9mon from lowering its stats."
+    },
+    "description": {
+        "game": "black",
+        "text": "It breathes through a hole in its tail\nwhile it burns with an internal fire.\nDurant is its prey."
+    },
+    "eggGroups": [
+        "ground"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "heatmor",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/631/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/631.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/631.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/631.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/631.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Anteater Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 1.4,
+    "id": 631,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/631.png",
+    "name": "heatmor",
+    "stats": {
+        "attack": 97,
+        "defense": 66,
+        "hp": 85,
+        "specialAttack": 105,
+        "specialDefense": 66,
+        "speed": 65
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fairy",
+            "bug",
+            "steel",
+            "fire",
+            "ice",
+            "grass"
+        ],
+        "weakTo": [
+            "ground",
+            "rock",
+            "water"
+        ]
+    },
+    "types": [
+        "fire"
+    ],
+    "weight": 58.0
+}

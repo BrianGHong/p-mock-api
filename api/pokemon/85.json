@@ -1,0 +1,117 @@
+{
+    "abilities": {
+        "early-bird": "The Pok\u00e9mon awakens twice as fast as other\nPok\u00e9mon from sleep.",
+        "run-away": "Enables a sure getaway from wild Pok\u00e9mon.",
+        "tangled-feet": "Raises evasion if the Pok\u00e9mon is confused."
+    },
+    "description": {
+        "game": "red",
+        "text": "Uses its three\nbrains to execute\ncomplex plans.\fWhile two heads\nsleep, one head\nstays awake."
+    },
+    "eggGroups": [
+        "flying"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 31,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "dodrio",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/85/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "doduo",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/84/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/85.png"
+        },
+        {
+            "back_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/85.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/85.png"
+        },
+        {
+            "back_shiny_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/85.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/85.png"
+        },
+        {
+            "front_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/85.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/85.png"
+        },
+        {
+            "front_shiny_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/85.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Triple Bird Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 1.8,
+    "id": 85,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/85.png",
+    "name": "dodrio",
+    "stats": {
+        "attack": 110,
+        "defense": 70,
+        "hp": 60,
+        "specialAttack": 60,
+        "specialDefense": 60,
+        "speed": 110
+    },
+    "type_relations": {
+        "resistantTo": [
+            "grass",
+            "bug"
+        ],
+        "weakTo": [
+            "ice",
+            "rock",
+            "electric"
+        ]
+    },
+    "types": [
+        "normal",
+        "flying"
+    ],
+    "weight": 85.2
+}

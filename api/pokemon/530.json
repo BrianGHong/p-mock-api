@@ -1,0 +1,113 @@
+{
+    "abilities": {
+        "mold-breaker": "Moves can be used on the target regardless of\nits Abilities.",
+        "sand-force": "Boosts the power of Rock-, Ground-, and Steel-type\nmoves in a sandstorm.",
+        "sand-rush": "Boosts the Pok\u00e9mon\u2019s Speed stat in a sandstorm."
+    },
+    "description": {
+        "game": "black",
+        "text": "It can help in tunnel construction.\nIts drill has evolved into steel strong\nenough to bore through iron plates."
+    },
+    "eggGroups": [
+        "ground"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 31,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "excadrill",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/530/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "drilbur",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/529/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/530.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/530.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/530.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/530.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Subterrene Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 0.7,
+    "id": 530,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/530.png",
+    "name": "excadrill",
+    "stats": {
+        "attack": 135,
+        "defense": 60,
+        "hp": 110,
+        "specialAttack": 50,
+        "specialDefense": 65,
+        "speed": 88
+    },
+    "type_relations": {
+        "resistantTo": [
+            "normal",
+            "flying",
+            "fairy",
+            "rock",
+            "dragon",
+            "bug",
+            "steel",
+            "poison",
+            "psychic"
+        ],
+        "weakTo": [
+            "ground",
+            "fighting",
+            "water",
+            "fire"
+        ]
+    },
+    "types": [
+        "ground",
+        "steel"
+    ],
+    "weight": 40.4
+}

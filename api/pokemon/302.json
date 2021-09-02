@@ -1,0 +1,69 @@
+{
+    "abilities": {
+        "keen-eye": "Keen eyes prevent other Pok\u00e9mon from lowering this\nPok\u00e9mon\u2019s accuracy.",
+        "prankster": "Gives priority to a status move.",
+        "stall": "The Pok\u00e9mon moves after all other Pok\u00e9mon do."
+    },
+    "description": {
+        "game": "ruby",
+        "text": "SABLEYE lead quiet lives deep inside\ncaverns. They are feared, however,\nbecause these POK\u00e9MON are thought to\fsteal the spirits of people when their\neyes burn with a sinister glow in the\ndarkness."
+    },
+    "eggGroups": [
+        "humanshape"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "sableye",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/302/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/302.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/302.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/302.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/302.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Darkness Pok\u00e9mon",
+    "hatchCounter": 25,
+    "height": 0.5,
+    "id": 302,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/302.png",
+    "name": "sableye",
+    "stats": {
+        "attack": 75,
+        "defense": 75,
+        "hp": 50,
+        "specialAttack": 65,
+        "specialDefense": 65,
+        "speed": 50
+    },
+    "type_relations": {
+        "resistantTo": [
+            "poison"
+        ],
+        "weakTo": [
+            "fighting",
+            "fairy"
+        ]
+    },
+    "types": [
+        "dark",
+        "ghost"
+    ],
+    "weight": 11.0
+}

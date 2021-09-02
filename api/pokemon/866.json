@@ -1,0 +1,143 @@
+{
+    "abilities": {
+        "ice-body": "The Pok\u00e9mon gradually regains HP in a hailstorm.",
+        "screen-cleaner": "When the Pok\u00e9mon enters a battle, the effects of Light Screen, Reflect, and Aurora Veil are nullified for both opposing and ally Pok\u00e9mon.",
+        "tangled-feet": "Raises evasion if the Pok\u00e9mon is confused."
+    },
+    "description": {
+        "game": "sword",
+        "text": "It\u2019s highly skilled at tap-dancing. It waves its cane\nof ice in time with its graceful movements."
+    },
+    "eggGroups": [],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": {
+                            "name": "mimic",
+                            "url": "https://pokeapi.co/api/v2/move/102/"
+                        },
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": null,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [
+                    {
+                        "evolution_details": [
+                            {
+                                "gender": null,
+                                "held_item": null,
+                                "item": null,
+                                "known_move": null,
+                                "known_move_type": null,
+                                "location": null,
+                                "min_affection": null,
+                                "min_beauty": null,
+                                "min_happiness": null,
+                                "min_level": 42,
+                                "needs_overworld_rain": false,
+                                "party_species": null,
+                                "party_type": null,
+                                "relative_physical_stats": null,
+                                "time_of_day": "",
+                                "trade_species": null,
+                                "trigger": {
+                                    "name": "level-up",
+                                    "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                                },
+                                "turn_upside_down": false
+                            }
+                        ],
+                        "evolves_to": [],
+                        "is_baby": false,
+                        "species": {
+                            "name": "mr-rime",
+                            "url": "https://pokeapi.co/api/v2/pokemon-species/866/"
+                        }
+                    }
+                ],
+                "is_baby": false,
+                "species": {
+                    "name": "mr-mime",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/122/"
+                }
+            }
+        ],
+        "is_baby": true,
+        "species": {
+            "name": "mime-jr",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/439/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/866.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/866.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/866.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/866.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Comedian Pok\u00e9mon",
+    "hatchCounter": 25,
+    "height": 1.5,
+    "id": 866,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/866.png",
+    "name": "mr-rime",
+    "stats": {
+        "attack": 85,
+        "defense": 75,
+        "hp": 80,
+        "specialAttack": 110,
+        "specialDefense": 100,
+        "speed": 70
+    },
+    "type_relations": {
+        "resistantTo": [
+            "ice",
+            "psychic"
+        ],
+        "weakTo": [
+            "dark",
+            "rock",
+            "ghost",
+            "bug",
+            "steel",
+            "fire"
+        ]
+    },
+    "types": [
+        "ice",
+        "psychic"
+    ],
+    "weight": 58.2
+}

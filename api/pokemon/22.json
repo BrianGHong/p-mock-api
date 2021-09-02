@@ -1,0 +1,104 @@
+{
+    "abilities": {
+        "keen-eye": "Keen eyes prevent other Pok\u00e9mon from lowering this\nPok\u00e9mon\u2019s accuracy.",
+        "sniper": "Powers up moves if they become critical hits\nwhen attacking."
+    },
+    "description": {
+        "game": "red",
+        "text": "With its huge and\nmagnificent wings,\nit can keep aloft\fwithout ever\nhaving to land\nfor rest."
+    },
+    "eggGroups": [
+        "flying"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 20,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "fearow",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/22/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "spearow",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/21/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/22.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/22.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/22.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Beak Pok\u00e9mon",
+    "hatchCounter": 15,
+    "height": 1.2,
+    "id": 22,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/22.png",
+    "name": "fearow",
+    "stats": {
+        "attack": 90,
+        "defense": 65,
+        "hp": 65,
+        "specialAttack": 61,
+        "specialDefense": 61,
+        "speed": 100
+    },
+    "type_relations": {
+        "resistantTo": [
+            "grass",
+            "bug"
+        ],
+        "weakTo": [
+            "ice",
+            "rock",
+            "electric"
+        ]
+    },
+    "types": [
+        "normal",
+        "flying"
+    ],
+    "weight": 38.0
+}

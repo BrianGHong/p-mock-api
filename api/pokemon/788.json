@@ -1,0 +1,73 @@
+{
+    "abilities": {
+        "misty-surge": "Turns the ground into Misty Terrain when\nthe Pok\u00e9mon enters a battle.",
+        "telepathy": "Anticipates an ally\u2019s attack and dodges it."
+    },
+    "description": {
+        "game": "sun",
+        "text": "The dense fog it creates brings the downfall\nand destruction of its confused enemies.\nOcean currents are the source of its energy."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "tapu-fini",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/788/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/788.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/788.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/788.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/788.png"
+        }
+    ],
+    "gender": {
+        "genderless": -12.5
+    },
+    "genera": "Land Spirit Pok\u00e9mon",
+    "hatchCounter": 15,
+    "height": 1.3,
+    "id": 788,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/788.png",
+    "name": "tapu-fini",
+    "stats": {
+        "attack": 75,
+        "defense": 115,
+        "hp": 70,
+        "specialAttack": 95,
+        "specialDefense": 130,
+        "speed": 85
+    },
+    "type_relations": {
+        "resistantTo": [
+            "dark",
+            "fighting",
+            "water",
+            "bug",
+            "fire",
+            "ice"
+        ],
+        "weakTo": [
+            "poison",
+            "grass",
+            "electric"
+        ]
+    },
+    "types": [
+        "water",
+        "fairy"
+    ],
+    "weight": 21.2
+}

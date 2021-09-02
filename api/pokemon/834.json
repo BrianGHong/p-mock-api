@@ -1,0 +1,107 @@
+{
+    "abilities": {
+        "shell-armor": "A hard shell protects the Pok\u00e9mon from critical hits.",
+        "strong-jaw": "The Pok\u00e9mon\u2019s strong jaw boosts the power of its\nbiting moves.",
+        "swift-swim": "Boosts the Pok\u00e9mon\u2019s Speed stat in rain."
+    },
+    "description": {
+        "game": "sword",
+        "text": "It responded to Gigantamax energy by becoming\nbipedal. First it comes crashing down on foes,\nand then it finishes them off with its massive jaws."
+    },
+    "eggGroups": [],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 22,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "drednaw",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/834/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "chewtle",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/833/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/834.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/834.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/834.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/834.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Bite Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 1.0,
+    "id": 834,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/834.png",
+    "name": "drednaw",
+    "stats": {
+        "attack": 115,
+        "defense": 90,
+        "hp": 90,
+        "specialAttack": 48,
+        "specialDefense": 68,
+        "speed": 74
+    },
+    "type_relations": {
+        "resistantTo": [
+            "normal",
+            "flying",
+            "fire",
+            "ice",
+            "poison"
+        ],
+        "weakTo": [
+            "ground",
+            "fighting",
+            "electric",
+            "grass"
+        ]
+    },
+    "types": [
+        "water",
+        "rock"
+    ],
+    "weight": 115.5
+}

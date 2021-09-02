@@ -1,0 +1,67 @@
+{
+    "abilities": {
+        "drought": "Turns the sunlight harsh when the Pok\u00e9mon enters\na battle."
+    },
+    "description": {
+        "game": "ruby",
+        "text": "GROUDON has long been described in \nmythology as the POK\u00e9MON that raised\nlands and expanded continents.\fThis POK\u00e9MON took to sleep after a\ncataclysmic battle with KYOGRE."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "groudon",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/383/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/383.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/383.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/383.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/383.png"
+        }
+    ],
+    "gender": {
+        "genderless": -12.5
+    },
+    "genera": "Continent Pok\u00e9mon",
+    "hatchCounter": 120,
+    "height": 3.5,
+    "id": 383,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/383.png",
+    "name": "groudon",
+    "stats": {
+        "attack": 150,
+        "defense": 140,
+        "hp": 100,
+        "specialAttack": 100,
+        "specialDefense": 90,
+        "speed": 90
+    },
+    "type_relations": {
+        "resistantTo": [
+            "poison",
+            "rock"
+        ],
+        "weakTo": [
+            "ice",
+            "grass",
+            "water"
+        ]
+    },
+    "types": [
+        "ground"
+    ],
+    "weight": 950.0
+}

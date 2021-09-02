@@ -1,0 +1,67 @@
+{
+    "abilities": {
+        "levitate": "By floating in the air, the Pok\u00e9mon receives full\nimmunity to all Ground-type moves."
+    },
+    "description": {
+        "game": "diamond",
+        "text": "Known as \u201cThe Being of Knowledge.\u201d\nIt is said that it can wipe out the\nmemory of those who see its eyes."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "uxie",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/480/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/480.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/480.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/480.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/480.png"
+        }
+    ],
+    "gender": {
+        "genderless": -12.5
+    },
+    "genera": "Knowledge Pok\u00e9mon",
+    "hatchCounter": 80,
+    "height": 0.3,
+    "id": 480,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/480.png",
+    "name": "uxie",
+    "stats": {
+        "attack": 75,
+        "defense": 130,
+        "hp": 75,
+        "specialAttack": 75,
+        "specialDefense": 130,
+        "speed": 95
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fighting",
+            "psychic"
+        ],
+        "weakTo": [
+            "dark",
+            "bug",
+            "ghost"
+        ]
+    },
+    "types": [
+        "psychic"
+    ],
+    "weight": 0.3
+}

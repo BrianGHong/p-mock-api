@@ -1,0 +1,75 @@
+{
+    "abilities": {
+        "beast-boost": "The Pok\u00e9mon boosts its most proficient stat each\ntime it knocks out a Pok\u00e9mon."
+    },
+    "description": {
+        "game": "ultra-sun",
+        "text": "It slithers toward people. Then, without warning,\nit triggers the explosion of its own head.\nIt\u2019s apparently one kind of Ultra Beast."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "blacephalon",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/806/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/806.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/806.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/806.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/806.png"
+        }
+    ],
+    "gender": {
+        "genderless": -12.5
+    },
+    "genera": "Fireworks Pok\u00e9mon",
+    "hatchCounter": 120,
+    "height": 1.8,
+    "id": 806,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/806.png",
+    "name": "blacephalon",
+    "stats": {
+        "attack": 127,
+        "defense": 53,
+        "hp": 53,
+        "specialAttack": 151,
+        "specialDefense": 79,
+        "speed": 107
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fairy",
+            "poison",
+            "bug",
+            "steel",
+            "fire",
+            "ice",
+            "grass"
+        ],
+        "weakTo": [
+            "dark",
+            "ground",
+            "rock",
+            "ghost",
+            "water"
+        ]
+    },
+    "types": [
+        "fire",
+        "ghost"
+    ],
+    "weight": 13.0
+}

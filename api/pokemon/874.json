@@ -1,0 +1,70 @@
+{
+    "abilities": {
+        "power-spot": "Just being next to the Pok\u00e9mon powers up moves."
+    },
+    "description": {
+        "game": "sword",
+        "text": "It stands in grasslands, watching the sun\u2019s descent\nfrom zenith to horizon. This Pok\u00e9mon has a talent\nfor delivering dynamic kicks."
+    },
+    "eggGroups": [],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "stonjourner",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/874/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/874.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/874.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/874.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/874.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Big Rock Pok\u00e9mon",
+    "hatchCounter": 25,
+    "height": 2.5,
+    "id": 874,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/874.png",
+    "name": "stonjourner",
+    "stats": {
+        "attack": 125,
+        "defense": 135,
+        "hp": 100,
+        "specialAttack": 20,
+        "specialDefense": 20,
+        "speed": 70
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fire",
+            "normal",
+            "poison",
+            "flying"
+        ],
+        "weakTo": [
+            "ground",
+            "fighting",
+            "water",
+            "steel",
+            "grass"
+        ]
+    },
+    "types": [
+        "rock"
+    ],
+    "weight": 520.0
+}

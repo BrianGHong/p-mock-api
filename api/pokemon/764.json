@@ -1,0 +1,70 @@
+{
+    "abilities": {
+        "flower-veil": "Ally Grass-type Pok\u00e9mon are protected from\nstatus conditions and the lowering of their stats.",
+        "natural-cure": "All status conditions heal when the Pok\u00e9mon\nswitches out.",
+        "triage": "Gives priority to a healing move."
+    },
+    "description": {
+        "game": "sun",
+        "text": "It attaches flowers to its highly nutritious vine.\nThis revitalizes the flowers, and they give off\nan aromatic scent."
+    },
+    "eggGroups": [
+        "plant"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "comfey",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/764/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/764.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/764.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/764.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/764.png"
+        }
+    ],
+    "gender": {
+        "female": 75.0,
+        "male": 25.0
+    },
+    "genera": "Posy Picker Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 0.1,
+    "id": 764,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/764.png",
+    "name": "comfey",
+    "stats": {
+        "attack": 52,
+        "defense": 90,
+        "hp": 51,
+        "specialAttack": 82,
+        "specialDefense": 110,
+        "speed": 100
+    },
+    "type_relations": {
+        "resistantTo": [
+            "dark",
+            "fighting",
+            "bug"
+        ],
+        "weakTo": [
+            "poison",
+            "steel"
+        ]
+    },
+    "types": [
+        "fairy"
+    ],
+    "weight": 0.3
+}

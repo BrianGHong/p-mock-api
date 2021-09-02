@@ -1,0 +1,107 @@
+{
+    "abilities": {
+        "mold-breaker": "Moves can be used on the target regardless of\nits Abilities.",
+        "sheer-force": "Removes additional effects to increase the power\nof moves when attacking."
+    },
+    "description": {
+        "game": "diamond",
+        "text": "It lived in jungles around 100\nmillion years ago. Its skull is as\nhard as iron."
+    },
+    "eggGroups": [
+        "monster"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 30,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "rampardos",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/409/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "cranidos",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/408/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/408.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/408.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/408.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/408.png"
+        }
+    ],
+    "gender": {
+        "female": 12.5,
+        "male": 87.5
+    },
+    "genera": "Head Butt Pok\u00e9mon",
+    "hatchCounter": 30,
+    "height": 0.9,
+    "id": 408,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/408.png",
+    "name": "cranidos",
+    "stats": {
+        "attack": 125,
+        "defense": 40,
+        "hp": 67,
+        "specialAttack": 30,
+        "specialDefense": 30,
+        "speed": 58
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fire",
+            "normal",
+            "poison",
+            "flying"
+        ],
+        "weakTo": [
+            "ground",
+            "fighting",
+            "water",
+            "steel",
+            "grass"
+        ]
+    },
+    "types": [
+        "rock"
+    ],
+    "weight": 31.5
+}

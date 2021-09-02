@@ -1,0 +1,67 @@
+{
+    "abilities": {
+        "levitate": "By floating in the air, the Pok\u00e9mon receives full\nimmunity to all Ground-type moves."
+    },
+    "description": {
+        "game": "diamond",
+        "text": "Known as \u201cThe Being of Emotion.\u201d\nIt taught humans the nobility of\nsorrow, pain, and joy."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "mesprit",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/481/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/481.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/481.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/481.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/481.png"
+        }
+    ],
+    "gender": {
+        "genderless": -12.5
+    },
+    "genera": "Emotion Pok\u00e9mon",
+    "hatchCounter": 80,
+    "height": 0.3,
+    "id": 481,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/481.png",
+    "name": "mesprit",
+    "stats": {
+        "attack": 105,
+        "defense": 105,
+        "hp": 80,
+        "specialAttack": 105,
+        "specialDefense": 105,
+        "speed": 80
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fighting",
+            "psychic"
+        ],
+        "weakTo": [
+            "dark",
+            "bug",
+            "ghost"
+        ]
+    },
+    "types": [
+        "psychic"
+    ],
+    "weight": 0.3
+}

@@ -1,0 +1,64 @@
+{
+    "abilities": {
+        "color-change": "The Pok\u00e9mon\u2019s type becomes the type of the move\nused on it.",
+        "protean": "Changes the Pok\u00e9mon\u2019s type to the type of the\nmove it\u2019s about to use."
+    },
+    "description": {
+        "game": "ruby",
+        "text": "KECLEON is capable of changing its body\ncolors at will to blend in with its\nsurroundings.\fThere is one exception - this POK\u00e9MON\ncan\u2019t change the zigzag pattern on its\nbelly."
+    },
+    "eggGroups": [
+        "ground"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "kecleon",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/352/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/352.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/352.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/352.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/352.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Color Swap Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 1.0,
+    "id": 352,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/352.png",
+    "name": "kecleon",
+    "stats": {
+        "attack": 90,
+        "defense": 70,
+        "hp": 60,
+        "specialAttack": 60,
+        "specialDefense": 120,
+        "speed": 40
+    },
+    "type_relations": {
+        "resistantTo": [],
+        "weakTo": [
+            "fighting"
+        ]
+    },
+    "types": [
+        "normal"
+    ],
+    "weight": 22.0
+}

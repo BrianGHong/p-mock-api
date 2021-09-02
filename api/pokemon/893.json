@@ -1,0 +1,74 @@
+{
+    "abilities": {
+        "leaf-guard": "Prevents status conditions in harsh sunlight."
+    },
+    "description": {
+        "game": "sword",
+        "text": "This Zarude left its pack to raise a human child.\nThe cloth Zarude would wrap the child with has a\ncomforting scent that calmed the child\u2019s crying."
+    },
+    "eggGroups": [],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "zarude",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/893/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/893.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/893.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/893.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/893.png"
+        }
+    ],
+    "gender": {
+        "genderless": -12.5
+    },
+    "genera": "Rogue Monkey Pok\u00e9mon",
+    "hatchCounter": 120,
+    "height": 1.8,
+    "id": 893,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/893.png",
+    "name": "zarude",
+    "stats": {
+        "attack": 120,
+        "defense": 105,
+        "hp": 105,
+        "specialAttack": 70,
+        "specialDefense": 95,
+        "speed": 105
+    },
+    "type_relations": {
+        "resistantTo": [
+            "dark",
+            "ground",
+            "electric",
+            "ghost",
+            "water",
+            "grass"
+        ],
+        "weakTo": [
+            "fighting",
+            "flying",
+            "fairy",
+            "bug",
+            "fire",
+            "ice",
+            "poison"
+        ]
+    },
+    "types": [
+        "dark",
+        "grass"
+    ],
+    "weight": 70.0
+}

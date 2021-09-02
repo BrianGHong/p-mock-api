@@ -1,0 +1,99 @@
+{
+    "abilities": {
+        "honey-gather": "The Pok\u00e9mon may gather Honey after a battle.",
+        "pickup": "The Pok\u00e9mon may pick up the item an opposing\nPok\u00e9mon used during a battle. It may pick up items\noutside of battle, too.",
+        "quick-feet": "Boosts the Speed stat if the Pok\u00e9mon has a\nstatus condition."
+    },
+    "description": {
+        "game": "gold",
+        "text": "If it finds honey,\nits crescent mark\nglows. It always\flicks its paws\nbecause they are\nsoaked with honey."
+    },
+    "eggGroups": [
+        "ground"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 30,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "ursaring",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/217/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "teddiursa",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/216/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/216.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/216.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/216.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/216.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Little Bear Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 0.6,
+    "id": 216,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/216.png",
+    "name": "teddiursa",
+    "stats": {
+        "attack": 80,
+        "defense": 50,
+        "hp": 60,
+        "specialAttack": 50,
+        "specialDefense": 50,
+        "speed": 40
+    },
+    "type_relations": {
+        "resistantTo": [],
+        "weakTo": [
+            "fighting"
+        ]
+    },
+    "types": [
+        "normal"
+    ],
+    "weight": 8.8
+}

@@ -1,0 +1,72 @@
+{
+    "abilities": {
+        "pressure": "By putting pressure on the opposing Pok\u00e9mon, it\nraises their PP usage.",
+        "static": "The Pok\u00e9mon is charged with static electricity, so\ncontact with it may cause paralysis."
+    },
+    "description": {
+        "game": "red",
+        "text": "A legendary bird\nPOK\u00e9MON that is\nsaid to appear\ffrom clouds while\ndropping enormous\nlightning bolts."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "zapdos",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/145/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/145.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/145.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/145.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/145.png"
+        }
+    ],
+    "gender": {
+        "genderless": -12.5
+    },
+    "genera": "Electric Pok\u00e9mon",
+    "hatchCounter": 80,
+    "height": 1.6,
+    "id": 145,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/145.png",
+    "name": "zapdos",
+    "stats": {
+        "attack": 90,
+        "defense": 85,
+        "hp": 90,
+        "specialAttack": 125,
+        "specialDefense": 90,
+        "speed": 100
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fighting",
+            "flying",
+            "bug",
+            "steel",
+            "grass"
+        ],
+        "weakTo": [
+            "ice",
+            "ground",
+            "rock"
+        ]
+    },
+    "types": [
+        "electric",
+        "flying"
+    ],
+    "weight": 52.6
+}

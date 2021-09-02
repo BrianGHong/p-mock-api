@@ -1,0 +1,71 @@
+{
+    "abilities": {
+        "levitate": "By floating in the air, the Pok\u00e9mon receives full\nimmunity to all Ground-type moves."
+    },
+    "description": {
+        "game": "diamond",
+        "text": "Its body is composed of plasma. It\nis known to infiltrate electronic\ndevices and wreak havoc."
+    },
+    "eggGroups": [
+        "indeterminate"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "rotom",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/479/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/479.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/479.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/479.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/479.png"
+        }
+    ],
+    "gender": {
+        "genderless": -12.5
+    },
+    "genera": "Plasma Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 0.3,
+    "id": 479,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/479.png",
+    "name": "rotom",
+    "stats": {
+        "attack": 50,
+        "defense": 77,
+        "hp": 50,
+        "specialAttack": 95,
+        "specialDefense": 77,
+        "speed": 91
+    },
+    "type_relations": {
+        "resistantTo": [
+            "flying",
+            "electric",
+            "bug",
+            "steel",
+            "poison"
+        ],
+        "weakTo": [
+            "dark",
+            "ground",
+            "ghost"
+        ]
+    },
+    "types": [
+        "electric",
+        "ghost"
+    ],
+    "weight": 0.3
+}

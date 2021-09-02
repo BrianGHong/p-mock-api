@@ -1,0 +1,68 @@
+{
+    "abilities": {
+        "sand-rush": "Boosts the Pok\u00e9mon\u2019s Speed stat in a sandstorm.",
+        "strong-jaw": "The Pok\u00e9mon\u2019s strong jaw boosts the power of its\nbiting moves.",
+        "water-absorb": "Restores HP if hit by a Water-type move, instead of\ntaking damage."
+    },
+    "description": {
+        "game": "sword",
+        "text": "Powerful legs and jaws made it the apex predator\nof its time. Its own overhunting of its prey was\nwhat drove it to extinction."
+    },
+    "eggGroups": [],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "dracovish",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/882/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/882.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/882.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/882.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/882.png"
+        }
+    ],
+    "gender": {
+        "genderless": -12.5
+    },
+    "genera": "Fossil Pok\u00e9mon",
+    "hatchCounter": 35,
+    "height": 2.3,
+    "id": 882,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/882.png",
+    "name": "dracovish",
+    "stats": {
+        "attack": 90,
+        "defense": 100,
+        "hp": 90,
+        "specialAttack": 70,
+        "specialDefense": 80,
+        "speed": 75
+    },
+    "type_relations": {
+        "resistantTo": [
+            "water",
+            "steel",
+            "fire"
+        ],
+        "weakTo": [
+            "fairy",
+            "dragon"
+        ]
+    },
+    "types": [
+        "water",
+        "dragon"
+    ],
+    "weight": 215.0
+}

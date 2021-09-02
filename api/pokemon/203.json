@@ -1,0 +1,82 @@
+{
+    "abilities": {
+        "early-bird": "The Pok\u00e9mon awakens twice as fast as other\nPok\u00e9mon from sleep.",
+        "inner-focus": "The Pok\u00e9mon\u2019s intensely focused, and that protects\nthe Pok\u00e9mon from flinching.",
+        "sap-sipper": "Boosts the Attack stat if hit by a Grass-type move,\ninstead of taking damage."
+    },
+    "description": {
+        "game": "gold",
+        "text": "Its tail has a\nsmall brain of its\nown. Beware! If\fyou get close, it\nmay react to your\nscent and bite."
+    },
+    "eggGroups": [
+        "ground"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "girafarig",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/203/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/203.png"
+        },
+        {
+            "back_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/203.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/203.png"
+        },
+        {
+            "back_shiny_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/203.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/203.png"
+        },
+        {
+            "front_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/203.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/203.png"
+        },
+        {
+            "front_shiny_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/203.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Long Neck Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 1.5,
+    "id": 203,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/203.png",
+    "name": "girafarig",
+    "stats": {
+        "attack": 80,
+        "defense": 65,
+        "hp": 70,
+        "specialAttack": 90,
+        "specialDefense": 65,
+        "speed": 85
+    },
+    "type_relations": {
+        "resistantTo": [
+            "psychic"
+        ],
+        "weakTo": [
+            "dark",
+            "bug",
+            "ghost"
+        ]
+    },
+    "types": [
+        "normal",
+        "psychic"
+    ],
+    "weight": 41.5
+}

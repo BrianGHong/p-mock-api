@@ -1,0 +1,108 @@
+{
+    "abilities": {
+        "early-bird": "The Pok\u00e9mon awakens twice as fast as other\nPok\u00e9mon from sleep.",
+        "magic-bounce": "Reflects status moves, instead of getting hit\nby them.",
+        "synchronize": "The attacker will receive the same status condition if\nit inflicts a burn, poison, or paralysis to the Pok\u00e9mon."
+    },
+    "description": {
+        "game": "gold",
+        "text": "Because its wings\naren't yet fully\ngrown, it has to\fhop to get around.\nIt is always star\u00ad\ning at something."
+    },
+    "eggGroups": [
+        "flying"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 25,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "xatu",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/178/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "natu",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/177/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/177.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/177.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/177.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/177.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Tiny Bird Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 0.2,
+    "id": 177,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/177.png",
+    "name": "natu",
+    "stats": {
+        "attack": 50,
+        "defense": 45,
+        "hp": 40,
+        "specialAttack": 70,
+        "specialDefense": 45,
+        "speed": 70
+    },
+    "type_relations": {
+        "resistantTo": [
+            "grass",
+            "fighting",
+            "psychic"
+        ],
+        "weakTo": [
+            "dark",
+            "rock",
+            "electric",
+            "ghost",
+            "ice"
+        ]
+    },
+    "types": [
+        "psychic",
+        "flying"
+    ],
+    "weight": 2.0
+}

@@ -1,0 +1,72 @@
+{
+    "abilities": {
+        "inner-focus": "The Pok\u00e9mon\u2019s intensely focused, and that protects\nthe Pok\u00e9mon from flinching.",
+        "pressure": "By putting pressure on the opposing Pok\u00e9mon, it\nraises their PP usage."
+    },
+    "description": {
+        "game": "gold",
+        "text": "Volcanoes erupt\nwhen it barks. Un\u00ad\nable to restrain\fits extreme power,\nit races headlong\naround the land."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "entei",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/244/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/244.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/244.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/244.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/244.png"
+        }
+    ],
+    "gender": {
+        "genderless": -12.5
+    },
+    "genera": "Volcano Pok\u00e9mon",
+    "hatchCounter": 80,
+    "height": 2.1,
+    "id": 244,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/244.png",
+    "name": "entei",
+    "stats": {
+        "attack": 115,
+        "defense": 85,
+        "hp": 115,
+        "specialAttack": 90,
+        "specialDefense": 75,
+        "speed": 100
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fairy",
+            "bug",
+            "steel",
+            "fire",
+            "ice",
+            "grass"
+        ],
+        "weakTo": [
+            "ground",
+            "rock",
+            "water"
+        ]
+    },
+    "types": [
+        "fire"
+    ],
+    "weight": 198.0
+}

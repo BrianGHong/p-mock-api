@@ -1,0 +1,75 @@
+{
+    "abilities": {
+        "beast-boost": "The Pok\u00e9mon boosts its most proficient stat each\ntime it knocks out a Pok\u00e9mon."
+    },
+    "description": {
+        "game": "ultra-sun",
+        "text": "It appeared from an Ultra Wormhole. Each one\nappears to be made up of many life-forms\nstacked one on top of each other."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "stakataka",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/805/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/805.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/805.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/805.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/805.png"
+        }
+    ],
+    "gender": {
+        "genderless": -12.5
+    },
+    "genera": "Rampart Pok\u00e9mon",
+    "hatchCounter": 120,
+    "height": 5.5,
+    "id": 805,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/805.png",
+    "name": "stakataka",
+    "stats": {
+        "attack": 131,
+        "defense": 211,
+        "hp": 61,
+        "specialAttack": 53,
+        "specialDefense": 101,
+        "speed": 13
+    },
+    "type_relations": {
+        "resistantTo": [
+            "normal",
+            "flying",
+            "fairy",
+            "rock",
+            "dragon",
+            "bug",
+            "ice",
+            "poison",
+            "psychic"
+        ],
+        "weakTo": [
+            "ground",
+            "fighting",
+            "water"
+        ]
+    },
+    "types": [
+        "rock",
+        "steel"
+    ],
+    "weight": 820.0
+}

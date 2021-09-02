@@ -1,0 +1,68 @@
+{
+    "abilities": {
+        "guts": "It\u2019s so gutsy that having a status condition boosts\nthe Pok\u00e9mon\u2019s Attack stat.",
+        "inner-focus": "The Pok\u00e9mon\u2019s intensely focused, and that protects\nthe Pok\u00e9mon from flinching.",
+        "mold-breaker": "Moves can be used on the target regardless of\nits Abilities."
+    },
+    "description": {
+        "game": "black",
+        "text": "When it tightens its belt, it becomes\nstronger. Wild Throh use vines to weave\ntheir own belts."
+    },
+    "eggGroups": [
+        "humanshape"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "throh",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/538/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/538.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/538.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/538.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/538.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Judo Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 1.3,
+    "id": 538,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/538.png",
+    "name": "throh",
+    "stats": {
+        "attack": 100,
+        "defense": 85,
+        "hp": 120,
+        "specialAttack": 30,
+        "specialDefense": 85,
+        "speed": 45
+    },
+    "type_relations": {
+        "resistantTo": [
+            "dark",
+            "rock",
+            "bug"
+        ],
+        "weakTo": [
+            "fairy",
+            "psychic",
+            "flying"
+        ]
+    },
+    "types": [
+        "fighting"
+    ],
+    "weight": 55.5
+}

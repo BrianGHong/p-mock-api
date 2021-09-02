@@ -1,0 +1,98 @@
+{
+    "abilities": {
+        "ice-body": "The Pok\u00e9mon gradually regains HP in a hailstorm.",
+        "own-tempo": "This Pok\u00e9mon has its own tempo, and that prevents\nit from becoming confused.",
+        "sturdy": "It cannot be knocked out with one hit. One-hit KO\nmoves cannot knock it out, either."
+    },
+    "description": {
+        "game": "x",
+        "text": "Its ice-covered body is as hard as steel.\nIts cumbersome frame crushes anything that\nstands in its way."
+    },
+    "eggGroups": [
+        "monster"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 37,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "avalugg",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/713/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "bergmite",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/712/"
+        }
+    },
+    "forms": [
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/713.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/713.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Iceberg Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 2.0,
+    "id": 713,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/713.png",
+    "name": "avalugg",
+    "stats": {
+        "attack": 117,
+        "defense": 184,
+        "hp": 95,
+        "specialAttack": 44,
+        "specialDefense": 46,
+        "speed": 28
+    },
+    "type_relations": {
+        "resistantTo": [
+            "ice"
+        ],
+        "weakTo": [
+            "fire",
+            "rock",
+            "fighting",
+            "steel"
+        ]
+    },
+    "types": [
+        "ice"
+    ],
+    "weight": 505.0
+}

@@ -1,0 +1,65 @@
+{
+    "abilities": {
+        "chilling-neigh": "When the Pok\u00e9mon knocks out a target, it utters a chilling neigh, which boosts its Attack stat."
+    },
+    "description": {
+        "game": "sword",
+        "text": "Glastrier emits intense cold from its hooves. It's also a belligerent Pok\u00e9mon\u2014anything it wants, it takes by force."
+    },
+    "eggGroups": [],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "glastrier",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/896/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/896.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/896.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/896.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/896.png"
+        }
+    ],
+    "gender": {
+        "genderless": -12.5
+    },
+    "genera": "Wild Horse Pok\u00e9mon",
+    "hatchCounter": 120,
+    "height": 2.2,
+    "id": 896,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/896.png",
+    "name": "glastrier",
+    "stats": {
+        "attack": 145,
+        "defense": 130,
+        "hp": 100,
+        "specialAttack": 65,
+        "specialDefense": 110,
+        "speed": 30
+    },
+    "type_relations": {
+        "resistantTo": [
+            "ice"
+        ],
+        "weakTo": [
+            "fire",
+            "rock",
+            "fighting",
+            "steel"
+        ]
+    },
+    "types": [
+        "ice"
+    ],
+    "weight": 800.0
+}

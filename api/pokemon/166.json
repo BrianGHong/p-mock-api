@@ -1,0 +1,121 @@
+{
+    "abilities": {
+        "early-bird": "The Pok\u00e9mon awakens twice as fast as other\nPok\u00e9mon from sleep.",
+        "iron-fist": "Powers up punching moves.",
+        "swarm": "Powers up Bug-type moves when the Pok\u00e9mon\u2019s HP\nis low."
+    },
+    "description": {
+        "game": "gold",
+        "text": "When the stars\nflicker in the\nnight sky, it\fflutters about,\nscattering a\nglowing powder."
+    },
+    "eggGroups": [
+        "bug"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 18,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "ledian",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/166/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "ledyba",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/165/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/166.png"
+        },
+        {
+            "back_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/166.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/166.png"
+        },
+        {
+            "back_shiny_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/166.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/166.png"
+        },
+        {
+            "front_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/166.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/166.png"
+        },
+        {
+            "front_shiny_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/166.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Five Star Pok\u00e9mon",
+    "hatchCounter": 15,
+    "height": 1.4,
+    "id": 166,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/166.png",
+    "name": "ledian",
+    "stats": {
+        "attack": 35,
+        "defense": 50,
+        "hp": 55,
+        "specialAttack": 55,
+        "specialDefense": 110,
+        "speed": 85
+    },
+    "type_relations": {
+        "resistantTo": [
+            "ground",
+            "fighting",
+            "bug",
+            "grass"
+        ],
+        "weakTo": [
+            "flying",
+            "rock",
+            "electric",
+            "fire",
+            "ice"
+        ]
+    },
+    "types": [
+        "bug",
+        "flying"
+    ],
+    "weight": 35.6
+}

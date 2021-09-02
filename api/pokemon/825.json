@@ -1,0 +1,142 @@
+{
+    "abilities": {
+        "compound-eyes": "The Pok\u00e9mon\u2019s compound eyes boost its accuracy.",
+        "swarm": "Powers up Bug-type moves when the Pok\u00e9mon\u2019s HP\nis low.",
+        "telepathy": "Anticipates an ally\u2019s attack and dodges it."
+    },
+    "description": {
+        "game": "sword",
+        "text": "It barely moves, but it\u2019s still alive. Hiding in its\nshell without food or water seems to have\nawakened its psychic powers."
+    },
+    "eggGroups": [],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 10,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [
+                    {
+                        "evolution_details": [
+                            {
+                                "gender": null,
+                                "held_item": null,
+                                "item": null,
+                                "known_move": null,
+                                "known_move_type": null,
+                                "location": null,
+                                "min_affection": null,
+                                "min_beauty": null,
+                                "min_happiness": null,
+                                "min_level": 30,
+                                "needs_overworld_rain": false,
+                                "party_species": null,
+                                "party_type": null,
+                                "relative_physical_stats": null,
+                                "time_of_day": "",
+                                "trade_species": null,
+                                "trigger": {
+                                    "name": "level-up",
+                                    "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                                },
+                                "turn_upside_down": false
+                            }
+                        ],
+                        "evolves_to": [],
+                        "is_baby": false,
+                        "species": {
+                            "name": "orbeetle",
+                            "url": "https://pokeapi.co/api/v2/pokemon-species/826/"
+                        }
+                    }
+                ],
+                "is_baby": false,
+                "species": {
+                    "name": "dottler",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/825/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "blipbug",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/824/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/825.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/825.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/825.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/825.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Radome Pok\u00e9mon",
+    "hatchCounter": 15,
+    "height": 0.4,
+    "id": 825,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/825.png",
+    "name": "dottler",
+    "stats": {
+        "attack": 35,
+        "defense": 80,
+        "hp": 50,
+        "specialAttack": 50,
+        "specialDefense": 90,
+        "speed": 30
+    },
+    "type_relations": {
+        "resistantTo": [
+            "psychic",
+            "ground",
+            "fighting",
+            "grass"
+        ],
+        "weakTo": [
+            "dark",
+            "flying",
+            "rock",
+            "ghost",
+            "bug",
+            "fire"
+        ]
+    },
+    "types": [
+        "bug",
+        "psychic"
+    ],
+    "weight": 19.5
+}

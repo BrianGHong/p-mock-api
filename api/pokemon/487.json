@@ -1,0 +1,73 @@
+{
+    "abilities": {
+        "pressure": "By putting pressure on the opposing Pok\u00e9mon, it\nraises their PP usage.",
+        "telepathy": "Anticipates an ally\u2019s attack and dodges it."
+    },
+    "description": {
+        "game": "diamond",
+        "text": "A Pok\u00e9mon that is said to live in a\nworld on the reverse side of ours.\nIt appears in an ancient cemetery."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "giratina",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/487/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/487.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/487.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/487.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/487.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Renegade Pok\u00e9mon",
+    "hatchCounter": 120,
+    "height": 4.5,
+    "id": 487,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/487.png",
+    "name": "giratina-altered",
+    "stats": {
+        "attack": 100,
+        "defense": 120,
+        "hp": 150,
+        "specialAttack": 100,
+        "specialDefense": 120,
+        "speed": 90
+    },
+    "type_relations": {
+        "resistantTo": [
+            "grass",
+            "electric",
+            "water",
+            "bug",
+            "fire",
+            "poison"
+        ],
+        "weakTo": [
+            "dark",
+            "fairy",
+            "ghost",
+            "dragon",
+            "ice"
+        ]
+    },
+    "types": [
+        "ghost",
+        "dragon"
+    ],
+    "weight": 750.0
+}

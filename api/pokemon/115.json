@@ -1,0 +1,62 @@
+{
+    "abilities": {
+        "early-bird": "The Pok\u00e9mon awakens twice as fast as other\nPok\u00e9mon from sleep.",
+        "inner-focus": "The Pok\u00e9mon\u2019s intensely focused, and that protects\nthe Pok\u00e9mon from flinching.",
+        "scrappy": "The Pok\u00e9mon can hit Ghost-type Pok\u00e9mon with\nNormal- and Fighting-type moves."
+    },
+    "description": {
+        "game": "blue",
+        "text": "The infant rarely\nventures out of\nits mother's\fprotective pouch\nuntil it is 3\nyears old."
+    },
+    "eggGroups": [
+        "monster"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "kangaskhan",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/115/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/115.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/115.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/115.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/115.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Parent Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 2.2,
+    "id": 115,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png",
+    "name": "kangaskhan",
+    "stats": {
+        "attack": 95,
+        "defense": 80,
+        "hp": 105,
+        "specialAttack": 40,
+        "specialDefense": 80,
+        "speed": 90
+    },
+    "type_relations": {
+        "resistantTo": [],
+        "weakTo": [
+            "fighting"
+        ]
+    },
+    "types": [
+        "normal"
+    ],
+    "weight": 80.0
+}

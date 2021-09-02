@@ -1,0 +1,70 @@
+{
+    "abilities": {
+        "slush-rush": "Boosts the Pok\u00e9mon\u2019s Speed stat in a hailstorm.",
+        "static": "The Pok\u00e9mon is charged with static electricity, so\ncontact with it may cause paralysis.",
+        "volt-absorb": "Restores HP if hit by an Electric-type move, instead\nof taking damage."
+    },
+    "description": {
+        "game": "sword",
+        "text": "The shaking of its freezing upper half is what\ngenerates its electricity. It has a hard time\nwalking around."
+    },
+    "eggGroups": [],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "arctozolt",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/881/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/881.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/881.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/881.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/881.png"
+        }
+    ],
+    "gender": {
+        "genderless": -12.5
+    },
+    "genera": "Fossil Pok\u00e9mon",
+    "hatchCounter": 35,
+    "height": 2.3,
+    "id": 881,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/881.png",
+    "name": "arctozolt",
+    "stats": {
+        "attack": 100,
+        "defense": 90,
+        "hp": 90,
+        "specialAttack": 90,
+        "specialDefense": 80,
+        "speed": 55
+    },
+    "type_relations": {
+        "resistantTo": [
+            "ice",
+            "electric",
+            "flying"
+        ],
+        "weakTo": [
+            "ground",
+            "fighting",
+            "rock",
+            "fire"
+        ]
+    },
+    "types": [
+        "electric",
+        "ice"
+    ],
+    "weight": 150.0
+}

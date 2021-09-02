@@ -1,0 +1,79 @@
+{
+    "abilities": {
+        "hydration": "Heals status conditions if it\u2019s raining."
+    },
+    "description": {
+        "game": "diamond",
+        "text": "Born on a cold seafloor, it\nwill swim great distances to\nreturn to its birthplace."
+    },
+    "eggGroups": [
+        "water1",
+        "fairy"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "manaphy",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/490/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "phione",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/489/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/490.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/490.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/490.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/490.png"
+        }
+    ],
+    "gender": {
+        "genderless": -12.5
+    },
+    "genera": "Seafaring Pok\u00e9mon",
+    "hatchCounter": 10,
+    "height": 0.3,
+    "id": 490,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/490.png",
+    "name": "manaphy",
+    "stats": {
+        "attack": 100,
+        "defense": 100,
+        "hp": 100,
+        "specialAttack": 100,
+        "specialDefense": 100,
+        "speed": 100
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fire",
+            "ice",
+            "water",
+            "steel"
+        ],
+        "weakTo": [
+            "grass",
+            "electric"
+        ]
+    },
+    "types": [
+        "water"
+    ],
+    "weight": 1.4
+}

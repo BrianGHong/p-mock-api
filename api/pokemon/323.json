@@ -1,0 +1,119 @@
+{
+    "abilities": {
+        "anger-point": "The Pok\u00e9mon is angered when it takes a critical hit,\nand that maxes its Attack stat.",
+        "magma-armor": "The Pok\u00e9mon is covered with hot magma, which\nprevents the Pok\u00e9mon from becoming frozen.",
+        "solid-rock": "Reduces the power of supereffective attacks taken."
+    },
+    "description": {
+        "game": "ruby",
+        "text": "CAMERUPT has a volcano inside its body.\nMagma of 18,000 degrees F courses\nthrough its body.\fOccasionally, the humps on this\nPOK\u00e9MON\u2019s back erupt, spewing the\nsuperheated magma."
+    },
+    "eggGroups": [
+        "ground"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 33,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "camerupt",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/323/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "numel",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/322/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/323.png"
+        },
+        {
+            "back_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/323.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/323.png"
+        },
+        {
+            "back_shiny_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/323.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/323.png"
+        },
+        {
+            "front_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/323.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/323.png"
+        },
+        {
+            "front_shiny_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/323.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Eruption Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 1.9,
+    "id": 323,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/323.png",
+    "name": "camerupt",
+    "stats": {
+        "attack": 100,
+        "defense": 70,
+        "hp": 70,
+        "specialAttack": 105,
+        "specialDefense": 75,
+        "speed": 40
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fairy",
+            "poison",
+            "bug",
+            "steel",
+            "fire"
+        ],
+        "weakTo": [
+            "ground",
+            "water"
+        ]
+    },
+    "types": [
+        "fire",
+        "ground"
+    ],
+    "weight": 220.0
+}

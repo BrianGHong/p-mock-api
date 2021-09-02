@@ -1,0 +1,72 @@
+{
+    "abilities": {
+        "infiltrator": "Passes through the opposing Pok\u00e9mon\u2019s barrier,\nsubstitute, and the like and strikes.",
+        "shed-skin": "The Pok\u00e9mon may heal its own status conditions\nby shedding its skin."
+    },
+    "description": {
+        "game": "ruby",
+        "text": "SEVIPER shares a generations-long\nfeud with ZANGOOSE. The scars on its\nbody are evidence of vicious battles.\fThis POK\u00e9MON attacks using its sword-\nedged tail."
+    },
+    "eggGroups": [
+        "ground",
+        "dragon"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "seviper",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/336/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/336.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/336.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/336.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/336.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Fang Snake Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 2.7,
+    "id": 336,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/336.png",
+    "name": "seviper",
+    "stats": {
+        "attack": 100,
+        "defense": 60,
+        "hp": 73,
+        "specialAttack": 100,
+        "specialDefense": 60,
+        "speed": 65
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fighting",
+            "fairy",
+            "grass",
+            "bug",
+            "poison"
+        ],
+        "weakTo": [
+            "ground",
+            "psychic"
+        ]
+    },
+    "types": [
+        "poison"
+    ],
+    "weight": 52.5
+}

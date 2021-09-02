@@ -1,0 +1,134 @@
+{
+    "abilities": {
+        "gooey": "Contact with the Pok\u00e9mon lowers the attacker\u2019s\nSpeed stat.",
+        "hydration": "Heals status conditions if it\u2019s raining.",
+        "sap-sipper": "Boosts the Attack stat if hit by a Grass-type move,\ninstead of taking damage."
+    },
+    "description": {
+        "game": "x",
+        "text": "This very friendly Dragon-type Pok\u00e9mon\nwill hug its beloved Trainer, leaving\nthat Trainer covered in sticky slime."
+    },
+    "eggGroups": [
+        "dragon"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 40,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [
+                    {
+                        "evolution_details": [
+                            {
+                                "gender": null,
+                                "held_item": null,
+                                "item": null,
+                                "known_move": null,
+                                "known_move_type": null,
+                                "location": null,
+                                "min_affection": null,
+                                "min_beauty": null,
+                                "min_happiness": null,
+                                "min_level": 50,
+                                "needs_overworld_rain": true,
+                                "party_species": null,
+                                "party_type": null,
+                                "relative_physical_stats": null,
+                                "time_of_day": "",
+                                "trade_species": null,
+                                "trigger": {
+                                    "name": "level-up",
+                                    "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                                },
+                                "turn_upside_down": false
+                            }
+                        ],
+                        "evolves_to": [],
+                        "is_baby": false,
+                        "species": {
+                            "name": "goodra",
+                            "url": "https://pokeapi.co/api/v2/pokemon-species/706/"
+                        }
+                    }
+                ],
+                "is_baby": false,
+                "species": {
+                    "name": "sliggoo",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/705/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "goomy",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/704/"
+        }
+    },
+    "forms": [
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/706.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/706.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Dragon Pok\u00e9mon",
+    "hatchCounter": 40,
+    "height": 2.0,
+    "id": 706,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/706.png",
+    "name": "goodra",
+    "stats": {
+        "attack": 100,
+        "defense": 70,
+        "hp": 90,
+        "specialAttack": 110,
+        "specialDefense": 150,
+        "speed": 80
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fire",
+            "grass",
+            "electric",
+            "water"
+        ],
+        "weakTo": [
+            "ice",
+            "dragon",
+            "fairy"
+        ]
+    },
+    "types": [
+        "dragon"
+    ],
+    "weight": 150.5
+}

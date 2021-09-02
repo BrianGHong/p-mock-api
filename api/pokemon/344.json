@@ -1,0 +1,107 @@
+{
+    "abilities": {
+        "levitate": "By floating in the air, the Pok\u00e9mon receives full\nimmunity to all Ground-type moves."
+    },
+    "description": {
+        "game": "ruby",
+        "text": "CLAYDOL are said to be dolls of mud made\nby primitive humans and brought to life\nby exposure to a mysterious ray.\fThis POK\u00e9MON moves about while\nlevitating."
+    },
+    "eggGroups": [
+        "mineral"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 36,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "claydol",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/344/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "baltoy",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/343/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/344.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/344.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/344.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/344.png"
+        }
+    ],
+    "gender": {
+        "genderless": -12.5
+    },
+    "genera": "Clay Doll Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 1.5,
+    "id": 344,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/344.png",
+    "name": "claydol",
+    "stats": {
+        "attack": 70,
+        "defense": 105,
+        "hp": 60,
+        "specialAttack": 70,
+        "specialDefense": 120,
+        "speed": 75
+    },
+    "type_relations": {
+        "resistantTo": [
+            "poison",
+            "rock",
+            "fighting",
+            "psychic"
+        ],
+        "weakTo": [
+            "dark",
+            "ghost",
+            "bug",
+            "water",
+            "ice",
+            "grass"
+        ]
+    },
+    "types": [
+        "ground",
+        "psychic"
+    ],
+    "weight": 108.0
+}

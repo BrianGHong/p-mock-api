@@ -1,0 +1,111 @@
+{
+    "abilities": {
+        "soundproof": "Soundproofing of the Pok\u00e9mon itself gives full \nimmunity to all sound-based moves.",
+        "sturdy": "It cannot be knocked out with one hit. One-hit KO\nmoves cannot knock it out, either."
+    },
+    "description": {
+        "game": "diamond",
+        "text": "Any frontal attack is repulsed.\nIt is a docile Pok\u00e9mon that\nfeeds on grass and berries."
+    },
+    "eggGroups": [
+        "monster"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 30,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "bastiodon",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/411/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "shieldon",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/410/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/411.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/411.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/411.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/411.png"
+        }
+    ],
+    "gender": {
+        "female": 12.5,
+        "male": 87.5
+    },
+    "genera": "Shield Pok\u00e9mon",
+    "hatchCounter": 30,
+    "height": 1.3,
+    "id": 411,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/411.png",
+    "name": "bastiodon",
+    "stats": {
+        "attack": 52,
+        "defense": 168,
+        "hp": 60,
+        "specialAttack": 47,
+        "specialDefense": 138,
+        "speed": 30
+    },
+    "type_relations": {
+        "resistantTo": [
+            "normal",
+            "flying",
+            "fairy",
+            "rock",
+            "dragon",
+            "bug",
+            "ice",
+            "poison",
+            "psychic"
+        ],
+        "weakTo": [
+            "ground",
+            "fighting",
+            "water"
+        ]
+    },
+    "types": [
+        "rock",
+        "steel"
+    ],
+    "weight": 149.5
+}

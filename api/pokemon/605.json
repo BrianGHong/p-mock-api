@@ -1,0 +1,104 @@
+{
+    "abilities": {
+        "analytic": "Boosts move power when the Pok\u00e9mon moves last.",
+        "synchronize": "The attacker will receive the same status condition if\nit inflicts a burn, poison, or paralysis to the Pok\u00e9mon.",
+        "telepathy": "Anticipates an ally\u2019s attack and dodges it."
+    },
+    "description": {
+        "game": "black",
+        "text": "It uses its strong psychic power\nto squeeze its opponent\u2019s brain,\ncausing unendurable headaches."
+    },
+    "eggGroups": [
+        "humanshape"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 42,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "beheeyem",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/606/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "elgyem",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/605/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/605.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/605.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/605.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/605.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Cerebral Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 0.5,
+    "id": 605,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/605.png",
+    "name": "elgyem",
+    "stats": {
+        "attack": 55,
+        "defense": 55,
+        "hp": 55,
+        "specialAttack": 85,
+        "specialDefense": 55,
+        "speed": 30
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fighting",
+            "psychic"
+        ],
+        "weakTo": [
+            "dark",
+            "bug",
+            "ghost"
+        ]
+    },
+    "types": [
+        "psychic"
+    ],
+    "weight": 9.0
+}

@@ -1,0 +1,66 @@
+{
+    "abilities": {
+        "clear-body": "Prevents other Pok\u00e9mon\u2019s moves or Abilities from\nlowering the Pok\u00e9mon\u2019s stats."
+    },
+    "description": {
+        "game": "x",
+        "text": "A sudden transformation of Carbink,\nits pink, glimmering body is said to be\nthe loveliest sight in the whole world."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "diancie",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/719/"
+        }
+    },
+    "forms": [
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/719.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/719.png"
+        }
+    ],
+    "gender": {
+        "genderless": -12.5
+    },
+    "genera": "Jewel Pok\u00e9mon",
+    "hatchCounter": 25,
+    "height": 0.7,
+    "id": 719,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/719.png",
+    "name": "diancie",
+    "stats": {
+        "attack": 100,
+        "defense": 150,
+        "hp": 50,
+        "specialAttack": 100,
+        "specialDefense": 150,
+        "speed": 50
+    },
+    "type_relations": {
+        "resistantTo": [
+            "dark",
+            "normal",
+            "flying",
+            "bug",
+            "fire"
+        ],
+        "weakTo": [
+            "ground",
+            "water",
+            "steel",
+            "grass"
+        ]
+    },
+    "types": [
+        "rock",
+        "fairy"
+    ],
+    "weight": 8.8
+}

@@ -1,0 +1,74 @@
+{
+    "abilities": {
+        "flame-body": "Contact with the Pok\u00e9mon may burn the attacker.",
+        "pressure": "By putting pressure on the opposing Pok\u00e9mon, it\nraises their PP usage."
+    },
+    "description": {
+        "game": "x",
+        "text": "It is said to be the legendary bird Pok\u00e9mon of fire.\nEvery flap of its wings creates a dazzling flare\nof flames."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "moltres",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/146/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/146.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/146.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/146.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/146.png"
+        }
+    ],
+    "gender": {
+        "genderless": -12.5
+    },
+    "genera": "Flame Pok\u00e9mon",
+    "hatchCounter": 80,
+    "height": 2.0,
+    "id": 146,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/146.png",
+    "name": "moltres",
+    "stats": {
+        "attack": 100,
+        "defense": 90,
+        "hp": 90,
+        "specialAttack": 125,
+        "specialDefense": 85,
+        "speed": 90
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fighting",
+            "fairy",
+            "bug",
+            "steel",
+            "fire",
+            "grass"
+        ],
+        "weakTo": [
+            "ground",
+            "rock",
+            "electric",
+            "water"
+        ]
+    },
+    "types": [
+        "fire",
+        "flying"
+    ],
+    "weight": 60.0
+}

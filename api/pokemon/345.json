@@ -1,0 +1,105 @@
+{
+    "abilities": {
+        "storm-drain": "Draws in all Water-type moves. Instead of being hit \nby Water-type moves, it boosts its Sp. Atk.",
+        "suction-cups": "This Pok\u00e9mon uses suction cups to stay in one spot\nto negate all moves and items that force\nswitching out."
+    },
+    "description": {
+        "game": "ruby",
+        "text": "LILEEP became extinct approximately\na hundred million years ago.\nThis ancient POK\u00e9MON attaches itself\fto a rock on the seafloor and catches\napproaching prey using tentacles \nshaped like flower petals."
+    },
+    "eggGroups": [
+        "water3"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 40,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "cradily",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/346/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "lileep",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/345/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/345.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/345.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/345.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/345.png"
+        }
+    ],
+    "gender": {
+        "female": 12.5,
+        "male": 87.5
+    },
+    "genera": "Sea Lily Pok\u00e9mon",
+    "hatchCounter": 30,
+    "height": 1.0,
+    "id": 345,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/345.png",
+    "name": "lileep",
+    "stats": {
+        "attack": 41,
+        "defense": 77,
+        "hp": 66,
+        "specialAttack": 61,
+        "specialDefense": 87,
+        "speed": 23
+    },
+    "type_relations": {
+        "resistantTo": [
+            "normal",
+            "electric"
+        ],
+        "weakTo": [
+            "fighting",
+            "bug",
+            "steel",
+            "ice"
+        ]
+    },
+    "types": [
+        "rock",
+        "grass"
+    ],
+    "weight": 23.8
+}

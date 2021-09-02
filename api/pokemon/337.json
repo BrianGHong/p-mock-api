@@ -1,0 +1,75 @@
+{
+    "abilities": {
+        "levitate": "By floating in the air, the Pok\u00e9mon receives full\nimmunity to all Ground-type moves."
+    },
+    "description": {
+        "game": "ruby",
+        "text": "LUNATONE was discovered at a location\nwhere a meteorite fell. As a result, some\npeople theorize that this POK\u00e9MON\fcame from space. However, no one has\nbeen able to prove this theory so far."
+    },
+    "eggGroups": [
+        "mineral"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "lunatone",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/337/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/337.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/337.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/337.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/337.png"
+        }
+    ],
+    "gender": {
+        "genderless": -12.5
+    },
+    "genera": "Meteorite Pok\u00e9mon",
+    "hatchCounter": 25,
+    "height": 1.0,
+    "id": 337,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/337.png",
+    "name": "lunatone",
+    "stats": {
+        "attack": 55,
+        "defense": 65,
+        "hp": 90,
+        "specialAttack": 95,
+        "specialDefense": 85,
+        "speed": 70
+    },
+    "type_relations": {
+        "resistantTo": [
+            "normal",
+            "flying",
+            "fire",
+            "poison",
+            "psychic"
+        ],
+        "weakTo": [
+            "dark",
+            "ground",
+            "ghost",
+            "water",
+            "bug",
+            "steel",
+            "grass"
+        ]
+    },
+    "types": [
+        "rock",
+        "psychic"
+    ],
+    "weight": 168.0
+}

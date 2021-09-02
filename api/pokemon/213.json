@@ -1,0 +1,71 @@
+{
+    "abilities": {
+        "contrary": "Makes stat changes have an opposite effect.",
+        "gluttony": "Makes the Pok\u00e9mon eat a held Berry when its HP\ndrops to half or less, which is sooner than usual.",
+        "sturdy": "It cannot be knocked out with one hit. One-hit KO\nmoves cannot knock it out, either."
+    },
+    "description": {
+        "game": "gold",
+        "text": "The BERRIES it\nstores in its\nvase-like shell\fdecompose and\nbecome a gooey\nliquid."
+    },
+    "eggGroups": [
+        "bug"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "shuckle",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/213/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/213.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/213.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/213.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/213.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Mold Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 0.6,
+    "id": 213,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/213.png",
+    "name": "shuckle",
+    "stats": {
+        "attack": 10,
+        "defense": 230,
+        "hp": 20,
+        "specialAttack": 10,
+        "specialDefense": 230,
+        "speed": 5
+    },
+    "type_relations": {
+        "resistantTo": [
+            "normal",
+            "poison"
+        ],
+        "weakTo": [
+            "rock",
+            "water",
+            "steel"
+        ]
+    },
+    "types": [
+        "bug",
+        "rock"
+    ],
+    "weight": 20.5
+}

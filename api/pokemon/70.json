@@ -1,0 +1,145 @@
+{
+    "abilities": {
+        "chlorophyll": "Boosts the Pok\u00e9mon\u2019s Speed stat in harsh sunlight.",
+        "gluttony": "Makes the Pok\u00e9mon eat a held Berry when its HP\ndrops to half or less, which is sooner than usual."
+    },
+    "description": {
+        "game": "red",
+        "text": "It spits out\nPOISONPOWDER to\nimmobilize the\fenemy and then\nfinishes it with\na spray of ACID."
+    },
+    "eggGroups": [
+        "plant"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 21,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [
+                    {
+                        "evolution_details": [
+                            {
+                                "gender": null,
+                                "held_item": null,
+                                "item": {
+                                    "name": "leaf-stone",
+                                    "url": "https://pokeapi.co/api/v2/item/85/"
+                                },
+                                "known_move": null,
+                                "known_move_type": null,
+                                "location": null,
+                                "min_affection": null,
+                                "min_beauty": null,
+                                "min_happiness": null,
+                                "min_level": null,
+                                "needs_overworld_rain": false,
+                                "party_species": null,
+                                "party_type": null,
+                                "relative_physical_stats": null,
+                                "time_of_day": "",
+                                "trade_species": null,
+                                "trigger": {
+                                    "name": "use-item",
+                                    "url": "https://pokeapi.co/api/v2/evolution-trigger/3/"
+                                },
+                                "turn_upside_down": false
+                            }
+                        ],
+                        "evolves_to": [],
+                        "is_baby": false,
+                        "species": {
+                            "name": "victreebel",
+                            "url": "https://pokeapi.co/api/v2/pokemon-species/71/"
+                        }
+                    }
+                ],
+                "is_baby": false,
+                "species": {
+                    "name": "weepinbell",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/70/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "bellsprout",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/69/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/70.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/70.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/70.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/70.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Flycatcher Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 1.0,
+    "id": 70,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/70.png",
+    "name": "weepinbell",
+    "stats": {
+        "attack": 90,
+        "defense": 50,
+        "hp": 65,
+        "specialAttack": 85,
+        "specialDefense": 45,
+        "speed": 55
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fighting",
+            "fairy",
+            "electric",
+            "water",
+            "grass"
+        ],
+        "weakTo": [
+            "flying",
+            "fire",
+            "ice",
+            "psychic"
+        ]
+    },
+    "types": [
+        "grass",
+        "poison"
+    ],
+    "weight": 6.4
+}

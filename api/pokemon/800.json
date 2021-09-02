@@ -1,0 +1,67 @@
+{
+    "abilities": {
+        "prism-armor": "Reduces the power of supereffective attacks taken."
+    },
+    "description": {
+        "game": "sun",
+        "text": "Reminiscent of the Ultra Beasts, this life-form,\napparently asleep underground, is thought to\nhave come from another world in ancient times."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "necrozma",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/800/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/800.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/800.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/800.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/800.png"
+        }
+    ],
+    "gender": {
+        "genderless": -12.5
+    },
+    "genera": "Prism Pok\u00e9mon",
+    "hatchCounter": 120,
+    "height": 2.4,
+    "id": 800,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/800.png",
+    "name": "necrozma",
+    "stats": {
+        "attack": 107,
+        "defense": 101,
+        "hp": 97,
+        "specialAttack": 127,
+        "specialDefense": 89,
+        "speed": 79
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fighting",
+            "psychic"
+        ],
+        "weakTo": [
+            "dark",
+            "bug",
+            "ghost"
+        ]
+    },
+    "types": [
+        "psychic"
+    ],
+    "weight": 230.0
+}

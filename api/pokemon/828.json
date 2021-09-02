@@ -1,0 +1,102 @@
+{
+    "abilities": {
+        "run-away": "Enables a sure getaway from wild Pok\u00e9mon.",
+        "stakeout": "Doubles the damage dealt to the target\u2019s\nreplacement if the target switches out.",
+        "unburden": "Boosts the Speed stat if the Pok\u00e9mon\u2019s held item is \nused or lost."
+    },
+    "description": {
+        "game": "sword",
+        "text": "It secretly marks potential targets with a scent.\nBy following the scent, it stalks its targets\nand steals from them when they least expect it."
+    },
+    "eggGroups": [],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 18,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "thievul",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/828/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "nickit",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/827/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/828.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/828.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/828.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/828.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Fox Pok\u00e9mon",
+    "hatchCounter": 15,
+    "height": 1.2,
+    "id": 828,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/828.png",
+    "name": "thievul",
+    "stats": {
+        "attack": 58,
+        "defense": 58,
+        "hp": 70,
+        "specialAttack": 87,
+        "specialDefense": 92,
+        "speed": 90
+    },
+    "type_relations": {
+        "resistantTo": [
+            "dark",
+            "ghost"
+        ],
+        "weakTo": [
+            "fighting",
+            "bug",
+            "fairy"
+        ]
+    },
+    "types": [
+        "dark"
+    ],
+    "weight": 19.9
+}

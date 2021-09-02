@@ -1,0 +1,139 @@
+{
+    "abilities": {
+        "keen-eye": "Keen eyes prevent other Pok\u00e9mon from lowering this\nPok\u00e9mon\u2019s accuracy.",
+        "pickup": "The Pok\u00e9mon may pick up the item an opposing\nPok\u00e9mon used during a battle. It may pick up items\noutside of battle, too.",
+        "skill-link": "Maximizes the number of times multi-strike\nmoves hit."
+    },
+    "description": {
+        "game": "sun",
+        "text": "It eats berries and stores their seeds in its\nbeak. When it encounters enemies or prey,\nit fires off all the seeds in a burst."
+    },
+    "eggGroups": [
+        "flying"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 14,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [
+                    {
+                        "evolution_details": [
+                            {
+                                "gender": null,
+                                "held_item": null,
+                                "item": null,
+                                "known_move": null,
+                                "known_move_type": null,
+                                "location": null,
+                                "min_affection": null,
+                                "min_beauty": null,
+                                "min_happiness": null,
+                                "min_level": 28,
+                                "needs_overworld_rain": false,
+                                "party_species": null,
+                                "party_type": null,
+                                "relative_physical_stats": null,
+                                "time_of_day": "",
+                                "trade_species": null,
+                                "trigger": {
+                                    "name": "level-up",
+                                    "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                                },
+                                "turn_upside_down": false
+                            }
+                        ],
+                        "evolves_to": [],
+                        "is_baby": false,
+                        "species": {
+                            "name": "toucannon",
+                            "url": "https://pokeapi.co/api/v2/pokemon-species/733/"
+                        }
+                    }
+                ],
+                "is_baby": false,
+                "species": {
+                    "name": "trumbeak",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/732/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "pikipek",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/731/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/732.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/732.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/732.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/732.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Bugle Beak Pok\u00e9mon",
+    "hatchCounter": 15,
+    "height": 0.6,
+    "id": 732,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/732.png",
+    "name": "trumbeak",
+    "stats": {
+        "attack": 85,
+        "defense": 50,
+        "hp": 55,
+        "specialAttack": 40,
+        "specialDefense": 50,
+        "speed": 75
+    },
+    "type_relations": {
+        "resistantTo": [
+            "grass",
+            "bug"
+        ],
+        "weakTo": [
+            "ice",
+            "rock",
+            "electric"
+        ]
+    },
+    "types": [
+        "normal",
+        "flying"
+    ],
+    "weight": 14.8
+}

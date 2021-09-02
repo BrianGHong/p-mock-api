@@ -1,0 +1,142 @@
+{
+    "abilities": {
+        "long-reach": "The Pok\u00e9mon uses its moves without making contact\nwith the target.",
+        "overgrow": "Powers up Grass-type moves when the Pok\u00e9mon\u2019s\nHP is low."
+    },
+    "description": {
+        "game": "sun",
+        "text": "A bit of a dandy, it spends its free time\npreening its wings. Its preoccupation with any\ndirt on its plumage can leave it unable to battle."
+    },
+    "eggGroups": [
+        "flying"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 17,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [
+                    {
+                        "evolution_details": [
+                            {
+                                "gender": null,
+                                "held_item": null,
+                                "item": null,
+                                "known_move": null,
+                                "known_move_type": null,
+                                "location": null,
+                                "min_affection": null,
+                                "min_beauty": null,
+                                "min_happiness": null,
+                                "min_level": 34,
+                                "needs_overworld_rain": false,
+                                "party_species": null,
+                                "party_type": null,
+                                "relative_physical_stats": null,
+                                "time_of_day": "",
+                                "trade_species": null,
+                                "trigger": {
+                                    "name": "level-up",
+                                    "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                                },
+                                "turn_upside_down": false
+                            }
+                        ],
+                        "evolves_to": [],
+                        "is_baby": false,
+                        "species": {
+                            "name": "decidueye",
+                            "url": "https://pokeapi.co/api/v2/pokemon-species/724/"
+                        }
+                    }
+                ],
+                "is_baby": false,
+                "species": {
+                    "name": "dartrix",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/723/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "rowlet",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/722/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/723.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/723.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/723.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/723.png"
+        }
+    ],
+    "gender": {
+        "female": 12.5,
+        "male": 87.5
+    },
+    "genera": "Blade Quill Pok\u00e9mon",
+    "hatchCounter": 15,
+    "height": 0.7,
+    "id": 723,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/723.png",
+    "name": "dartrix",
+    "stats": {
+        "attack": 75,
+        "defense": 75,
+        "hp": 78,
+        "specialAttack": 70,
+        "specialDefense": 70,
+        "speed": 52
+    },
+    "type_relations": {
+        "resistantTo": [
+            "ground",
+            "fighting",
+            "water",
+            "grass"
+        ],
+        "weakTo": [
+            "flying",
+            "rock",
+            "fire",
+            "ice",
+            "poison"
+        ]
+    },
+    "types": [
+        "grass",
+        "flying"
+    ],
+    "weight": 16.0
+}

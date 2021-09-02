@@ -1,0 +1,143 @@
+{
+    "abilities": {
+        "poison-point": "Contact with the Pok\u00e9mon may poison the attacker.",
+        "speed-boost": "Its Speed stat is boosted every turn.",
+        "swarm": "Powers up Bug-type moves when the Pok\u00e9mon\u2019s HP\nis low."
+    },
+    "description": {
+        "game": "black",
+        "text": "With quick movements, it chases down\nits foes, attacking relentlessly with\nits horns until it prevails."
+    },
+    "eggGroups": [
+        "bug"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 22,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [
+                    {
+                        "evolution_details": [
+                            {
+                                "gender": null,
+                                "held_item": null,
+                                "item": null,
+                                "known_move": null,
+                                "known_move_type": null,
+                                "location": null,
+                                "min_affection": null,
+                                "min_beauty": null,
+                                "min_happiness": null,
+                                "min_level": 30,
+                                "needs_overworld_rain": false,
+                                "party_species": null,
+                                "party_type": null,
+                                "relative_physical_stats": null,
+                                "time_of_day": "",
+                                "trade_species": null,
+                                "trigger": {
+                                    "name": "level-up",
+                                    "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                                },
+                                "turn_upside_down": false
+                            }
+                        ],
+                        "evolves_to": [],
+                        "is_baby": false,
+                        "species": {
+                            "name": "scolipede",
+                            "url": "https://pokeapi.co/api/v2/pokemon-species/545/"
+                        }
+                    }
+                ],
+                "is_baby": false,
+                "species": {
+                    "name": "whirlipede",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/544/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "venipede",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/543/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/545.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/545.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/545.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/545.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Megapede Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 2.5,
+    "id": 545,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/545.png",
+    "name": "scolipede",
+    "stats": {
+        "attack": 100,
+        "defense": 89,
+        "hp": 60,
+        "specialAttack": 55,
+        "specialDefense": 69,
+        "speed": 112
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fighting",
+            "grass",
+            "fairy",
+            "bug",
+            "poison"
+        ],
+        "weakTo": [
+            "flying",
+            "rock",
+            "fire",
+            "psychic"
+        ]
+    },
+    "types": [
+        "bug",
+        "poison"
+    ],
+    "weight": 200.5
+}

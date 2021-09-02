@@ -1,0 +1,77 @@
+{
+    "abilities": {
+        "flame-body": "Contact with the Pok\u00e9mon may burn the attacker.",
+        "flash-fire": "Powers up the Pok\u00e9mon\u2019s Fire-type moves if it\u2019s hit\nby one."
+    },
+    "description": {
+        "game": "diamond",
+        "text": "It dwells in volcanic caves. It\ndigs in with its cross-shaped feet\nto crawl on ceilings and walls."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "heatran",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/485/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/485.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/485.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/485.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/485.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Lava Dome Pok\u00e9mon",
+    "hatchCounter": 10,
+    "height": 1.7,
+    "id": 485,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/485.png",
+    "name": "heatran",
+    "stats": {
+        "attack": 90,
+        "defense": 106,
+        "hp": 91,
+        "specialAttack": 130,
+        "specialDefense": 106,
+        "speed": 77
+    },
+    "type_relations": {
+        "resistantTo": [
+            "normal",
+            "fairy",
+            "flying",
+            "dragon",
+            "bug",
+            "steel",
+            "ice",
+            "grass",
+            "psychic"
+        ],
+        "weakTo": [
+            "ground",
+            "fighting",
+            "water"
+        ]
+    },
+    "types": [
+        "fire",
+        "steel"
+    ],
+    "weight": 430.0
+}

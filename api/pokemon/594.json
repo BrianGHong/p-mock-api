@@ -1,0 +1,72 @@
+{
+    "abilities": {
+        "healer": "Sometimes heals an ally\u2019s status condition.",
+        "hydration": "Heals status conditions if it\u2019s raining.",
+        "regenerator": "Restores a little HP when withdrawn from battle."
+    },
+    "description": {
+        "game": "moon",
+        "text": "They float upon the open sea. Many water\nPok\u00e9mon gather in the area around Alomomola."
+    },
+    "eggGroups": [
+        "water1",
+        "water2"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "alomomola",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/594/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/594.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/594.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/594.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/594.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Caring Pok\u00e9mon",
+    "hatchCounter": 40,
+    "height": 1.2,
+    "id": 594,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/594.png",
+    "name": "alomomola",
+    "stats": {
+        "attack": 75,
+        "defense": 80,
+        "hp": 165,
+        "specialAttack": 40,
+        "specialDefense": 45,
+        "speed": 65
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fire",
+            "ice",
+            "water",
+            "steel"
+        ],
+        "weakTo": [
+            "grass",
+            "electric"
+        ]
+    },
+    "types": [
+        "water"
+    ],
+    "weight": 31.6
+}

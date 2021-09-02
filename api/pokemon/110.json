@@ -1,0 +1,104 @@
+{
+    "abilities": {
+        "levitate": "By floating in the air, the Pok\u00e9mon receives full\nimmunity to all Ground-type moves."
+    },
+    "description": {
+        "game": "red",
+        "text": "Where two kinds\nof poison gases\nmeet, 2 KOFFINGs\fcan fuse into a\nWEEZING over many\nyears."
+    },
+    "eggGroups": [
+        "indeterminate"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 35,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "weezing",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/110/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "koffing",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/109/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/110.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/110.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/110.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/110.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Poison Gas Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 1.2,
+    "id": 110,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/110.png",
+    "name": "weezing",
+    "stats": {
+        "attack": 90,
+        "defense": 120,
+        "hp": 65,
+        "specialAttack": 85,
+        "specialDefense": 70,
+        "speed": 60
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fighting",
+            "fairy",
+            "grass",
+            "bug",
+            "poison"
+        ],
+        "weakTo": [
+            "ground",
+            "psychic"
+        ]
+    },
+    "types": [
+        "poison"
+    ],
+    "weight": 9.5
+}

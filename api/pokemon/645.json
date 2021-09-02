@@ -1,0 +1,68 @@
+{
+    "abilities": {
+        "sand-force": "Boosts the power of Rock-, Ground-, and Steel-type\nmoves in a sandstorm.",
+        "sheer-force": "Removes additional effects to increase the power\nof moves when attacking."
+    },
+    "description": {
+        "game": "x",
+        "text": "Lands visited by Landorus grant such bountiful\ncrops that it has been hailed as \u201cThe Guardian of\nthe Fields.\u201d"
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "landorus",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/645/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/645.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/645.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/645.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/645.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Abundance Pok\u00e9mon",
+    "hatchCounter": 120,
+    "height": 1.5,
+    "id": 645,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/645.png",
+    "name": "landorus-incarnate",
+    "stats": {
+        "attack": 125,
+        "defense": 90,
+        "hp": 89,
+        "specialAttack": 115,
+        "specialDefense": 80,
+        "speed": 101
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fighting",
+            "bug",
+            "poison"
+        ],
+        "weakTo": [
+            "electric",
+            "water",
+            "ice"
+        ]
+    },
+    "types": [
+        "ground",
+        "flying"
+    ],
+    "weight": 68.0
+}

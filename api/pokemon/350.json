@@ -1,0 +1,167 @@
+{
+    "abilities": {
+        "competitive": "Boosts the Sp. Atk stat sharply when a stat\nis lowered.",
+        "cute-charm": "Contact with the Pok\u00e9mon may cause infatuation.",
+        "marvel-scale": "The Pok\u00e9mon\u2019s marvelous scales boost the Defense\nstat if it has a status condition."
+    },
+    "description": {
+        "game": "ruby",
+        "text": "MILOTIC is said to be the most\nbeautiful of all the POK\u00e9MON.\nIt has the power to becalm such\femotions as anger and hostility to quell\nbitter feuding."
+    },
+    "eggGroups": [
+        "water1",
+        "dragon"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": 171,
+                        "min_happiness": null,
+                        "min_level": null,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    },
+                    {
+                        "gender": null,
+                        "held_item": {
+                            "name": "prism-scale",
+                            "url": "https://pokeapi.co/api/v2/item/580/"
+                        },
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": null,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "trade",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/2/"
+                        },
+                        "turn_upside_down": false
+                    },
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": 170,
+                        "min_happiness": null,
+                        "min_level": null,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "milotic",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/350/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "feebas",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/349/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/350.png"
+        },
+        {
+            "back_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/350.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/350.png"
+        },
+        {
+            "back_shiny_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/350.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/350.png"
+        },
+        {
+            "front_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/350.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/350.png"
+        },
+        {
+            "front_shiny_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/350.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Tender Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 6.2,
+    "id": 350,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/350.png",
+    "name": "milotic",
+    "stats": {
+        "attack": 60,
+        "defense": 79,
+        "hp": 95,
+        "specialAttack": 100,
+        "specialDefense": 125,
+        "speed": 81
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fire",
+            "ice",
+            "water",
+            "steel"
+        ],
+        "weakTo": [
+            "grass",
+            "electric"
+        ]
+    },
+    "types": [
+        "water"
+    ],
+    "weight": 162.0
+}

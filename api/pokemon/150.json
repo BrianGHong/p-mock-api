@@ -1,0 +1,68 @@
+{
+    "abilities": {
+        "pressure": "By putting pressure on the opposing Pok\u00e9mon, it\nraises their PP usage.",
+        "unnerve": "Unnerves opposing Pok\u00e9mon and makes them unable\nto eat Berries."
+    },
+    "description": {
+        "game": "red",
+        "text": "It was created by\na scientist after\nyears of horrific\fgene splicing and\nDNA engineering\nexperiments."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "mewtwo",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/150/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/150.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/150.png"
+        }
+    ],
+    "gender": {
+        "genderless": -12.5
+    },
+    "genera": "Genetic Pok\u00e9mon",
+    "hatchCounter": 120,
+    "height": 2.0,
+    "id": 150,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png",
+    "name": "mewtwo",
+    "stats": {
+        "attack": 110,
+        "defense": 90,
+        "hp": 106,
+        "specialAttack": 154,
+        "specialDefense": 90,
+        "speed": 130
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fighting",
+            "psychic"
+        ],
+        "weakTo": [
+            "dark",
+            "bug",
+            "ghost"
+        ]
+    },
+    "types": [
+        "psychic"
+    ],
+    "weight": 122.0
+}

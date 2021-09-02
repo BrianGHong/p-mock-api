@@ -1,0 +1,72 @@
+{
+    "abilities": {
+        "beast-boost": "The Pok\u00e9mon boosts its most proficient stat each\ntime it knocks out a Pok\u00e9mon."
+    },
+    "description": {
+        "game": "sun",
+        "text": "One of the dangerous Ultra Beasts, it has been\nspotted running across the land at\nterrific speeds."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "pheromosa",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/795/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/795.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/795.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/795.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/795.png"
+        }
+    ],
+    "gender": {
+        "genderless": -12.5
+    },
+    "genera": "Lissome Pok\u00e9mon",
+    "hatchCounter": 120,
+    "height": 1.8,
+    "id": 795,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/795.png",
+    "name": "pheromosa",
+    "stats": {
+        "attack": 137,
+        "defense": 37,
+        "hp": 71,
+        "specialAttack": 137,
+        "specialDefense": 37,
+        "speed": 151
+    },
+    "type_relations": {
+        "resistantTo": [
+            "dark",
+            "ground",
+            "fighting",
+            "bug",
+            "grass"
+        ],
+        "weakTo": [
+            "fairy",
+            "flying",
+            "fire",
+            "psychic"
+        ]
+    },
+    "types": [
+        "bug",
+        "fighting"
+    ],
+    "weight": 25.0
+}

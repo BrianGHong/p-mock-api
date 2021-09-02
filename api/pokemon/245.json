@@ -1,0 +1,69 @@
+{
+    "abilities": {
+        "inner-focus": "The Pok\u00e9mon\u2019s intensely focused, and that protects\nthe Pok\u00e9mon from flinching.",
+        "pressure": "By putting pressure on the opposing Pok\u00e9mon, it\nraises their PP usage."
+    },
+    "description": {
+        "game": "gold",
+        "text": "Said to be the\nreincarnation of\nnorth winds, it\fcan instantly\npurify filthy,\nmurky water."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "suicune",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/245/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/245.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/245.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/245.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/245.png"
+        }
+    ],
+    "gender": {
+        "genderless": -12.5
+    },
+    "genera": "Aurora Pok\u00e9mon",
+    "hatchCounter": 80,
+    "height": 2.0,
+    "id": 245,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/245.png",
+    "name": "suicune",
+    "stats": {
+        "attack": 75,
+        "defense": 115,
+        "hp": 100,
+        "specialAttack": 90,
+        "specialDefense": 115,
+        "speed": 85
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fire",
+            "ice",
+            "water",
+            "steel"
+        ],
+        "weakTo": [
+            "grass",
+            "electric"
+        ]
+    },
+    "types": [
+        "water"
+    ],
+    "weight": 187.0
+}

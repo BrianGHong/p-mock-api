@@ -1,0 +1,74 @@
+{
+    "abilities": {
+        "unnerve": "Unnerves opposing Pok\u00e9mon and makes them unable\nto eat Berries."
+    },
+    "description": {
+        "game": "sword",
+        "text": "Calyrex is a merciful Pok\u00e9mon, capable of providing healing and blessings. It reigned over the Galar region in times of yore."
+    },
+    "eggGroups": [],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "calyrex",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/898/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/898.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/898.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/898.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/898.png"
+        }
+    ],
+    "gender": {
+        "genderless": -12.5
+    },
+    "genera": "King Pok\u00e9mon",
+    "hatchCounter": 120,
+    "height": 1.1,
+    "id": 898,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/898.png",
+    "name": "calyrex",
+    "stats": {
+        "attack": 80,
+        "defense": 80,
+        "hp": 100,
+        "specialAttack": 80,
+        "specialDefense": 80,
+        "speed": 80
+    },
+    "type_relations": {
+        "resistantTo": [
+            "ground",
+            "fighting",
+            "electric",
+            "water",
+            "grass",
+            "psychic"
+        ],
+        "weakTo": [
+            "dark",
+            "flying",
+            "ghost",
+            "bug",
+            "fire",
+            "ice",
+            "poison"
+        ]
+    },
+    "types": [
+        "psychic",
+        "grass"
+    ],
+    "weight": 7.7
+}

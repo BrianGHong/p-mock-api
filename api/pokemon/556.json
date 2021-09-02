@@ -1,0 +1,74 @@
+{
+    "abilities": {
+        "chlorophyll": "Boosts the Pok\u00e9mon\u2019s Speed stat in harsh sunlight.",
+        "storm-drain": "Draws in all Water-type moves. Instead of being hit \nby Water-type moves, it boosts its Sp. Atk.",
+        "water-absorb": "Restores HP if hit by a Water-type move, instead of\ntaking damage."
+    },
+    "description": {
+        "game": "black",
+        "text": "It uses an up-tempo song and dance\nto drive away the bird Pok\u00e9mon that\nprey on its flower seeds."
+    },
+    "eggGroups": [
+        "plant"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "maractus",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/556/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/556.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/556.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/556.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/556.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Cactus Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 1.0,
+    "id": 556,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/556.png",
+    "name": "maractus",
+    "stats": {
+        "attack": 86,
+        "defense": 67,
+        "hp": 75,
+        "specialAttack": 106,
+        "specialDefense": 67,
+        "speed": 60
+    },
+    "type_relations": {
+        "resistantTo": [
+            "ground",
+            "electric",
+            "water",
+            "grass"
+        ],
+        "weakTo": [
+            "flying",
+            "bug",
+            "fire",
+            "ice",
+            "poison"
+        ]
+    },
+    "types": [
+        "grass"
+    ],
+    "weight": 28.0
+}

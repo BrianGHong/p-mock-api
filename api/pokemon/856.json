@@ -1,0 +1,133 @@
+{
+    "abilities": {
+        "anticipation": "The Pok\u00e9mon can sense an opposing Pok\u00e9mon\u2019s\ndangerous moves.",
+        "healer": "Sometimes heals an ally\u2019s status condition.",
+        "magic-bounce": "Reflects status moves, instead of getting hit\nby them."
+    },
+    "description": {
+        "game": "sword",
+        "text": "Via the protrusion on its head, it senses other\ncreatures\u2019 emotions. If you don\u2019t have a calm\ndisposition, it will never warm up to you."
+    },
+    "eggGroups": [],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 32,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [
+                    {
+                        "evolution_details": [
+                            {
+                                "gender": null,
+                                "held_item": null,
+                                "item": null,
+                                "known_move": null,
+                                "known_move_type": null,
+                                "location": null,
+                                "min_affection": null,
+                                "min_beauty": null,
+                                "min_happiness": null,
+                                "min_level": 42,
+                                "needs_overworld_rain": false,
+                                "party_species": null,
+                                "party_type": null,
+                                "relative_physical_stats": null,
+                                "time_of_day": "",
+                                "trade_species": null,
+                                "trigger": {
+                                    "name": "level-up",
+                                    "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                                },
+                                "turn_upside_down": false
+                            }
+                        ],
+                        "evolves_to": [],
+                        "is_baby": false,
+                        "species": {
+                            "name": "hatterene",
+                            "url": "https://pokeapi.co/api/v2/pokemon-species/858/"
+                        }
+                    }
+                ],
+                "is_baby": false,
+                "species": {
+                    "name": "hattrem",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/857/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "hatenna",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/856/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/856.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/856.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/856.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/856.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Calm Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 0.4,
+    "id": 856,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/856.png",
+    "name": "hatenna",
+    "stats": {
+        "attack": 30,
+        "defense": 45,
+        "hp": 42,
+        "specialAttack": 56,
+        "specialDefense": 53,
+        "speed": 39
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fighting",
+            "psychic"
+        ],
+        "weakTo": [
+            "dark",
+            "bug",
+            "ghost"
+        ]
+    },
+    "types": [
+        "psychic"
+    ],
+    "weight": 3.4
+}

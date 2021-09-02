@@ -1,0 +1,139 @@
+{
+    "abilities": {
+        "big-pecks": "Protects the Pok\u00e9mon from\nDefense-lowering effects.",
+        "keen-eye": "Keen eyes prevent other Pok\u00e9mon from lowering this\nPok\u00e9mon\u2019s accuracy.",
+        "tangled-feet": "Raises evasion if the Pok\u00e9mon is confused."
+    },
+    "description": {
+        "game": "red",
+        "text": "When hunting, it\nskims the surface\nof water at high\fspeed to pick off\nunwary prey such\nas MAGIKARP."
+    },
+    "eggGroups": [
+        "flying"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 18,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [
+                    {
+                        "evolution_details": [
+                            {
+                                "gender": null,
+                                "held_item": null,
+                                "item": null,
+                                "known_move": null,
+                                "known_move_type": null,
+                                "location": null,
+                                "min_affection": null,
+                                "min_beauty": null,
+                                "min_happiness": null,
+                                "min_level": 36,
+                                "needs_overworld_rain": false,
+                                "party_species": null,
+                                "party_type": null,
+                                "relative_physical_stats": null,
+                                "time_of_day": "",
+                                "trade_species": null,
+                                "trigger": {
+                                    "name": "level-up",
+                                    "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                                },
+                                "turn_upside_down": false
+                            }
+                        ],
+                        "evolves_to": [],
+                        "is_baby": false,
+                        "species": {
+                            "name": "pidgeot",
+                            "url": "https://pokeapi.co/api/v2/pokemon-species/18/"
+                        }
+                    }
+                ],
+                "is_baby": false,
+                "species": {
+                    "name": "pidgeotto",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/17/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "pidgey",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/16/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/18.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/18.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/18.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Bird Pok\u00e9mon",
+    "hatchCounter": 15,
+    "height": 1.5,
+    "id": 18,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png",
+    "name": "pidgeot",
+    "stats": {
+        "attack": 80,
+        "defense": 75,
+        "hp": 83,
+        "specialAttack": 70,
+        "specialDefense": 70,
+        "speed": 101
+    },
+    "type_relations": {
+        "resistantTo": [
+            "grass",
+            "bug"
+        ],
+        "weakTo": [
+            "ice",
+            "rock",
+            "electric"
+        ]
+    },
+    "types": [
+        "normal",
+        "flying"
+    ],
+    "weight": 39.5
+}

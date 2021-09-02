@@ -1,0 +1,73 @@
+{
+    "abilities": {
+        "mold-breaker": "Moves can be used on the target regardless of\nits Abilities.",
+        "rough-skin": "This Pok\u00e9mon inflicts damage with its rough skin\nto the attacker on contact.",
+        "sheer-force": "Removes additional effects to increase the power\nof moves when attacking."
+    },
+    "description": {
+        "game": "black",
+        "text": "It warms its body by absorbing sunlight\nwith its wings. When its body temperature\nfalls, it can no longer move."
+    },
+    "eggGroups": [
+        "monster",
+        "dragon"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "druddigon",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/621/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/621.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/621.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/621.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/621.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Cave Pok\u00e9mon",
+    "hatchCounter": 30,
+    "height": 1.6,
+    "id": 621,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/621.png",
+    "name": "druddigon",
+    "stats": {
+        "attack": 120,
+        "defense": 90,
+        "hp": 77,
+        "specialAttack": 60,
+        "specialDefense": 90,
+        "speed": 48
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fire",
+            "grass",
+            "electric",
+            "water"
+        ],
+        "weakTo": [
+            "ice",
+            "dragon",
+            "fairy"
+        ]
+    },
+    "types": [
+        "dragon"
+    ],
+    "weight": 139.0
+}

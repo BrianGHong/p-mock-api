@@ -1,0 +1,112 @@
+{
+    "abilities": {
+        "heatproof": "The heatproof body of the Pok\u00e9mon halves the\ndamage from Fire-type moves that hit it.",
+        "heavy-metal": "Doubles the Pok\u00e9mon\u2019s weight.",
+        "levitate": "By floating in the air, the Pok\u00e9mon receives full\nimmunity to all Ground-type moves."
+    },
+    "description": {
+        "game": "diamond",
+        "text": "One caused a news sensation when\nit was dug up at a construction\nsite after a 2,000-year sleep."
+    },
+    "eggGroups": [
+        "mineral"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 33,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "bronzong",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/437/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "bronzor",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/436/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/437.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/437.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/437.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/437.png"
+        }
+    ],
+    "gender": {
+        "genderless": -12.5
+    },
+    "genera": "Bronze Bell Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 1.3,
+    "id": 437,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/437.png",
+    "name": "bronzong",
+    "stats": {
+        "attack": 89,
+        "defense": 116,
+        "hp": 67,
+        "specialAttack": 79,
+        "specialDefense": 116,
+        "speed": 33
+    },
+    "type_relations": {
+        "resistantTo": [
+            "normal",
+            "flying",
+            "fairy",
+            "rock",
+            "dragon",
+            "steel",
+            "ice",
+            "grass",
+            "psychic"
+        ],
+        "weakTo": [
+            "dark",
+            "ground",
+            "ghost",
+            "fire"
+        ]
+    },
+    "types": [
+        "steel",
+        "psychic"
+    ],
+    "weight": 187.0
+}

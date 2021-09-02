@@ -1,0 +1,73 @@
+{
+    "abilities": {
+        "beast-boost": "The Pok\u00e9mon boosts its most proficient stat each\ntime it knocks out a Pok\u00e9mon."
+    },
+    "description": {
+        "game": "sun",
+        "text": "One of several mysterious Ultra Beasts. People\non the street report observing those infested\nby it suddenly becoming violent."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "nihilego",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/793/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/793.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/793.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/793.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/793.png"
+        }
+    ],
+    "gender": {
+        "genderless": -12.5
+    },
+    "genera": "Parasite Pok\u00e9mon",
+    "hatchCounter": 120,
+    "height": 1.2,
+    "id": 793,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/793.png",
+    "name": "nihilego",
+    "stats": {
+        "attack": 53,
+        "defense": 47,
+        "hp": 109,
+        "specialAttack": 127,
+        "specialDefense": 131,
+        "speed": 103
+    },
+    "type_relations": {
+        "resistantTo": [
+            "normal",
+            "flying",
+            "fairy",
+            "bug",
+            "fire",
+            "poison"
+        ],
+        "weakTo": [
+            "ground",
+            "water",
+            "steel",
+            "psychic"
+        ]
+    },
+    "types": [
+        "rock",
+        "poison"
+    ],
+    "weight": 55.5
+}

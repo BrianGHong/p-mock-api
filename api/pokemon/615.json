@@ -1,0 +1,67 @@
+{
+    "abilities": {
+        "levitate": "By floating in the air, the Pok\u00e9mon receives full\nimmunity to all Ground-type moves."
+    },
+    "description": {
+        "game": "black",
+        "text": "When its body temperature goes up, it\nturns into steam and vanishes. When its\ntemperature lowers, it returns to ice."
+    },
+    "eggGroups": [
+        "mineral"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "cryogonal",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/615/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/615.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/615.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/615.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/615.png"
+        }
+    ],
+    "gender": {
+        "genderless": -12.5
+    },
+    "genera": "Crystallizing Pok\u00e9mon",
+    "hatchCounter": 25,
+    "height": 1.1,
+    "id": 615,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/615.png",
+    "name": "cryogonal",
+    "stats": {
+        "attack": 50,
+        "defense": 50,
+        "hp": 80,
+        "specialAttack": 95,
+        "specialDefense": 135,
+        "speed": 105
+    },
+    "type_relations": {
+        "resistantTo": [
+            "ice"
+        ],
+        "weakTo": [
+            "fire",
+            "rock",
+            "fighting",
+            "steel"
+        ]
+    },
+    "types": [
+        "ice"
+    ],
+    "weight": 148.0
+}

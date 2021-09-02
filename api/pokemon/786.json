@@ -1,0 +1,69 @@
+{
+    "abilities": {
+        "psychic-surge": "Turns the ground into Psychic Terrain when\nthe Pok\u00e9mon enters a battle.",
+        "telepathy": "Anticipates an ally\u2019s attack and dodges it."
+    },
+    "description": {
+        "game": "sun",
+        "text": "This guardian deity of Akala is guilelessly cruel.\nThe fragrant aroma of flowers is the source of\nits energy."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "tapu-lele",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/786/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/786.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/786.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/786.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/786.png"
+        }
+    ],
+    "gender": {
+        "genderless": -12.5
+    },
+    "genera": "Land Spirit Pok\u00e9mon",
+    "hatchCounter": 15,
+    "height": 1.2,
+    "id": 786,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/786.png",
+    "name": "tapu-lele",
+    "stats": {
+        "attack": 85,
+        "defense": 75,
+        "hp": 70,
+        "specialAttack": 130,
+        "specialDefense": 115,
+        "speed": 95
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fighting",
+            "psychic"
+        ],
+        "weakTo": [
+            "ghost",
+            "steel",
+            "poison"
+        ]
+    },
+    "types": [
+        "psychic",
+        "fairy"
+    ],
+    "weight": 18.6
+}

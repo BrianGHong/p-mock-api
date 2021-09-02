@@ -1,0 +1,108 @@
+{
+    "abilities": {
+        "sand-veil": "Boosts the Pok\u00e9mon\u2019s evasion in a sandstorm.",
+        "water-absorb": "Restores HP if hit by a Water-type move, instead of\ntaking damage."
+    },
+    "description": {
+        "game": "ruby",
+        "text": "CACNEA lives in arid locations such\nas deserts. It releases a strong aroma\nfrom its flower to attract prey.\fWhen prey comes near, this POK\u00e9MON\nshoots sharp thorns from its body to\nbring the victim down."
+    },
+    "eggGroups": [
+        "plant",
+        "humanshape"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 32,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "cacturne",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/332/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "cacnea",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/331/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/331.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/331.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/331.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/331.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Cactus Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 0.4,
+    "id": 331,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/331.png",
+    "name": "cacnea",
+    "stats": {
+        "attack": 85,
+        "defense": 40,
+        "hp": 50,
+        "specialAttack": 85,
+        "specialDefense": 40,
+        "speed": 35
+    },
+    "type_relations": {
+        "resistantTo": [
+            "ground",
+            "electric",
+            "water",
+            "grass"
+        ],
+        "weakTo": [
+            "flying",
+            "bug",
+            "fire",
+            "ice",
+            "poison"
+        ]
+    },
+    "types": [
+        "grass"
+    ],
+    "weight": 51.3
+}

@@ -1,0 +1,109 @@
+{
+    "abilities": {
+        "insomnia": "The Pok\u00e9mon is suffering from insomnia and cannot\nfall asleep.",
+        "sniper": "Powers up moves if they become critical hits\nwhen attacking.",
+        "swarm": "Powers up Bug-type moves when the Pok\u00e9mon\u2019s HP\nis low."
+    },
+    "description": {
+        "game": "gold",
+        "text": "It lies still in\nthe same pose for\ndays in its web,\fwaiting for its\nunsuspecting prey\nto wander close."
+    },
+    "eggGroups": [
+        "bug"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 22,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "ariados",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/168/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "spinarak",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/167/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/167.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/167.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/167.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/167.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "String Spit Pok\u00e9mon",
+    "hatchCounter": 15,
+    "height": 0.5,
+    "id": 167,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/167.png",
+    "name": "spinarak",
+    "stats": {
+        "attack": 60,
+        "defense": 40,
+        "hp": 40,
+        "specialAttack": 40,
+        "specialDefense": 40,
+        "speed": 30
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fighting",
+            "grass",
+            "fairy",
+            "bug",
+            "poison"
+        ],
+        "weakTo": [
+            "flying",
+            "rock",
+            "fire",
+            "psychic"
+        ]
+    },
+    "types": [
+        "bug",
+        "poison"
+    ],
+    "weight": 8.5
+}

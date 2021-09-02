@@ -1,0 +1,71 @@
+{
+    "abilities": {
+        "hyper-cutter": "The Pok\u00e9mon\u2019s proud of its powerful pincers. They\nprevent other Pok\u00e9mon from lowering its Attack stat.",
+        "mold-breaker": "Moves can be used on the target regardless of\nits Abilities.",
+        "moxie": "The Pok\u00e9mon shows moxie, and that boosts the\nAttack stat after knocking out any Pok\u00e9mon."
+    },
+    "description": {
+        "game": "red",
+        "text": "If it fails to\ncrush the victim\nin its pincers,\fit will swing it\naround and toss\nit hard."
+    },
+    "eggGroups": [
+        "bug"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "pinsir",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/127/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/127.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/127.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/127.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/127.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Stag Beetle Pok\u00e9mon",
+    "hatchCounter": 25,
+    "height": 1.5,
+    "id": 127,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/127.png",
+    "name": "pinsir",
+    "stats": {
+        "attack": 125,
+        "defense": 100,
+        "hp": 65,
+        "specialAttack": 55,
+        "specialDefense": 70,
+        "speed": 85
+    },
+    "type_relations": {
+        "resistantTo": [
+            "ground",
+            "fighting",
+            "grass"
+        ],
+        "weakTo": [
+            "fire",
+            "rock",
+            "flying"
+        ]
+    },
+    "types": [
+        "bug"
+    ],
+    "weight": 55.0
+}

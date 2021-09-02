@@ -1,0 +1,145 @@
+{
+    "abilities": {
+        "clear-body": "Prevents other Pok\u00e9mon\u2019s moves or Abilities from\nlowering the Pok\u00e9mon\u2019s stats.",
+        "light-metal": "Halves the Pok\u00e9mon\u2019s weight."
+    },
+    "description": {
+        "game": "ruby",
+        "text": "When two BELDUM fuse together, METANG\nis formed. The brains of the BELDUM are\njoined by a magnetic nervous system.\fBy linking its brains magnetically,\nthis POK\u00e9MON generates strong\npsychokinetic power."
+    },
+    "eggGroups": [
+        "mineral"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 20,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [
+                    {
+                        "evolution_details": [
+                            {
+                                "gender": null,
+                                "held_item": null,
+                                "item": null,
+                                "known_move": null,
+                                "known_move_type": null,
+                                "location": null,
+                                "min_affection": null,
+                                "min_beauty": null,
+                                "min_happiness": null,
+                                "min_level": 45,
+                                "needs_overworld_rain": false,
+                                "party_species": null,
+                                "party_type": null,
+                                "relative_physical_stats": null,
+                                "time_of_day": "",
+                                "trade_species": null,
+                                "trigger": {
+                                    "name": "level-up",
+                                    "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                                },
+                                "turn_upside_down": false
+                            }
+                        ],
+                        "evolves_to": [],
+                        "is_baby": false,
+                        "species": {
+                            "name": "metagross",
+                            "url": "https://pokeapi.co/api/v2/pokemon-species/376/"
+                        }
+                    }
+                ],
+                "is_baby": false,
+                "species": {
+                    "name": "metang",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/375/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "beldum",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/374/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/375.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/375.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/375.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/375.png"
+        }
+    ],
+    "gender": {
+        "genderless": -12.5
+    },
+    "genera": "Iron Claw Pok\u00e9mon",
+    "hatchCounter": 40,
+    "height": 1.2,
+    "id": 375,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/375.png",
+    "name": "metang",
+    "stats": {
+        "attack": 75,
+        "defense": 100,
+        "hp": 60,
+        "specialAttack": 55,
+        "specialDefense": 80,
+        "speed": 50
+    },
+    "type_relations": {
+        "resistantTo": [
+            "normal",
+            "flying",
+            "fairy",
+            "rock",
+            "dragon",
+            "steel",
+            "ice",
+            "grass",
+            "psychic"
+        ],
+        "weakTo": [
+            "dark",
+            "ground",
+            "ghost",
+            "fire"
+        ]
+    },
+    "types": [
+        "steel",
+        "psychic"
+    ],
+    "weight": 202.5
+}

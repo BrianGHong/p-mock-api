@@ -1,0 +1,73 @@
+{
+    "abilities": {
+        "justified": "Being hit by a Dark-type move boosts the Attack\nstat of the Pok\u00e9mon, for justice."
+    },
+    "description": {
+        "game": "black",
+        "text": "By blasting water from its hooves, it can\nglide across water. It excels at using\nleg moves while battling."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "keldeo",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/647/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/647.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/647.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/647.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/647.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Colt Pok\u00e9mon",
+    "hatchCounter": 80,
+    "height": 1.4,
+    "id": 647,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/647.png",
+    "name": "keldeo-ordinary",
+    "stats": {
+        "attack": 72,
+        "defense": 90,
+        "hp": 91,
+        "specialAttack": 129,
+        "specialDefense": 90,
+        "speed": 108
+    },
+    "type_relations": {
+        "resistantTo": [
+            "dark",
+            "rock",
+            "water",
+            "bug",
+            "steel",
+            "fire",
+            "ice"
+        ],
+        "weakTo": [
+            "fairy",
+            "flying",
+            "electric",
+            "grass",
+            "psychic"
+        ]
+    },
+    "types": [
+        "water",
+        "fighting"
+    ],
+    "weight": 48.5
+}

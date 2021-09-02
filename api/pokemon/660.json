@@ -1,0 +1,100 @@
+{
+    "abilities": {
+        "cheek-pouch": "Restores HP as well when the Pok\u00e9mon eats a Berry.",
+        "huge-power": "Doubles the Pok\u00e9mon\u2019s Attack stat.",
+        "pickup": "The Pok\u00e9mon may pick up the item an opposing\nPok\u00e9mon used during a battle. It may pick up items\noutside of battle, too."
+    },
+    "description": {
+        "game": "x",
+        "text": "With their powerful ears, they can heft\nboulders of a ton or more with ease.\nThey can be a big help at construction sites."
+    },
+    "eggGroups": [
+        "ground"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 20,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "diggersby",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/660/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "bunnelby",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/659/"
+        }
+    },
+    "forms": [
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/660.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/660.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Digging Pok\u00e9mon",
+    "hatchCounter": 15,
+    "height": 1.0,
+    "id": 660,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/660.png",
+    "name": "diggersby",
+    "stats": {
+        "attack": 56,
+        "defense": 77,
+        "hp": 85,
+        "specialAttack": 50,
+        "specialDefense": 77,
+        "speed": 78
+    },
+    "type_relations": {
+        "resistantTo": [
+            "poison",
+            "rock"
+        ],
+        "weakTo": [
+            "ice",
+            "grass",
+            "fighting",
+            "water"
+        ]
+    },
+    "types": [
+        "normal",
+        "ground"
+    ],
+    "weight": 42.4
+}

@@ -1,0 +1,75 @@
+{
+    "abilities": {
+        "limber": "Its limber body protects the Pok\u00e9mon from paralysis.",
+        "mold-breaker": "Moves can be used on the target regardless of\nits Abilities.",
+        "unburden": "Boosts the Speed stat if the Pok\u00e9mon\u2019s held item is \nused or lost."
+    },
+    "description": {
+        "game": "x",
+        "text": "Although its body is small, its proficient\nfighting skills enable it to keep up with\nbig bruisers like Machamp and Hariyama."
+    },
+    "eggGroups": [
+        "humanshape"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "hawlucha",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/701/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/701.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/701.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/701.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/701.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Wrestling Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 0.8,
+    "id": 701,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/701.png",
+    "name": "hawlucha",
+    "stats": {
+        "attack": 92,
+        "defense": 75,
+        "hp": 78,
+        "specialAttack": 74,
+        "specialDefense": 63,
+        "speed": 118
+    },
+    "type_relations": {
+        "resistantTo": [
+            "dark",
+            "fighting",
+            "bug",
+            "grass"
+        ],
+        "weakTo": [
+            "fairy",
+            "flying",
+            "electric",
+            "ice",
+            "psychic"
+        ]
+    },
+    "types": [
+        "fighting",
+        "flying"
+    ],
+    "weight": 21.5
+}

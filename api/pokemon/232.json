@@ -1,0 +1,115 @@
+{
+    "abilities": {
+        "sand-veil": "Boosts the Pok\u00e9mon\u2019s evasion in a sandstorm.",
+        "sturdy": "It cannot be knocked out with one hit. One-hit KO\nmoves cannot knock it out, either."
+    },
+    "description": {
+        "game": "gold",
+        "text": "It has sharp, hard\ntusks and a rugged\nhide. Its TACKLE\fis strong enough\nto knock down a\nhouse."
+    },
+    "eggGroups": [
+        "ground"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 25,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "donphan",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/232/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "phanpy",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/231/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/232.png"
+        },
+        {
+            "back_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/232.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/232.png"
+        },
+        {
+            "back_shiny_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/232.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/232.png"
+        },
+        {
+            "front_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/232.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/232.png"
+        },
+        {
+            "front_shiny_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/232.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Armor Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 1.1,
+    "id": 232,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/232.png",
+    "name": "donphan",
+    "stats": {
+        "attack": 120,
+        "defense": 120,
+        "hp": 90,
+        "specialAttack": 60,
+        "specialDefense": 60,
+        "speed": 50
+    },
+    "type_relations": {
+        "resistantTo": [
+            "poison",
+            "rock"
+        ],
+        "weakTo": [
+            "ice",
+            "grass",
+            "water"
+        ]
+    },
+    "types": [
+        "ground"
+    ],
+    "weight": 120.0
+}

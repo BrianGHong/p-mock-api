@@ -1,0 +1,133 @@
+{
+    "abilities": {
+        "compound-eyes": "The Pok\u00e9mon\u2019s compound eyes boost its accuracy.",
+        "friend-guard": "Reduces damage done to allies.",
+        "shield-dust": "This Pok\u00e9mon\u2019s dust blocks the additional effects of\nattacks taken."
+    },
+    "description": {
+        "game": "x",
+        "text": "When under attack from bird Pok\u00e9mon,\nit spews a poisonous black powder\nthat causes paralysis on contact."
+    },
+    "eggGroups": [
+        "bug"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 9,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [
+                    {
+                        "evolution_details": [
+                            {
+                                "gender": null,
+                                "held_item": null,
+                                "item": null,
+                                "known_move": null,
+                                "known_move_type": null,
+                                "location": null,
+                                "min_affection": null,
+                                "min_beauty": null,
+                                "min_happiness": null,
+                                "min_level": 12,
+                                "needs_overworld_rain": false,
+                                "party_species": null,
+                                "party_type": null,
+                                "relative_physical_stats": null,
+                                "time_of_day": "",
+                                "trade_species": null,
+                                "trigger": {
+                                    "name": "level-up",
+                                    "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                                },
+                                "turn_upside_down": false
+                            }
+                        ],
+                        "evolves_to": [],
+                        "is_baby": false,
+                        "species": {
+                            "name": "vivillon",
+                            "url": "https://pokeapi.co/api/v2/pokemon-species/666/"
+                        }
+                    }
+                ],
+                "is_baby": false,
+                "species": {
+                    "name": "spewpa",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/665/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "scatterbug",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/664/"
+        }
+    },
+    "forms": [
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/664.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/664.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Scatterdust Pok\u00e9mon",
+    "hatchCounter": 15,
+    "height": 0.3,
+    "id": 664,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/664.png",
+    "name": "scatterbug",
+    "stats": {
+        "attack": 35,
+        "defense": 40,
+        "hp": 38,
+        "specialAttack": 27,
+        "specialDefense": 25,
+        "speed": 35
+    },
+    "type_relations": {
+        "resistantTo": [
+            "ground",
+            "fighting",
+            "grass"
+        ],
+        "weakTo": [
+            "fire",
+            "rock",
+            "flying"
+        ]
+    },
+    "types": [
+        "bug"
+    ],
+    "weight": 2.5
+}

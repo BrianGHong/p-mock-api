@@ -1,0 +1,144 @@
+{
+    "abilities": {
+        "blaze": "Powers up Fire-type moves when the Pok\u00e9mon\u2019s HP\nis low.",
+        "iron-fist": "Powers up punching moves."
+    },
+    "description": {
+        "game": "diamond",
+        "text": "To intimidate attackers, it\nstretches the fire on its tail\nto make itself appear bigger."
+    },
+    "eggGroups": [
+        "ground",
+        "humanshape"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 14,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [
+                    {
+                        "evolution_details": [
+                            {
+                                "gender": null,
+                                "held_item": null,
+                                "item": null,
+                                "known_move": null,
+                                "known_move_type": null,
+                                "location": null,
+                                "min_affection": null,
+                                "min_beauty": null,
+                                "min_happiness": null,
+                                "min_level": 36,
+                                "needs_overworld_rain": false,
+                                "party_species": null,
+                                "party_type": null,
+                                "relative_physical_stats": null,
+                                "time_of_day": "",
+                                "trade_species": null,
+                                "trigger": {
+                                    "name": "level-up",
+                                    "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                                },
+                                "turn_upside_down": false
+                            }
+                        ],
+                        "evolves_to": [],
+                        "is_baby": false,
+                        "species": {
+                            "name": "infernape",
+                            "url": "https://pokeapi.co/api/v2/pokemon-species/392/"
+                        }
+                    }
+                ],
+                "is_baby": false,
+                "species": {
+                    "name": "monferno",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/391/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "chimchar",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/390/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/391.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/391.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/391.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/391.png"
+        }
+    ],
+    "gender": {
+        "female": 12.5,
+        "male": 87.5
+    },
+    "genera": "Playful Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 0.9,
+    "id": 391,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/391.png",
+    "name": "monferno",
+    "stats": {
+        "attack": 78,
+        "defense": 52,
+        "hp": 64,
+        "specialAttack": 78,
+        "specialDefense": 52,
+        "speed": 81
+    },
+    "type_relations": {
+        "resistantTo": [
+            "dark",
+            "bug",
+            "steel",
+            "fire",
+            "ice",
+            "grass"
+        ],
+        "weakTo": [
+            "ground",
+            "flying",
+            "water",
+            "psychic"
+        ]
+    },
+    "types": [
+        "fire",
+        "fighting"
+    ],
+    "weight": 22.0
+}

@@ -1,0 +1,105 @@
+{
+    "abilities": {
+        "plus": "Boosts the Sp. Atk stat of the Pok\u00e9mon if an ally\nwith the Plus or Minus Ability is also in battle.",
+        "punk-rock": "Boosts the power of sound-based moves. The Pok\u00e9mon also takes half the damage from these kinds of moves.",
+        "technician": "Powers up the Pok\u00e9mon\u2019s weaker moves."
+    },
+    "description": {
+        "game": "sword",
+        "text": "Capable of generating 15,000 volts of\nelectricity, this Pok\u00e9mon looks down on\nall that would challenge it."
+    },
+    "eggGroups": [],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 30,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "toxtricity",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/849/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "toxel",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/848/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/849.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/849.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/849.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/849.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Punk Pok\u00e9mon",
+    "hatchCounter": 25,
+    "height": 1.6,
+    "id": 849,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/849.png",
+    "name": "toxtricity-amped",
+    "stats": {
+        "attack": 98,
+        "defense": 70,
+        "hp": 75,
+        "specialAttack": 114,
+        "specialDefense": 70,
+        "speed": 75
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fighting",
+            "flying",
+            "grass",
+            "fairy",
+            "electric",
+            "bug",
+            "steel",
+            "poison"
+        ],
+        "weakTo": [
+            "ground",
+            "psychic"
+        ]
+    },
+    "types": [
+        "electric",
+        "poison"
+    ],
+    "weight": 40.0
+}

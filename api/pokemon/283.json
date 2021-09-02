@@ -1,0 +1,108 @@
+{
+    "abilities": {
+        "rain-dish": "The Pok\u00e9mon gradually regains HP in rain.",
+        "swift-swim": "Boosts the Pok\u00e9mon\u2019s Speed stat in rain."
+    },
+    "description": {
+        "game": "ruby",
+        "text": "From the tips of its feet, SURSKIT\nsecretes an oil that enables it to walk\non water as if it were skating.\fThis POK\u00e9MON feeds on microscopic\norganisms in ponds and lakes."
+    },
+    "eggGroups": [
+        "water1",
+        "bug"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 22,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "masquerain",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/284/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "surskit",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/283/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/283.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/283.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/283.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/283.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Pond Skater Pok\u00e9mon",
+    "hatchCounter": 15,
+    "height": 0.5,
+    "id": 283,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/283.png",
+    "name": "surskit",
+    "stats": {
+        "attack": 30,
+        "defense": 32,
+        "hp": 40,
+        "specialAttack": 50,
+        "specialDefense": 52,
+        "speed": 65
+    },
+    "type_relations": {
+        "resistantTo": [
+            "ground",
+            "fighting",
+            "water",
+            "steel",
+            "ice"
+        ],
+        "weakTo": [
+            "flying",
+            "rock",
+            "electric"
+        ]
+    },
+    "types": [
+        "bug",
+        "water"
+    ],
+    "weight": 1.7
+}

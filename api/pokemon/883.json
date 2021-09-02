@@ -1,0 +1,69 @@
+{
+    "abilities": {
+        "ice-body": "The Pok\u00e9mon gradually regains HP in a hailstorm.",
+        "slush-rush": "Boosts the Pok\u00e9mon\u2019s Speed stat in a hailstorm.",
+        "water-absorb": "Restores HP if hit by a Water-type move, instead of\ntaking damage."
+    },
+    "description": {
+        "game": "sword",
+        "text": "Though it\u2019s able to capture prey by freezing its\nsurroundings, it has trouble eating the prey\nafterward because its mouth is on top of its head."
+    },
+    "eggGroups": [],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "arctovish",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/883/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/883.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/883.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/883.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/883.png"
+        }
+    ],
+    "gender": {
+        "genderless": -12.5
+    },
+    "genera": "Fossil Pok\u00e9mon",
+    "hatchCounter": 35,
+    "height": 2.0,
+    "id": 883,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/883.png",
+    "name": "arctovish",
+    "stats": {
+        "attack": 90,
+        "defense": 100,
+        "hp": 90,
+        "specialAttack": 80,
+        "specialDefense": 90,
+        "speed": 55
+    },
+    "type_relations": {
+        "resistantTo": [
+            "ice",
+            "water"
+        ],
+        "weakTo": [
+            "fighting",
+            "rock",
+            "electric",
+            "grass"
+        ]
+    },
+    "types": [
+        "water",
+        "ice"
+    ],
+    "weight": 175.0
+}

@@ -1,0 +1,106 @@
+{
+    "abilities": {
+        "beast-boost": "The Pok\u00e9mon boosts its most proficient stat each\ntime it knocks out a Pok\u00e9mon."
+    },
+    "description": {
+        "game": "ultra-sun",
+        "text": "This Ultra Beast is well enough liked to be\nchosen as a first partner in its own world."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": {
+                            "name": "dragon-pulse",
+                            "url": "https://pokeapi.co/api/v2/move/406/"
+                        },
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": null,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "naganadel",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/804/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "poipole",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/803/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/803.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/803.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/803.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/803.png"
+        }
+    ],
+    "gender": {
+        "genderless": -12.5
+    },
+    "genera": "Poison Pin Pok\u00e9mon",
+    "hatchCounter": 120,
+    "height": 0.6,
+    "id": 803,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/803.png",
+    "name": "poipole",
+    "stats": {
+        "attack": 73,
+        "defense": 67,
+        "hp": 67,
+        "specialAttack": 73,
+        "specialDefense": 67,
+        "speed": 73
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fighting",
+            "fairy",
+            "grass",
+            "bug",
+            "poison"
+        ],
+        "weakTo": [
+            "ground",
+            "psychic"
+        ]
+    },
+    "types": [
+        "poison"
+    ],
+    "weight": 1.8
+}

@@ -1,0 +1,108 @@
+{
+    "abilities": {
+        "klutz": "The Pok\u00e9mon can\u2019t use any held items.",
+        "rattled": "Dark-, Ghost-, and Bug-type moves scare the\nPok\u00e9mon and boost its Speed stat.",
+        "static": "The Pok\u00e9mon is charged with static electricity, so\ncontact with it may cause paralysis."
+    },
+    "description": {
+        "game": "sword",
+        "text": "It stores poison in an internal poison sac and\nsecretes that poison through its skin. If you touch\nthis Pok\u00e9mon, a tingling sensation follows."
+    },
+    "eggGroups": [],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 30,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "toxtricity",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/849/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "toxel",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/848/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/848.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/848.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/848.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/848.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Baby Pok\u00e9mon",
+    "hatchCounter": 25,
+    "height": 0.4,
+    "id": 848,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/848.png",
+    "name": "toxel",
+    "stats": {
+        "attack": 38,
+        "defense": 35,
+        "hp": 40,
+        "specialAttack": 54,
+        "specialDefense": 35,
+        "speed": 40
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fighting",
+            "flying",
+            "grass",
+            "fairy",
+            "electric",
+            "bug",
+            "steel",
+            "poison"
+        ],
+        "weakTo": [
+            "ground",
+            "psychic"
+        ]
+    },
+    "types": [
+        "electric",
+        "poison"
+    ],
+    "weight": 11.0
+}

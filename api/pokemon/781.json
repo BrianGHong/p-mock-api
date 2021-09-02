@@ -1,0 +1,72 @@
+{
+    "abilities": {
+        "steelworker": "Powers up Steel-type moves."
+    },
+    "description": {
+        "game": "sun",
+        "text": "Swinging its massive anchor, it can KO Wailord\nin a single blow. What appears to be green\nseaweed is actually its body."
+    },
+    "eggGroups": [
+        "mineral"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "dhelmise",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/781/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/781.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/781.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/781.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/781.png"
+        }
+    ],
+    "gender": {
+        "genderless": -12.5
+    },
+    "genera": "Sea Creeper Pok\u00e9mon",
+    "hatchCounter": 25,
+    "height": 3.9,
+    "id": 781,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/781.png",
+    "name": "dhelmise",
+    "stats": {
+        "attack": 131,
+        "defense": 100,
+        "hp": 70,
+        "specialAttack": 86,
+        "specialDefense": 90,
+        "speed": 40
+    },
+    "type_relations": {
+        "resistantTo": [
+            "ground",
+            "electric",
+            "water",
+            "grass"
+        ],
+        "weakTo": [
+            "dark",
+            "flying",
+            "ghost",
+            "fire",
+            "ice"
+        ]
+    },
+    "types": [
+        "ghost",
+        "grass"
+    ],
+    "weight": 210.0
+}

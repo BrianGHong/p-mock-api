@@ -1,0 +1,75 @@
+{
+    "abilities": {
+        "grassy-surge": "Turns the ground into Grassy Terrain when\nthe Pok\u00e9mon enters a battle.",
+        "telepathy": "Anticipates an ally\u2019s attack and dodges it."
+    },
+    "description": {
+        "game": "sun",
+        "text": "It pulls large trees up by the roots and swings\nthem around. It causes vegetation to grow,\nand then it absorbs energy from the growth."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "tapu-bulu",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/787/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/787.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/787.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/787.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/787.png"
+        }
+    ],
+    "gender": {
+        "genderless": -12.5
+    },
+    "genera": "Land Spirit Pok\u00e9mon",
+    "hatchCounter": 15,
+    "height": 1.9,
+    "id": 787,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/787.png",
+    "name": "tapu-bulu",
+    "stats": {
+        "attack": 130,
+        "defense": 115,
+        "hp": 70,
+        "specialAttack": 85,
+        "specialDefense": 95,
+        "speed": 75
+    },
+    "type_relations": {
+        "resistantTo": [
+            "dark",
+            "ground",
+            "fighting",
+            "electric",
+            "water",
+            "grass"
+        ],
+        "weakTo": [
+            "flying",
+            "steel",
+            "fire",
+            "ice",
+            "poison"
+        ]
+    },
+    "types": [
+        "grass",
+        "fairy"
+    ],
+    "weight": 45.5
+}

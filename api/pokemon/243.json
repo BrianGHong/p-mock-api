@@ -1,0 +1,67 @@
+{
+    "abilities": {
+        "inner-focus": "The Pok\u00e9mon\u2019s intensely focused, and that protects\nthe Pok\u00e9mon from flinching.",
+        "pressure": "By putting pressure on the opposing Pok\u00e9mon, it\nraises their PP usage."
+    },
+    "description": {
+        "game": "gold",
+        "text": "The rain clouds it\ncarries let it\nfire thunderbolts\fat will. They say\nthat it descended\nwith lightning."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "raikou",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/243/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/243.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/243.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/243.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/243.png"
+        }
+    ],
+    "gender": {
+        "genderless": -12.5
+    },
+    "genera": "Thunder Pok\u00e9mon",
+    "hatchCounter": 80,
+    "height": 1.9,
+    "id": 243,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/243.png",
+    "name": "raikou",
+    "stats": {
+        "attack": 85,
+        "defense": 75,
+        "hp": 90,
+        "specialAttack": 115,
+        "specialDefense": 100,
+        "speed": 115
+    },
+    "type_relations": {
+        "resistantTo": [
+            "electric",
+            "flying",
+            "steel"
+        ],
+        "weakTo": [
+            "ground"
+        ]
+    },
+    "types": [
+        "electric"
+    ],
+    "weight": 178.0
+}

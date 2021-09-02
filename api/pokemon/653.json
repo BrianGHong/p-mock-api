@@ -1,0 +1,141 @@
+{
+    "abilities": {
+        "blaze": "Powers up Fire-type moves when the Pok\u00e9mon\u2019s HP\nis low.",
+        "magician": "The Pok\u00e9mon steals the held item of a Pok\u00e9mon it\nhits with a move."
+    },
+    "description": {
+        "game": "x",
+        "text": "Eating a twig fills it with energy,\nand its roomy ears give vent to air\nhotter than 390 degrees Fahrenheit."
+    },
+    "eggGroups": [
+        "ground"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 16,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [
+                    {
+                        "evolution_details": [
+                            {
+                                "gender": null,
+                                "held_item": null,
+                                "item": null,
+                                "known_move": null,
+                                "known_move_type": null,
+                                "location": null,
+                                "min_affection": null,
+                                "min_beauty": null,
+                                "min_happiness": null,
+                                "min_level": 36,
+                                "needs_overworld_rain": false,
+                                "party_species": null,
+                                "party_type": null,
+                                "relative_physical_stats": null,
+                                "time_of_day": "",
+                                "trade_species": null,
+                                "trigger": {
+                                    "name": "level-up",
+                                    "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                                },
+                                "turn_upside_down": false
+                            }
+                        ],
+                        "evolves_to": [],
+                        "is_baby": false,
+                        "species": {
+                            "name": "delphox",
+                            "url": "https://pokeapi.co/api/v2/pokemon-species/655/"
+                        }
+                    }
+                ],
+                "is_baby": false,
+                "species": {
+                    "name": "braixen",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/654/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "fennekin",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/653/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/653.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/653.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/653.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/653.png"
+        }
+    ],
+    "gender": {
+        "female": 12.5,
+        "male": 87.5
+    },
+    "genera": "Fox Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 0.4,
+    "id": 653,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/653.png",
+    "name": "fennekin",
+    "stats": {
+        "attack": 45,
+        "defense": 40,
+        "hp": 40,
+        "specialAttack": 62,
+        "specialDefense": 60,
+        "speed": 60
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fairy",
+            "bug",
+            "steel",
+            "fire",
+            "ice",
+            "grass"
+        ],
+        "weakTo": [
+            "ground",
+            "rock",
+            "water"
+        ]
+    },
+    "types": [
+        "fire"
+    ],
+    "weight": 9.4
+}

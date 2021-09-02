@@ -1,0 +1,68 @@
+{
+    "abilities": {
+        "drizzle": "The Pok\u00e9mon makes it rain when it enters a battle."
+    },
+    "description": {
+        "game": "ruby",
+        "text": "KYOGRE has the power to create massive\nrain clouds that cover the entire sky\nand bring about torrential downpours.\fThis POK\u00e9MON saved people who were\nsuffering from droughts."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "kyogre",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/382/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/382.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/382.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/382.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/382.png"
+        }
+    ],
+    "gender": {
+        "genderless": -12.5
+    },
+    "genera": "Sea Basin Pok\u00e9mon",
+    "hatchCounter": 120,
+    "height": 4.5,
+    "id": 382,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/382.png",
+    "name": "kyogre",
+    "stats": {
+        "attack": 100,
+        "defense": 90,
+        "hp": 100,
+        "specialAttack": 150,
+        "specialDefense": 140,
+        "speed": 90
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fire",
+            "ice",
+            "water",
+            "steel"
+        ],
+        "weakTo": [
+            "grass",
+            "electric"
+        ]
+    },
+    "types": [
+        "water"
+    ],
+    "weight": 352.0
+}

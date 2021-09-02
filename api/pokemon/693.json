@@ -1,0 +1,98 @@
+{
+    "abilities": {
+        "mega-launcher": "Powers up aura and pulse moves."
+    },
+    "description": {
+        "game": "x",
+        "text": "Their enormous claws launch cannonballs of\nwater powerful enough to pierce tanker hulls."
+    },
+    "eggGroups": [
+        "water1",
+        "water3"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 37,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "clawitzer",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/693/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "clauncher",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/692/"
+        }
+    },
+    "forms": [
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/693.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/693.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Howitzer Pok\u00e9mon",
+    "hatchCounter": 15,
+    "height": 1.3,
+    "id": 693,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/693.png",
+    "name": "clawitzer",
+    "stats": {
+        "attack": 73,
+        "defense": 88,
+        "hp": 71,
+        "specialAttack": 120,
+        "specialDefense": 89,
+        "speed": 59
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fire",
+            "ice",
+            "water",
+            "steel"
+        ],
+        "weakTo": [
+            "grass",
+            "electric"
+        ]
+    },
+    "types": [
+        "water"
+    ],
+    "weight": 35.3
+}

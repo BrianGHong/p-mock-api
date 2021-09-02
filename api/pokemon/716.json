@@ -1,0 +1,61 @@
+{
+    "abilities": {
+        "fairy-aura": "Powers up each Pok\u00e9mon\u2019s Fairy-type moves."
+    },
+    "description": {
+        "game": "x",
+        "text": "Legends say it can share eternal life.\nIt slept for a thousand years in the form\nof a tree before its revival."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "xerneas",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/716/"
+        }
+    },
+    "forms": [
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/716.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/716.png"
+        }
+    ],
+    "gender": {
+        "genderless": -12.5
+    },
+    "genera": "Life Pok\u00e9mon",
+    "hatchCounter": 120,
+    "height": 3.0,
+    "id": 716,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/716.png",
+    "name": "xerneas",
+    "stats": {
+        "attack": 131,
+        "defense": 95,
+        "hp": 126,
+        "specialAttack": 131,
+        "specialDefense": 98,
+        "speed": 99
+    },
+    "type_relations": {
+        "resistantTo": [
+            "dark",
+            "fighting",
+            "bug"
+        ],
+        "weakTo": [
+            "poison",
+            "steel"
+        ]
+    },
+    "types": [
+        "fairy"
+    ],
+    "weight": 215.0
+}

@@ -1,0 +1,74 @@
+{
+    "abilities": {
+        "beast-boost": "The Pok\u00e9mon boosts its most proficient stat each\ntime it knocks out a Pok\u00e9mon."
+    },
+    "description": {
+        "game": "sun",
+        "text": "It has gobbled mountains and swallowed whole\nbuildings, according to reports. It\u2019s one of the\nUltra Beasts."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "guzzlord",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/799/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/799.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/799.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/799.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/799.png"
+        }
+    ],
+    "gender": {
+        "genderless": -12.5
+    },
+    "genera": "Junkivore Pok\u00e9mon",
+    "hatchCounter": 120,
+    "height": 5.5,
+    "id": 799,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/799.png",
+    "name": "guzzlord",
+    "stats": {
+        "attack": 101,
+        "defense": 53,
+        "hp": 223,
+        "specialAttack": 97,
+        "specialDefense": 53,
+        "speed": 43
+    },
+    "type_relations": {
+        "resistantTo": [
+            "dark",
+            "electric",
+            "ghost",
+            "water",
+            "fire",
+            "grass"
+        ],
+        "weakTo": [
+            "fighting",
+            "fairy",
+            "dragon",
+            "bug",
+            "ice"
+        ]
+    },
+    "types": [
+        "dark",
+        "dragon"
+    ],
+    "weight": 888.0
+}

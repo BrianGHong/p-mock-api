@@ -1,0 +1,113 @@
+{
+    "abilities": {
+        "defiant": "Boosts the Pok\u00e9mon\u2019s Attack stat sharply when its\nstats are lowered.",
+        "inner-focus": "The Pok\u00e9mon\u2019s intensely focused, and that protects\nthe Pok\u00e9mon from flinching.",
+        "pressure": "By putting pressure on the opposing Pok\u00e9mon, it\nraises their PP usage."
+    },
+    "description": {
+        "game": "black",
+        "text": "It leads a group of Pawniard.\nIt battles to become the boss, but will\nbe driven from the group if it loses."
+    },
+    "eggGroups": [
+        "humanshape"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 52,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "bisharp",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/625/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "pawniard",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/624/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/625.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/625.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/625.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/625.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Sword Blade Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 1.6,
+    "id": 625,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/625.png",
+    "name": "bisharp",
+    "stats": {
+        "attack": 125,
+        "defense": 100,
+        "hp": 65,
+        "specialAttack": 60,
+        "specialDefense": 70,
+        "speed": 70
+    },
+    "type_relations": {
+        "resistantTo": [
+            "dark",
+            "normal",
+            "flying",
+            "rock",
+            "ghost",
+            "dragon",
+            "steel",
+            "ice",
+            "grass",
+            "psychic"
+        ],
+        "weakTo": [
+            "ground",
+            "fighting",
+            "fire"
+        ]
+    },
+    "types": [
+        "dark",
+        "steel"
+    ],
+    "weight": 70.0
+}

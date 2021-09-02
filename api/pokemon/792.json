@@ -1,0 +1,169 @@
+{
+    "abilities": {
+        "shadow-shield": "Reduces the amount of damage the Pok\u00e9mon takes\nwhile its HP is full."
+    },
+    "description": {
+        "game": "sun",
+        "text": "It is said to be a female evolution of Cosmog.\nWhen its third eye activates, away it flies to\nanother world."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 43,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [
+                    {
+                        "evolution_details": [
+                            {
+                                "gender": null,
+                                "held_item": null,
+                                "item": null,
+                                "known_move": null,
+                                "known_move_type": null,
+                                "location": null,
+                                "min_affection": null,
+                                "min_beauty": null,
+                                "min_happiness": null,
+                                "min_level": 53,
+                                "needs_overworld_rain": false,
+                                "party_species": null,
+                                "party_type": null,
+                                "relative_physical_stats": null,
+                                "time_of_day": "",
+                                "trade_species": null,
+                                "trigger": {
+                                    "name": "level-up",
+                                    "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                                },
+                                "turn_upside_down": false
+                            }
+                        ],
+                        "evolves_to": [],
+                        "is_baby": false,
+                        "species": {
+                            "name": "solgaleo",
+                            "url": "https://pokeapi.co/api/v2/pokemon-species/791/"
+                        }
+                    },
+                    {
+                        "evolution_details": [
+                            {
+                                "gender": null,
+                                "held_item": null,
+                                "item": null,
+                                "known_move": null,
+                                "known_move_type": null,
+                                "location": null,
+                                "min_affection": null,
+                                "min_beauty": null,
+                                "min_happiness": null,
+                                "min_level": 53,
+                                "needs_overworld_rain": false,
+                                "party_species": null,
+                                "party_type": null,
+                                "relative_physical_stats": null,
+                                "time_of_day": "",
+                                "trade_species": null,
+                                "trigger": {
+                                    "name": "level-up",
+                                    "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                                },
+                                "turn_upside_down": false
+                            }
+                        ],
+                        "evolves_to": [],
+                        "is_baby": false,
+                        "species": {
+                            "name": "lunala",
+                            "url": "https://pokeapi.co/api/v2/pokemon-species/792/"
+                        }
+                    }
+                ],
+                "is_baby": false,
+                "species": {
+                    "name": "cosmoem",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/790/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "cosmog",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/789/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/792.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/792.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/792.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/792.png"
+        }
+    ],
+    "gender": {
+        "genderless": -12.5
+    },
+    "genera": "Moone Pok\u00e9mon",
+    "hatchCounter": 120,
+    "height": 4.0,
+    "id": 792,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/792.png",
+    "name": "lunala",
+    "stats": {
+        "attack": 113,
+        "defense": 89,
+        "hp": 137,
+        "specialAttack": 137,
+        "specialDefense": 107,
+        "speed": 97
+    },
+    "type_relations": {
+        "resistantTo": [
+            "poison",
+            "fighting",
+            "psychic"
+        ],
+        "weakTo": [
+            "dark",
+            "ghost"
+        ]
+    },
+    "types": [
+        "psychic",
+        "ghost"
+    ],
+    "weight": 120.0
+}

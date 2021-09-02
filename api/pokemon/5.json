@@ -1,0 +1,142 @@
+{
+    "abilities": {
+        "blaze": "Powers up Fire-type moves when the Pok\u00e9mon\u2019s HP\nis low.",
+        "solar-power": "Boosts the Sp. Atk stat in harsh sunlight, but HP\ndecreases every turn."
+    },
+    "description": {
+        "game": "red",
+        "text": "When it swings\nits burning tail,\nit elevates the\ftemperature to\nunbearably high\nlevels."
+    },
+    "eggGroups": [
+        "monster",
+        "dragon"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 16,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [
+                    {
+                        "evolution_details": [
+                            {
+                                "gender": null,
+                                "held_item": null,
+                                "item": null,
+                                "known_move": null,
+                                "known_move_type": null,
+                                "location": null,
+                                "min_affection": null,
+                                "min_beauty": null,
+                                "min_happiness": null,
+                                "min_level": 36,
+                                "needs_overworld_rain": false,
+                                "party_species": null,
+                                "party_type": null,
+                                "relative_physical_stats": null,
+                                "time_of_day": "",
+                                "trade_species": null,
+                                "trigger": {
+                                    "name": "level-up",
+                                    "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                                },
+                                "turn_upside_down": false
+                            }
+                        ],
+                        "evolves_to": [],
+                        "is_baby": false,
+                        "species": {
+                            "name": "charizard",
+                            "url": "https://pokeapi.co/api/v2/pokemon-species/6/"
+                        }
+                    }
+                ],
+                "is_baby": false,
+                "species": {
+                    "name": "charmeleon",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/5/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "charmander",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/4/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/5.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/5.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/5.png"
+        }
+    ],
+    "gender": {
+        "female": 12.5,
+        "male": 87.5
+    },
+    "genera": "Flame Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 1.1,
+    "id": 5,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png",
+    "name": "charmeleon",
+    "stats": {
+        "attack": 64,
+        "defense": 58,
+        "hp": 58,
+        "specialAttack": 80,
+        "specialDefense": 65,
+        "speed": 80
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fairy",
+            "bug",
+            "steel",
+            "fire",
+            "ice",
+            "grass"
+        ],
+        "weakTo": [
+            "ground",
+            "rock",
+            "water"
+        ]
+    },
+    "types": [
+        "fire"
+    ],
+    "weight": 19.0
+}

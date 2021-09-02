@@ -1,0 +1,137 @@
+{
+    "abilities": {
+        "plus": "Boosts the Sp. Atk stat of the Pok\u00e9mon if an ally\nwith the Plus or Minus Ability is also in battle.",
+        "static": "The Pok\u00e9mon is charged with static electricity, so\ncontact with it may cause paralysis."
+    },
+    "description": {
+        "game": "gold",
+        "text": "As a result of\nstoring too much\nelectricity, it\fdeveloped patches\nwhere even downy\nwool won't grow."
+    },
+    "eggGroups": [
+        "monster",
+        "ground"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 15,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [
+                    {
+                        "evolution_details": [
+                            {
+                                "gender": null,
+                                "held_item": null,
+                                "item": null,
+                                "known_move": null,
+                                "known_move_type": null,
+                                "location": null,
+                                "min_affection": null,
+                                "min_beauty": null,
+                                "min_happiness": null,
+                                "min_level": 30,
+                                "needs_overworld_rain": false,
+                                "party_species": null,
+                                "party_type": null,
+                                "relative_physical_stats": null,
+                                "time_of_day": "",
+                                "trade_species": null,
+                                "trigger": {
+                                    "name": "level-up",
+                                    "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                                },
+                                "turn_upside_down": false
+                            }
+                        ],
+                        "evolves_to": [],
+                        "is_baby": false,
+                        "species": {
+                            "name": "ampharos",
+                            "url": "https://pokeapi.co/api/v2/pokemon-species/181/"
+                        }
+                    }
+                ],
+                "is_baby": false,
+                "species": {
+                    "name": "flaaffy",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/180/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "mareep",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/179/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/180.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/180.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/180.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/180.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Wool Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 0.8,
+    "id": 180,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/180.png",
+    "name": "flaaffy",
+    "stats": {
+        "attack": 55,
+        "defense": 55,
+        "hp": 70,
+        "specialAttack": 80,
+        "specialDefense": 60,
+        "speed": 45
+    },
+    "type_relations": {
+        "resistantTo": [
+            "electric",
+            "flying",
+            "steel"
+        ],
+        "weakTo": [
+            "ground"
+        ]
+    },
+    "types": [
+        "electric"
+    ],
+    "weight": 13.3
+}

@@ -1,0 +1,99 @@
+{
+    "abilities": {
+        "adaptability": "Powers up moves of the same type as the Pok\u00e9mon.",
+        "stakeout": "Doubles the damage dealt to the target\u2019s\nreplacement if the target switches out.",
+        "strong-jaw": "The Pok\u00e9mon\u2019s strong jaw boosts the power of its\nbiting moves."
+    },
+    "description": {
+        "game": "sun",
+        "text": "With its sharp fangs, it will bite anything.\nIt did not originally live in Alola but was\nimported from another region."
+    },
+    "eggGroups": [
+        "ground"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 20,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "day",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "gumshoos",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/735/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "yungoos",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/734/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/734.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/734.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/734.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/734.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Loitering Pok\u00e9mon",
+    "hatchCounter": 15,
+    "height": 0.4,
+    "id": 734,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/734.png",
+    "name": "yungoos",
+    "stats": {
+        "attack": 70,
+        "defense": 30,
+        "hp": 48,
+        "specialAttack": 30,
+        "specialDefense": 30,
+        "speed": 45
+    },
+    "type_relations": {
+        "resistantTo": [],
+        "weakTo": [
+            "fighting"
+        ]
+    },
+    "types": [
+        "normal"
+    ],
+    "weight": 6.0
+}

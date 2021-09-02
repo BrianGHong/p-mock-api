@@ -1,0 +1,64 @@
+{
+    "abilities": {
+        "transistor": "Powers up Electric-type moves."
+    },
+    "description": {
+        "game": "sword",
+        "text": "This Pok\u00e9mon is a cluster of electrical energy. It's said that removing the rings on Regieleki's body will unleash the Pok\u00e9mon's latent power."
+    },
+    "eggGroups": [],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "regieleki",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/894/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/894.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/894.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/894.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/894.png"
+        }
+    ],
+    "gender": {
+        "genderless": -12.5
+    },
+    "genera": "Electron Pok\u00e9mon",
+    "hatchCounter": 120,
+    "height": 1.2,
+    "id": 894,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/894.png",
+    "name": "regieleki",
+    "stats": {
+        "attack": 100,
+        "defense": 50,
+        "hp": 80,
+        "specialAttack": 100,
+        "specialDefense": 50,
+        "speed": 200
+    },
+    "type_relations": {
+        "resistantTo": [
+            "electric",
+            "flying",
+            "steel"
+        ],
+        "weakTo": [
+            "ground"
+        ]
+    },
+    "types": [
+        "electric"
+    ],
+    "weight": 145.0
+}

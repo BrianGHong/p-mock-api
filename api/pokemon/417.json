@@ -1,0 +1,76 @@
+{
+    "abilities": {
+        "pickup": "The Pok\u00e9mon may pick up the item an opposing\nPok\u00e9mon used during a battle. It may pick up items\noutside of battle, too.",
+        "run-away": "Enables a sure getaway from wild Pok\u00e9mon.",
+        "volt-absorb": "Restores HP if hit by an Electric-type move, instead\nof taking damage."
+    },
+    "description": {
+        "game": "diamond",
+        "text": "It makes fur balls that crackle\nwith static electricity. It stores\nthem with berries in tree holes."
+    },
+    "eggGroups": [
+        "ground",
+        "fairy"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "pachirisu",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/417/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/417.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/417.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/417.png"
+        },
+        {
+            "front_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/417.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/417.png"
+        },
+        {
+            "front_shiny_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/417.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "EleSquirrel Pok\u00e9mon",
+    "hatchCounter": 10,
+    "height": 0.4,
+    "id": 417,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/417.png",
+    "name": "pachirisu",
+    "stats": {
+        "attack": 45,
+        "defense": 70,
+        "hp": 60,
+        "specialAttack": 45,
+        "specialDefense": 90,
+        "speed": 95
+    },
+    "type_relations": {
+        "resistantTo": [
+            "electric",
+            "flying",
+            "steel"
+        ],
+        "weakTo": [
+            "ground"
+        ]
+    },
+    "types": [
+        "electric"
+    ],
+    "weight": 3.9
+}

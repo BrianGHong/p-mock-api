@@ -1,0 +1,75 @@
+{
+    "abilities": {
+        "hustle": "Boosts the Attack stat, but lowers accuracy.",
+        "swarm": "Powers up Bug-type moves when the Pok\u00e9mon\u2019s HP\nis low.",
+        "truant": "The Pok\u00e9mon can\u2019t use a move the following turn if it\nuses one."
+    },
+    "description": {
+        "game": "black",
+        "text": "They attack in groups, covering\nthemselves in steel armor to\nprotect themselves from Heatmor."
+    },
+    "eggGroups": [
+        "bug"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "durant",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/632/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/632.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/632.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/632.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/632.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Iron Ant Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 0.3,
+    "id": 632,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/632.png",
+    "name": "durant",
+    "stats": {
+        "attack": 109,
+        "defense": 112,
+        "hp": 58,
+        "specialAttack": 48,
+        "specialDefense": 48,
+        "speed": 109
+    },
+    "type_relations": {
+        "resistantTo": [
+            "normal",
+            "fairy",
+            "dragon",
+            "bug",
+            "steel",
+            "ice",
+            "grass",
+            "psychic"
+        ],
+        "weakTo": [
+            "fire"
+        ]
+    },
+    "types": [
+        "bug",
+        "steel"
+    ],
+    "weight": 33.0
+}

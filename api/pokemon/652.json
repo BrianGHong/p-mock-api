@@ -1,0 +1,139 @@
+{
+    "abilities": {
+        "bulletproof": "Protects the Pok\u00e9mon from some ball and\nbomb moves.",
+        "overgrow": "Powers up Grass-type moves when the Pok\u00e9mon\u2019s\nHP is low."
+    },
+    "description": {
+        "game": "x",
+        "text": "Its Tackle is forceful enough to flip a 50-ton tank.\nIt shields its allies from danger with its own body."
+    },
+    "eggGroups": [
+        "ground"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 16,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [
+                    {
+                        "evolution_details": [
+                            {
+                                "gender": null,
+                                "held_item": null,
+                                "item": null,
+                                "known_move": null,
+                                "known_move_type": null,
+                                "location": null,
+                                "min_affection": null,
+                                "min_beauty": null,
+                                "min_happiness": null,
+                                "min_level": 36,
+                                "needs_overworld_rain": false,
+                                "party_species": null,
+                                "party_type": null,
+                                "relative_physical_stats": null,
+                                "time_of_day": "",
+                                "trade_species": null,
+                                "trigger": {
+                                    "name": "level-up",
+                                    "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                                },
+                                "turn_upside_down": false
+                            }
+                        ],
+                        "evolves_to": [],
+                        "is_baby": false,
+                        "species": {
+                            "name": "chesnaught",
+                            "url": "https://pokeapi.co/api/v2/pokemon-species/652/"
+                        }
+                    }
+                ],
+                "is_baby": false,
+                "species": {
+                    "name": "quilladin",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/651/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "chespin",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/650/"
+        }
+    },
+    "forms": [
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/652.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/652.png"
+        }
+    ],
+    "gender": {
+        "female": 12.5,
+        "male": 87.5
+    },
+    "genera": "Spiny Armor Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 1.6,
+    "id": 652,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/652.png",
+    "name": "chesnaught",
+    "stats": {
+        "attack": 107,
+        "defense": 122,
+        "hp": 88,
+        "specialAttack": 74,
+        "specialDefense": 75,
+        "speed": 64
+    },
+    "type_relations": {
+        "resistantTo": [
+            "dark",
+            "ground",
+            "rock",
+            "electric",
+            "water",
+            "grass"
+        ],
+        "weakTo": [
+            "flying",
+            "fairy",
+            "fire",
+            "ice",
+            "poison",
+            "psychic"
+        ]
+    },
+    "types": [
+        "grass",
+        "fighting"
+    ],
+    "weight": 90.0
+}

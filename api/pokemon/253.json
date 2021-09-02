@@ -1,0 +1,142 @@
+{
+    "abilities": {
+        "overgrow": "Powers up Grass-type moves when the Pok\u00e9mon\u2019s\nHP is low.",
+        "unburden": "Boosts the Speed stat if the Pok\u00e9mon\u2019s held item is \nused or lost."
+    },
+    "description": {
+        "game": "ruby",
+        "text": "The leaves growing out of GROVYLE\u2019s\nbody are convenient for camouflaging\nit from enemies in the forest.\fThis POK\u00e9MON is a master at climbing\ntrees in jungles."
+    },
+    "eggGroups": [
+        "monster",
+        "dragon"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 16,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [
+                    {
+                        "evolution_details": [
+                            {
+                                "gender": null,
+                                "held_item": null,
+                                "item": null,
+                                "known_move": null,
+                                "known_move_type": null,
+                                "location": null,
+                                "min_affection": null,
+                                "min_beauty": null,
+                                "min_happiness": null,
+                                "min_level": 36,
+                                "needs_overworld_rain": false,
+                                "party_species": null,
+                                "party_type": null,
+                                "relative_physical_stats": null,
+                                "time_of_day": "",
+                                "trade_species": null,
+                                "trigger": {
+                                    "name": "level-up",
+                                    "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                                },
+                                "turn_upside_down": false
+                            }
+                        ],
+                        "evolves_to": [],
+                        "is_baby": false,
+                        "species": {
+                            "name": "sceptile",
+                            "url": "https://pokeapi.co/api/v2/pokemon-species/254/"
+                        }
+                    }
+                ],
+                "is_baby": false,
+                "species": {
+                    "name": "grovyle",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/253/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "treecko",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/252/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/253.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/253.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/253.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/253.png"
+        }
+    ],
+    "gender": {
+        "female": 12.5,
+        "male": 87.5
+    },
+    "genera": "Wood Gecko Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 0.9,
+    "id": 253,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/253.png",
+    "name": "grovyle",
+    "stats": {
+        "attack": 65,
+        "defense": 45,
+        "hp": 50,
+        "specialAttack": 85,
+        "specialDefense": 65,
+        "speed": 95
+    },
+    "type_relations": {
+        "resistantTo": [
+            "ground",
+            "electric",
+            "water",
+            "grass"
+        ],
+        "weakTo": [
+            "flying",
+            "bug",
+            "fire",
+            "ice",
+            "poison"
+        ]
+    },
+    "types": [
+        "grass"
+    ],
+    "weight": 21.6
+}

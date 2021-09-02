@@ -1,0 +1,106 @@
+{
+    "abilities": {
+        "defiant": "Boosts the Pok\u00e9mon\u2019s Attack stat sharply when its\nstats are lowered.",
+        "inner-focus": "The Pok\u00e9mon\u2019s intensely focused, and that protects\nthe Pok\u00e9mon from flinching.",
+        "keen-eye": "Keen eyes prevent other Pok\u00e9mon from lowering this\nPok\u00e9mon\u2019s accuracy."
+    },
+    "description": {
+        "game": "red",
+        "text": "The sprig of\ngreen onions it\nholds is its\fweapon. It is\nused much like a\nmetal sword."
+    },
+    "eggGroups": [
+        "flying",
+        "ground"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": null,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "other",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/5/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "sirfetchd",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/865/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "farfetchd",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/83/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/83.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/83.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/83.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/83.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Wild Duck Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 0.8,
+    "id": 83,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/83.png",
+    "name": "farfetchd",
+    "stats": {
+        "attack": 90,
+        "defense": 55,
+        "hp": 52,
+        "specialAttack": 58,
+        "specialDefense": 62,
+        "speed": 60
+    },
+    "type_relations": {
+        "resistantTo": [
+            "grass",
+            "bug"
+        ],
+        "weakTo": [
+            "ice",
+            "rock",
+            "electric"
+        ]
+    },
+    "types": [
+        "normal",
+        "flying"
+    ],
+    "weight": 15.0
+}

@@ -1,0 +1,98 @@
+{
+    "abilities": {
+        "contrary": "Makes stat changes have an opposite effect.",
+        "infiltrator": "Passes through the opposing Pok\u00e9mon\u2019s barrier,\nsubstitute, and the like and strikes.",
+        "suction-cups": "This Pok\u00e9mon uses suction cups to stay in one spot\nto negate all moves and items that force\nswitching out."
+    },
+    "description": {
+        "game": "x",
+        "text": "It wields the most compelling hypnotic powers\nof any Pok\u00e9mon, and it forces others to do\nwhatever it wants."
+    },
+    "eggGroups": [
+        "water1",
+        "water2"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 30,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": true
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "malamar",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/687/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "inkay",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/686/"
+        }
+    },
+    "forms": [
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/687.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/687.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Overturning Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 1.5,
+    "id": 687,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/687.png",
+    "name": "malamar",
+    "stats": {
+        "attack": 92,
+        "defense": 88,
+        "hp": 86,
+        "specialAttack": 68,
+        "specialDefense": 75,
+        "speed": 73
+    },
+    "type_relations": {
+        "resistantTo": [
+            "psychic"
+        ],
+        "weakTo": [
+            "fairy",
+            "bug"
+        ]
+    },
+    "types": [
+        "dark",
+        "psychic"
+    ],
+    "weight": 47.0
+}

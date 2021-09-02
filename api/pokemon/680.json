@@ -1,0 +1,145 @@
+{
+    "abilities": {
+        "no-guard": "The Pok\u00e9mon employs no-guard tactics to ensure\nincoming and outgoing attacks always land."
+    },
+    "description": {
+        "game": "x",
+        "text": "When Honedge evolves, it divides into two swords,\nwhich cooperate via telepathy to coordinate attacks\nand slash their enemies to ribbons."
+    },
+    "eggGroups": [
+        "mineral"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 35,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [
+                    {
+                        "evolution_details": [
+                            {
+                                "gender": null,
+                                "held_item": null,
+                                "item": {
+                                    "name": "dusk-stone",
+                                    "url": "https://pokeapi.co/api/v2/item/108/"
+                                },
+                                "known_move": null,
+                                "known_move_type": null,
+                                "location": null,
+                                "min_affection": null,
+                                "min_beauty": null,
+                                "min_happiness": null,
+                                "min_level": null,
+                                "needs_overworld_rain": false,
+                                "party_species": null,
+                                "party_type": null,
+                                "relative_physical_stats": null,
+                                "time_of_day": "",
+                                "trade_species": null,
+                                "trigger": {
+                                    "name": "use-item",
+                                    "url": "https://pokeapi.co/api/v2/evolution-trigger/3/"
+                                },
+                                "turn_upside_down": false
+                            }
+                        ],
+                        "evolves_to": [],
+                        "is_baby": false,
+                        "species": {
+                            "name": "aegislash",
+                            "url": "https://pokeapi.co/api/v2/pokemon-species/681/"
+                        }
+                    }
+                ],
+                "is_baby": false,
+                "species": {
+                    "name": "doublade",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/680/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "honedge",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/679/"
+        }
+    },
+    "forms": [
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/680.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/680.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Sword Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 0.8,
+    "id": 680,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/680.png",
+    "name": "doublade",
+    "stats": {
+        "attack": 110,
+        "defense": 150,
+        "hp": 59,
+        "specialAttack": 45,
+        "specialDefense": 49,
+        "speed": 35
+    },
+    "type_relations": {
+        "resistantTo": [
+            "normal",
+            "flying",
+            "fairy",
+            "rock",
+            "poison",
+            "dragon",
+            "bug",
+            "steel",
+            "ice",
+            "grass",
+            "psychic"
+        ],
+        "weakTo": [
+            "dark",
+            "ground",
+            "fighting",
+            "ghost",
+            "fire"
+        ]
+    },
+    "types": [
+        "steel",
+        "ghost"
+    ],
+    "weight": 4.5
+}

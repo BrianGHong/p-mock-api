@@ -1,0 +1,74 @@
+{
+    "abilities": {
+        "cheek-pouch": "Restores HP as well when the Pok\u00e9mon eats a Berry.",
+        "pickup": "The Pok\u00e9mon may pick up the item an opposing\nPok\u00e9mon used during a battle. It may pick up items\noutside of battle, too.",
+        "plus": "Boosts the Sp. Atk stat of the Pok\u00e9mon if an ally\nwith the Plus or Minus Ability is also in battle."
+    },
+    "description": {
+        "game": "x",
+        "text": "Its whiskers serve as antennas. By sending and\nreceiving electrical waves, it can communicate\nwith others over vast distances."
+    },
+    "eggGroups": [
+        "ground",
+        "fairy"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "dedenne",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/702/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/702.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/702.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/702.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/702.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Antenna Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 0.2,
+    "id": 702,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/702.png",
+    "name": "dedenne",
+    "stats": {
+        "attack": 58,
+        "defense": 57,
+        "hp": 67,
+        "specialAttack": 81,
+        "specialDefense": 67,
+        "speed": 101
+    },
+    "type_relations": {
+        "resistantTo": [
+            "dark",
+            "fighting",
+            "flying",
+            "electric",
+            "bug"
+        ],
+        "weakTo": [
+            "poison",
+            "ground"
+        ]
+    },
+    "types": [
+        "electric",
+        "fairy"
+    ],
+    "weight": 2.2
+}

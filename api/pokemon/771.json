@@ -1,0 +1,70 @@
+{
+    "abilities": {
+        "innards-out": "Damages the attacker landing the finishing hit\nby the amount equal to its last HP.",
+        "unaware": "When attacking, the Pok\u00e9mon ignores the target\nPok\u00e9mon\u2019s stat changes."
+    },
+    "description": {
+        "game": "sun",
+        "text": "It lives in shallow seas, such as areas near a\nbeach. It can eject its internal organs, which it\nuses to engulf its prey or battle enemies."
+    },
+    "eggGroups": [
+        "water1"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "pyukumuku",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/771/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/771.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/771.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/771.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/771.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Sea Cucumber Pok\u00e9mon",
+    "hatchCounter": 15,
+    "height": 0.3,
+    "id": 771,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/771.png",
+    "name": "pyukumuku",
+    "stats": {
+        "attack": 60,
+        "defense": 130,
+        "hp": 55,
+        "specialAttack": 30,
+        "specialDefense": 130,
+        "speed": 5
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fire",
+            "ice",
+            "water",
+            "steel"
+        ],
+        "weakTo": [
+            "grass",
+            "electric"
+        ]
+    },
+    "types": [
+        "water"
+    ],
+    "weight": 1.2
+}

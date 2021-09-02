@@ -1,0 +1,75 @@
+{
+    "abilities": {
+        "levitate": "By floating in the air, the Pok\u00e9mon receives full\nimmunity to all Ground-type moves."
+    },
+    "description": {
+        "game": "ruby",
+        "text": "SOLROCK is a new species of POK\u00e9MON\nthat is said to have fallen from space.\nIt floats in air and moves silently.\fIn battle, this POK\u00e9MON releases\nintensely bright light."
+    },
+    "eggGroups": [
+        "mineral"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "solrock",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/338/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/338.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/338.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/338.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/338.png"
+        }
+    ],
+    "gender": {
+        "genderless": -12.5
+    },
+    "genera": "Meteorite Pok\u00e9mon",
+    "hatchCounter": 25,
+    "height": 1.2,
+    "id": 338,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/338.png",
+    "name": "solrock",
+    "stats": {
+        "attack": 95,
+        "defense": 85,
+        "hp": 90,
+        "specialAttack": 55,
+        "specialDefense": 65,
+        "speed": 70
+    },
+    "type_relations": {
+        "resistantTo": [
+            "normal",
+            "flying",
+            "fire",
+            "poison",
+            "psychic"
+        ],
+        "weakTo": [
+            "dark",
+            "ground",
+            "ghost",
+            "water",
+            "bug",
+            "steel",
+            "grass"
+        ]
+    },
+    "types": [
+        "rock",
+        "psychic"
+    ],
+    "weight": 154.0
+}

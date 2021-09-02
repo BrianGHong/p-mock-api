@@ -1,0 +1,104 @@
+{
+    "abilities": {
+        "mega-launcher": "Powers up aura and pulse moves."
+    },
+    "description": {
+        "game": "x",
+        "text": "They knock down flying prey by firing\ncompressed water from their massive\nclaws like shooting a pistol."
+    },
+    "eggGroups": [
+        "water1",
+        "water3"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 37,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "clawitzer",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/693/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "clauncher",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/692/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/692.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/692.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/692.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/692.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Water Gun Pok\u00e9mon",
+    "hatchCounter": 15,
+    "height": 0.5,
+    "id": 692,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/692.png",
+    "name": "clauncher",
+    "stats": {
+        "attack": 53,
+        "defense": 62,
+        "hp": 50,
+        "specialAttack": 58,
+        "specialDefense": 63,
+        "speed": 44
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fire",
+            "ice",
+            "water",
+            "steel"
+        ],
+        "weakTo": [
+            "grass",
+            "electric"
+        ]
+    },
+    "types": [
+        "water"
+    ],
+    "weight": 8.3
+}

@@ -1,0 +1,119 @@
+{
+    "abilities": {
+        "damp": "Prevents the use of explosive moves such as\nSelf-Destruct by dampening its surroundings.",
+        "unaware": "When attacking, the Pok\u00e9mon ignores the target\nPok\u00e9mon\u2019s stat changes.",
+        "water-absorb": "Restores HP if hit by a Water-type move, instead of\ntaking damage."
+    },
+    "description": {
+        "game": "gold",
+        "text": "This carefree\nPOK\u00e9MON has an\neasy-going nature.\fWhile swimming, it\nalways bumps into\nboat hulls."
+    },
+    "eggGroups": [
+        "water1",
+        "ground"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 20,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "quagsire",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/195/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "wooper",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/194/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/195.png"
+        },
+        {
+            "back_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/195.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/195.png"
+        },
+        {
+            "back_shiny_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/195.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/195.png"
+        },
+        {
+            "front_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/195.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/195.png"
+        },
+        {
+            "front_shiny_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/195.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Water Fish Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 1.4,
+    "id": 195,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/195.png",
+    "name": "quagsire",
+    "stats": {
+        "attack": 85,
+        "defense": 85,
+        "hp": 95,
+        "specialAttack": 65,
+        "specialDefense": 65,
+        "speed": 35
+    },
+    "type_relations": {
+        "resistantTo": [
+            "rock",
+            "steel",
+            "fire",
+            "poison"
+        ],
+        "weakTo": [
+            "grass",
+            "electric"
+        ]
+    },
+    "types": [
+        "water",
+        "ground"
+    ],
+    "weight": 75.0
+}

@@ -1,0 +1,66 @@
+{
+    "abilities": {
+        "contrary": "Makes stat changes have an opposite effect.",
+        "own-tempo": "This Pok\u00e9mon has its own tempo, and that prevents\nit from becoming confused.",
+        "tangled-feet": "Raises evasion if the Pok\u00e9mon is confused."
+    },
+    "description": {
+        "game": "ruby",
+        "text": "All the SPINDA that exist in the\nworld are said to have utterly unique\nspot patterns.\fThe shaky, tottering steps of this\nPOK\u00e9MON give it the appearance of\ndancing."
+    },
+    "eggGroups": [
+        "ground",
+        "humanshape"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "spinda",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/327/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/327.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/327.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/327.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/327.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Spot Panda Pok\u00e9mon",
+    "hatchCounter": 15,
+    "height": 1.1,
+    "id": 327,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/327.png",
+    "name": "spinda",
+    "stats": {
+        "attack": 60,
+        "defense": 60,
+        "hp": 60,
+        "specialAttack": 60,
+        "specialDefense": 60,
+        "speed": 60
+    },
+    "type_relations": {
+        "resistantTo": [],
+        "weakTo": [
+            "fighting"
+        ]
+    },
+    "types": [
+        "normal"
+    ],
+    "weight": 5.0
+}

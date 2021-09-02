@@ -1,0 +1,71 @@
+{
+    "abilities": {
+        "electric-surge": "Turns the ground into Electric Terrain when the\nPok\u00e9mon enters a battle.",
+        "telepathy": "Anticipates an ally\u2019s attack and dodges it."
+    },
+    "description": {
+        "game": "sun",
+        "text": "This guardian deity of Melemele is brimming with\ncuriosity. It summons thunderclouds and stores\ntheir lightning inside its body."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "tapu-koko",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/785/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/785.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/785.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/785.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/785.png"
+        }
+    ],
+    "gender": {
+        "genderless": -12.5
+    },
+    "genera": "Land Spirit Pok\u00e9mon",
+    "hatchCounter": 15,
+    "height": 1.8,
+    "id": 785,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/785.png",
+    "name": "tapu-koko",
+    "stats": {
+        "attack": 115,
+        "defense": 85,
+        "hp": 70,
+        "specialAttack": 95,
+        "specialDefense": 75,
+        "speed": 130
+    },
+    "type_relations": {
+        "resistantTo": [
+            "dark",
+            "fighting",
+            "flying",
+            "electric",
+            "bug"
+        ],
+        "weakTo": [
+            "poison",
+            "ground"
+        ]
+    },
+    "types": [
+        "electric",
+        "fairy"
+    ],
+    "weight": 20.5
+}

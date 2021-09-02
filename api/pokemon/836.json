@@ -1,0 +1,100 @@
+{
+    "abilities": {
+        "competitive": "Boosts the Sp. Atk stat sharply when a stat\nis lowered.",
+        "strong-jaw": "The Pok\u00e9mon\u2019s strong jaw boosts the power of its\nbiting moves."
+    },
+    "description": {
+        "game": "sword",
+        "text": "This Pok\u00e9mon generates electricity and channels\nit into its legs to keep them going strong.\nBoltund can run nonstop for three full days."
+    },
+    "eggGroups": [],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 25,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "boltund",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/836/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "yamper",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/835/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/836.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/836.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/836.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/836.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Dog Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 1.0,
+    "id": 836,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/836.png",
+    "name": "boltund",
+    "stats": {
+        "attack": 90,
+        "defense": 60,
+        "hp": 69,
+        "specialAttack": 90,
+        "specialDefense": 60,
+        "speed": 121
+    },
+    "type_relations": {
+        "resistantTo": [
+            "electric",
+            "flying",
+            "steel"
+        ],
+        "weakTo": [
+            "ground"
+        ]
+    },
+    "types": [
+        "electric"
+    ],
+    "weight": 34.0
+}

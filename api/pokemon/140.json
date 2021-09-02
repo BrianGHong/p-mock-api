@@ -1,0 +1,110 @@
+{
+    "abilities": {
+        "battle-armor": "Hard armor protects the Pok\u00e9mon from critical hits.",
+        "swift-swim": "Boosts the Pok\u00e9mon\u2019s Speed stat in rain.",
+        "weak-armor": "Physical attacks to the Pok\u00e9mon lower its Defense\nstat but sharply raise its Speed stat."
+    },
+    "description": {
+        "game": "red",
+        "text": "A POK\u00e9MON that\nwas resurrected\nfrom a fossil\ffound in what was\nonce the ocean\nfloor eons ago."
+    },
+    "eggGroups": [
+        "water1",
+        "water3"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 40,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "kabutops",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/141/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "kabuto",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/140/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/140.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/140.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/140.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/140.png"
+        }
+    ],
+    "gender": {
+        "female": 12.5,
+        "male": 87.5
+    },
+    "genera": "Shellfish Pok\u00e9mon",
+    "hatchCounter": 30,
+    "height": 0.5,
+    "id": 140,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/140.png",
+    "name": "kabuto",
+    "stats": {
+        "attack": 80,
+        "defense": 90,
+        "hp": 30,
+        "specialAttack": 55,
+        "specialDefense": 45,
+        "speed": 55
+    },
+    "type_relations": {
+        "resistantTo": [
+            "normal",
+            "flying",
+            "fire",
+            "ice",
+            "poison"
+        ],
+        "weakTo": [
+            "ground",
+            "fighting",
+            "electric",
+            "grass"
+        ]
+    },
+    "types": [
+        "rock",
+        "water"
+    ],
+    "weight": 11.5
+}

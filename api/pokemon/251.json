@@ -1,0 +1,76 @@
+{
+    "abilities": {
+        "natural-cure": "All status conditions heal when the Pok\u00e9mon\nswitches out."
+    },
+    "description": {
+        "game": "gold",
+        "text": "This POK\u00e9MON wan\u00ad\nders across time.\nGrass and trees\fflourish in the\nforests in which\nit has appeared."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "celebi",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/251/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/251.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/251.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/251.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/251.png"
+        }
+    ],
+    "gender": {
+        "genderless": -12.5
+    },
+    "genera": "Time Travel Pok\u00e9mon",
+    "hatchCounter": 120,
+    "height": 0.6,
+    "id": 251,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/251.png",
+    "name": "celebi",
+    "stats": {
+        "attack": 100,
+        "defense": 100,
+        "hp": 100,
+        "specialAttack": 100,
+        "specialDefense": 100,
+        "speed": 100
+    },
+    "type_relations": {
+        "resistantTo": [
+            "ground",
+            "fighting",
+            "electric",
+            "water",
+            "grass",
+            "psychic"
+        ],
+        "weakTo": [
+            "dark",
+            "flying",
+            "ghost",
+            "bug",
+            "fire",
+            "ice",
+            "poison"
+        ]
+    },
+    "types": [
+        "psychic",
+        "grass"
+    ],
+    "weight": 5.0
+}

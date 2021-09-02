@@ -1,0 +1,68 @@
+{
+    "abilities": {
+        "lightning-rod": "The Pok\u00e9mon draws in all Electric-type moves. \nInstead of being hit by Electric-type moves, \nit boosts its Sp. Atk.",
+        "plus": "Boosts the Sp. Atk stat of the Pok\u00e9mon if an ally\nwith the Plus or Minus Ability is also in battle."
+    },
+    "description": {
+        "game": "ruby",
+        "text": "PLUSLE always acts as a cheerleader\nfor its partners. Whenever a teammate\nputs out a good effort in battle, this\fPOK\u00e9MON shorts out its body to create\nthe crackling noises of sparks to show\nits joy."
+    },
+    "eggGroups": [
+        "fairy"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "plusle",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/311/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/311.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/311.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/311.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/311.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Cheering Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 0.4,
+    "id": 311,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/311.png",
+    "name": "plusle",
+    "stats": {
+        "attack": 50,
+        "defense": 40,
+        "hp": 60,
+        "specialAttack": 85,
+        "specialDefense": 75,
+        "speed": 95
+    },
+    "type_relations": {
+        "resistantTo": [
+            "electric",
+            "flying",
+            "steel"
+        ],
+        "weakTo": [
+            "ground"
+        ]
+    },
+    "types": [
+        "electric"
+    ],
+    "weight": 4.2
+}

@@ -1,0 +1,88 @@
+{
+    "abilities": {
+        "rock-head": "Protects the Pok\u00e9mon from recoil damage.",
+        "sturdy": "It cannot be knocked out with one hit. One-hit KO\nmoves cannot knock it out, either.",
+        "swift-swim": "Boosts the Pok\u00e9mon\u2019s Speed stat in rain."
+    },
+    "description": {
+        "game": "leafgreen",
+        "text": "It has remained unchanged for 100\nmillion years. It was discovered\nduring a deep-sea exploration."
+    },
+    "eggGroups": [
+        "water1",
+        "water2"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "relicanth",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/369/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/369.png"
+        },
+        {
+            "back_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/369.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/369.png"
+        },
+        {
+            "back_shiny_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/369.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/369.png"
+        },
+        {
+            "front_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/369.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/369.png"
+        },
+        {
+            "front_shiny_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/369.png"
+        }
+    ],
+    "gender": {
+        "female": 12.5,
+        "male": 87.5
+    },
+    "genera": "Longevity Pok\u00e9mon",
+    "hatchCounter": 40,
+    "height": 1.0,
+    "id": 369,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/369.png",
+    "name": "relicanth",
+    "stats": {
+        "attack": 90,
+        "defense": 130,
+        "hp": 100,
+        "specialAttack": 45,
+        "specialDefense": 65,
+        "speed": 55
+    },
+    "type_relations": {
+        "resistantTo": [
+            "normal",
+            "flying",
+            "fire",
+            "ice",
+            "poison"
+        ],
+        "weakTo": [
+            "ground",
+            "fighting",
+            "electric",
+            "grass"
+        ]
+    },
+    "types": [
+        "water",
+        "rock"
+    ],
+    "weight": 23.4
+}

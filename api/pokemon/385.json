@@ -1,0 +1,76 @@
+{
+    "abilities": {
+        "serene-grace": "Boosts the likelihood of additional effects occurring \nwhen attacking."
+    },
+    "description": {
+        "game": "ruby",
+        "text": "A legend states that JIRACHI will make\ntrue any wish that is written on notes\nattached to its head when it awakens.\fIf this POK\u00e9MON senses danger, it will\nfight without awakening."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "jirachi",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/385/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/385.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/385.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/385.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/385.png"
+        }
+    ],
+    "gender": {
+        "genderless": -12.5
+    },
+    "genera": "Wish Pok\u00e9mon",
+    "hatchCounter": 120,
+    "height": 0.3,
+    "id": 385,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/385.png",
+    "name": "jirachi",
+    "stats": {
+        "attack": 100,
+        "defense": 100,
+        "hp": 100,
+        "specialAttack": 100,
+        "specialDefense": 100,
+        "speed": 100
+    },
+    "type_relations": {
+        "resistantTo": [
+            "normal",
+            "flying",
+            "fairy",
+            "rock",
+            "dragon",
+            "steel",
+            "ice",
+            "grass",
+            "psychic"
+        ],
+        "weakTo": [
+            "dark",
+            "ground",
+            "ghost",
+            "fire"
+        ]
+    },
+    "types": [
+        "steel",
+        "psychic"
+    ],
+    "weight": 1.1
+}

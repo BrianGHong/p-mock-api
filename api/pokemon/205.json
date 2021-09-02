@@ -1,0 +1,108 @@
+{
+    "abilities": {
+        "overcoat": "Protects the Pok\u00e9mon from things like sand, hail,\nand powder.",
+        "sturdy": "It cannot be knocked out with one hit. One-hit KO\nmoves cannot knock it out, either."
+    },
+    "description": {
+        "game": "gold",
+        "text": "Its entire body is\nshielded by a\nsteel-hard shell.\fWhat lurks inside\nthe armor is a\ntotal mystery."
+    },
+    "eggGroups": [
+        "bug"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 31,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "forretress",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/205/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "pineco",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/204/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/205.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/205.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/205.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/205.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Bagworm Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 1.2,
+    "id": 205,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/205.png",
+    "name": "forretress",
+    "stats": {
+        "attack": 90,
+        "defense": 140,
+        "hp": 75,
+        "specialAttack": 60,
+        "specialDefense": 60,
+        "speed": 40
+    },
+    "type_relations": {
+        "resistantTo": [
+            "normal",
+            "fairy",
+            "dragon",
+            "bug",
+            "steel",
+            "ice",
+            "grass",
+            "psychic"
+        ],
+        "weakTo": [
+            "fire"
+        ]
+    },
+    "types": [
+        "bug",
+        "steel"
+    ],
+    "weight": 125.8
+}

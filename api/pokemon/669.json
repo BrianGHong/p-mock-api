@@ -1,0 +1,131 @@
+{
+    "abilities": {
+        "flower-veil": "Ally Grass-type Pok\u00e9mon are protected from\nstatus conditions and the lowering of their stats.",
+        "symbiosis": "The Pok\u00e9mon passes its item to an ally that has\nused up an item."
+    },
+    "description": {
+        "game": "x",
+        "text": "It draws out and controls the hidden power\nof flowers. The flower Flab\u00e9b\u00e9 holds\nis most likely part of its body."
+    },
+    "eggGroups": [
+        "fairy"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 19,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [
+                    {
+                        "evolution_details": [
+                            {
+                                "gender": null,
+                                "held_item": null,
+                                "item": {
+                                    "name": "shiny-stone",
+                                    "url": "https://pokeapi.co/api/v2/item/107/"
+                                },
+                                "known_move": null,
+                                "known_move_type": null,
+                                "location": null,
+                                "min_affection": null,
+                                "min_beauty": null,
+                                "min_happiness": null,
+                                "min_level": null,
+                                "needs_overworld_rain": false,
+                                "party_species": null,
+                                "party_type": null,
+                                "relative_physical_stats": null,
+                                "time_of_day": "",
+                                "trade_species": null,
+                                "trigger": {
+                                    "name": "use-item",
+                                    "url": "https://pokeapi.co/api/v2/evolution-trigger/3/"
+                                },
+                                "turn_upside_down": false
+                            }
+                        ],
+                        "evolves_to": [],
+                        "is_baby": false,
+                        "species": {
+                            "name": "florges",
+                            "url": "https://pokeapi.co/api/v2/pokemon-species/671/"
+                        }
+                    }
+                ],
+                "is_baby": false,
+                "species": {
+                    "name": "floette",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/670/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "flabebe",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/669/"
+        }
+    },
+    "forms": [
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/669.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/669.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Single Bloom Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 0.1,
+    "id": 669,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/669.png",
+    "name": "flabebe",
+    "stats": {
+        "attack": 38,
+        "defense": 39,
+        "hp": 44,
+        "specialAttack": 61,
+        "specialDefense": 79,
+        "speed": 42
+    },
+    "type_relations": {
+        "resistantTo": [
+            "dark",
+            "fighting",
+            "bug"
+        ],
+        "weakTo": [
+            "poison",
+            "steel"
+        ]
+    },
+    "types": [
+        "fairy"
+    ],
+    "weight": 0.1
+}

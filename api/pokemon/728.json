@@ -1,0 +1,139 @@
+{
+    "abilities": {
+        "liquid-voice": "All sound-based moves become Water-type moves.",
+        "torrent": "Powers up Water-type moves when the Pok\u00e9mon\u2019s\nHP is low."
+    },
+    "description": {
+        "game": "sun",
+        "text": "This Pok\u00e9mon snorts body fluids from its nose,\nblowing balloons to smash into its foes.\nIt\u2019s famous for being a hard worker."
+    },
+    "eggGroups": [
+        "water1",
+        "ground"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 17,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [
+                    {
+                        "evolution_details": [
+                            {
+                                "gender": null,
+                                "held_item": null,
+                                "item": null,
+                                "known_move": null,
+                                "known_move_type": null,
+                                "location": null,
+                                "min_affection": null,
+                                "min_beauty": null,
+                                "min_happiness": null,
+                                "min_level": 34,
+                                "needs_overworld_rain": false,
+                                "party_species": null,
+                                "party_type": null,
+                                "relative_physical_stats": null,
+                                "time_of_day": "",
+                                "trade_species": null,
+                                "trigger": {
+                                    "name": "level-up",
+                                    "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                                },
+                                "turn_upside_down": false
+                            }
+                        ],
+                        "evolves_to": [],
+                        "is_baby": false,
+                        "species": {
+                            "name": "primarina",
+                            "url": "https://pokeapi.co/api/v2/pokemon-species/730/"
+                        }
+                    }
+                ],
+                "is_baby": false,
+                "species": {
+                    "name": "brionne",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/729/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "popplio",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/728/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/728.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/728.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/728.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/728.png"
+        }
+    ],
+    "gender": {
+        "female": 12.5,
+        "male": 87.5
+    },
+    "genera": "Sea Lion Pok\u00e9mon",
+    "hatchCounter": 15,
+    "height": 0.4,
+    "id": 728,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/728.png",
+    "name": "popplio",
+    "stats": {
+        "attack": 54,
+        "defense": 54,
+        "hp": 50,
+        "specialAttack": 66,
+        "specialDefense": 56,
+        "speed": 40
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fire",
+            "ice",
+            "water",
+            "steel"
+        ],
+        "weakTo": [
+            "grass",
+            "electric"
+        ]
+    },
+    "types": [
+        "water"
+    ],
+    "weight": 7.5
+}

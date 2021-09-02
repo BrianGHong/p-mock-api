@@ -1,0 +1,73 @@
+{
+    "abilities": {
+        "motor-drive": "Boosts its Speed stat if hit by an Electric-type move,\ninstead of taking damage.",
+        "static": "The Pok\u00e9mon is charged with static electricity, so\ncontact with it may cause paralysis."
+    },
+    "description": {
+        "game": "black",
+        "text": "The energy made in its cheeks\u2019 electric\npouches is stored inside its membrane\nand released while it is gliding."
+    },
+    "eggGroups": [
+        "ground"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "emolga",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/587/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/587.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/587.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/587.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/587.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Sky Squirrel Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 0.4,
+    "id": 587,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/587.png",
+    "name": "emolga",
+    "stats": {
+        "attack": 75,
+        "defense": 60,
+        "hp": 55,
+        "specialAttack": 75,
+        "specialDefense": 60,
+        "speed": 103
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fighting",
+            "flying",
+            "bug",
+            "steel",
+            "grass"
+        ],
+        "weakTo": [
+            "ice",
+            "ground",
+            "rock"
+        ]
+    },
+    "types": [
+        "electric",
+        "flying"
+    ],
+    "weight": 5.0
+}

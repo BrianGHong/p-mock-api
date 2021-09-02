@@ -1,0 +1,70 @@
+{
+    "abilities": {
+        "justified": "Being hit by a Dark-type move boosts the Attack\nstat of the Pok\u00e9mon, for justice.",
+        "pressure": "By putting pressure on the opposing Pok\u00e9mon, it\nraises their PP usage.",
+        "super-luck": "The Pok\u00e9mon is so lucky that the critical-hit ratios\nof its moves are boosted."
+    },
+    "description": {
+        "game": "ruby",
+        "text": "Every time ABSOL appears before people,\nit is followed by a disaster such as an\nearthquake or a tidal wave.\fAs a result, it came to be known as the\ndisaster POK\u00e9MON."
+    },
+    "eggGroups": [
+        "ground"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "absol",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/359/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/359.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/359.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/359.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/359.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Disaster Pok\u00e9mon",
+    "hatchCounter": 25,
+    "height": 1.2,
+    "id": 359,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/359.png",
+    "name": "absol",
+    "stats": {
+        "attack": 130,
+        "defense": 60,
+        "hp": 65,
+        "specialAttack": 75,
+        "specialDefense": 60,
+        "speed": 75
+    },
+    "type_relations": {
+        "resistantTo": [
+            "dark",
+            "ghost"
+        ],
+        "weakTo": [
+            "fighting",
+            "bug",
+            "fairy"
+        ]
+    },
+    "types": [
+        "dark"
+    ],
+    "weight": 47.0
+}

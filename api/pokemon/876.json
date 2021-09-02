@@ -1,0 +1,77 @@
+{
+    "abilities": {
+        "inner-focus": "The Pok\u00e9mon\u2019s intensely focused, and that protects\nthe Pok\u00e9mon from flinching.",
+        "psychic-surge": "Turns the ground into Psychic Terrain when\nthe Pok\u00e9mon enters a battle.",
+        "synchronize": "The attacker will receive the same status condition if\nit inflicts a burn, poison, or paralysis to the Pok\u00e9mon."
+    },
+    "description": {
+        "game": "sword",
+        "text": "It uses the horns on its head to sense the\nemotions of others. Males will act as valets for\nthose they serve, looking after their every need."
+    },
+    "eggGroups": [],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "indeedee",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/876/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/876.png"
+        },
+        {
+            "back_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/876.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/876.png"
+        },
+        {
+            "back_shiny_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/876.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/876.png"
+        },
+        {
+            "front_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/876.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/876.png"
+        },
+        {
+            "front_shiny_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/876.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Emotion Pok\u00e9mon",
+    "hatchCounter": 40,
+    "height": 0.9,
+    "id": 876,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/876.png",
+    "name": "indeedee-male",
+    "stats": {
+        "attack": 65,
+        "defense": 55,
+        "hp": 60,
+        "specialAttack": 105,
+        "specialDefense": 95,
+        "speed": 95
+    },
+    "type_relations": {
+        "resistantTo": [
+            "psychic"
+        ],
+        "weakTo": [
+            "dark",
+            "bug",
+            "ghost"
+        ]
+    },
+    "types": [
+        "psychic",
+        "normal"
+    ],
+    "weight": 28.0
+}

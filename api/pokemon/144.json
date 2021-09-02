@@ -1,0 +1,70 @@
+{
+    "abilities": {
+        "pressure": "By putting pressure on the opposing Pok\u00e9mon, it\nraises their PP usage.",
+        "snow-cloak": "Boosts evasion in a hailstorm."
+    },
+    "description": {
+        "game": "red",
+        "text": "A legendary bird\nPOK\u00e9MON that is\nsaid to appear to\fdoomed people who\nare lost in icy\nmountains."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "articuno",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/144/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/144.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/144.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/144.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/144.png"
+        }
+    ],
+    "gender": {
+        "genderless": -12.5
+    },
+    "genera": "Freeze Pok\u00e9mon",
+    "hatchCounter": 80,
+    "height": 1.7,
+    "id": 144,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/144.png",
+    "name": "articuno",
+    "stats": {
+        "attack": 85,
+        "defense": 100,
+        "hp": 90,
+        "specialAttack": 95,
+        "specialDefense": 125,
+        "speed": 85
+    },
+    "type_relations": {
+        "resistantTo": [
+            "grass",
+            "bug"
+        ],
+        "weakTo": [
+            "rock",
+            "electric",
+            "steel",
+            "fire"
+        ]
+    },
+    "types": [
+        "ice",
+        "flying"
+    ],
+    "weight": 55.4
+}

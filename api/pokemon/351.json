@@ -1,0 +1,64 @@
+{
+    "abilities": {
+        "forecast": "The Pok\u00e9mon transforms with the weather to change\nits type to Water, Fire, or Ice."
+    },
+    "description": {
+        "game": "ruby",
+        "text": "CASTFORM\u2019s appearance changes with\nthe weather.\nThis POK\u00e9MON gained the ability to use\fthe vast power of nature to protect\nits tiny body."
+    },
+    "eggGroups": [
+        "fairy",
+        "indeterminate"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "castform",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/351/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/351.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/351.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/351.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/351.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Weather Pok\u00e9mon",
+    "hatchCounter": 25,
+    "height": 0.3,
+    "id": 351,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/351.png",
+    "name": "castform",
+    "stats": {
+        "attack": 70,
+        "defense": 70,
+        "hp": 70,
+        "specialAttack": 70,
+        "specialDefense": 70,
+        "speed": 70
+    },
+    "type_relations": {
+        "resistantTo": [],
+        "weakTo": [
+            "fighting"
+        ]
+    },
+    "types": [
+        "normal"
+    ],
+    "weight": 0.8
+}

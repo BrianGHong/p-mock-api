@@ -1,0 +1,107 @@
+{
+    "abilities": {
+        "illuminate": "Raises the likelihood of meeting wild Pok\u00e9mon by\nilluminating the surroundings.",
+        "volt-absorb": "Restores HP if hit by an Electric-type move, instead\nof taking damage.",
+        "water-absorb": "Restores HP if hit by a Water-type move, instead of\ntaking damage."
+    },
+    "description": {
+        "game": "gold",
+        "text": "The light it emits\nis so bright that\nit can illuminate\fthe sea's surface\nfrom a depth of\nover three miles."
+    },
+    "eggGroups": [
+        "water2"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 27,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "lanturn",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/171/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "chinchou",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/170/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/171.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/171.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/171.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/171.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Light Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 1.2,
+    "id": 171,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/171.png",
+    "name": "lanturn",
+    "stats": {
+        "attack": 58,
+        "defense": 58,
+        "hp": 125,
+        "specialAttack": 76,
+        "specialDefense": 76,
+        "speed": 67
+    },
+    "type_relations": {
+        "resistantTo": [
+            "flying",
+            "water",
+            "steel",
+            "fire",
+            "ice"
+        ],
+        "weakTo": [
+            "grass",
+            "ground"
+        ]
+    },
+    "types": [
+        "water",
+        "electric"
+    ],
+    "weight": 22.5
+}

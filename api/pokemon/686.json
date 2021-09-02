@@ -1,0 +1,98 @@
+{
+    "abilities": {
+        "contrary": "Makes stat changes have an opposite effect.",
+        "infiltrator": "Passes through the opposing Pok\u00e9mon\u2019s barrier,\nsubstitute, and the like and strikes.",
+        "suction-cups": "This Pok\u00e9mon uses suction cups to stay in one spot\nto negate all moves and items that force\nswitching out."
+    },
+    "description": {
+        "game": "x",
+        "text": "Opponents who stare at the flashing of the\nlight-emitting spots on its body become\ndazed and lose their will to fight."
+    },
+    "eggGroups": [
+        "water1",
+        "water2"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 30,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": true
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "malamar",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/687/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "inkay",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/686/"
+        }
+    },
+    "forms": [
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/686.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/686.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Revolving Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 0.4,
+    "id": 686,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/686.png",
+    "name": "inkay",
+    "stats": {
+        "attack": 54,
+        "defense": 53,
+        "hp": 53,
+        "specialAttack": 37,
+        "specialDefense": 46,
+        "speed": 45
+    },
+    "type_relations": {
+        "resistantTo": [
+            "psychic"
+        ],
+        "weakTo": [
+            "fairy",
+            "bug"
+        ]
+    },
+    "types": [
+        "dark",
+        "psychic"
+    ],
+    "weight": 3.5
+}

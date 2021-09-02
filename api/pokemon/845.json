@@ -1,0 +1,69 @@
+{
+    "abilities": {
+        "gulp-missile": "When the Pok\u00e9mon uses Surf or Dive, it will come back with prey. When it takes damage, it will spit out the prey to attack."
+    },
+    "description": {
+        "game": "sword",
+        "text": "Cramorant\u2019s gluttony led it to try to swallow an\nArrokuda whole, which in turn led to Cramorant\ngetting an Arrokuda stuck in its throat."
+    },
+    "eggGroups": [],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "cramorant",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/845/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/845.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/845.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/845.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/845.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Gulp Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 0.8,
+    "id": 845,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/845.png",
+    "name": "cramorant",
+    "stats": {
+        "attack": 85,
+        "defense": 55,
+        "hp": 70,
+        "specialAttack": 85,
+        "specialDefense": 95,
+        "speed": 85
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fighting",
+            "bug",
+            "water",
+            "steel",
+            "fire"
+        ],
+        "weakTo": [
+            "rock",
+            "electric"
+        ]
+    },
+    "types": [
+        "flying",
+        "water"
+    ],
+    "weight": 18.0
+}

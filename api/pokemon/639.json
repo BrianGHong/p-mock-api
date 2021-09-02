@@ -1,0 +1,76 @@
+{
+    "abilities": {
+        "justified": "Being hit by a Dark-type move boosts the Attack\nstat of the Pok\u00e9mon, for justice."
+    },
+    "description": {
+        "game": "black",
+        "text": "This Pok\u00e9mon came to the defense of\nPok\u00e9mon that had lost their homes in\na war among humans."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "terrakion",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/639/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/639.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/639.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/639.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/639.png"
+        }
+    ],
+    "gender": {
+        "genderless": -12.5
+    },
+    "genera": "Cavern Pok\u00e9mon",
+    "hatchCounter": 80,
+    "height": 1.9,
+    "id": 639,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/639.png",
+    "name": "terrakion",
+    "stats": {
+        "attack": 129,
+        "defense": 90,
+        "hp": 91,
+        "specialAttack": 72,
+        "specialDefense": 90,
+        "speed": 108
+    },
+    "type_relations": {
+        "resistantTo": [
+            "dark",
+            "normal",
+            "rock",
+            "bug",
+            "fire",
+            "poison"
+        ],
+        "weakTo": [
+            "ground",
+            "fighting",
+            "fairy",
+            "water",
+            "steel",
+            "grass",
+            "psychic"
+        ]
+    },
+    "types": [
+        "rock",
+        "fighting"
+    ],
+    "weight": 260.0
+}

@@ -1,0 +1,62 @@
+{
+    "abilities": {
+        "multitype": "Changes the Pok\u00e9mon\u2019s type to match the Plate or\nZ-Crystal it holds."
+    },
+    "description": {
+        "game": "y",
+        "text": "It is told in mythology that this Pok\u00e9mon was born\nbefore the universe even existed."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "arceus",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/493/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/493.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/493.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/493.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/493.png"
+        }
+    ],
+    "gender": {
+        "genderless": -12.5
+    },
+    "genera": "Alpha Pok\u00e9mon",
+    "hatchCounter": 120,
+    "height": 3.2,
+    "id": 493,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/493.png",
+    "name": "arceus",
+    "stats": {
+        "attack": 120,
+        "defense": 120,
+        "hp": 120,
+        "specialAttack": 120,
+        "specialDefense": 120,
+        "speed": 120
+    },
+    "type_relations": {
+        "resistantTo": [],
+        "weakTo": [
+            "fighting"
+        ]
+    },
+    "types": [
+        "normal"
+    ],
+    "weight": 320.0
+}

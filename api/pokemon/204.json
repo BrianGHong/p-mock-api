@@ -1,0 +1,104 @@
+{
+    "abilities": {
+        "overcoat": "Protects the Pok\u00e9mon from things like sand, hail,\nand powder.",
+        "sturdy": "It cannot be knocked out with one hit. One-hit KO\nmoves cannot knock it out, either."
+    },
+    "description": {
+        "game": "gold",
+        "text": "It likes to make\nits shell thicker\nby adding layers\fof tree bark. The\nadditional weight\ndoesn't bother it."
+    },
+    "eggGroups": [
+        "bug"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 31,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "forretress",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/205/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "pineco",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/204/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/204.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/204.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/204.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/204.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Bagworm Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 0.6,
+    "id": 204,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/204.png",
+    "name": "pineco",
+    "stats": {
+        "attack": 65,
+        "defense": 90,
+        "hp": 50,
+        "specialAttack": 35,
+        "specialDefense": 35,
+        "speed": 15
+    },
+    "type_relations": {
+        "resistantTo": [
+            "ground",
+            "fighting",
+            "grass"
+        ],
+        "weakTo": [
+            "fire",
+            "rock",
+            "flying"
+        ]
+    },
+    "types": [
+        "bug"
+    ],
+    "weight": 7.2
+}

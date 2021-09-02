@@ -1,0 +1,105 @@
+{
+    "abilities": {
+        "insomnia": "The Pok\u00e9mon is suffering from insomnia and cannot\nfall asleep.",
+        "keen-eye": "Keen eyes prevent other Pok\u00e9mon from lowering this\nPok\u00e9mon\u2019s accuracy.",
+        "tinted-lens": "The Pok\u00e9mon can use \u201cnot very effective\u201d moves\nto deal regular damage. "
+    },
+    "description": {
+        "game": "gold",
+        "text": "Its eyes are\nspecially adapted.\nThey concentrate\feven faint light\nand enable it to\nsee in the dark."
+    },
+    "eggGroups": [
+        "flying"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 20,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "noctowl",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/164/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "hoothoot",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/163/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/164.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/164.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/164.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/164.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Owl Pok\u00e9mon",
+    "hatchCounter": 15,
+    "height": 1.6,
+    "id": 164,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/164.png",
+    "name": "noctowl",
+    "stats": {
+        "attack": 50,
+        "defense": 50,
+        "hp": 100,
+        "specialAttack": 86,
+        "specialDefense": 96,
+        "speed": 70
+    },
+    "type_relations": {
+        "resistantTo": [
+            "grass",
+            "bug"
+        ],
+        "weakTo": [
+            "ice",
+            "rock",
+            "electric"
+        ]
+    },
+    "types": [
+        "normal",
+        "flying"
+    ],
+    "weight": 40.8
+}

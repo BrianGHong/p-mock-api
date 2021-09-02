@@ -1,0 +1,75 @@
+{
+    "abilities": {
+        "victory-star": "Boosts the accuracy of its allies and itself."
+    },
+    "description": {
+        "game": "black",
+        "text": "This Pok\u00e9mon brings victory. It is said\nthat Trainers with Victini always win,\nregardless of the type of encounter."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "victini",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/494/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/494.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/494.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/494.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/494.png"
+        }
+    ],
+    "gender": {
+        "genderless": -12.5
+    },
+    "genera": "Victory Pok\u00e9mon",
+    "hatchCounter": 120,
+    "height": 0.4,
+    "id": 494,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/494.png",
+    "name": "victini",
+    "stats": {
+        "attack": 100,
+        "defense": 100,
+        "hp": 100,
+        "specialAttack": 100,
+        "specialDefense": 100,
+        "speed": 100
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fighting",
+            "fairy",
+            "steel",
+            "fire",
+            "ice",
+            "grass",
+            "psychic"
+        ],
+        "weakTo": [
+            "dark",
+            "ground",
+            "rock",
+            "ghost",
+            "water"
+        ]
+    },
+    "types": [
+        "psychic",
+        "fire"
+    ],
+    "weight": 4.0
+}

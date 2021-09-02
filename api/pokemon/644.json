@@ -1,0 +1,73 @@
+{
+    "abilities": {
+        "teravolt": "Moves can be used on the target regardless of\nits Abilities."
+    },
+    "description": {
+        "game": "black",
+        "text": "Concealing itself in lightning clouds,\nit flies throughout the Unova region.\nIt creates electricity in its tail."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "zekrom",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/644/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/644.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/644.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/644.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/644.png"
+        }
+    ],
+    "gender": {
+        "genderless": -12.5
+    },
+    "genera": "Deep Black Pok\u00e9mon",
+    "hatchCounter": 120,
+    "height": 2.9,
+    "id": 644,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/644.png",
+    "name": "zekrom",
+    "stats": {
+        "attack": 150,
+        "defense": 120,
+        "hp": 100,
+        "specialAttack": 120,
+        "specialDefense": 100,
+        "speed": 90
+    },
+    "type_relations": {
+        "resistantTo": [
+            "flying",
+            "electric",
+            "water",
+            "steel",
+            "fire",
+            "grass"
+        ],
+        "weakTo": [
+            "ice",
+            "ground",
+            "dragon",
+            "fairy"
+        ]
+    },
+    "types": [
+        "dragon",
+        "electric"
+    ],
+    "weight": 345.0
+}

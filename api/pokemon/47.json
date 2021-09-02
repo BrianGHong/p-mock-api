@@ -1,0 +1,112 @@
+{
+    "abilities": {
+        "damp": "Prevents the use of explosive moves such as\nSelf-Destruct by dampening its surroundings.",
+        "dry-skin": "Restores HP in rain or when hit by Water-type\nmoves. Reduces HP in harsh sunlight, and increases\nthe damage received from Fire-type moves.",
+        "effect-spore": "Contact with the Pok\u00e9mon may inflict poison, sleep,\nor paralysis on its attacker."
+    },
+    "description": {
+        "game": "red",
+        "text": "A host-parasite\npair in which the\nparasite mushroom\fhas taken over the\nhost bug. Prefers\ndamp places."
+    },
+    "eggGroups": [
+        "bug",
+        "plant"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 24,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "parasect",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/47/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "paras",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/46/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/47.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/47.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/47.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/47.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Mushroom Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 1.0,
+    "id": 47,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/47.png",
+    "name": "parasect",
+    "stats": {
+        "attack": 95,
+        "defense": 80,
+        "hp": 60,
+        "specialAttack": 60,
+        "specialDefense": 80,
+        "speed": 30
+    },
+    "type_relations": {
+        "resistantTo": [
+            "ground",
+            "fighting",
+            "electric",
+            "water",
+            "grass"
+        ],
+        "weakTo": [
+            "flying",
+            "rock",
+            "bug",
+            "fire",
+            "ice",
+            "poison"
+        ]
+    },
+    "types": [
+        "bug",
+        "grass"
+    ],
+    "weight": 29.5
+}

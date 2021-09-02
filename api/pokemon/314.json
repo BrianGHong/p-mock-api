@@ -1,0 +1,69 @@
+{
+    "abilities": {
+        "oblivious": "The Pok\u00e9mon is oblivious, and that keeps it from\nbeing infatuated or falling for taunts.",
+        "prankster": "Gives priority to a status move.",
+        "tinted-lens": "The Pok\u00e9mon can use \u201cnot very effective\u201d moves\nto deal regular damage. "
+    },
+    "description": {
+        "game": "ruby",
+        "text": "ILLUMISE attracts a swarm of VOLBEAT\nusing a sweet fragrance. Once the\nVOLBEAT have gathered, this POK\u00e9MON\fleads the lit-up swarm in drawing\ngeometric designs on the canvas of\nthe night sky."
+    },
+    "eggGroups": [
+        "bug",
+        "humanshape"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "illumise",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/314/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/314.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/314.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/314.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/314.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Firefly Pok\u00e9mon",
+    "hatchCounter": 15,
+    "height": 0.6,
+    "id": 314,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/314.png",
+    "name": "illumise",
+    "stats": {
+        "attack": 47,
+        "defense": 75,
+        "hp": 65,
+        "specialAttack": 73,
+        "specialDefense": 85,
+        "speed": 85
+    },
+    "type_relations": {
+        "resistantTo": [
+            "ground",
+            "fighting",
+            "grass"
+        ],
+        "weakTo": [
+            "fire",
+            "rock",
+            "flying"
+        ]
+    },
+    "types": [
+        "bug"
+    ],
+    "weight": 17.7
+}

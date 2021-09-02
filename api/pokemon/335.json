@@ -1,0 +1,64 @@
+{
+    "abilities": {
+        "immunity": "The immune system of the Pok\u00e9mon prevents it from\ngetting poisoned.",
+        "toxic-boost": "Powers up physical attacks when the Pok\u00e9mon\nis poisoned."
+    },
+    "description": {
+        "game": "ruby",
+        "text": "Memories of battling its arch-rival\nSEVIPER are etched into every cell of\nZANGOOSE\u2019s body.\fThis POK\u00e9MON adroitly dodges attacks\nwith incredible agility."
+    },
+    "eggGroups": [
+        "ground"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "zangoose",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/335/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/335.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/335.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/335.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/335.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Cat Ferret Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 1.3,
+    "id": 335,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/335.png",
+    "name": "zangoose",
+    "stats": {
+        "attack": 115,
+        "defense": 60,
+        "hp": 73,
+        "specialAttack": 60,
+        "specialDefense": 60,
+        "speed": 90
+    },
+    "type_relations": {
+        "resistantTo": [],
+        "weakTo": [
+            "fighting"
+        ]
+    },
+    "types": [
+        "normal"
+    ],
+    "weight": 40.3
+}

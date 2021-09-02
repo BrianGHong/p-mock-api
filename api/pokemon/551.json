@@ -1,0 +1,144 @@
+{
+    "abilities": {
+        "anger-point": "The Pok\u00e9mon is angered when it takes a critical hit,\nand that maxes its Attack stat.",
+        "intimidate": "The Pok\u00e9mon intimidates opposing Pok\u00e9mon upon\nentering battle, lowering their Attack stat.",
+        "moxie": "The Pok\u00e9mon shows moxie, and that boosts the\nAttack stat after knocking out any Pok\u00e9mon."
+    },
+    "description": {
+        "game": "black",
+        "text": "They live buried in the sands of the\ndesert. The sun-warmed sands prevent\ntheir body temperature from dropping."
+    },
+    "eggGroups": [
+        "ground"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 29,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [
+                    {
+                        "evolution_details": [
+                            {
+                                "gender": null,
+                                "held_item": null,
+                                "item": null,
+                                "known_move": null,
+                                "known_move_type": null,
+                                "location": null,
+                                "min_affection": null,
+                                "min_beauty": null,
+                                "min_happiness": null,
+                                "min_level": 40,
+                                "needs_overworld_rain": false,
+                                "party_species": null,
+                                "party_type": null,
+                                "relative_physical_stats": null,
+                                "time_of_day": "",
+                                "trade_species": null,
+                                "trigger": {
+                                    "name": "level-up",
+                                    "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                                },
+                                "turn_upside_down": false
+                            }
+                        ],
+                        "evolves_to": [],
+                        "is_baby": false,
+                        "species": {
+                            "name": "krookodile",
+                            "url": "https://pokeapi.co/api/v2/pokemon-species/553/"
+                        }
+                    }
+                ],
+                "is_baby": false,
+                "species": {
+                    "name": "krokorok",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/552/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "sandile",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/551/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/551.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/551.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/551.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/551.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Desert Croc Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 0.7,
+    "id": 551,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/551.png",
+    "name": "sandile",
+    "stats": {
+        "attack": 72,
+        "defense": 35,
+        "hp": 50,
+        "specialAttack": 35,
+        "specialDefense": 35,
+        "speed": 65
+    },
+    "type_relations": {
+        "resistantTo": [
+            "dark",
+            "poison",
+            "rock",
+            "ghost"
+        ],
+        "weakTo": [
+            "fighting",
+            "fairy",
+            "water",
+            "bug",
+            "ice",
+            "grass"
+        ]
+    },
+    "types": [
+        "ground",
+        "dark"
+    ],
+    "weight": 15.2
+}

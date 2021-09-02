@@ -1,0 +1,67 @@
+{
+    "abilities": {
+        "synchronize": "The attacker will receive the same status condition if\nit inflicts a burn, poison, or paralysis to the Pok\u00e9mon."
+    },
+    "description": {
+        "game": "red",
+        "text": "So rare that it\nis still said to\nbe a mirage by\fmany experts. Only\na few people have\nseen it worldwide."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "mew",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/151/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/151.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/151.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/151.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/151.png"
+        }
+    ],
+    "gender": {
+        "genderless": -12.5
+    },
+    "genera": "New Species Pok\u00e9mon",
+    "hatchCounter": 120,
+    "height": 0.4,
+    "id": 151,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/151.png",
+    "name": "mew",
+    "stats": {
+        "attack": 100,
+        "defense": 100,
+        "hp": 100,
+        "specialAttack": 100,
+        "specialDefense": 100,
+        "speed": 100
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fighting",
+            "psychic"
+        ],
+        "weakTo": [
+            "dark",
+            "bug",
+            "ghost"
+        ]
+    },
+    "types": [
+        "psychic"
+    ],
+    "weight": 4.0
+}

@@ -1,0 +1,138 @@
+{
+    "abilities": {
+        "ice-body": "The Pok\u00e9mon gradually regains HP in a hailstorm.",
+        "snow-cloak": "Boosts evasion in a hailstorm.",
+        "weak-armor": "Physical attacks to the Pok\u00e9mon lower its Defense\nstat but sharply raise its Speed stat."
+    },
+    "description": {
+        "game": "black",
+        "text": "The temperature of their breath\nis -58\u00b0 F. They create snow crystals and\nmake snow fall in the areas around them."
+    },
+    "eggGroups": [
+        "mineral"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 35,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [
+                    {
+                        "evolution_details": [
+                            {
+                                "gender": null,
+                                "held_item": null,
+                                "item": null,
+                                "known_move": null,
+                                "known_move_type": null,
+                                "location": null,
+                                "min_affection": null,
+                                "min_beauty": null,
+                                "min_happiness": null,
+                                "min_level": 47,
+                                "needs_overworld_rain": false,
+                                "party_species": null,
+                                "party_type": null,
+                                "relative_physical_stats": null,
+                                "time_of_day": "",
+                                "trade_species": null,
+                                "trigger": {
+                                    "name": "level-up",
+                                    "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                                },
+                                "turn_upside_down": false
+                            }
+                        ],
+                        "evolves_to": [],
+                        "is_baby": false,
+                        "species": {
+                            "name": "vanilluxe",
+                            "url": "https://pokeapi.co/api/v2/pokemon-species/584/"
+                        }
+                    }
+                ],
+                "is_baby": false,
+                "species": {
+                    "name": "vanillish",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/583/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "vanillite",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/582/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/582.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/582.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/582.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/582.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Fresh Snow Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 0.4,
+    "id": 582,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/582.png",
+    "name": "vanillite",
+    "stats": {
+        "attack": 50,
+        "defense": 50,
+        "hp": 36,
+        "specialAttack": 65,
+        "specialDefense": 60,
+        "speed": 44
+    },
+    "type_relations": {
+        "resistantTo": [
+            "ice"
+        ],
+        "weakTo": [
+            "fire",
+            "rock",
+            "fighting",
+            "steel"
+        ]
+    },
+    "types": [
+        "ice"
+    ],
+    "weight": 5.7
+}

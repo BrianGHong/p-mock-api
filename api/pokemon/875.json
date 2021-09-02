@@ -1,0 +1,63 @@
+{
+    "abilities": {
+        "ice-face": "The Pok\u00e9mon's ice head can take a physical attack as a substitute, but the attack also changes the Pok\u00e9mon's appearance. The ice will be restored when it hails."
+    },
+    "description": {
+        "game": "sword",
+        "text": "It drifted in on the flow of ocean waters from a\nfrigid place. It keeps its head iced constantly to\nmake sure it stays nice and cold."
+    },
+    "eggGroups": [],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "eiscue",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/875/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/875.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/875.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/875.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/875.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Penguin Pok\u00e9mon",
+    "hatchCounter": 25,
+    "height": 1.4,
+    "id": 875,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/875.png",
+    "name": "eiscue-ice",
+    "stats": {
+        "attack": 80,
+        "defense": 110,
+        "hp": 75,
+        "specialAttack": 65,
+        "specialDefense": 90,
+        "speed": 50
+    },
+    "type_relations": {
+        "resistantTo": [
+            "ice"
+        ],
+        "weakTo": [
+            "fire",
+            "rock",
+            "fighting",
+            "steel"
+        ]
+    },
+    "types": [
+        "ice"
+    ],
+    "weight": 89.0
+}

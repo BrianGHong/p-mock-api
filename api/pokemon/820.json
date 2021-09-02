@@ -1,0 +1,96 @@
+{
+    "abilities": {
+        "cheek-pouch": "Restores HP as well when the Pok\u00e9mon eats a Berry.",
+        "gluttony": "Makes the Pok\u00e9mon eat a held Berry when its HP\ndrops to half or less, which is sooner than usual."
+    },
+    "description": {
+        "game": "sword",
+        "text": "It stashes berries in its tail\u2014so many berries that\nthey fall out constantly. But this Pok\u00e9mon is a bit\nslow-witted, so it doesn\u2019t notice the loss."
+    },
+    "eggGroups": [],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 24,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "greedent",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/820/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "skwovet",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/819/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/820.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/820.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/820.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/820.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Greedy Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 0.6,
+    "id": 820,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/820.png",
+    "name": "greedent",
+    "stats": {
+        "attack": 95,
+        "defense": 95,
+        "hp": 120,
+        "specialAttack": 55,
+        "specialDefense": 75,
+        "speed": 20
+    },
+    "type_relations": {
+        "resistantTo": [],
+        "weakTo": [
+            "fighting"
+        ]
+    },
+    "types": [
+        "normal"
+    ],
+    "weight": 6.0
+}

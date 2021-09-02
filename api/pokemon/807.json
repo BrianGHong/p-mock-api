@@ -1,0 +1,66 @@
+{
+    "abilities": {
+        "volt-absorb": "Restores HP if hit by an Electric-type move, instead\nof taking damage."
+    },
+    "description": {
+        "game": "ultra-sun",
+        "text": "It electrifies its claws and tears its opponents\napart with them. Even if they dodge its attack,\nthey\u2019ll be electrocuted by the flying sparks."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "zeraora",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/807/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/807.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/807.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/807.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/807.png"
+        }
+    ],
+    "gender": {
+        "genderless": -12.5
+    },
+    "genera": "Thunderclap Pok\u00e9mon",
+    "hatchCounter": 120,
+    "height": 1.5,
+    "id": 807,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/807.png",
+    "name": "zeraora",
+    "stats": {
+        "attack": 112,
+        "defense": 75,
+        "hp": 88,
+        "specialAttack": 102,
+        "specialDefense": 80,
+        "speed": 143
+    },
+    "type_relations": {
+        "resistantTo": [
+            "electric",
+            "flying",
+            "steel"
+        ],
+        "weakTo": [
+            "ground"
+        ]
+    },
+    "types": [
+        "electric"
+    ],
+    "weight": 44.5
+}

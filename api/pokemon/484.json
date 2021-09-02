@@ -1,0 +1,69 @@
+{
+    "abilities": {
+        "pressure": "By putting pressure on the opposing Pok\u00e9mon, it\nraises their PP usage.",
+        "telepathy": "Anticipates an ally\u2019s attack and dodges it."
+    },
+    "description": {
+        "game": "diamond",
+        "text": "It has the ability to distort\nspace. It is described as a deity\nin Sinnoh-region mythology."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "palkia",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/484/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/484.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/484.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/484.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/484.png"
+        }
+    ],
+    "gender": {
+        "genderless": -12.5
+    },
+    "genera": "Spatial Pok\u00e9mon",
+    "hatchCounter": 120,
+    "height": 4.2,
+    "id": 484,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/484.png",
+    "name": "palkia",
+    "stats": {
+        "attack": 120,
+        "defense": 100,
+        "hp": 90,
+        "specialAttack": 150,
+        "specialDefense": 120,
+        "speed": 100
+    },
+    "type_relations": {
+        "resistantTo": [
+            "water",
+            "steel",
+            "fire"
+        ],
+        "weakTo": [
+            "fairy",
+            "dragon"
+        ]
+    },
+    "types": [
+        "water",
+        "dragon"
+    ],
+    "weight": 336.0
+}

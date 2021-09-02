@@ -1,0 +1,74 @@
+{
+    "abilities": {
+        "pressure": "By putting pressure on the opposing Pok\u00e9mon, it\nraises their PP usage.",
+        "regenerator": "Restores a little HP when withdrawn from battle."
+    },
+    "description": {
+        "game": "gold",
+        "text": "Legends claim this\nPOK\u00e9MON flies the\nworld's skies con\u00ad\ftinuously on its\nmagnificent seven-\ncolored wings."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "ho-oh",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/250/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/250.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/250.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/250.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/250.png"
+        }
+    ],
+    "gender": {
+        "genderless": -12.5
+    },
+    "genera": "Rainbow Pok\u00e9mon",
+    "hatchCounter": 120,
+    "height": 3.8,
+    "id": 250,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/250.png",
+    "name": "ho-oh",
+    "stats": {
+        "attack": 130,
+        "defense": 90,
+        "hp": 106,
+        "specialAttack": 110,
+        "specialDefense": 154,
+        "speed": 90
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fighting",
+            "fairy",
+            "bug",
+            "steel",
+            "fire",
+            "grass"
+        ],
+        "weakTo": [
+            "ground",
+            "rock",
+            "electric",
+            "water"
+        ]
+    },
+    "types": [
+        "fire",
+        "flying"
+    ],
+    "weight": 199.0
+}

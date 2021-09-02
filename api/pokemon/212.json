@@ -1,0 +1,124 @@
+{
+    "abilities": {
+        "light-metal": "Halves the Pok\u00e9mon\u2019s weight.",
+        "swarm": "Powers up Bug-type moves when the Pok\u00e9mon\u2019s HP\nis low.",
+        "technician": "Powers up the Pok\u00e9mon\u2019s weaker moves."
+    },
+    "description": {
+        "game": "gold",
+        "text": "It swings its eye-\npatterned pincers\nup to scare its\ffoes. This makes\nit look like it\nhas three heads."
+    },
+    "eggGroups": [
+        "bug"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": {
+                            "name": "metal-coat",
+                            "url": "https://pokeapi.co/api/v2/item/210/"
+                        },
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": null,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "trade",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/2/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "scizor",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/212/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "scyther",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/123/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/212.png"
+        },
+        {
+            "back_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/212.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/212.png"
+        },
+        {
+            "back_shiny_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/212.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/212.png"
+        },
+        {
+            "front_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/212.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/212.png"
+        },
+        {
+            "front_shiny_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/212.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Pincer Pok\u00e9mon",
+    "hatchCounter": 25,
+    "height": 1.8,
+    "id": 212,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/212.png",
+    "name": "scizor",
+    "stats": {
+        "attack": 130,
+        "defense": 100,
+        "hp": 70,
+        "specialAttack": 55,
+        "specialDefense": 80,
+        "speed": 65
+    },
+    "type_relations": {
+        "resistantTo": [
+            "normal",
+            "fairy",
+            "dragon",
+            "bug",
+            "steel",
+            "ice",
+            "grass",
+            "psychic"
+        ],
+        "weakTo": [
+            "fire"
+        ]
+    },
+    "types": [
+        "bug",
+        "steel"
+    ],
+    "weight": 118.0
+}

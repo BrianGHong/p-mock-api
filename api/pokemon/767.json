@@ -1,0 +1,107 @@
+{
+    "abilities": {
+        "wimp-out": "The Pok\u00e9mon cowardly switches out when its HP\nbecomes half or less."
+    },
+    "description": {
+        "game": "sun",
+        "text": "This Pok\u00e9mon is a coward. As it desperately\ndashes off, the flailing of its many legs leaves a\nsparkling clean path in its wake."
+    },
+    "eggGroups": [
+        "bug",
+        "water3"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 30,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "golisopod",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/768/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "wimpod",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/767/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/767.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/767.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/767.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/767.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Turn Tail Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 0.5,
+    "id": 767,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/767.png",
+    "name": "wimpod",
+    "stats": {
+        "attack": 35,
+        "defense": 40,
+        "hp": 25,
+        "specialAttack": 20,
+        "specialDefense": 30,
+        "speed": 80
+    },
+    "type_relations": {
+        "resistantTo": [
+            "ground",
+            "fighting",
+            "water",
+            "steel",
+            "ice"
+        ],
+        "weakTo": [
+            "flying",
+            "rock",
+            "electric"
+        ]
+    },
+    "types": [
+        "bug",
+        "water"
+    ],
+    "weight": 12.0
+}

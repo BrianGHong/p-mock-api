@@ -1,0 +1,119 @@
+{
+    "abilities": {
+        "intimidate": "The Pok\u00e9mon intimidates opposing Pok\u00e9mon upon\nentering battle, lowering their Attack stat.",
+        "moxie": "The Pok\u00e9mon shows moxie, and that boosts the\nAttack stat after knocking out any Pok\u00e9mon."
+    },
+    "description": {
+        "game": "red",
+        "text": "Rarely seen in\nthe wild. Huge\nand vicious, it\fis capable of\ndestroying entire\ncities in a rage."
+    },
+    "eggGroups": [
+        "water2",
+        "dragon"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 20,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "gyarados",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/130/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "magikarp",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/129/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/130.png"
+        },
+        {
+            "back_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/130.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/130.png"
+        },
+        {
+            "back_shiny_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/130.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png"
+        },
+        {
+            "front_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/130.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/130.png"
+        },
+        {
+            "front_shiny_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/130.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Atrocious Pok\u00e9mon",
+    "hatchCounter": 5,
+    "height": 6.5,
+    "id": 130,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/130.png",
+    "name": "gyarados",
+    "stats": {
+        "attack": 125,
+        "defense": 79,
+        "hp": 95,
+        "specialAttack": 60,
+        "specialDefense": 100,
+        "speed": 81
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fighting",
+            "water",
+            "bug",
+            "steel",
+            "fire"
+        ],
+        "weakTo": [
+            "rock",
+            "electric"
+        ]
+    },
+    "types": [
+        "water",
+        "flying"
+    ],
+    "weight": 235.0
+}

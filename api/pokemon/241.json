@@ -1,0 +1,62 @@
+{
+    "abilities": {
+        "sap-sipper": "Boosts the Attack stat if hit by a Grass-type move,\ninstead of taking damage.",
+        "scrappy": "The Pok\u00e9mon can hit Ghost-type Pok\u00e9mon with\nNormal- and Fighting-type moves.",
+        "thick-fat": "The Pok\u00e9mon is protected by a layer of thick fat,\nwhich halves the damage taken from Fire- and\nIce-type moves."
+    },
+    "description": {
+        "game": "gold",
+        "text": "Its milk is packed\nwith nutrition,\nmaking it the\fultimate beverage\nfor the sick or\nweary."
+    },
+    "eggGroups": [
+        "ground"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "miltank",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/241/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/241.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/241.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/241.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/241.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Milk Cow Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 1.2,
+    "id": 241,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/241.png",
+    "name": "miltank",
+    "stats": {
+        "attack": 80,
+        "defense": 105,
+        "hp": 95,
+        "specialAttack": 40,
+        "specialDefense": 70,
+        "speed": 100
+    },
+    "type_relations": {
+        "resistantTo": [],
+        "weakTo": [
+            "fighting"
+        ]
+    },
+    "types": [
+        "normal"
+    ],
+    "weight": 75.5
+}

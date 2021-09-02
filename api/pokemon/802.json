@@ -1,0 +1,70 @@
+{
+    "abilities": {
+        "technician": "Powers up the Pok\u00e9mon\u2019s weaker moves."
+    },
+    "description": {
+        "game": "sun",
+        "text": "Able to conceal itself in shadows, it never\nappears before humans, so its very existence\nwas the stuff of myth."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "marshadow",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/802/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/802.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/802.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/802.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/802.png"
+        }
+    ],
+    "gender": {
+        "genderless": -12.5
+    },
+    "genera": "Gloomdweller Pok\u00e9mon",
+    "hatchCounter": 120,
+    "height": 0.7,
+    "id": 802,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/802.png",
+    "name": "marshadow",
+    "stats": {
+        "attack": 125,
+        "defense": 80,
+        "hp": 90,
+        "specialAttack": 90,
+        "specialDefense": 90,
+        "speed": 125
+    },
+    "type_relations": {
+        "resistantTo": [
+            "poison",
+            "rock",
+            "bug"
+        ],
+        "weakTo": [
+            "fairy",
+            "flying",
+            "ghost",
+            "psychic"
+        ]
+    },
+    "types": [
+        "fighting",
+        "ghost"
+    ],
+    "weight": 22.2
+}

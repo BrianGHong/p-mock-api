@@ -1,0 +1,74 @@
+{
+    "abilities": {
+        "clear-body": "Prevents other Pok\u00e9mon\u2019s moves or Abilities from\nlowering the Pok\u00e9mon\u2019s stats.",
+        "sturdy": "It cannot be knocked out with one hit. One-hit KO\nmoves cannot knock it out, either."
+    },
+    "description": {
+        "game": "x",
+        "text": "Born from the temperatures and pressures\ndeep underground, it fires beams from the\nstone in its head."
+    },
+    "eggGroups": [
+        "fairy",
+        "mineral"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "carbink",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/703/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/703.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/703.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/703.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/703.png"
+        }
+    ],
+    "gender": {
+        "genderless": -12.5
+    },
+    "genera": "Jewel Pok\u00e9mon",
+    "hatchCounter": 25,
+    "height": 0.3,
+    "id": 703,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/703.png",
+    "name": "carbink",
+    "stats": {
+        "attack": 50,
+        "defense": 150,
+        "hp": 50,
+        "specialAttack": 50,
+        "specialDefense": 150,
+        "speed": 50
+    },
+    "type_relations": {
+        "resistantTo": [
+            "dark",
+            "normal",
+            "flying",
+            "bug",
+            "fire"
+        ],
+        "weakTo": [
+            "ground",
+            "water",
+            "steel",
+            "grass"
+        ]
+    },
+    "types": [
+        "rock",
+        "fairy"
+    ],
+    "weight": 5.7
+}

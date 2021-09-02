@@ -1,0 +1,139 @@
+{
+    "abilities": {
+        "guts": "It\u2019s so gutsy that having a status condition boosts\nthe Pok\u00e9mon\u2019s Attack stat.",
+        "no-guard": "The Pok\u00e9mon employs no-guard tactics to ensure\nincoming and outgoing attacks always land.",
+        "steadfast": "The Pok\u00e9mon\u2019s determination boosts the Speed\nstat each time the Pok\u00e9mon flinches."
+    },
+    "description": {
+        "game": "red",
+        "text": "Using its heavy\nmuscles, it throws\npowerful punches\fthat can send the\nvictim clear over\nthe horizon."
+    },
+    "eggGroups": [
+        "humanshape"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 28,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [
+                    {
+                        "evolution_details": [
+                            {
+                                "gender": null,
+                                "held_item": null,
+                                "item": null,
+                                "known_move": null,
+                                "known_move_type": null,
+                                "location": null,
+                                "min_affection": null,
+                                "min_beauty": null,
+                                "min_happiness": null,
+                                "min_level": null,
+                                "needs_overworld_rain": false,
+                                "party_species": null,
+                                "party_type": null,
+                                "relative_physical_stats": null,
+                                "time_of_day": "",
+                                "trade_species": null,
+                                "trigger": {
+                                    "name": "trade",
+                                    "url": "https://pokeapi.co/api/v2/evolution-trigger/2/"
+                                },
+                                "turn_upside_down": false
+                            }
+                        ],
+                        "evolves_to": [],
+                        "is_baby": false,
+                        "species": {
+                            "name": "machamp",
+                            "url": "https://pokeapi.co/api/v2/pokemon-species/68/"
+                        }
+                    }
+                ],
+                "is_baby": false,
+                "species": {
+                    "name": "machoke",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/67/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "machop",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/66/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/68.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/68.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/68.png"
+        }
+    ],
+    "gender": {
+        "female": 25.0,
+        "male": 75.0
+    },
+    "genera": "Superpower Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 1.6,
+    "id": 68,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/68.png",
+    "name": "machamp",
+    "stats": {
+        "attack": 130,
+        "defense": 80,
+        "hp": 90,
+        "specialAttack": 65,
+        "specialDefense": 85,
+        "speed": 55
+    },
+    "type_relations": {
+        "resistantTo": [
+            "dark",
+            "rock",
+            "bug"
+        ],
+        "weakTo": [
+            "fairy",
+            "psychic",
+            "flying"
+        ]
+    },
+    "types": [
+        "fighting"
+    ],
+    "weight": 130.0
+}

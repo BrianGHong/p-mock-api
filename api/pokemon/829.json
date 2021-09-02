@@ -1,0 +1,106 @@
+{
+    "abilities": {
+        "cotton-down": "When the Pok\u00e9mon is hit by an attack, it scatters cotton fluff around and lowers the Speed stat of all Pok\u00e9mon except itself.",
+        "effect-spore": "Contact with the Pok\u00e9mon may inflict poison, sleep,\nor paralysis on its attacker.",
+        "regenerator": "Restores a little HP when withdrawn from battle."
+    },
+    "description": {
+        "game": "sword",
+        "text": "It anchors itself in the ground with its single leg,\nthen basks in the sun. After absorbing enough\nsunlight, its petals spread as it blooms brilliantly."
+    },
+    "eggGroups": [],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 20,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "eldegoss",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/830/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "gossifleur",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/829/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/829.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/829.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/829.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/829.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Flowering Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 0.4,
+    "id": 829,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/829.png",
+    "name": "gossifleur",
+    "stats": {
+        "attack": 40,
+        "defense": 60,
+        "hp": 40,
+        "specialAttack": 40,
+        "specialDefense": 60,
+        "speed": 10
+    },
+    "type_relations": {
+        "resistantTo": [
+            "ground",
+            "electric",
+            "water",
+            "grass"
+        ],
+        "weakTo": [
+            "flying",
+            "bug",
+            "fire",
+            "ice",
+            "poison"
+        ]
+    },
+    "types": [
+        "grass"
+    ],
+    "weight": 2.2
+}

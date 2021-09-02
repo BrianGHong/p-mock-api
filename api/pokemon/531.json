@@ -1,0 +1,65 @@
+{
+    "abilities": {
+        "healer": "Sometimes heals an ally\u2019s status condition.",
+        "klutz": "The Pok\u00e9mon can\u2019t use any held items.",
+        "regenerator": "Restores a little HP when withdrawn from battle."
+    },
+    "description": {
+        "game": "black",
+        "text": "It touches others with the feelers on\nits ears, using the sound of their\nheartbeats to tell how they are feeling."
+    },
+    "eggGroups": [
+        "fairy"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "audino",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/531/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/531.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/531.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/531.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/531.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Hearing Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 1.1,
+    "id": 531,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/531.png",
+    "name": "audino",
+    "stats": {
+        "attack": 60,
+        "defense": 86,
+        "hp": 103,
+        "specialAttack": 60,
+        "specialDefense": 86,
+        "speed": 50
+    },
+    "type_relations": {
+        "resistantTo": [],
+        "weakTo": [
+            "fighting"
+        ]
+    },
+    "types": [
+        "normal"
+    ],
+    "weight": 31.0
+}

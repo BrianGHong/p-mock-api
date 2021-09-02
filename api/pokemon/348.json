@@ -1,0 +1,104 @@
+{
+    "abilities": {
+        "battle-armor": "Hard armor protects the Pok\u00e9mon from critical hits.",
+        "swift-swim": "Boosts the Pok\u00e9mon\u2019s Speed stat in rain."
+    },
+    "description": {
+        "game": "ruby",
+        "text": "ARMALDO\u2019s tough armor makes all attacks\nbounce off. This POK\u00e9MON\u2019s two\nenormous claws can be freely extended\for contracted. They have the power to\npunch right through a steel slab."
+    },
+    "eggGroups": [
+        "water3"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 40,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "armaldo",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/348/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "anorith",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/347/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/348.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/348.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/348.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/348.png"
+        }
+    ],
+    "gender": {
+        "female": 12.5,
+        "male": 87.5
+    },
+    "genera": "Plate Pok\u00e9mon",
+    "hatchCounter": 30,
+    "height": 1.5,
+    "id": 348,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/348.png",
+    "name": "armaldo",
+    "stats": {
+        "attack": 125,
+        "defense": 100,
+        "hp": 75,
+        "specialAttack": 70,
+        "specialDefense": 80,
+        "speed": 45
+    },
+    "type_relations": {
+        "resistantTo": [
+            "normal",
+            "poison"
+        ],
+        "weakTo": [
+            "rock",
+            "water",
+            "steel"
+        ]
+    },
+    "types": [
+        "rock",
+        "bug"
+    ],
+    "weight": 68.2
+}

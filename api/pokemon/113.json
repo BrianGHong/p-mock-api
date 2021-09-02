@@ -1,0 +1,133 @@
+{
+    "abilities": {
+        "healer": "Sometimes heals an ally\u2019s status condition.",
+        "natural-cure": "All status conditions heal when the Pok\u00e9mon\nswitches out.",
+        "serene-grace": "Boosts the likelihood of additional effects occurring \nwhen attacking."
+    },
+    "description": {
+        "game": "red",
+        "text": "A rare and elusive\nPOK\u00e9MON that is\nsaid to bring\fhappiness to those\nwho manage to get\nit."
+    },
+    "eggGroups": [
+        "fairy"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": {
+                            "name": "oval-stone",
+                            "url": "https://pokeapi.co/api/v2/item/110/"
+                        },
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": null,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "day",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [
+                    {
+                        "evolution_details": [
+                            {
+                                "gender": null,
+                                "held_item": null,
+                                "item": null,
+                                "known_move": null,
+                                "known_move_type": null,
+                                "location": null,
+                                "min_affection": null,
+                                "min_beauty": null,
+                                "min_happiness": 220,
+                                "min_level": null,
+                                "needs_overworld_rain": false,
+                                "party_species": null,
+                                "party_type": null,
+                                "relative_physical_stats": null,
+                                "time_of_day": "",
+                                "trade_species": null,
+                                "trigger": {
+                                    "name": "level-up",
+                                    "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                                },
+                                "turn_upside_down": false
+                            }
+                        ],
+                        "evolves_to": [],
+                        "is_baby": false,
+                        "species": {
+                            "name": "blissey",
+                            "url": "https://pokeapi.co/api/v2/pokemon-species/242/"
+                        }
+                    }
+                ],
+                "is_baby": false,
+                "species": {
+                    "name": "chansey",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/113/"
+                }
+            }
+        ],
+        "is_baby": true,
+        "species": {
+            "name": "happiny",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/440/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/113.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/113.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/113.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/113.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Egg Pok\u00e9mon",
+    "hatchCounter": 40,
+    "height": 1.1,
+    "id": 113,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/113.png",
+    "name": "chansey",
+    "stats": {
+        "attack": 5,
+        "defense": 5,
+        "hp": 250,
+        "specialAttack": 35,
+        "specialDefense": 105,
+        "speed": 50
+    },
+    "type_relations": {
+        "resistantTo": [],
+        "weakTo": [
+            "fighting"
+        ]
+    },
+    "types": [
+        "normal"
+    ],
+    "weight": 34.6
+}

@@ -1,0 +1,112 @@
+{
+    "abilities": {
+        "adaptability": "Powers up moves of the same type as the Pok\u00e9mon.",
+        "hyper-cutter": "The Pok\u00e9mon\u2019s proud of its powerful pincers. They\nprevent other Pok\u00e9mon from lowering its Attack stat.",
+        "shell-armor": "A hard shell protects the Pok\u00e9mon from critical hits."
+    },
+    "description": {
+        "game": "ruby",
+        "text": "CRAWDAUNT has an extremely violent\nnature that compels it to challenge\nother living things to battle.\fOther life-forms refuse to live in\nponds inhabited by this POK\u00e9MON,\nmaking them desolate places."
+    },
+    "eggGroups": [
+        "water1",
+        "water3"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 30,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "crawdaunt",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/342/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "corphish",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/341/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/342.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/342.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/342.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/342.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Rogue Pok\u00e9mon",
+    "hatchCounter": 15,
+    "height": 1.1,
+    "id": 342,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/342.png",
+    "name": "crawdaunt",
+    "stats": {
+        "attack": 120,
+        "defense": 85,
+        "hp": 63,
+        "specialAttack": 90,
+        "specialDefense": 55,
+        "speed": 55
+    },
+    "type_relations": {
+        "resistantTo": [
+            "dark",
+            "ghost",
+            "water",
+            "steel",
+            "fire",
+            "ice"
+        ],
+        "weakTo": [
+            "fighting",
+            "fairy",
+            "electric",
+            "bug",
+            "grass"
+        ]
+    },
+    "types": [
+        "water",
+        "dark"
+    ],
+    "weight": 32.8
+}

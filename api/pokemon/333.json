@@ -1,0 +1,105 @@
+{
+    "abilities": {
+        "cloud-nine": "Eliminates the effects of weather.",
+        "natural-cure": "All status conditions heal when the Pok\u00e9mon\nswitches out."
+    },
+    "description": {
+        "game": "ruby",
+        "text": "SWABLU has light and fluffy wings that\nare like cottony clouds. This POK\u00e9MON\nis not frightened of people.\fIt lands on the heads of people and\nsits there like a cotton-fluff hat."
+    },
+    "eggGroups": [
+        "flying",
+        "dragon"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 35,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "altaria",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/334/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "swablu",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/333/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/333.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/333.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/333.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/333.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Cotton Bird Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 0.4,
+    "id": 333,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/333.png",
+    "name": "swablu",
+    "stats": {
+        "attack": 40,
+        "defense": 60,
+        "hp": 45,
+        "specialAttack": 40,
+        "specialDefense": 75,
+        "speed": 50
+    },
+    "type_relations": {
+        "resistantTo": [
+            "grass",
+            "bug"
+        ],
+        "weakTo": [
+            "ice",
+            "rock",
+            "electric"
+        ]
+    },
+    "types": [
+        "normal",
+        "flying"
+    ],
+    "weight": 1.2
+}

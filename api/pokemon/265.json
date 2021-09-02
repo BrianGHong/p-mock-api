@@ -1,0 +1,205 @@
+{
+    "abilities": {
+        "run-away": "Enables a sure getaway from wild Pok\u00e9mon.",
+        "shield-dust": "This Pok\u00e9mon\u2019s dust blocks the additional effects of\nattacks taken."
+    },
+    "description": {
+        "game": "ruby",
+        "text": "Using the spikes on its rear end,  \nWURMPLE peels the bark off trees and\nfeeds on the sap that oozes out.\fThis POK\u00e9MON\u2019s feet are tipped with\nsuction pads that allow it to cling to\nglass without slipping."
+    },
+    "eggGroups": [
+        "bug"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 7,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [
+                    {
+                        "evolution_details": [
+                            {
+                                "gender": null,
+                                "held_item": null,
+                                "item": null,
+                                "known_move": null,
+                                "known_move_type": null,
+                                "location": null,
+                                "min_affection": null,
+                                "min_beauty": null,
+                                "min_happiness": null,
+                                "min_level": 10,
+                                "needs_overworld_rain": false,
+                                "party_species": null,
+                                "party_type": null,
+                                "relative_physical_stats": null,
+                                "time_of_day": "",
+                                "trade_species": null,
+                                "trigger": {
+                                    "name": "level-up",
+                                    "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                                },
+                                "turn_upside_down": false
+                            }
+                        ],
+                        "evolves_to": [],
+                        "is_baby": false,
+                        "species": {
+                            "name": "beautifly",
+                            "url": "https://pokeapi.co/api/v2/pokemon-species/267/"
+                        }
+                    }
+                ],
+                "is_baby": false,
+                "species": {
+                    "name": "silcoon",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/266/"
+                }
+            },
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 7,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [
+                    {
+                        "evolution_details": [
+                            {
+                                "gender": null,
+                                "held_item": null,
+                                "item": null,
+                                "known_move": null,
+                                "known_move_type": null,
+                                "location": null,
+                                "min_affection": null,
+                                "min_beauty": null,
+                                "min_happiness": null,
+                                "min_level": 10,
+                                "needs_overworld_rain": false,
+                                "party_species": null,
+                                "party_type": null,
+                                "relative_physical_stats": null,
+                                "time_of_day": "",
+                                "trade_species": null,
+                                "trigger": {
+                                    "name": "level-up",
+                                    "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                                },
+                                "turn_upside_down": false
+                            }
+                        ],
+                        "evolves_to": [],
+                        "is_baby": false,
+                        "species": {
+                            "name": "dustox",
+                            "url": "https://pokeapi.co/api/v2/pokemon-species/269/"
+                        }
+                    }
+                ],
+                "is_baby": false,
+                "species": {
+                    "name": "cascoon",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/268/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "wurmple",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/265/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/265.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/265.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/265.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/265.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Worm Pok\u00e9mon",
+    "hatchCounter": 15,
+    "height": 0.3,
+    "id": 265,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/265.png",
+    "name": "wurmple",
+    "stats": {
+        "attack": 45,
+        "defense": 35,
+        "hp": 45,
+        "specialAttack": 20,
+        "specialDefense": 30,
+        "speed": 20
+    },
+    "type_relations": {
+        "resistantTo": [
+            "ground",
+            "fighting",
+            "grass"
+        ],
+        "weakTo": [
+            "fire",
+            "rock",
+            "flying"
+        ]
+    },
+    "types": [
+        "bug"
+    ],
+    "weight": 3.6
+}

@@ -1,0 +1,108 @@
+{
+    "abilities": {
+        "intimidate": "The Pok\u00e9mon intimidates opposing Pok\u00e9mon upon\nentering battle, lowering their Attack stat.",
+        "moxie": "The Pok\u00e9mon shows moxie, and that boosts the\nAttack stat after knocking out any Pok\u00e9mon.",
+        "shed-skin": "The Pok\u00e9mon may heal its own status conditions\nby shedding its skin."
+    },
+    "description": {
+        "game": "black",
+        "text": "Its skin has a rubbery elasticity, so\nit can reduce damage by defensively\npulling its skin up to its neck."
+    },
+    "eggGroups": [
+        "ground",
+        "dragon"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 39,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "scrafty",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/560/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "scraggy",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/559/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/559.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/559.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/559.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/559.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Shedding Pok\u00e9mon",
+    "hatchCounter": 15,
+    "height": 0.6,
+    "id": 559,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/559.png",
+    "name": "scraggy",
+    "stats": {
+        "attack": 75,
+        "defense": 70,
+        "hp": 50,
+        "specialAttack": 35,
+        "specialDefense": 70,
+        "speed": 48
+    },
+    "type_relations": {
+        "resistantTo": [
+            "dark",
+            "rock",
+            "ghost"
+        ],
+        "weakTo": [
+            "fighting",
+            "flying",
+            "fairy",
+            "psychic"
+        ]
+    },
+    "types": [
+        "dark",
+        "fighting"
+    ],
+    "weight": 11.8
+}

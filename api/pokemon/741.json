@@ -1,0 +1,71 @@
+{
+    "abilities": {
+        "dancer": "When another Pok\u00e9mon uses a dance move,\nit can use a dance move following it regardless\nof its Speed."
+    },
+    "description": {
+        "game": "sun",
+        "text": "It beats its wings together to create fire.\nAs it moves in the steps of its beautiful dance,\nit bathes opponents in intense flames."
+    },
+    "eggGroups": [
+        "flying"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "oricorio",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/741/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/741.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/741.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/741.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/741.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Dancing Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 0.6,
+    "id": 741,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/741.png",
+    "name": "oricorio-baile",
+    "stats": {
+        "attack": 70,
+        "defense": 70,
+        "hp": 75,
+        "specialAttack": 98,
+        "specialDefense": 70,
+        "speed": 93
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fighting",
+            "fairy",
+            "bug",
+            "steel",
+            "fire",
+            "grass"
+        ],
+        "weakTo": [
+            "ground",
+            "rock",
+            "electric",
+            "water"
+        ]
+    },
+    "types": [
+        "fire",
+        "flying"
+    ],
+    "weight": 3.4
+}

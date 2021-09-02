@@ -1,0 +1,64 @@
+{
+    "abilities": {
+        "grim-neigh": "When the Pok\u00e9mon knocks out a target, it utters a terrifying neigh, which boosts its Sp. Atk stat."
+    },
+    "description": {
+        "game": "sword",
+        "text": "It probes its surroundings with all its senses save one\u2014it doesn't use its sense of sight. Spectrier's kicks are said to separate soul from body."
+    },
+    "eggGroups": [],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "spectrier",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/897/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/897.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/897.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/897.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/897.png"
+        }
+    ],
+    "gender": {
+        "genderless": -12.5
+    },
+    "genera": "Swift Horse Pok\u00e9mon",
+    "hatchCounter": 120,
+    "height": 2.0,
+    "id": 897,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/897.png",
+    "name": "spectrier",
+    "stats": {
+        "attack": 65,
+        "defense": 60,
+        "hp": 100,
+        "specialAttack": 145,
+        "specialDefense": 80,
+        "speed": 130
+    },
+    "type_relations": {
+        "resistantTo": [
+            "poison",
+            "bug"
+        ],
+        "weakTo": [
+            "dark",
+            "ghost"
+        ]
+    },
+    "types": [
+        "ghost"
+    ],
+    "weight": 44.5
+}

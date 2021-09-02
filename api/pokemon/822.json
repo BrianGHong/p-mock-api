@@ -1,0 +1,137 @@
+{
+    "abilities": {
+        "big-pecks": "Protects the Pok\u00e9mon from\nDefense-lowering effects.",
+        "keen-eye": "Keen eyes prevent other Pok\u00e9mon from lowering this\nPok\u00e9mon\u2019s accuracy.",
+        "unnerve": "Unnerves opposing Pok\u00e9mon and makes them unable\nto eat Berries."
+    },
+    "description": {
+        "game": "sword",
+        "text": "Smart enough to use tools in battle, these\nPok\u00e9mon have been seen picking up rocks and\nflinging them or using ropes to wrap up enemies."
+    },
+    "eggGroups": [],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 18,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [
+                    {
+                        "evolution_details": [
+                            {
+                                "gender": null,
+                                "held_item": null,
+                                "item": null,
+                                "known_move": null,
+                                "known_move_type": null,
+                                "location": null,
+                                "min_affection": null,
+                                "min_beauty": null,
+                                "min_happiness": null,
+                                "min_level": 38,
+                                "needs_overworld_rain": false,
+                                "party_species": null,
+                                "party_type": null,
+                                "relative_physical_stats": null,
+                                "time_of_day": "",
+                                "trade_species": null,
+                                "trigger": {
+                                    "name": "level-up",
+                                    "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                                },
+                                "turn_upside_down": false
+                            }
+                        ],
+                        "evolves_to": [],
+                        "is_baby": false,
+                        "species": {
+                            "name": "corviknight",
+                            "url": "https://pokeapi.co/api/v2/pokemon-species/823/"
+                        }
+                    }
+                ],
+                "is_baby": false,
+                "species": {
+                    "name": "corvisquire",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/822/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "rookidee",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/821/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/822.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/822.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/822.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/822.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Raven Pok\u00e9mon",
+    "hatchCounter": 15,
+    "height": 0.8,
+    "id": 822,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/822.png",
+    "name": "corvisquire",
+    "stats": {
+        "attack": 67,
+        "defense": 55,
+        "hp": 68,
+        "specialAttack": 43,
+        "specialDefense": 55,
+        "speed": 77
+    },
+    "type_relations": {
+        "resistantTo": [
+            "grass",
+            "fighting",
+            "bug"
+        ],
+        "weakTo": [
+            "ice",
+            "rock",
+            "electric"
+        ]
+    },
+    "types": [
+        "flying"
+    ],
+    "weight": 16.0
+}

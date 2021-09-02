@@ -1,0 +1,122 @@
+{
+    "abilities": {
+        "cursed-body": "May disable a move used on the Pok\u00e9mon.",
+        "damp": "Prevents the use of explosive moves such as\nSelf-Destruct by dampening its surroundings.",
+        "water-absorb": "Restores HP if hit by a Water-type move, instead of\ntaking damage."
+    },
+    "description": {
+        "game": "black",
+        "text": "With its thin, veil-like arms wrapped\naround the body of its opponent,\nit sinks to the ocean floor."
+    },
+    "eggGroups": [
+        "indeterminate"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 40,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "jellicent",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/593/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "frillish",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/592/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/592.png"
+        },
+        {
+            "back_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/592.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/592.png"
+        },
+        {
+            "back_shiny_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/592.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/592.png"
+        },
+        {
+            "front_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/592.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/592.png"
+        },
+        {
+            "front_shiny_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/592.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Floating Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 1.2,
+    "id": 592,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/592.png",
+    "name": "frillish",
+    "stats": {
+        "attack": 40,
+        "defense": 50,
+        "hp": 55,
+        "specialAttack": 65,
+        "specialDefense": 85,
+        "speed": 40
+    },
+    "type_relations": {
+        "resistantTo": [
+            "water",
+            "bug",
+            "steel",
+            "fire",
+            "ice",
+            "poison"
+        ],
+        "weakTo": [
+            "dark",
+            "grass",
+            "electric",
+            "ghost"
+        ]
+    },
+    "types": [
+        "water",
+        "ghost"
+    ],
+    "weight": 33.0
+}

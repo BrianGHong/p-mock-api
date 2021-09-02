@@ -1,0 +1,66 @@
+{
+    "abilities": {
+        "electric-surge": "Turns the ground into Electric Terrain when the\nPok\u00e9mon enters a battle.",
+        "lightning-rod": "The Pok\u00e9mon draws in all Electric-type moves. \nInstead of being hit by Electric-type moves, \nit boosts its Sp. Atk."
+    },
+    "description": {
+        "game": "sword",
+        "text": "It feeds on seaweed, using its teeth to scrape it\noff rocks. Electric current flows from the tips of\nits spines."
+    },
+    "eggGroups": [],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "pincurchin",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/871/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/871.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/871.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/871.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/871.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Sea Urchin Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 0.3,
+    "id": 871,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/871.png",
+    "name": "pincurchin",
+    "stats": {
+        "attack": 101,
+        "defense": 95,
+        "hp": 48,
+        "specialAttack": 91,
+        "specialDefense": 85,
+        "speed": 15
+    },
+    "type_relations": {
+        "resistantTo": [
+            "electric",
+            "flying",
+            "steel"
+        ],
+        "weakTo": [
+            "ground"
+        ]
+    },
+    "types": [
+        "electric"
+    ],
+    "weight": 1.0
+}

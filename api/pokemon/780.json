@@ -1,0 +1,75 @@
+{
+    "abilities": {
+        "berserk": "Boosts the Pok\u00e9mon\u2019s Sp. Atk stat when it takes a \nhit that causes its HP to become half or less.",
+        "cloud-nine": "Eliminates the effects of weather.",
+        "sap-sipper": "Boosts the Attack stat if hit by a Grass-type move,\ninstead of taking damage."
+    },
+    "description": {
+        "game": "sun",
+        "text": "It has a compassionate personality, but if it is\nangered, it completely destroys its surroundings\nwith its intense breath."
+    },
+    "eggGroups": [
+        "monster",
+        "dragon"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "drampa",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/780/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/780.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/780.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/780.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/780.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Placid Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 3.0,
+    "id": 780,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/780.png",
+    "name": "drampa",
+    "stats": {
+        "attack": 60,
+        "defense": 85,
+        "hp": 78,
+        "specialAttack": 135,
+        "specialDefense": 91,
+        "speed": 36
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fire",
+            "grass",
+            "electric",
+            "water"
+        ],
+        "weakTo": [
+            "ice",
+            "dragon",
+            "fighting",
+            "fairy"
+        ]
+    },
+    "types": [
+        "normal",
+        "dragon"
+    ],
+    "weight": 185.0
+}

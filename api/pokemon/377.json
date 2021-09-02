@@ -1,0 +1,72 @@
+{
+    "abilities": {
+        "clear-body": "Prevents other Pok\u00e9mon\u2019s moves or Abilities from\nlowering the Pok\u00e9mon\u2019s stats.",
+        "sturdy": "It cannot be knocked out with one hit. One-hit KO\nmoves cannot knock it out, either."
+    },
+    "description": {
+        "game": "ruby",
+        "text": "REGIROCK was sealed away by people\nlong ago. If this POK\u00e9MON\u2019s body is\ndamaged in battle, it is said to seek\fout suitable rocks on its own to repair\nitself."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "regirock",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/377/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/377.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/377.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/377.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/377.png"
+        }
+    ],
+    "gender": {
+        "genderless": -12.5
+    },
+    "genera": "Rock Peak Pok\u00e9mon",
+    "hatchCounter": 80,
+    "height": 1.7,
+    "id": 377,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/377.png",
+    "name": "regirock",
+    "stats": {
+        "attack": 100,
+        "defense": 200,
+        "hp": 80,
+        "specialAttack": 50,
+        "specialDefense": 100,
+        "speed": 50
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fire",
+            "normal",
+            "poison",
+            "flying"
+        ],
+        "weakTo": [
+            "ground",
+            "fighting",
+            "water",
+            "steel",
+            "grass"
+        ]
+    },
+    "types": [
+        "rock"
+    ],
+    "weight": 230.0
+}

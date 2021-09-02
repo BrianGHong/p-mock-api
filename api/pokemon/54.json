@@ -1,0 +1,106 @@
+{
+    "abilities": {
+        "cloud-nine": "Eliminates the effects of weather.",
+        "damp": "Prevents the use of explosive moves such as\nSelf-Destruct by dampening its surroundings.",
+        "swift-swim": "Boosts the Pok\u00e9mon\u2019s Speed stat in rain."
+    },
+    "description": {
+        "game": "red",
+        "text": "While lulling its\nenemies with its\nvacant look, this\fwily POK\u00e9MON will\nuse psychokinetic\npowers."
+    },
+    "eggGroups": [
+        "water1",
+        "ground"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 33,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "golduck",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/55/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "psyduck",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/54/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/54.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/54.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/54.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Duck Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 0.8,
+    "id": 54,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/54.png",
+    "name": "psyduck",
+    "stats": {
+        "attack": 52,
+        "defense": 48,
+        "hp": 50,
+        "specialAttack": 65,
+        "specialDefense": 50,
+        "speed": 55
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fire",
+            "ice",
+            "water",
+            "steel"
+        ],
+        "weakTo": [
+            "grass",
+            "electric"
+        ]
+    },
+    "types": [
+        "water"
+    ],
+    "weight": 19.6
+}

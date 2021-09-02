@@ -1,0 +1,69 @@
+{
+    "abilities": {
+        "illuminate": "Raises the likelihood of meeting wild Pok\u00e9mon by\nilluminating the surroundings.",
+        "prankster": "Gives priority to a status move.",
+        "swarm": "Powers up Bug-type moves when the Pok\u00e9mon\u2019s HP\nis low."
+    },
+    "description": {
+        "game": "ruby",
+        "text": "With the arrival of night, VOLBEAT emits\nlight from its tail. It communicates with\nothers by adjusting the intensity and\fflashing of its light.\nThis POK\u00e9MON is attracted by the sweet\naroma of ILLUMISE."
+    },
+    "eggGroups": [
+        "bug",
+        "humanshape"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "volbeat",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/313/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/313.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/313.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/313.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/313.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Firefly Pok\u00e9mon",
+    "hatchCounter": 15,
+    "height": 0.7,
+    "id": 313,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/313.png",
+    "name": "volbeat",
+    "stats": {
+        "attack": 73,
+        "defense": 75,
+        "hp": 65,
+        "specialAttack": 47,
+        "specialDefense": 85,
+        "speed": 85
+    },
+    "type_relations": {
+        "resistantTo": [
+            "ground",
+            "fighting",
+            "grass"
+        ],
+        "weakTo": [
+            "fire",
+            "rock",
+            "flying"
+        ]
+    },
+    "types": [
+        "bug"
+    ],
+    "weight": 17.7
+}

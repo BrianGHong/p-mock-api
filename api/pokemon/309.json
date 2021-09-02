@@ -1,0 +1,103 @@
+{
+    "abilities": {
+        "lightning-rod": "The Pok\u00e9mon draws in all Electric-type moves. \nInstead of being hit by Electric-type moves, \nit boosts its Sp. Atk.",
+        "minus": "Boosts the Sp. Atk stat of the Pok\u00e9mon if an ally\nwith the Plus or Minus Ability is also in battle.",
+        "static": "The Pok\u00e9mon is charged with static electricity, so\ncontact with it may cause paralysis."
+    },
+    "description": {
+        "game": "ruby",
+        "text": "ELECTRIKE stores electricity in its\nlong body hair. This POK\u00e9MON stimulates\nits leg muscles with electric charges.\fThese jolts of power give its legs\nexplosive acceleration performance."
+    },
+    "eggGroups": [
+        "ground"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 26,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "manectric",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/310/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "electrike",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/309/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/309.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/309.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/309.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/309.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Lightning Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 0.6,
+    "id": 309,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/309.png",
+    "name": "electrike",
+    "stats": {
+        "attack": 45,
+        "defense": 40,
+        "hp": 40,
+        "specialAttack": 65,
+        "specialDefense": 40,
+        "speed": 65
+    },
+    "type_relations": {
+        "resistantTo": [
+            "electric",
+            "flying",
+            "steel"
+        ],
+        "weakTo": [
+            "ground"
+        ]
+    },
+    "types": [
+        "electric"
+    ],
+    "weight": 15.2
+}

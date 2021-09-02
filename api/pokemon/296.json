@@ -1,0 +1,105 @@
+{
+    "abilities": {
+        "guts": "It\u2019s so gutsy that having a status condition boosts\nthe Pok\u00e9mon\u2019s Attack stat.",
+        "sheer-force": "Removes additional effects to increase the power\nof moves when attacking.",
+        "thick-fat": "The Pok\u00e9mon is protected by a layer of thick fat,\nwhich halves the damage taken from Fire- and\nIce-type moves."
+    },
+    "description": {
+        "game": "ruby",
+        "text": "MAKUHITA is tenacious - it will keep\ngetting up and attacking its foe\nhowever many times it is knocked down.\fEvery time it gets back up, this\nPOK\u00e9MON stores more energy in its body\nfor evolving."
+    },
+    "eggGroups": [
+        "humanshape"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 24,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "hariyama",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/297/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "makuhita",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/296/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/296.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/296.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/296.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/296.png"
+        }
+    ],
+    "gender": {
+        "female": 25.0,
+        "male": 75.0
+    },
+    "genera": "Guts Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 1.0,
+    "id": 296,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/296.png",
+    "name": "makuhita",
+    "stats": {
+        "attack": 60,
+        "defense": 30,
+        "hp": 72,
+        "specialAttack": 20,
+        "specialDefense": 30,
+        "speed": 25
+    },
+    "type_relations": {
+        "resistantTo": [
+            "dark",
+            "rock",
+            "bug"
+        ],
+        "weakTo": [
+            "fairy",
+            "psychic",
+            "flying"
+        ]
+    },
+    "types": [
+        "fighting"
+    ],
+    "weight": 86.4
+}

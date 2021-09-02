@@ -1,0 +1,108 @@
+{
+    "abilities": {
+        "drizzle": "The Pok\u00e9mon makes it rain when it enters a battle.",
+        "keen-eye": "Keen eyes prevent other Pok\u00e9mon from lowering this\nPok\u00e9mon\u2019s accuracy.",
+        "rain-dish": "The Pok\u00e9mon gradually regains HP in rain."
+    },
+    "description": {
+        "game": "ruby",
+        "text": "PELIPPER is a flying transporter that\ncarries small POK\u00e9MON and eggs inside\nits massive bill.\fThis POK\u00e9MON builds its nest on steep\ncliffs facing the sea."
+    },
+    "eggGroups": [
+        "water1",
+        "flying"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 25,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "pelipper",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/279/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "wingull",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/278/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/279.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/279.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/279.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/279.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Water Bird Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 1.2,
+    "id": 279,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/279.png",
+    "name": "pelipper",
+    "stats": {
+        "attack": 50,
+        "defense": 100,
+        "hp": 60,
+        "specialAttack": 95,
+        "specialDefense": 70,
+        "speed": 65
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fighting",
+            "water",
+            "bug",
+            "steel",
+            "fire"
+        ],
+        "weakTo": [
+            "rock",
+            "electric"
+        ]
+    },
+    "types": [
+        "water",
+        "flying"
+    ],
+    "weight": 28.0
+}

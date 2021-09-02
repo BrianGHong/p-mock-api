@@ -1,0 +1,65 @@
+{
+    "abilities": {
+        "water-absorb": "Restores HP if hit by a Water-type move, instead of\ntaking damage."
+    },
+    "description": {
+        "game": "x",
+        "text": "It lets out billows of steam and disappears into\nthe dense fog. It\u2019s said to live in mountains\nwhere humans do not tread."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "volcanion",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/721/"
+        }
+    },
+    "forms": [
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/721.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/721.png"
+        }
+    ],
+    "gender": {
+        "genderless": -12.5
+    },
+    "genera": "Steam Pok\u00e9mon",
+    "hatchCounter": 120,
+    "height": 1.7,
+    "id": 721,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/721.png",
+    "name": "volcanion",
+    "stats": {
+        "attack": 110,
+        "defense": 120,
+        "hp": 80,
+        "specialAttack": 130,
+        "specialDefense": 90,
+        "speed": 70
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fairy",
+            "bug",
+            "steel",
+            "fire",
+            "ice"
+        ],
+        "weakTo": [
+            "ground",
+            "rock",
+            "electric"
+        ]
+    },
+    "types": [
+        "fire",
+        "water"
+    ],
+    "weight": 195.0
+}

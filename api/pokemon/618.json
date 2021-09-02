@@ -1,0 +1,76 @@
+{
+    "abilities": {
+        "limber": "Its limber body protects the Pok\u00e9mon from paralysis.",
+        "sand-veil": "Boosts the Pok\u00e9mon\u2019s evasion in a sandstorm.",
+        "static": "The Pok\u00e9mon is charged with static electricity, so\ncontact with it may cause paralysis."
+    },
+    "description": {
+        "game": "black",
+        "text": "Its skin is very hard, so it is unhurt\neven if stepped on by sumo wrestlers.\nIt smiles when transmitting electricity."
+    },
+    "eggGroups": [
+        "water1",
+        "indeterminate"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "stunfisk",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/618/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/618.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/618.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/618.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/618.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Trap Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 0.7,
+    "id": 618,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/618.png",
+    "name": "stunfisk",
+    "stats": {
+        "attack": 66,
+        "defense": 84,
+        "hp": 109,
+        "specialAttack": 81,
+        "specialDefense": 99,
+        "speed": 32
+    },
+    "type_relations": {
+        "resistantTo": [
+            "flying",
+            "rock",
+            "electric",
+            "steel",
+            "poison"
+        ],
+        "weakTo": [
+            "ice",
+            "grass",
+            "water",
+            "ground"
+        ]
+    },
+    "types": [
+        "ground",
+        "electric"
+    ],
+    "weight": 11.0
+}

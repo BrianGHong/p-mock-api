@@ -1,0 +1,87 @@
+{
+    "abilities": {
+        "guts": "It\u2019s so gutsy that having a status condition boosts\nthe Pok\u00e9mon\u2019s Attack stat.",
+        "moxie": "The Pok\u00e9mon shows moxie, and that boosts the\nAttack stat after knocking out any Pok\u00e9mon.",
+        "swarm": "Powers up Bug-type moves when the Pok\u00e9mon\u2019s HP\nis low."
+    },
+    "description": {
+        "game": "gold",
+        "text": "This powerful\nPOK\u00e9MON thrusts\nits prized horn\funder its enemies\u2019\nbellies then lifts\nand throws them."
+    },
+    "eggGroups": [
+        "bug"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "heracross",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/214/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/214.png"
+        },
+        {
+            "back_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/214.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/214.png"
+        },
+        {
+            "back_shiny_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/214.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/214.png"
+        },
+        {
+            "front_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/214.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/214.png"
+        },
+        {
+            "front_shiny_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/214.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Single Horn Pok\u00e9mon",
+    "hatchCounter": 25,
+    "height": 1.5,
+    "id": 214,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/214.png",
+    "name": "heracross",
+    "stats": {
+        "attack": 125,
+        "defense": 75,
+        "hp": 80,
+        "specialAttack": 40,
+        "specialDefense": 95,
+        "speed": 85
+    },
+    "type_relations": {
+        "resistantTo": [
+            "dark",
+            "ground",
+            "fighting",
+            "bug",
+            "grass"
+        ],
+        "weakTo": [
+            "fairy",
+            "flying",
+            "fire",
+            "psychic"
+        ]
+    },
+    "types": [
+        "bug",
+        "fighting"
+    ],
+    "weight": 54.0
+}

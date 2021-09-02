@@ -1,0 +1,71 @@
+{
+    "abilities": {
+        "turboblaze": "Moves can be used on the target regardless of\nits Abilities."
+    },
+    "description": {
+        "game": "black",
+        "text": "This Pok\u00e9mon appears in legends.\nIt sends flames into the air from its\ntail, burning up everything around it."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "reshiram",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/643/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/643.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/643.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/643.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/643.png"
+        }
+    ],
+    "gender": {
+        "genderless": -12.5
+    },
+    "genera": "Vast White Pok\u00e9mon",
+    "hatchCounter": 120,
+    "height": 3.2,
+    "id": 643,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/643.png",
+    "name": "reshiram",
+    "stats": {
+        "attack": 120,
+        "defense": 100,
+        "hp": 100,
+        "specialAttack": 150,
+        "specialDefense": 120,
+        "speed": 90
+    },
+    "type_relations": {
+        "resistantTo": [
+            "electric",
+            "bug",
+            "steel",
+            "fire",
+            "grass"
+        ],
+        "weakTo": [
+            "ground",
+            "rock",
+            "dragon"
+        ]
+    },
+    "types": [
+        "dragon",
+        "fire"
+    ],
+    "weight": 330.0
+}

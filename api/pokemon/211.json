@@ -1,0 +1,77 @@
+{
+    "abilities": {
+        "intimidate": "The Pok\u00e9mon intimidates opposing Pok\u00e9mon upon\nentering battle, lowering their Attack stat.",
+        "poison-point": "Contact with the Pok\u00e9mon may poison the attacker.",
+        "swift-swim": "Boosts the Pok\u00e9mon\u2019s Speed stat in rain."
+    },
+    "description": {
+        "game": "gold",
+        "text": "To fire its poison\nspikes, it must\ninflate its body\fby drinking over\n2.6 gallons of\nwater all at once."
+    },
+    "eggGroups": [
+        "water2"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "qwilfish",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/211/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/211.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/211.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/211.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/211.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Balloon Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 0.5,
+    "id": 211,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/211.png",
+    "name": "qwilfish",
+    "stats": {
+        "attack": 95,
+        "defense": 85,
+        "hp": 65,
+        "specialAttack": 55,
+        "specialDefense": 55,
+        "speed": 85
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fighting",
+            "fairy",
+            "water",
+            "bug",
+            "steel",
+            "fire",
+            "ice",
+            "poison"
+        ],
+        "weakTo": [
+            "electric",
+            "ground",
+            "psychic"
+        ]
+    },
+    "types": [
+        "water",
+        "poison"
+    ],
+    "weight": 3.9
+}

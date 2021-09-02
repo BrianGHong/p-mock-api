@@ -1,0 +1,77 @@
+{
+    "abilities": {
+        "dazzling": "Surprises the opposing Pok\u00e9mon, making it unable\nto attack using priority moves.",
+        "strong-jaw": "The Pok\u00e9mon\u2019s strong jaw boosts the power of its\nbiting moves.",
+        "wonder-skin": "Makes status moves more likely to miss."
+    },
+    "description": {
+        "game": "sun",
+        "text": "When it unleashes its psychic power from the\nprotuberance on its head, the grating sound\nof grinding teeth echoes through the area."
+    },
+    "eggGroups": [
+        "water2"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "bruxish",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/779/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/779.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/779.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/779.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/779.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Gnash Teeth Pok\u00e9mon",
+    "hatchCounter": 15,
+    "height": 0.9,
+    "id": 779,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/779.png",
+    "name": "bruxish",
+    "stats": {
+        "attack": 105,
+        "defense": 70,
+        "hp": 68,
+        "specialAttack": 70,
+        "specialDefense": 70,
+        "speed": 92
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fighting",
+            "water",
+            "steel",
+            "fire",
+            "ice",
+            "psychic"
+        ],
+        "weakTo": [
+            "dark",
+            "electric",
+            "ghost",
+            "bug",
+            "grass"
+        ]
+    },
+    "types": [
+        "water",
+        "psychic"
+    ],
+    "weight": 19.0
+}

@@ -1,0 +1,68 @@
+{
+    "abilities": {
+        "minus": "Boosts the Sp. Atk stat of the Pok\u00e9mon if an ally\nwith the Plus or Minus Ability is also in battle.",
+        "volt-absorb": "Restores HP if hit by an Electric-type move, instead\nof taking damage."
+    },
+    "description": {
+        "game": "ruby",
+        "text": "MINUN is more concerned about cheering\non its partners than its own safety.\nIt shorts out the electricity in its\fbody to create brilliant showers of\nsparks to cheer on its teammates."
+    },
+    "eggGroups": [
+        "fairy"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "minun",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/312/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/312.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/312.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/312.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/312.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Cheering Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 0.4,
+    "id": 312,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/312.png",
+    "name": "minun",
+    "stats": {
+        "attack": 40,
+        "defense": 50,
+        "hp": 60,
+        "specialAttack": 75,
+        "specialDefense": 85,
+        "speed": 95
+    },
+    "type_relations": {
+        "resistantTo": [
+            "electric",
+            "flying",
+            "steel"
+        ],
+        "weakTo": [
+            "ground"
+        ]
+    },
+    "types": [
+        "electric"
+    ],
+    "weight": 4.2
+}

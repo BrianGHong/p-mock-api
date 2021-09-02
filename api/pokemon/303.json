@@ -1,0 +1,80 @@
+{
+    "abilities": {
+        "hyper-cutter": "The Pok\u00e9mon\u2019s proud of its powerful pincers. They\nprevent other Pok\u00e9mon from lowering its Attack stat.",
+        "intimidate": "The Pok\u00e9mon intimidates opposing Pok\u00e9mon upon\nentering battle, lowering their Attack stat.",
+        "sheer-force": "Removes additional effects to increase the power\nof moves when attacking."
+    },
+    "description": {
+        "game": "ruby",
+        "text": "MAWHILE\u2019s huge jaws are actually steel\nhorns that have been transformed.\nIts docile-looking face serves to lull\fits foe into letting down its guard.\nWhen the foe least expects it, MAWHILE\nchomps it with its gaping jaws."
+    },
+    "eggGroups": [
+        "ground",
+        "fairy"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "mawile",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/303/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/303.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/303.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/303.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/303.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Deceiver Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 0.6,
+    "id": 303,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/303.png",
+    "name": "mawile",
+    "stats": {
+        "attack": 85,
+        "defense": 85,
+        "hp": 50,
+        "specialAttack": 55,
+        "specialDefense": 55,
+        "speed": 50
+    },
+    "type_relations": {
+        "resistantTo": [
+            "dark",
+            "normal",
+            "flying",
+            "fairy",
+            "rock",
+            "dragon",
+            "bug",
+            "ice",
+            "grass",
+            "psychic"
+        ],
+        "weakTo": [
+            "ground",
+            "fire",
+            "poison"
+        ]
+    },
+    "types": [
+        "steel",
+        "fairy"
+    ],
+    "weight": 11.5
+}

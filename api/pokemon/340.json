@@ -1,0 +1,106 @@
+{
+    "abilities": {
+        "anticipation": "The Pok\u00e9mon can sense an opposing Pok\u00e9mon\u2019s\ndangerous moves.",
+        "hydration": "Heals status conditions if it\u2019s raining.",
+        "oblivious": "The Pok\u00e9mon is oblivious, and that keeps it from\nbeing infatuated or falling for taunts."
+    },
+    "description": {
+        "game": "ruby",
+        "text": "WHISCASH is extremely territorial.\nJust one of these POK\u00e9MON will claim a\nlarge pond as its exclusive territory.\fIf a foe approaches it, it thrashes\nabout and triggers a massive\nearthquake."
+    },
+    "eggGroups": [
+        "water2"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 30,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "whiscash",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/340/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "barboach",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/339/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/340.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/340.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/340.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/340.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Whiskers Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 0.9,
+    "id": 340,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/340.png",
+    "name": "whiscash",
+    "stats": {
+        "attack": 78,
+        "defense": 73,
+        "hp": 110,
+        "specialAttack": 76,
+        "specialDefense": 71,
+        "speed": 60
+    },
+    "type_relations": {
+        "resistantTo": [
+            "rock",
+            "steel",
+            "fire",
+            "poison"
+        ],
+        "weakTo": [
+            "grass",
+            "electric"
+        ]
+    },
+    "types": [
+        "water",
+        "ground"
+    ],
+    "weight": 23.6
+}

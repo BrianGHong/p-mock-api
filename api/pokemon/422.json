@@ -1,0 +1,106 @@
+{
+    "abilities": {
+        "sand-force": "Boosts the power of Rock-, Ground-, and Steel-type\nmoves in a sandstorm.",
+        "sticky-hold": "Items held by the Pok\u00e9mon are stuck fast and\ncannot be removed by other Pok\u00e9mon.",
+        "storm-drain": "Draws in all Water-type moves. Instead of being hit \nby Water-type moves, it boosts its Sp. Atk."
+    },
+    "description": {
+        "game": "y",
+        "text": "Its shape and coloration vary, depending on\nits habitat."
+    },
+    "eggGroups": [
+        "water1",
+        "indeterminate"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 30,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "gastrodon",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/423/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "shellos",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/422/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/422.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/422.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/422.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/422.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Sea Slug Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 0.3,
+    "id": 422,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/422.png",
+    "name": "shellos",
+    "stats": {
+        "attack": 48,
+        "defense": 48,
+        "hp": 76,
+        "specialAttack": 57,
+        "specialDefense": 62,
+        "speed": 34
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fire",
+            "ice",
+            "water",
+            "steel"
+        ],
+        "weakTo": [
+            "grass",
+            "electric"
+        ]
+    },
+    "types": [
+        "water"
+    ],
+    "weight": 6.3
+}

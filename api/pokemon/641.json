@@ -1,0 +1,67 @@
+{
+    "abilities": {
+        "defiant": "Boosts the Pok\u00e9mon\u2019s Attack stat sharply when its\nstats are lowered.",
+        "prankster": "Gives priority to a status move."
+    },
+    "description": {
+        "game": "black",
+        "text": "The lower half of its body is wrapped in\na cloud of energy. It zooms through\nthe sky at 200 mph."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "tornadus",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/641/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/641.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/641.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/641.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/641.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Cyclone Pok\u00e9mon",
+    "hatchCounter": 120,
+    "height": 1.5,
+    "id": 641,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/641.png",
+    "name": "tornadus-incarnate",
+    "stats": {
+        "attack": 115,
+        "defense": 70,
+        "hp": 79,
+        "specialAttack": 125,
+        "specialDefense": 80,
+        "speed": 111
+    },
+    "type_relations": {
+        "resistantTo": [
+            "grass",
+            "fighting",
+            "bug"
+        ],
+        "weakTo": [
+            "ice",
+            "rock",
+            "electric"
+        ]
+    },
+    "types": [
+        "flying"
+    ],
+    "weight": 63.0
+}

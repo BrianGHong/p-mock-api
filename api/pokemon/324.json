@@ -1,0 +1,74 @@
+{
+    "abilities": {
+        "drought": "Turns the sunlight harsh when the Pok\u00e9mon enters\na battle.",
+        "shell-armor": "A hard shell protects the Pok\u00e9mon from critical hits.",
+        "white-smoke": "The Pok\u00e9mon is protected by its white smoke, which\nprevents other Pok\u00e9mon from lowering its stats."
+    },
+    "description": {
+        "game": "ruby",
+        "text": "TORKOAL digs through mountains in\nsearch of coal. If it finds some, it fills\nhollow spaces on its shell with the coal\fand burns it.\nIf it is attacked, this POK\u00e9MON spouts\nthick black smoke to beat a retreat."
+    },
+    "eggGroups": [
+        "ground"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "torkoal",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/324/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/324.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/324.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/324.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/324.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Coal Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 0.5,
+    "id": 324,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/324.png",
+    "name": "torkoal",
+    "stats": {
+        "attack": 85,
+        "defense": 140,
+        "hp": 70,
+        "specialAttack": 85,
+        "specialDefense": 70,
+        "speed": 20
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fairy",
+            "bug",
+            "steel",
+            "fire",
+            "ice",
+            "grass"
+        ],
+        "weakTo": [
+            "ground",
+            "rock",
+            "water"
+        ]
+    },
+    "types": [
+        "fire"
+    ],
+    "weight": 80.4
+}

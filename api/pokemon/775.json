@@ -1,0 +1,63 @@
+{
+    "abilities": {
+        "comatose": "It\u2019s always drowsing and will never wake up.\nIt can attack without waking up."
+    },
+    "description": {
+        "game": "sun",
+        "text": "It is born asleep, and it dies asleep. All its\nmovements are apparently no more than the\nresults of it tossing and turning in its dreams."
+    },
+    "eggGroups": [
+        "ground"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "komala",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/775/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/775.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/775.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/775.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/775.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Drowsing Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 0.4,
+    "id": 775,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/775.png",
+    "name": "komala",
+    "stats": {
+        "attack": 115,
+        "defense": 65,
+        "hp": 65,
+        "specialAttack": 75,
+        "specialDefense": 95,
+        "speed": 65
+    },
+    "type_relations": {
+        "resistantTo": [],
+        "weakTo": [
+            "fighting"
+        ]
+    },
+    "types": [
+        "normal"
+    ],
+    "weight": 19.9
+}

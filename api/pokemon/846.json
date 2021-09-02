@@ -1,0 +1,102 @@
+{
+    "abilities": {
+        "propeller-tail": "Ignores the effects of opposing Pok\u00e9mon's Abilities and moves that draw in moves.",
+        "swift-swim": "Boosts the Pok\u00e9mon\u2019s Speed stat in rain."
+    },
+    "description": {
+        "game": "sword",
+        "text": "If it sees any movement around it, this Pok\u00e9mon\ncharges for it straightaway, leading with its\nsharply pointed jaw. It\u2019s very proud of that jaw."
+    },
+    "eggGroups": [],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 26,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "barraskewda",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/847/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "arrokuda",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/846/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/846.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/846.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/846.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/846.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Rush Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 0.5,
+    "id": 846,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/846.png",
+    "name": "arrokuda",
+    "stats": {
+        "attack": 63,
+        "defense": 40,
+        "hp": 41,
+        "specialAttack": 40,
+        "specialDefense": 30,
+        "speed": 66
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fire",
+            "ice",
+            "water",
+            "steel"
+        ],
+        "weakTo": [
+            "grass",
+            "electric"
+        ]
+    },
+    "types": [
+        "water"
+    ],
+    "weight": 1.0
+}

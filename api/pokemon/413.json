@@ -1,0 +1,140 @@
+{
+    "abilities": {
+        "anticipation": "The Pok\u00e9mon can sense an opposing Pok\u00e9mon\u2019s\ndangerous moves.",
+        "overcoat": "Protects the Pok\u00e9mon from things like sand, hail,\nand powder."
+    },
+    "description": {
+        "game": "diamond",
+        "text": "When BURMY evolved, its cloak\nbecame a part of this Pok\u00e9mon\u2019s\nbody. The cloak is never shed."
+    },
+    "eggGroups": [
+        "bug"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": 1,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 20,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "wormadam",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/413/"
+                }
+            },
+            {
+                "evolution_details": [
+                    {
+                        "gender": 2,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 20,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "mothim",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/414/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "burmy",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/412/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/413.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/413.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/413.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/413.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Bagworm Pok\u00e9mon",
+    "hatchCounter": 15,
+    "height": 0.5,
+    "id": 413,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/413.png",
+    "name": "wormadam-plant",
+    "stats": {
+        "attack": 59,
+        "defense": 85,
+        "hp": 60,
+        "specialAttack": 79,
+        "specialDefense": 105,
+        "speed": 36
+    },
+    "type_relations": {
+        "resistantTo": [
+            "ground",
+            "fighting",
+            "electric",
+            "water",
+            "grass"
+        ],
+        "weakTo": [
+            "flying",
+            "rock",
+            "bug",
+            "fire",
+            "ice",
+            "poison"
+        ]
+    },
+    "types": [
+        "bug",
+        "grass"
+    ],
+    "weight": 6.5
+}

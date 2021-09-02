@@ -1,0 +1,109 @@
+{
+    "abilities": {
+        "heavy-metal": "Doubles the Pok\u00e9mon\u2019s weight.",
+        "sheer-force": "Removes additional effects to increase the power\nof moves when attacking."
+    },
+    "description": {
+        "game": "sword",
+        "text": "So much power is packed within its trunk that if it\nwere to unleash that power, the resulting blast\ncould level mountains and change the landscape."
+    },
+    "eggGroups": [],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 34,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "copperajah",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/879/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "cufant",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/878/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/879.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/879.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/879.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/879.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Copperderm Pok\u00e9mon",
+    "hatchCounter": 25,
+    "height": 3.0,
+    "id": 879,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/879.png",
+    "name": "copperajah",
+    "stats": {
+        "attack": 130,
+        "defense": 69,
+        "hp": 122,
+        "specialAttack": 80,
+        "specialDefense": 69,
+        "speed": 30
+    },
+    "type_relations": {
+        "resistantTo": [
+            "normal",
+            "flying",
+            "fairy",
+            "rock",
+            "dragon",
+            "bug",
+            "steel",
+            "ice",
+            "grass",
+            "psychic"
+        ],
+        "weakTo": [
+            "fire",
+            "ground",
+            "fighting"
+        ]
+    },
+    "types": [
+        "steel"
+    ],
+    "weight": 650.0
+}

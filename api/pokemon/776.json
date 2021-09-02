@@ -1,0 +1,73 @@
+{
+    "abilities": {
+        "shell-armor": "A hard shell protects the Pok\u00e9mon from critical hits."
+    },
+    "description": {
+        "game": "sun",
+        "text": "The shell on its back is chemically unstable\nand explodes violently if struck. The hole in its\nstomach is its weak point."
+    },
+    "eggGroups": [
+        "monster",
+        "dragon"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "turtonator",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/776/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/776.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/776.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/776.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/776.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Blast Turtle Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 2.0,
+    "id": 776,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/776.png",
+    "name": "turtonator",
+    "stats": {
+        "attack": 78,
+        "defense": 135,
+        "hp": 60,
+        "specialAttack": 91,
+        "specialDefense": 85,
+        "speed": 36
+    },
+    "type_relations": {
+        "resistantTo": [
+            "electric",
+            "bug",
+            "steel",
+            "fire",
+            "grass"
+        ],
+        "weakTo": [
+            "ground",
+            "rock",
+            "dragon"
+        ]
+    },
+    "types": [
+        "fire",
+        "dragon"
+    ],
+    "weight": 212.0
+}

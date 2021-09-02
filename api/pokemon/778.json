@@ -1,0 +1,65 @@
+{
+    "abilities": {
+        "disguise": "Once per battle, the shroud that covers the\nPok\u00e9mon can protect it from an attack."
+    },
+    "description": {
+        "game": "sun",
+        "text": "Its actual appearance is unknown. A scholar\nwho saw what was under its rag was\noverwhelmed by terror and died from the shock."
+    },
+    "eggGroups": [
+        "indeterminate"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "mimikyu",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/778/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/778.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/778.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/778.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/778.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Disguise Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 0.2,
+    "id": 778,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/778.png",
+    "name": "mimikyu-disguised",
+    "stats": {
+        "attack": 90,
+        "defense": 80,
+        "hp": 55,
+        "specialAttack": 50,
+        "specialDefense": 105,
+        "speed": 96
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fighting",
+            "bug"
+        ],
+        "weakTo": [
+            "steel",
+            "ghost"
+        ]
+    },
+    "types": [
+        "ghost",
+        "fairy"
+    ],
+    "weight": 0.7
+}

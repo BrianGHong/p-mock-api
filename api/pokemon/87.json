@@ -1,0 +1,107 @@
+{
+    "abilities": {
+        "hydration": "Heals status conditions if it\u2019s raining.",
+        "ice-body": "The Pok\u00e9mon gradually regains HP in a hailstorm.",
+        "thick-fat": "The Pok\u00e9mon is protected by a layer of thick fat,\nwhich halves the damage taken from Fire- and\nIce-type moves."
+    },
+    "description": {
+        "game": "red",
+        "text": "Stores thermal\nenergy in its\nbody. Swims at a\fsteady 8 knots\neven in intensely\ncold waters."
+    },
+    "eggGroups": [
+        "water1",
+        "ground"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 34,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "dewgong",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/87/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "seel",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/86/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/87.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/87.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/87.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/87.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Sea Lion Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 1.7,
+    "id": 87,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/87.png",
+    "name": "dewgong",
+    "stats": {
+        "attack": 70,
+        "defense": 80,
+        "hp": 90,
+        "specialAttack": 70,
+        "specialDefense": 95,
+        "speed": 70
+    },
+    "type_relations": {
+        "resistantTo": [
+            "ice",
+            "water"
+        ],
+        "weakTo": [
+            "fighting",
+            "rock",
+            "electric",
+            "grass"
+        ]
+    },
+    "types": [
+        "water",
+        "ice"
+    ],
+    "weight": 120.0
+}

@@ -1,0 +1,112 @@
+{
+    "abilities": {
+        "inner-focus": "The Pok\u00e9mon\u2019s intensely focused, and that protects\nthe Pok\u00e9mon from flinching.",
+        "justified": "Being hit by a Dark-type move boosts the Attack\nstat of the Pok\u00e9mon, for justice.",
+        "steadfast": "The Pok\u00e9mon\u2019s determination boosts the Speed\nstat each time the Pok\u00e9mon flinches."
+    },
+    "description": {
+        "game": "diamond",
+        "text": "It has the ability to sense the\nauras of all things.\nIt understands human speech."
+    },
+    "eggGroups": [
+        "ground",
+        "humanshape"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": 220,
+                        "min_level": null,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "day",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "lucario",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/448/"
+                }
+            }
+        ],
+        "is_baby": true,
+        "species": {
+            "name": "riolu",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/447/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/448.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/448.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/448.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/448.png"
+        }
+    ],
+    "gender": {
+        "female": 12.5,
+        "male": 87.5
+    },
+    "genera": "Aura Pok\u00e9mon",
+    "hatchCounter": 25,
+    "height": 1.2,
+    "id": 448,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/448.png",
+    "name": "lucario",
+    "stats": {
+        "attack": 110,
+        "defense": 70,
+        "hp": 70,
+        "specialAttack": 115,
+        "specialDefense": 70,
+        "speed": 90
+    },
+    "type_relations": {
+        "resistantTo": [
+            "dark",
+            "normal",
+            "rock",
+            "dragon",
+            "bug",
+            "steel",
+            "ice",
+            "grass"
+        ],
+        "weakTo": [
+            "ground",
+            "fighting",
+            "fire"
+        ]
+    },
+    "types": [
+        "fighting",
+        "steel"
+    ],
+    "weight": 54.0
+}

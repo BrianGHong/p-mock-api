@@ -1,0 +1,107 @@
+{
+    "abilities": {
+        "intimidate": "The Pok\u00e9mon intimidates opposing Pok\u00e9mon upon\nentering battle, lowering their Attack stat.",
+        "shed-skin": "The Pok\u00e9mon may heal its own status conditions\nby shedding its skin.",
+        "unnerve": "Unnerves opposing Pok\u00e9mon and makes them unable\nto eat Berries."
+    },
+    "description": {
+        "game": "red",
+        "text": "It is rumored that\nthe ferocious\nwarning markings\fon its belly\ndiffer from area\nto area."
+    },
+    "eggGroups": [
+        "ground",
+        "dragon"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 22,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "arbok",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/24/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "ekans",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/23/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/24.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/24.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/24.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Cobra Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 3.5,
+    "id": 24,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/24.png",
+    "name": "arbok",
+    "stats": {
+        "attack": 95,
+        "defense": 69,
+        "hp": 60,
+        "specialAttack": 65,
+        "specialDefense": 79,
+        "speed": 80
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fighting",
+            "fairy",
+            "grass",
+            "bug",
+            "poison"
+        ],
+        "weakTo": [
+            "ground",
+            "psychic"
+        ]
+    },
+    "types": [
+        "poison"
+    ],
+    "weight": 65.0
+}

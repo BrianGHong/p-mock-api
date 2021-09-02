@@ -1,0 +1,65 @@
+{
+    "abilities": {
+        "rattled": "Dark-, Ghost-, and Bug-type moves scare the\nPok\u00e9mon and boost its Speed stat.",
+        "run-away": "Enables a sure getaway from wild Pok\u00e9mon.",
+        "serene-grace": "Boosts the likelihood of additional effects occurring \nwhen attacking."
+    },
+    "description": {
+        "game": "sapphire",
+        "text": "DUNSPARCE has a drill for its tail.\nIt uses this tail to burrow into the\nground backwards.\fThis POK\u00e9MON is known to make its nest\nin complex shapes deep under the\nground."
+    },
+    "eggGroups": [
+        "ground"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "dunsparce",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/206/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/206.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/206.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/206.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/206.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Land Snake Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 1.5,
+    "id": 206,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/206.png",
+    "name": "dunsparce",
+    "stats": {
+        "attack": 70,
+        "defense": 70,
+        "hp": 100,
+        "specialAttack": 65,
+        "specialDefense": 65,
+        "speed": 45
+    },
+    "type_relations": {
+        "resistantTo": [],
+        "weakTo": [
+            "fighting"
+        ]
+    },
+    "types": [
+        "normal"
+    ],
+    "weight": 14.0
+}

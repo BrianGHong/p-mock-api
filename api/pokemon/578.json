@@ -1,0 +1,138 @@
+{
+    "abilities": {
+        "magic-guard": "The Pok\u00e9mon only takes damage from attacks.",
+        "overcoat": "Protects the Pok\u00e9mon from things like sand, hail,\nand powder.",
+        "regenerator": "Restores a little HP when withdrawn from battle."
+    },
+    "description": {
+        "game": "black",
+        "text": "Since they have two divided brains,\nat times they suddenly try to take two\ndifferent actions at once."
+    },
+    "eggGroups": [
+        "indeterminate"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 32,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [
+                    {
+                        "evolution_details": [
+                            {
+                                "gender": null,
+                                "held_item": null,
+                                "item": null,
+                                "known_move": null,
+                                "known_move_type": null,
+                                "location": null,
+                                "min_affection": null,
+                                "min_beauty": null,
+                                "min_happiness": null,
+                                "min_level": 41,
+                                "needs_overworld_rain": false,
+                                "party_species": null,
+                                "party_type": null,
+                                "relative_physical_stats": null,
+                                "time_of_day": "",
+                                "trade_species": null,
+                                "trigger": {
+                                    "name": "level-up",
+                                    "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                                },
+                                "turn_upside_down": false
+                            }
+                        ],
+                        "evolves_to": [],
+                        "is_baby": false,
+                        "species": {
+                            "name": "reuniclus",
+                            "url": "https://pokeapi.co/api/v2/pokemon-species/579/"
+                        }
+                    }
+                ],
+                "is_baby": false,
+                "species": {
+                    "name": "duosion",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/578/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "solosis",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/577/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/578.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/578.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/578.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/578.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Mitosis Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 0.6,
+    "id": 578,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/578.png",
+    "name": "duosion",
+    "stats": {
+        "attack": 40,
+        "defense": 50,
+        "hp": 65,
+        "specialAttack": 125,
+        "specialDefense": 60,
+        "speed": 30
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fighting",
+            "psychic"
+        ],
+        "weakTo": [
+            "dark",
+            "bug",
+            "ghost"
+        ]
+    },
+    "types": [
+        "psychic"
+    ],
+    "weight": 8.0
+}

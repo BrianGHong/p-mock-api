@@ -1,0 +1,146 @@
+{
+    "abilities": {
+        "bulletproof": "Protects the Pok\u00e9mon from some ball and\nbomb moves.",
+        "overcoat": "Protects the Pok\u00e9mon from things like sand, hail,\nand powder.",
+        "soundproof": "Soundproofing of the Pok\u00e9mon itself gives full \nimmunity to all sound-based moves."
+    },
+    "description": {
+        "game": "sun",
+        "text": "When it spots enemies, it threatens them by\njingling the scales on its tail. Weak opponents\nwill crack and flee in panic."
+    },
+    "eggGroups": [
+        "dragon"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 35,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [
+                    {
+                        "evolution_details": [
+                            {
+                                "gender": null,
+                                "held_item": null,
+                                "item": null,
+                                "known_move": null,
+                                "known_move_type": null,
+                                "location": null,
+                                "min_affection": null,
+                                "min_beauty": null,
+                                "min_happiness": null,
+                                "min_level": 45,
+                                "needs_overworld_rain": false,
+                                "party_species": null,
+                                "party_type": null,
+                                "relative_physical_stats": null,
+                                "time_of_day": "",
+                                "trade_species": null,
+                                "trigger": {
+                                    "name": "level-up",
+                                    "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                                },
+                                "turn_upside_down": false
+                            }
+                        ],
+                        "evolves_to": [],
+                        "is_baby": false,
+                        "species": {
+                            "name": "kommo-o",
+                            "url": "https://pokeapi.co/api/v2/pokemon-species/784/"
+                        }
+                    }
+                ],
+                "is_baby": false,
+                "species": {
+                    "name": "hakamo-o",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/783/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "jangmo-o",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/782/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/784.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/784.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/784.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/784.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Scaly Pok\u00e9mon",
+    "hatchCounter": 40,
+    "height": 1.6,
+    "id": 784,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/784.png",
+    "name": "kommo-o",
+    "stats": {
+        "attack": 110,
+        "defense": 125,
+        "hp": 75,
+        "specialAttack": 100,
+        "specialDefense": 105,
+        "speed": 85
+    },
+    "type_relations": {
+        "resistantTo": [
+            "dark",
+            "rock",
+            "electric",
+            "water",
+            "bug",
+            "fire",
+            "grass"
+        ],
+        "weakTo": [
+            "flying",
+            "fairy",
+            "dragon",
+            "ice",
+            "psychic"
+        ]
+    },
+    "types": [
+        "dragon",
+        "fighting"
+    ],
+    "weight": 78.2
+}

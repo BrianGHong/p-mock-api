@@ -1,0 +1,73 @@
+{
+    "abilities": {
+        "hustle": "Boosts the Attack stat, but lowers accuracy.",
+        "insomnia": "The Pok\u00e9mon is suffering from insomnia and cannot\nfall asleep.",
+        "vital-spirit": "The Pok\u00e9mon is full of vitality, and that prevents\nit from falling asleep."
+    },
+    "description": {
+        "game": "gold",
+        "text": "It carries food\nall day long.\nThere are tales\fabout lost people\nwho were saved by\nthe food it had."
+    },
+    "eggGroups": [
+        "water1",
+        "ground"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "delibird",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/225/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/225.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/225.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/225.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/225.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Delivery Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 0.9,
+    "id": 225,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/225.png",
+    "name": "delibird",
+    "stats": {
+        "attack": 55,
+        "defense": 45,
+        "hp": 45,
+        "specialAttack": 65,
+        "specialDefense": 45,
+        "speed": 75
+    },
+    "type_relations": {
+        "resistantTo": [
+            "grass",
+            "bug"
+        ],
+        "weakTo": [
+            "rock",
+            "electric",
+            "steel",
+            "fire"
+        ]
+    },
+    "types": [
+        "ice",
+        "flying"
+    ],
+    "weight": 16.0
+}

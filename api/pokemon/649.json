@@ -1,0 +1,72 @@
+{
+    "abilities": {
+        "download": "Compares an opposing Pok\u00e9mon\u2019s Defense and\nSp. Def stats before raising its own Attack or\nSp. Atk stat\u2014whichever will be more effective."
+    },
+    "description": {
+        "game": "black",
+        "text": "Over 300 million years ago, it was feared\nas the strongest of hunters.\nIt has been modified by Team Plasma."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "genesect",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/649/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/649.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/649.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/649.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/649.png"
+        }
+    ],
+    "gender": {
+        "genderless": -12.5
+    },
+    "genera": "Paleozoic Pok\u00e9mon",
+    "hatchCounter": 120,
+    "height": 1.5,
+    "id": 649,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/649.png",
+    "name": "genesect",
+    "stats": {
+        "attack": 120,
+        "defense": 95,
+        "hp": 71,
+        "specialAttack": 120,
+        "specialDefense": 95,
+        "speed": 99
+    },
+    "type_relations": {
+        "resistantTo": [
+            "normal",
+            "fairy",
+            "dragon",
+            "bug",
+            "steel",
+            "ice",
+            "grass",
+            "psychic"
+        ],
+        "weakTo": [
+            "fire"
+        ]
+    },
+    "types": [
+        "bug",
+        "steel"
+    ],
+    "weight": 82.5
+}

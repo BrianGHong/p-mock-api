@@ -1,0 +1,78 @@
+{
+    "abilities": {
+        "magician": "The Pok\u00e9mon steals the held item of a Pok\u00e9mon it\nhits with a move.",
+        "prankster": "Gives priority to a status move."
+    },
+    "description": {
+        "game": "x",
+        "text": "These key collectors threaten any attackers\nby fiercely jingling their keys at them."
+    },
+    "eggGroups": [
+        "mineral"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "klefki",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/707/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/707.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/707.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/707.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/707.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Key Ring Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 0.2,
+    "id": 707,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/707.png",
+    "name": "klefki",
+    "stats": {
+        "attack": 80,
+        "defense": 91,
+        "hp": 57,
+        "specialAttack": 80,
+        "specialDefense": 87,
+        "speed": 75
+    },
+    "type_relations": {
+        "resistantTo": [
+            "dark",
+            "normal",
+            "flying",
+            "fairy",
+            "rock",
+            "dragon",
+            "bug",
+            "ice",
+            "grass",
+            "psychic"
+        ],
+        "weakTo": [
+            "ground",
+            "fire",
+            "poison"
+        ]
+    },
+    "types": [
+        "steel",
+        "fairy"
+    ],
+    "weight": 3.0
+}

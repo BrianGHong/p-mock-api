@@ -1,0 +1,139 @@
+{
+    "abilities": {
+        "big-pecks": "Protects the Pok\u00e9mon from\nDefense-lowering effects.",
+        "rivalry": "Becomes competitive and deals more damage to\nPok\u00e9mon of the same gender, but deals less to\nPok\u00e9mon of the opposite gender.",
+        "super-luck": "The Pok\u00e9mon is so lucky that the critical-hit ratios\nof its moves are boosted."
+    },
+    "description": {
+        "game": "black",
+        "text": "It can return to its Trainer\u2019s location\nregardless of the distance\nseparating them."
+    },
+    "eggGroups": [
+        "flying"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 21,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [
+                    {
+                        "evolution_details": [
+                            {
+                                "gender": null,
+                                "held_item": null,
+                                "item": null,
+                                "known_move": null,
+                                "known_move_type": null,
+                                "location": null,
+                                "min_affection": null,
+                                "min_beauty": null,
+                                "min_happiness": null,
+                                "min_level": 32,
+                                "needs_overworld_rain": false,
+                                "party_species": null,
+                                "party_type": null,
+                                "relative_physical_stats": null,
+                                "time_of_day": "",
+                                "trade_species": null,
+                                "trigger": {
+                                    "name": "level-up",
+                                    "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                                },
+                                "turn_upside_down": false
+                            }
+                        ],
+                        "evolves_to": [],
+                        "is_baby": false,
+                        "species": {
+                            "name": "unfezant",
+                            "url": "https://pokeapi.co/api/v2/pokemon-species/521/"
+                        }
+                    }
+                ],
+                "is_baby": false,
+                "species": {
+                    "name": "tranquill",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/520/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "pidove",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/519/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/520.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/520.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/520.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/520.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Wild Pigeon Pok\u00e9mon",
+    "hatchCounter": 15,
+    "height": 0.6,
+    "id": 520,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/520.png",
+    "name": "tranquill",
+    "stats": {
+        "attack": 77,
+        "defense": 62,
+        "hp": 62,
+        "specialAttack": 50,
+        "specialDefense": 42,
+        "speed": 65
+    },
+    "type_relations": {
+        "resistantTo": [
+            "grass",
+            "bug"
+        ],
+        "weakTo": [
+            "ice",
+            "rock",
+            "electric"
+        ]
+    },
+    "types": [
+        "normal",
+        "flying"
+    ],
+    "weight": 15.0
+}

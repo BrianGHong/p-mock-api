@@ -1,0 +1,67 @@
+{
+    "abilities": {
+        "bad-dreams": "Reduces the HP of sleeping opposing Pok\u00e9mon."
+    },
+    "description": {
+        "game": "diamond",
+        "text": "It can lull people to sleep and\nmake them dream. It is active\nduring nights of the new moon."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "darkrai",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/491/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/491.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/491.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/491.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/491.png"
+        }
+    ],
+    "gender": {
+        "genderless": -12.5
+    },
+    "genera": "Pitch-Black Pok\u00e9mon",
+    "hatchCounter": 120,
+    "height": 1.5,
+    "id": 491,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/491.png",
+    "name": "darkrai",
+    "stats": {
+        "attack": 90,
+        "defense": 90,
+        "hp": 70,
+        "specialAttack": 135,
+        "specialDefense": 90,
+        "speed": 125
+    },
+    "type_relations": {
+        "resistantTo": [
+            "dark",
+            "ghost"
+        ],
+        "weakTo": [
+            "fighting",
+            "bug",
+            "fairy"
+        ]
+    },
+    "types": [
+        "dark"
+    ],
+    "weight": 50.5
+}

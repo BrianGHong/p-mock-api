@@ -1,0 +1,72 @@
+{
+    "abilities": {
+        "multiscale": "Reduces the amount of damage the Pok\u00e9mon takes\nwhen its HP is full.",
+        "pressure": "By putting pressure on the opposing Pok\u00e9mon, it\nraises their PP usage."
+    },
+    "description": {
+        "game": "gold",
+        "text": "It is said that it\nquietly spends its\ntime deep at the\fbottom of the sea\nbecause its powers\nare too strong."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "lugia",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/249/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/249.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/249.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/249.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/249.png"
+        }
+    ],
+    "gender": {
+        "genderless": -12.5
+    },
+    "genera": "Diving Pok\u00e9mon",
+    "hatchCounter": 120,
+    "height": 5.2,
+    "id": 249,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/249.png",
+    "name": "lugia",
+    "stats": {
+        "attack": 90,
+        "defense": 130,
+        "hp": 106,
+        "specialAttack": 90,
+        "specialDefense": 154,
+        "speed": 110
+    },
+    "type_relations": {
+        "resistantTo": [
+            "grass",
+            "fighting",
+            "psychic"
+        ],
+        "weakTo": [
+            "dark",
+            "rock",
+            "electric",
+            "ghost",
+            "ice"
+        ]
+    },
+    "types": [
+        "psychic",
+        "flying"
+    ],
+    "weight": 216.0
+}

@@ -1,0 +1,110 @@
+{
+    "abilities": {
+        "chlorophyll": "Boosts the Pok\u00e9mon\u2019s Speed stat in harsh sunlight.",
+        "sap-sipper": "Boosts the Attack stat if hit by a Grass-type move,\ninstead of taking damage.",
+        "serene-grace": "Boosts the likelihood of additional effects occurring \nwhen attacking."
+    },
+    "description": {
+        "game": "black",
+        "text": "The color and scent of their fur changes\nto match the mountain grass. When they\nsense hostility, they hide in the grass."
+    },
+    "eggGroups": [
+        "ground"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": null,
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": 34,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "level-up",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "sawsbuck",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/586/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "deerling",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/585/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/585.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/585.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/585.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/585.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Season Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 0.6,
+    "id": 585,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/585.png",
+    "name": "deerling",
+    "stats": {
+        "attack": 60,
+        "defense": 50,
+        "hp": 60,
+        "specialAttack": 40,
+        "specialDefense": 50,
+        "speed": 75
+    },
+    "type_relations": {
+        "resistantTo": [
+            "ground",
+            "electric",
+            "water",
+            "grass"
+        ],
+        "weakTo": [
+            "fighting",
+            "flying",
+            "bug",
+            "fire",
+            "ice",
+            "poison"
+        ]
+    },
+    "types": [
+        "normal",
+        "grass"
+    ],
+    "weight": 19.5
+}

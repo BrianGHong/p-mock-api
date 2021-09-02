@@ -1,0 +1,111 @@
+{
+    "abilities": {
+        "flash-fire": "Powers up the Pok\u00e9mon\u2019s Fire-type moves if it\u2019s hit\nby one.",
+        "intimidate": "The Pok\u00e9mon intimidates opposing Pok\u00e9mon upon\nentering battle, lowering their Attack stat.",
+        "justified": "Being hit by a Dark-type move boosts the Attack\nstat of the Pok\u00e9mon, for justice."
+    },
+    "description": {
+        "game": "red",
+        "text": "Very protective\nof its territory.\nIt will bark and\fbite to repel\nintruders from\nits space."
+    },
+    "eggGroups": [
+        "ground"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [
+            {
+                "evolution_details": [
+                    {
+                        "gender": null,
+                        "held_item": null,
+                        "item": {
+                            "name": "fire-stone",
+                            "url": "https://pokeapi.co/api/v2/item/82/"
+                        },
+                        "known_move": null,
+                        "known_move_type": null,
+                        "location": null,
+                        "min_affection": null,
+                        "min_beauty": null,
+                        "min_happiness": null,
+                        "min_level": null,
+                        "needs_overworld_rain": false,
+                        "party_species": null,
+                        "party_type": null,
+                        "relative_physical_stats": null,
+                        "time_of_day": "",
+                        "trade_species": null,
+                        "trigger": {
+                            "name": "use-item",
+                            "url": "https://pokeapi.co/api/v2/evolution-trigger/3/"
+                        },
+                        "turn_upside_down": false
+                    }
+                ],
+                "evolves_to": [],
+                "is_baby": false,
+                "species": {
+                    "name": "arcanine",
+                    "url": "https://pokeapi.co/api/v2/pokemon-species/59/"
+                }
+            }
+        ],
+        "is_baby": false,
+        "species": {
+            "name": "growlithe",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/58/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/58.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/58.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/58.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/58.png"
+        }
+    ],
+    "gender": {
+        "female": 25.0,
+        "male": 75.0
+    },
+    "genera": "Puppy Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 0.7,
+    "id": 58,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/58.png",
+    "name": "growlithe",
+    "stats": {
+        "attack": 70,
+        "defense": 45,
+        "hp": 55,
+        "specialAttack": 70,
+        "specialDefense": 50,
+        "speed": 60
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fairy",
+            "bug",
+            "steel",
+            "fire",
+            "ice",
+            "grass"
+        ],
+        "weakTo": [
+            "ground",
+            "rock",
+            "water"
+        ]
+    },
+    "types": [
+        "fire"
+    ],
+    "weight": 19.0
+}

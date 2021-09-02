@@ -1,0 +1,73 @@
+{
+    "abilities": {
+        "hydration": "Heals status conditions if it\u2019s raining.",
+        "shell-armor": "A hard shell protects the Pok\u00e9mon from critical hits.",
+        "water-absorb": "Restores HP if hit by a Water-type move, instead of\ntaking damage."
+    },
+    "description": {
+        "game": "red",
+        "text": "A POK\u00e9MON that\nhas been over\u00ad\nhunted almost to\fextinction. It\ncan ferry people\nacross the water."
+    },
+    "eggGroups": [
+        "monster",
+        "water1"
+    ],
+    "evolution": {
+        "evolution_details": [],
+        "evolves_to": [],
+        "is_baby": false,
+        "species": {
+            "name": "lapras",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/131/"
+        }
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/131.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/131.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/131.png"
+        }
+    ],
+    "gender": {
+        "female": 50.0,
+        "male": 50.0
+    },
+    "genera": "Transport Pok\u00e9mon",
+    "hatchCounter": 40,
+    "height": 2.5,
+    "id": 131,
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png",
+    "name": "lapras",
+    "stats": {
+        "attack": 85,
+        "defense": 80,
+        "hp": 130,
+        "specialAttack": 85,
+        "specialDefense": 95,
+        "speed": 60
+    },
+    "type_relations": {
+        "resistantTo": [
+            "ice",
+            "water"
+        ],
+        "weakTo": [
+            "fighting",
+            "rock",
+            "electric",
+            "grass"
+        ]
+    },
+    "types": [
+        "water",
+        "ice"
+    ],
+    "weight": 220.0
+}
