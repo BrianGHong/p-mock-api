@@ -42,7 +42,7 @@
     "hatchCounter": 20,
     "height": 0.8,
     "id": 701,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/701.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/701.png",
     "name": "hawlucha",
     "stats": {
         "attack": 92,
@@ -54,17 +54,17 @@
     },
     "type_relations": {
         "resistantTo": [
-            "dark",
             "fighting",
             "bug",
+            "dark",
             "grass"
         ],
         "weakTo": [
+            "electric",
             "fairy",
             "flying",
-            "electric",
-            "ice",
-            "psychic"
+            "psychic",
+            "ice"
         ]
     },
     "types": [

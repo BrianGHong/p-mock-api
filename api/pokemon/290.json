@@ -108,7 +108,7 @@
     "hatchCounter": 15,
     "height": 0.5,
     "id": 290,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/290.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/290.png",
     "name": "nincada",
     "stats": {
         "attack": 45,
@@ -120,14 +120,14 @@
     },
     "type_relations": {
         "resistantTo": [
-            "ground",
             "fighting",
-            "poison"
+            "poison",
+            "ground"
         ],
         "weakTo": [
+            "fire",
             "flying",
             "water",
-            "fire",
             "ice"
         ]
     },

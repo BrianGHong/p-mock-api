@@ -76,7 +76,7 @@
     "hatchCounter": 20,
     "height": 0.2,
     "id": 177,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/177.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/177.png",
     "name": "natu",
     "stats": {
         "attack": 50,
@@ -88,16 +88,16 @@
     },
     "type_relations": {
         "resistantTo": [
-            "grass",
             "fighting",
+            "grass",
             "psychic"
         ],
         "weakTo": [
+            "electric",
             "dark",
             "rock",
-            "electric",
-            "ghost",
-            "ice"
+            "ice",
+            "ghost"
         ]
     },
     "types": [

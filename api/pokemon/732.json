@@ -110,7 +110,7 @@
     "hatchCounter": 15,
     "height": 0.6,
     "id": 732,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/732.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/732.png",
     "name": "trumbeak",
     "stats": {
         "attack": 85,
@@ -126,8 +126,8 @@
             "bug"
         ],
         "weakTo": [
-            "ice",
             "rock",
+            "ice",
             "electric"
         ]
     },

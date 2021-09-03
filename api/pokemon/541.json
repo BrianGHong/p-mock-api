@@ -110,7 +110,7 @@
     "hatchCounter": 15,
     "height": 0.5,
     "id": 541,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/541.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/541.png",
     "name": "swadloon",
     "stats": {
         "attack": 63,
@@ -122,19 +122,19 @@
     },
     "type_relations": {
         "resistantTo": [
-            "ground",
             "fighting",
             "electric",
-            "water",
-            "grass"
+            "grass",
+            "ground",
+            "water"
         ],
         "weakTo": [
-            "flying",
-            "rock",
+            "poison",
             "bug",
+            "rock",
             "fire",
-            "ice",
-            "poison"
+            "flying",
+            "ice"
         ]
     },
     "types": [

@@ -110,7 +110,7 @@
     "hatchCounter": 40,
     "height": 1.5,
     "id": 242,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/242.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/242.png",
     "name": "blissey",
     "stats": {
         "attack": 10,

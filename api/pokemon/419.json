@@ -88,7 +88,7 @@
     "hatchCounter": 20,
     "height": 1.1,
     "id": 419,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/419.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/419.png",
     "name": "floatzel",
     "stats": {
         "attack": 105,
@@ -101,9 +101,9 @@
     "type_relations": {
         "resistantTo": [
             "fire",
-            "ice",
             "water",
-            "steel"
+            "steel",
+            "ice"
         ],
         "weakTo": [
             "grass",

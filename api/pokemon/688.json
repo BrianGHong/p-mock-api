@@ -76,7 +76,7 @@
     "hatchCounter": 20,
     "height": 0.5,
     "id": 688,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/688.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/688.png",
     "name": "binacle",
     "stats": {
         "attack": 52,
@@ -88,17 +88,17 @@
     },
     "type_relations": {
         "resistantTo": [
-            "normal",
-            "flying",
+            "poison",
             "fire",
-            "ice",
-            "poison"
+            "flying",
+            "normal",
+            "ice"
         ],
         "weakTo": [
-            "ground",
             "fighting",
             "electric",
-            "grass"
+            "grass",
+            "ground"
         ]
     },
     "types": [

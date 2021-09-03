@@ -105,7 +105,7 @@
     "hatchCounter": 15,
     "height": 0.9,
     "id": 414,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/414.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/414.png",
     "name": "mothim",
     "stats": {
         "attack": 94,
@@ -117,16 +117,16 @@
     },
     "type_relations": {
         "resistantTo": [
-            "ground",
             "fighting",
+            "grass",
             "bug",
-            "grass"
+            "ground"
         ],
         "weakTo": [
-            "flying",
-            "rock",
             "electric",
+            "rock",
             "fire",
+            "flying",
             "ice"
         ]
     },

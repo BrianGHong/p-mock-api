@@ -39,7 +39,7 @@
     "hatchCounter": 120,
     "height": 1.5,
     "id": 649,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/649.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/649.png",
     "name": "genesect",
     "stats": {
         "attack": 120,
@@ -51,14 +51,14 @@
     },
     "type_relations": {
         "resistantTo": [
-            "normal",
-            "fairy",
-            "dragon",
             "bug",
-            "steel",
-            "ice",
+            "fairy",
             "grass",
-            "psychic"
+            "normal",
+            "dragon",
+            "psychic",
+            "steel",
+            "ice"
         ],
         "weakTo": [
             "fire"

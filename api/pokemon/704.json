@@ -110,7 +110,7 @@
     "hatchCounter": 40,
     "height": 0.3,
     "id": 704,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/704.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/704.png",
     "name": "goomy",
     "stats": {
         "attack": 50,
@@ -123,14 +123,14 @@
     "type_relations": {
         "resistantTo": [
             "fire",
-            "grass",
+            "water",
             "electric",
-            "water"
+            "grass"
         ],
         "weakTo": [
-            "ice",
             "dragon",
-            "fairy"
+            "fairy",
+            "ice"
         ]
     },
     "types": [

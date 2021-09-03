@@ -40,7 +40,7 @@
     "hatchCounter": 120,
     "height": 5.4,
     "id": 483,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/483.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/483.png",
     "name": "dialga",
     "stats": {
         "attack": 120,
@@ -52,19 +52,19 @@
     },
     "type_relations": {
         "resistantTo": [
-            "normal",
-            "flying",
-            "rock",
-            "electric",
             "bug",
-            "water",
-            "steel",
+            "electric",
+            "rock",
             "grass",
-            "psychic"
+            "flying",
+            "normal",
+            "water",
+            "psychic",
+            "steel"
         ],
         "weakTo": [
-            "ground",
-            "fighting"
+            "fighting",
+            "ground"
         ]
     },
     "types": [

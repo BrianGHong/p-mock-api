@@ -88,7 +88,7 @@
     "hatchCounter": 20,
     "height": 1.5,
     "id": 178,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/178.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/178.png",
     "name": "xatu",
     "stats": {
         "attack": 75,
@@ -100,16 +100,16 @@
     },
     "type_relations": {
         "resistantTo": [
-            "grass",
             "fighting",
+            "grass",
             "psychic"
         ],
         "weakTo": [
+            "electric",
             "dark",
             "rock",
-            "electric",
-            "ghost",
-            "ice"
+            "ice",
+            "ghost"
         ]
     },
     "types": [

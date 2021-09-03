@@ -88,7 +88,7 @@
     "hatchCounter": 5,
     "height": 0.9,
     "id": 129,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/129.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/129.png",
     "name": "magikarp",
     "stats": {
         "attack": 10,
@@ -101,9 +101,9 @@
     "type_relations": {
         "resistantTo": [
             "fire",
-            "ice",
             "water",
-            "steel"
+            "steel",
+            "ice"
         ],
         "weakTo": [
             "grass",

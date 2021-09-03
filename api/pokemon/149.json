@@ -110,7 +110,7 @@
     "hatchCounter": 40,
     "height": 2.2,
     "id": 149,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/149.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/149.png",
     "name": "dragonite",
     "stats": {
         "attack": 134,
@@ -123,14 +123,14 @@
     "type_relations": {
         "resistantTo": [
             "fighting",
-            "water",
             "bug",
             "fire",
-            "grass"
+            "grass",
+            "water"
         ],
         "weakTo": [
-            "fairy",
             "rock",
+            "fairy",
             "dragon",
             "ice"
         ]

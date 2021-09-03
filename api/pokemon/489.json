@@ -50,7 +50,7 @@
     "hatchCounter": 40,
     "height": 0.4,
     "id": 489,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/489.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/489.png",
     "name": "phione",
     "stats": {
         "attack": 80,
@@ -63,9 +63,9 @@
     "type_relations": {
         "resistantTo": [
             "fire",
-            "ice",
             "water",
-            "steel"
+            "steel",
+            "ice"
         ],
         "weakTo": [
             "grass",

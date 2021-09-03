@@ -75,7 +75,7 @@
     "hatchCounter": 25,
     "height": 1.0,
     "id": 622,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/622.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/622.png",
     "name": "golett",
     "stats": {
         "attack": 74,
@@ -87,16 +87,16 @@
     },
     "type_relations": {
         "resistantTo": [
-            "poison",
             "rock",
+            "poison",
             "bug"
         ],
         "weakTo": [
             "dark",
-            "ghost",
+            "grass",
             "water",
             "ice",
-            "grass"
+            "ghost"
         ]
     },
     "types": [

@@ -75,7 +75,7 @@
     "hatchCounter": 20,
     "height": 2.0,
     "id": 768,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/768.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/768.png",
     "name": "golisopod",
     "stats": {
         "attack": 125,
@@ -87,16 +87,16 @@
     },
     "type_relations": {
         "resistantTo": [
-            "ground",
             "fighting",
+            "ground",
             "water",
             "steel",
             "ice"
         ],
         "weakTo": [
-            "flying",
+            "electric",
             "rock",
-            "electric"
+            "flying"
         ]
     },
     "types": [

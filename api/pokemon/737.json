@@ -108,7 +108,7 @@
     "hatchCounter": 15,
     "height": 0.5,
     "id": 737,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/737.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/737.png",
     "name": "charjabug",
     "stats": {
         "attack": 82,
@@ -122,12 +122,12 @@
         "resistantTo": [
             "fighting",
             "electric",
-            "steel",
-            "grass"
+            "grass",
+            "steel"
         ],
         "weakTo": [
-            "fire",
-            "rock"
+            "rock",
+            "fire"
         ]
     },
     "types": [

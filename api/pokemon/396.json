@@ -121,7 +121,7 @@
     "hatchCounter": 15,
     "height": 0.3,
     "id": 396,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/396.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/396.png",
     "name": "starly",
     "stats": {
         "attack": 55,
@@ -137,8 +137,8 @@
             "bug"
         ],
         "weakTo": [
-            "ice",
             "rock",
+            "ice",
             "electric"
         ]
     },

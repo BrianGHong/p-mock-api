@@ -37,7 +37,7 @@
     "hatchCounter": 20,
     "height": 0.6,
     "id": 741,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/741.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/741.png",
     "name": "oricorio-baile",
     "stats": {
         "attack": 70,
@@ -50,16 +50,16 @@
     "type_relations": {
         "resistantTo": [
             "fighting",
-            "fairy",
             "bug",
-            "steel",
             "fire",
-            "grass"
+            "fairy",
+            "grass",
+            "steel"
         ],
         "weakTo": [
-            "ground",
-            "rock",
             "electric",
+            "rock",
+            "ground",
             "water"
         ]
     },

@@ -88,7 +88,7 @@
     "hatchCounter": 20,
     "height": 1.9,
     "id": 323,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/323.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/323.png",
     "name": "camerupt",
     "stats": {
         "attack": 100,
@@ -100,11 +100,11 @@
     },
     "type_relations": {
         "resistantTo": [
-            "fairy",
             "poison",
             "bug",
-            "steel",
-            "fire"
+            "fire",
+            "fairy",
+            "steel"
         ],
         "weakTo": [
             "ground",

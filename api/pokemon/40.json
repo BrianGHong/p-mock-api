@@ -113,7 +113,7 @@
     "hatchCounter": 10,
     "height": 1.0,
     "id": 40,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/40.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/40.png",
     "name": "wigglytuff",
     "stats": {
         "attack": 70,
@@ -125,12 +125,12 @@
     },
     "type_relations": {
         "resistantTo": [
-            "dark",
-            "bug"
+            "bug",
+            "dark"
         ],
         "weakTo": [
-            "poison",
-            "steel"
+            "steel",
+            "poison"
         ]
     },
     "types": [

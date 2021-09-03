@@ -188,7 +188,7 @@
     "hatchCounter": 15,
     "height": 1.2,
     "id": 269,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/269.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/269.png",
     "name": "dustox",
     "stats": {
         "attack": 50,
@@ -201,15 +201,15 @@
     "type_relations": {
         "resistantTo": [
             "fighting",
-            "grass",
-            "fairy",
+            "poison",
             "bug",
-            "poison"
+            "fairy",
+            "grass"
         ],
         "weakTo": [
-            "flying",
             "rock",
             "fire",
+            "flying",
             "psychic"
         ]
     },

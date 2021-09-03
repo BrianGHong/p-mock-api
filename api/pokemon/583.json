@@ -110,7 +110,7 @@
     "hatchCounter": 20,
     "height": 1.1,
     "id": 583,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/583.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/583.png",
     "name": "vanillish",
     "stats": {
         "attack": 65,
@@ -125,9 +125,9 @@
             "ice"
         ],
         "weakTo": [
-            "fire",
             "rock",
             "fighting",
+            "fire",
             "steel"
         ]
     },

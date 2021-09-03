@@ -103,7 +103,7 @@
     "hatchCounter": 20,
     "height": 0.6,
     "id": 657,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/657.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/657.png",
     "name": "frogadier",
     "stats": {
         "attack": 63,
@@ -116,9 +116,9 @@
     "type_relations": {
         "resistantTo": [
             "fire",
-            "ice",
             "water",
-            "steel"
+            "steel",
+            "ice"
         ],
         "weakTo": [
             "grass",

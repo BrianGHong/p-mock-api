@@ -88,7 +88,7 @@
     "hatchCounter": 15,
     "height": 1.0,
     "id": 165,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/165.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/165.png",
     "name": "ledyba",
     "stats": {
         "attack": 20,
@@ -100,16 +100,16 @@
     },
     "type_relations": {
         "resistantTo": [
-            "ground",
             "fighting",
+            "grass",
             "bug",
-            "grass"
+            "ground"
         ],
         "weakTo": [
-            "flying",
-            "rock",
             "electric",
+            "rock",
             "fire",
+            "flying",
             "ice"
         ]
     },

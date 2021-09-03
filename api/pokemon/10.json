@@ -109,7 +109,7 @@
     "hatchCounter": 15,
     "height": 0.3,
     "id": 10,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10.png",
     "name": "caterpie",
     "stats": {
         "attack": 30,
@@ -121,13 +121,13 @@
     },
     "type_relations": {
         "resistantTo": [
-            "ground",
             "fighting",
-            "grass"
+            "grass",
+            "ground"
         ],
         "weakTo": [
-            "fire",
             "rock",
+            "fire",
             "flying"
         ]
     },

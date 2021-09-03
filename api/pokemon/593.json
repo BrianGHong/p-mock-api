@@ -88,7 +88,7 @@
     "hatchCounter": 20,
     "height": 2.2,
     "id": 593,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/593.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/593.png",
     "name": "jellicent",
     "stats": {
         "attack": 60,
@@ -100,18 +100,18 @@
     },
     "type_relations": {
         "resistantTo": [
-            "water",
+            "poison",
             "bug",
-            "steel",
             "fire",
-            "ice",
-            "poison"
+            "water",
+            "steel",
+            "ice"
         ],
         "weakTo": [
-            "dark",
             "grass",
+            "ghost",
             "electric",
-            "ghost"
+            "dark"
         ]
     },
     "types": [

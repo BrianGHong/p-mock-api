@@ -122,7 +122,7 @@
     "hatchCounter": 40,
     "height": 0.7,
     "id": 443,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/443.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/443.png",
     "name": "gible",
     "stats": {
         "attack": 70,
@@ -134,10 +134,10 @@
     },
     "type_relations": {
         "resistantTo": [
-            "rock",
-            "electric",
             "poison",
-            "fire"
+            "electric",
+            "fire",
+            "rock"
         ],
         "weakTo": [
             "fairy",

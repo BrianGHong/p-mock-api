@@ -75,7 +75,7 @@
     "hatchCounter": 30,
     "height": 1.6,
     "id": 409,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/409.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/409.png",
     "name": "rampardos",
     "stats": {
         "attack": 165,
@@ -88,16 +88,16 @@
     "type_relations": {
         "resistantTo": [
             "fire",
-            "normal",
+            "flying",
             "poison",
-            "flying"
+            "normal"
         ],
         "weakTo": [
-            "ground",
             "fighting",
+            "grass",
+            "ground",
             "water",
-            "steel",
-            "grass"
+            "steel"
         ]
     },
     "types": [

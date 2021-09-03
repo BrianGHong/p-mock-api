@@ -111,7 +111,7 @@
     "hatchCounter": 20,
     "height": 0.8,
     "id": 363,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/363.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/363.png",
     "name": "spheal",
     "stats": {
         "attack": 40,
@@ -123,13 +123,13 @@
     },
     "type_relations": {
         "resistantTo": [
-            "ice",
-            "water"
+            "water",
+            "ice"
         ],
         "weakTo": [
             "fighting",
-            "rock",
             "electric",
+            "rock",
             "grass"
         ]
     },

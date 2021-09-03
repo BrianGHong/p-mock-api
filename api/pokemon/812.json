@@ -107,7 +107,7 @@
     "hatchCounter": 20,
     "height": 2.1,
     "id": 812,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/812.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/812.png",
     "name": "rillaboom",
     "stats": {
         "attack": 125,
@@ -119,17 +119,17 @@
     },
     "type_relations": {
         "resistantTo": [
-            "ground",
-            "electric",
             "water",
-            "grass"
+            "electric",
+            "grass",
+            "ground"
         ],
         "weakTo": [
-            "flying",
+            "poison",
             "bug",
             "fire",
-            "ice",
-            "poison"
+            "flying",
+            "ice"
         ]
     },
     "types": [

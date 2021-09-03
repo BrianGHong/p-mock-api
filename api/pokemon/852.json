@@ -73,7 +73,7 @@
     "hatchCounter": 25,
     "height": 0.6,
     "id": 852,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/852.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/852.png",
     "name": "clobbopus",
     "stats": {
         "attack": 68,
@@ -85,14 +85,14 @@
     },
     "type_relations": {
         "resistantTo": [
-            "dark",
             "rock",
-            "bug"
+            "bug",
+            "dark"
         ],
         "weakTo": [
             "fairy",
-            "psychic",
-            "flying"
+            "flying",
+            "psychic"
         ]
     },
     "types": [

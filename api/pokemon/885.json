@@ -108,7 +108,7 @@
     "hatchCounter": 40,
     "height": 0.5,
     "id": 885,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/885.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/885.png",
     "name": "dreepy",
     "stats": {
         "attack": 60,
@@ -120,19 +120,19 @@
     },
     "type_relations": {
         "resistantTo": [
-            "electric",
             "poison",
-            "water",
             "bug",
+            "electric",
             "fire",
-            "grass"
+            "grass",
+            "water"
         ],
         "weakTo": [
             "dark",
             "fairy",
-            "ghost",
             "dragon",
-            "ice"
+            "ice",
+            "ghost"
         ]
     },
     "types": [

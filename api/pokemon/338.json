@@ -39,7 +39,7 @@
     "hatchCounter": 25,
     "height": 1.2,
     "id": 338,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/338.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/338.png",
     "name": "solrock",
     "stats": {
         "attack": 95,
@@ -51,20 +51,20 @@
     },
     "type_relations": {
         "resistantTo": [
-            "normal",
-            "flying",
-            "fire",
             "poison",
+            "fire",
+            "flying",
+            "normal",
             "psychic"
         ],
         "weakTo": [
-            "dark",
-            "ground",
-            "ghost",
-            "water",
             "bug",
+            "dark",
+            "grass",
+            "ground",
+            "water",
             "steel",
-            "grass"
+            "ghost"
         ]
     },
     "types": [

@@ -110,7 +110,7 @@
     "hatchCounter": 40,
     "height": 1.2,
     "id": 783,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/783.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/783.png",
     "name": "hakamo-o",
     "stats": {
         "attack": 75,
@@ -122,20 +122,20 @@
     },
     "type_relations": {
         "resistantTo": [
-            "dark",
-            "rock",
-            "electric",
-            "water",
             "bug",
+            "electric",
+            "dark",
             "fire",
-            "grass"
+            "rock",
+            "grass",
+            "water"
         ],
         "weakTo": [
-            "flying",
             "fairy",
+            "flying",
             "dragon",
-            "ice",
-            "psychic"
+            "psychic",
+            "ice"
         ]
     },
     "types": [

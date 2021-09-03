@@ -39,7 +39,7 @@
     "hatchCounter": 80,
     "height": 2.0,
     "id": 640,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/640.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/640.png",
     "name": "virizion",
     "stats": {
         "attack": 90,
@@ -51,20 +51,20 @@
     },
     "type_relations": {
         "resistantTo": [
-            "dark",
-            "ground",
-            "rock",
             "electric",
-            "water",
-            "grass"
+            "dark",
+            "rock",
+            "grass",
+            "ground",
+            "water"
         ],
         "weakTo": [
-            "flying",
-            "fairy",
-            "fire",
-            "ice",
             "poison",
-            "psychic"
+            "fire",
+            "fairy",
+            "flying",
+            "psychic",
+            "ice"
         ]
     },
     "types": [

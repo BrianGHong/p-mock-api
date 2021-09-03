@@ -39,7 +39,7 @@
     "hatchCounter": 120,
     "height": 0.6,
     "id": 251,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/251.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/251.png",
     "name": "celebi",
     "stats": {
         "attack": 100,
@@ -51,21 +51,21 @@
     },
     "type_relations": {
         "resistantTo": [
-            "ground",
             "fighting",
             "electric",
-            "water",
             "grass",
+            "ground",
+            "water",
             "psychic"
         ],
         "weakTo": [
-            "dark",
-            "flying",
-            "ghost",
+            "poison",
             "bug",
+            "dark",
             "fire",
+            "flying",
             "ice",
-            "poison"
+            "ghost"
         ]
     },
     "types": [

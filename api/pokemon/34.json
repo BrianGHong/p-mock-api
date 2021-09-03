@@ -111,7 +111,7 @@
     "hatchCounter": 20,
     "height": 1.4,
     "id": 34,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/34.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/34.png",
     "name": "nidoking",
     "stats": {
         "attack": 102,
@@ -124,16 +124,16 @@
     "type_relations": {
         "resistantTo": [
             "fighting",
-            "fairy",
-            "rock",
+            "poison",
             "bug",
-            "poison"
+            "rock",
+            "fairy"
         ],
         "weakTo": [
             "ground",
             "water",
-            "ice",
-            "psychic"
+            "psychic",
+            "ice"
         ]
     },
     "types": [

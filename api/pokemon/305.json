@@ -110,7 +110,7 @@
     "hatchCounter": 35,
     "height": 0.9,
     "id": 305,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/305.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/305.png",
     "name": "lairon",
     "stats": {
         "attack": 90,
@@ -122,19 +122,19 @@
     },
     "type_relations": {
         "resistantTo": [
-            "normal",
-            "flying",
-            "fairy",
-            "rock",
             "poison",
-            "dragon",
             "bug",
-            "ice",
-            "psychic"
+            "rock",
+            "fairy",
+            "flying",
+            "normal",
+            "dragon",
+            "psychic",
+            "ice"
         ],
         "weakTo": [
-            "ground",
             "fighting",
+            "ground",
             "water"
         ]
     },

@@ -154,7 +154,7 @@
     "hatchCounter": 20,
     "height": 1.0,
     "id": 299,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/299.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/299.png",
     "name": "nosepass",
     "stats": {
         "attack": 45,
@@ -167,16 +167,16 @@
     "type_relations": {
         "resistantTo": [
             "fire",
-            "normal",
+            "flying",
             "poison",
-            "flying"
+            "normal"
         ],
         "weakTo": [
-            "ground",
             "fighting",
+            "grass",
+            "ground",
             "water",
-            "steel",
-            "grass"
+            "steel"
         ]
     },
     "types": [

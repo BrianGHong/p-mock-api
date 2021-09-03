@@ -107,7 +107,7 @@
     "hatchCounter": 20,
     "height": 0.3,
     "id": 813,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/813.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/813.png",
     "name": "scorbunny",
     "stats": {
         "attack": 71,
@@ -119,17 +119,17 @@
     },
     "type_relations": {
         "resistantTo": [
-            "fairy",
             "bug",
-            "steel",
             "fire",
-            "ice",
-            "grass"
+            "fairy",
+            "grass",
+            "steel",
+            "ice"
         ],
         "weakTo": [
-            "ground",
             "rock",
-            "water"
+            "water",
+            "ground"
         ]
     },
     "types": [

@@ -112,7 +112,7 @@
     "hatchCounter": 25,
     "height": 1.1,
     "id": 125,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/125.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/125.png",
     "name": "electabuzz",
     "stats": {
         "attack": 83,
@@ -124,9 +124,9 @@
     },
     "type_relations": {
         "resistantTo": [
-            "electric",
+            "steel",
             "flying",
-            "steel"
+            "electric"
         ],
         "weakTo": [
             "ground"

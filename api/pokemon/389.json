@@ -110,7 +110,7 @@
     "hatchCounter": 20,
     "height": 2.2,
     "id": 389,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/389.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/389.png",
     "name": "torterra",
     "stats": {
         "attack": 109,
@@ -122,14 +122,14 @@
     },
     "type_relations": {
         "resistantTo": [
-            "ground",
+            "electric",
             "rock",
-            "electric"
+            "ground"
         ],
         "weakTo": [
-            "flying",
             "bug",
             "fire",
+            "flying",
             "ice"
         ]
     },

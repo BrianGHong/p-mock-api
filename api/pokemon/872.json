@@ -73,7 +73,7 @@
     "hatchCounter": 20,
     "height": 0.3,
     "id": 872,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/872.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/872.png",
     "name": "snom",
     "stats": {
         "attack": 25,
@@ -85,15 +85,15 @@
     },
     "type_relations": {
         "resistantTo": [
+            "grass",
             "ice",
-            "ground",
-            "grass"
+            "ground"
         ],
         "weakTo": [
-            "flying",
             "rock",
-            "steel",
-            "fire"
+            "fire",
+            "flying",
+            "steel"
         ]
     },
     "types": [

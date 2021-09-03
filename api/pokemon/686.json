@@ -71,7 +71,7 @@
     "hatchCounter": 20,
     "height": 0.4,
     "id": 686,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/686.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/686.png",
     "name": "inkay",
     "stats": {
         "attack": 54,
@@ -86,8 +86,8 @@
             "psychic"
         ],
         "weakTo": [
-            "fairy",
-            "bug"
+            "bug",
+            "fairy"
         ]
     },
     "types": [

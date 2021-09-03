@@ -76,7 +76,7 @@
     "hatchCounter": 15,
     "height": 0.5,
     "id": 283,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/283.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/283.png",
     "name": "surskit",
     "stats": {
         "attack": 30,
@@ -88,16 +88,16 @@
     },
     "type_relations": {
         "resistantTo": [
-            "ground",
             "fighting",
+            "ground",
             "water",
             "steel",
             "ice"
         ],
         "weakTo": [
-            "flying",
+            "electric",
             "rock",
-            "electric"
+            "flying"
         ]
     },
     "types": [

@@ -111,7 +111,7 @@
     "hatchCounter": 20,
     "height": 0.4,
     "id": 29,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/29.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/29.png",
     "name": "nidoran-f",
     "stats": {
         "attack": 47,
@@ -124,14 +124,14 @@
     "type_relations": {
         "resistantTo": [
             "fighting",
-            "fairy",
-            "grass",
+            "poison",
             "bug",
-            "poison"
+            "fairy",
+            "grass"
         ],
         "weakTo": [
-            "ground",
-            "psychic"
+            "psychic",
+            "ground"
         ]
     },
     "types": [

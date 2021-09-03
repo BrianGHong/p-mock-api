@@ -69,7 +69,7 @@
     "hatchCounter": 30,
     "height": 1.3,
     "id": 698,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/698.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/698.png",
     "name": "amaura",
     "stats": {
         "attack": 59,
@@ -81,18 +81,18 @@
     },
     "type_relations": {
         "resistantTo": [
-            "normal",
+            "poison",
             "flying",
-            "ice",
-            "poison"
+            "normal",
+            "ice"
         ],
         "weakTo": [
-            "ground",
             "fighting",
             "rock",
+            "grass",
+            "ground",
             "water",
-            "steel",
-            "grass"
+            "steel"
         ]
     },
     "types": [

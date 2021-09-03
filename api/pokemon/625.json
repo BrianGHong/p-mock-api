@@ -76,7 +76,7 @@
     "hatchCounter": 20,
     "height": 1.6,
     "id": 625,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/625.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/625.png",
     "name": "bisharp",
     "stats": {
         "attack": 125,
@@ -89,20 +89,20 @@
     "type_relations": {
         "resistantTo": [
             "dark",
-            "normal",
-            "flying",
             "rock",
-            "ghost",
+            "grass",
+            "flying",
+            "normal",
             "dragon",
+            "psychic",
             "steel",
             "ice",
-            "grass",
-            "psychic"
+            "ghost"
         ],
         "weakTo": [
-            "ground",
             "fighting",
-            "fire"
+            "fire",
+            "ground"
         ]
     },
     "types": [

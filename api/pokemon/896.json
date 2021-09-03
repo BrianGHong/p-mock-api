@@ -37,7 +37,7 @@
     "hatchCounter": 120,
     "height": 2.2,
     "id": 896,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/896.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/896.png",
     "name": "glastrier",
     "stats": {
         "attack": 145,
@@ -52,9 +52,9 @@
             "ice"
         ],
         "weakTo": [
-            "fire",
             "rock",
             "fighting",
+            "fire",
             "steel"
         ]
     },

@@ -77,7 +77,7 @@
     "hatchCounter": 40,
     "height": 2.0,
     "id": 320,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/320.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/320.png",
     "name": "wailmer",
     "stats": {
         "attack": 70,
@@ -90,9 +90,9 @@
     "type_relations": {
         "resistantTo": [
             "fire",
-            "ice",
             "water",
-            "steel"
+            "steel",
+            "ice"
         ],
         "weakTo": [
             "grass",

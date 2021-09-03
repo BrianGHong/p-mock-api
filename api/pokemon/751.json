@@ -76,7 +76,7 @@
     "hatchCounter": 15,
     "height": 0.3,
     "id": 751,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/751.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/751.png",
     "name": "dewpider",
     "stats": {
         "attack": 40,
@@ -88,16 +88,16 @@
     },
     "type_relations": {
         "resistantTo": [
-            "ground",
             "fighting",
+            "ground",
             "water",
             "steel",
             "ice"
         ],
         "weakTo": [
-            "flying",
+            "electric",
             "rock",
-            "electric"
+            "flying"
         ]
     },
     "types": [

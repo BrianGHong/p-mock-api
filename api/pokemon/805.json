@@ -39,7 +39,7 @@
     "hatchCounter": 120,
     "height": 5.5,
     "id": 805,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/805.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/805.png",
     "name": "stakataka",
     "stats": {
         "attack": 131,
@@ -51,19 +51,19 @@
     },
     "type_relations": {
         "resistantTo": [
-            "normal",
+            "poison",
+            "bug",
+            "rock",
             "flying",
             "fairy",
-            "rock",
+            "normal",
             "dragon",
-            "bug",
-            "ice",
-            "poison",
-            "psychic"
+            "psychic",
+            "ice"
         ],
         "weakTo": [
-            "ground",
             "fighting",
+            "ground",
             "water"
         ]
     },

@@ -75,7 +75,7 @@
     "hatchCounter": 15,
     "height": 1.2,
     "id": 22,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/22.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/22.png",
     "name": "fearow",
     "stats": {
         "attack": 90,
@@ -91,8 +91,8 @@
             "bug"
         ],
         "weakTo": [
-            "ice",
             "rock",
+            "ice",
             "electric"
         ]
     },

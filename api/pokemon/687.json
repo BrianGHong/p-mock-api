@@ -71,7 +71,7 @@
     "hatchCounter": 20,
     "height": 1.5,
     "id": 687,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/687.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/687.png",
     "name": "malamar",
     "stats": {
         "attack": 92,
@@ -86,8 +86,8 @@
             "psychic"
         ],
         "weakTo": [
-            "fairy",
-            "bug"
+            "bug",
+            "fairy"
         ]
     },
     "types": [

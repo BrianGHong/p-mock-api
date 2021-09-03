@@ -76,7 +76,7 @@
     "hatchCounter": 20,
     "height": 1.0,
     "id": 598,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/598.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/598.png",
     "name": "ferrothorn",
     "stats": {
         "attack": 94,
@@ -88,20 +88,20 @@
     },
     "type_relations": {
         "resistantTo": [
-            "normal",
-            "fairy",
-            "rock",
             "electric",
+            "rock",
+            "fairy",
+            "grass",
+            "normal",
             "dragon",
             "water",
-            "steel",
-            "grass",
-            "psychic"
+            "psychic",
+            "steel"
         ],
         "weakTo": [
             "fighting",
-            "fire",
-            "poison"
+            "poison",
+            "fire"
         ]
     },
     "types": [

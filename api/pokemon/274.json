@@ -126,7 +126,7 @@
     "hatchCounter": 15,
     "height": 1.0,
     "id": 274,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/274.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/274.png",
     "name": "nuzleaf",
     "stats": {
         "attack": 70,
@@ -138,21 +138,21 @@
     },
     "type_relations": {
         "resistantTo": [
-            "dark",
-            "ground",
             "electric",
-            "ghost",
+            "dark",
+            "grass",
+            "ground",
             "water",
-            "grass"
+            "ghost"
         ],
         "weakTo": [
             "fighting",
-            "flying",
-            "fairy",
+            "poison",
             "bug",
             "fire",
-            "ice",
-            "poison"
+            "fairy",
+            "flying",
+            "ice"
         ]
     },
     "types": [

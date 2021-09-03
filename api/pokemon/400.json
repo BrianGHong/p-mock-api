@@ -83,7 +83,7 @@
     "hatchCounter": 15,
     "height": 1.0,
     "id": 400,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/400.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/400.png",
     "name": "bibarel",
     "stats": {
         "attack": 85,
@@ -96,13 +96,13 @@
     "type_relations": {
         "resistantTo": [
             "fire",
-            "ice",
             "water",
-            "steel"
+            "steel",
+            "ice"
         ],
         "weakTo": [
-            "grass",
             "fighting",
+            "grass",
             "electric"
         ]
     },

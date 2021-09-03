@@ -76,7 +76,7 @@
     "hatchCounter": 20,
     "height": 0.7,
     "id": 530,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/530.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/530.png",
     "name": "excadrill",
     "stats": {
         "attack": 135,
@@ -88,21 +88,21 @@
     },
     "type_relations": {
         "resistantTo": [
-            "normal",
-            "flying",
-            "fairy",
-            "rock",
-            "dragon",
-            "bug",
-            "steel",
             "poison",
-            "psychic"
+            "bug",
+            "rock",
+            "fairy",
+            "flying",
+            "normal",
+            "dragon",
+            "psychic",
+            "steel"
         ],
         "weakTo": [
-            "ground",
             "fighting",
-            "water",
-            "fire"
+            "fire",
+            "ground",
+            "water"
         ]
     },
     "types": [

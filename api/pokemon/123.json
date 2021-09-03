@@ -91,7 +91,7 @@
     "hatchCounter": 25,
     "height": 1.5,
     "id": 123,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/123.png",
     "name": "scyther",
     "stats": {
         "attack": 110,
@@ -103,16 +103,16 @@
     },
     "type_relations": {
         "resistantTo": [
-            "ground",
             "fighting",
+            "grass",
             "bug",
-            "grass"
+            "ground"
         ],
         "weakTo": [
-            "flying",
-            "rock",
             "electric",
+            "rock",
             "fire",
+            "flying",
             "ice"
         ]
     },

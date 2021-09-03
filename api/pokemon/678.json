@@ -102,7 +102,7 @@
     "hatchCounter": 20,
     "height": 0.6,
     "id": 678,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/678.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/678.png",
     "name": "meowstic-male",
     "stats": {
         "attack": 48,
@@ -118,9 +118,9 @@
             "psychic"
         ],
         "weakTo": [
-            "dark",
             "bug",
-            "ghost"
+            "ghost",
+            "dark"
         ]
     },
     "types": [

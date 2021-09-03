@@ -105,7 +105,7 @@
     "hatchCounter": 15,
     "height": 2.2,
     "id": 823,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/823.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/823.png",
     "name": "corviknight",
     "stats": {
         "attack": 87,
@@ -117,19 +117,19 @@
     },
     "type_relations": {
         "resistantTo": [
-            "normal",
-            "flying",
-            "fairy",
-            "dragon",
             "bug",
-            "steel",
+            "fairy",
             "grass",
-            "psychic"
+            "flying",
+            "normal",
+            "dragon",
+            "psychic",
+            "steel"
         ],
         "weakTo": [
-            "ground",
             "electric",
-            "fire"
+            "fire",
+            "ground"
         ]
     },
     "types": [

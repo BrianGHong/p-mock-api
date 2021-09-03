@@ -73,7 +73,7 @@
     "hatchCounter": 20,
     "height": 0.4,
     "id": 710,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/710.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/710.png",
     "name": "pumpkaboo-average",
     "stats": {
         "attack": 66,
@@ -85,17 +85,17 @@
     },
     "type_relations": {
         "resistantTo": [
-            "ground",
             "electric",
-            "water",
-            "grass"
+            "grass",
+            "ground",
+            "water"
         ],
         "weakTo": [
             "dark",
-            "flying",
-            "ghost",
             "fire",
-            "ice"
+            "flying",
+            "ice",
+            "ghost"
         ]
     },
     "types": [

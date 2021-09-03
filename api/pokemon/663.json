@@ -109,7 +109,7 @@
     "hatchCounter": 15,
     "height": 1.2,
     "id": 663,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/663.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/663.png",
     "name": "talonflame",
     "stats": {
         "attack": 81,
@@ -122,16 +122,16 @@
     "type_relations": {
         "resistantTo": [
             "fighting",
-            "fairy",
             "bug",
-            "steel",
             "fire",
-            "grass"
+            "fairy",
+            "grass",
+            "steel"
         ],
         "weakTo": [
-            "ground",
-            "rock",
             "electric",
+            "rock",
+            "ground",
             "water"
         ]
     },

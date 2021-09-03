@@ -108,7 +108,7 @@
     "hatchCounter": 15,
     "height": 1.6,
     "id": 862,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/862.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/862.png",
     "name": "obstagoon",
     "stats": {
         "attack": 90,
@@ -120,8 +120,8 @@
     },
     "type_relations": {
         "resistantTo": [
-            "dark",
-            "ghost"
+            "ghost",
+            "dark"
         ],
         "weakTo": [
             "fighting",

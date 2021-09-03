@@ -105,7 +105,7 @@
     "hatchCounter": 20,
     "height": 0.8,
     "id": 679,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/679.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/679.png",
     "name": "honedge",
     "stats": {
         "attack": 80,
@@ -117,24 +117,24 @@
     },
     "type_relations": {
         "resistantTo": [
-            "normal",
-            "flying",
-            "fairy",
-            "rock",
             "poison",
-            "dragon",
             "bug",
-            "steel",
-            "ice",
+            "rock",
+            "fairy",
             "grass",
-            "psychic"
+            "flying",
+            "normal",
+            "dragon",
+            "psychic",
+            "steel",
+            "ice"
         ],
         "weakTo": [
-            "dark",
-            "ground",
             "fighting",
-            "ghost",
-            "fire"
+            "dark",
+            "fire",
+            "ground",
+            "ghost"
         ]
     },
     "types": [

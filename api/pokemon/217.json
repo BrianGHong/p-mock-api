@@ -88,7 +88,7 @@
     "hatchCounter": 20,
     "height": 1.8,
     "id": 217,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/217.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/217.png",
     "name": "ursaring",
     "stats": {
         "attack": 130,

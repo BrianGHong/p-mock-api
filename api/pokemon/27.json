@@ -75,7 +75,7 @@
     "hatchCounter": 20,
     "height": 0.6,
     "id": 27,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/27.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/27.png",
     "name": "sandshrew",
     "stats": {
         "attack": 75,
@@ -87,13 +87,13 @@
     },
     "type_relations": {
         "resistantTo": [
-            "poison",
-            "rock"
+            "rock",
+            "poison"
         ],
         "weakTo": [
+            "water",
             "ice",
-            "grass",
-            "water"
+            "grass"
         ]
     },
     "types": [

@@ -39,7 +39,7 @@
     "hatchCounter": 120,
     "height": 2.4,
     "id": 794,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/794.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/794.png",
     "name": "buzzwole",
     "stats": {
         "attack": 139,
@@ -51,16 +51,16 @@
     },
     "type_relations": {
         "resistantTo": [
-            "dark",
-            "ground",
             "fighting",
             "bug",
-            "grass"
+            "dark",
+            "grass",
+            "ground"
         ],
         "weakTo": [
+            "fire",
             "fairy",
             "flying",
-            "fire",
             "psychic"
         ]
     },

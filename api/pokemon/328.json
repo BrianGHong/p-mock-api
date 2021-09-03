@@ -110,7 +110,7 @@
     "hatchCounter": 20,
     "height": 0.7,
     "id": 328,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/328.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/328.png",
     "name": "trapinch",
     "stats": {
         "attack": 100,
@@ -122,13 +122,13 @@
     },
     "type_relations": {
         "resistantTo": [
-            "poison",
-            "rock"
+            "rock",
+            "poison"
         ],
         "weakTo": [
+            "water",
             "ice",
-            "grass",
-            "water"
+            "grass"
         ]
     },
     "types": [

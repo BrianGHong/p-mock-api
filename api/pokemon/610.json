@@ -111,7 +111,7 @@
     "hatchCounter": 40,
     "height": 0.6,
     "id": 610,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/610.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/610.png",
     "name": "axew",
     "stats": {
         "attack": 87,
@@ -124,14 +124,14 @@
     "type_relations": {
         "resistantTo": [
             "fire",
-            "grass",
+            "water",
             "electric",
-            "water"
+            "grass"
         ],
         "weakTo": [
-            "ice",
             "dragon",
-            "fairy"
+            "fairy",
+            "ice"
         ]
     },
     "types": [

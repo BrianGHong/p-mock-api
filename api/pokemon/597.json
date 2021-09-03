@@ -75,7 +75,7 @@
     "hatchCounter": 20,
     "height": 0.6,
     "id": 597,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/597.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/597.png",
     "name": "ferroseed",
     "stats": {
         "attack": 50,
@@ -87,20 +87,20 @@
     },
     "type_relations": {
         "resistantTo": [
-            "normal",
-            "fairy",
-            "rock",
             "electric",
+            "rock",
+            "fairy",
+            "grass",
+            "normal",
             "dragon",
             "water",
-            "steel",
-            "grass",
-            "psychic"
+            "psychic",
+            "steel"
         ],
         "weakTo": [
             "fighting",
-            "fire",
-            "poison"
+            "poison",
+            "fire"
         ]
     },
     "types": [

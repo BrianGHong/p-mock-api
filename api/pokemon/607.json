@@ -113,7 +113,7 @@
     "hatchCounter": 20,
     "height": 0.3,
     "id": 607,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/607.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/607.png",
     "name": "litwick",
     "stats": {
         "attack": 30,
@@ -125,20 +125,20 @@
     },
     "type_relations": {
         "resistantTo": [
-            "grass",
-            "fairy",
+            "poison",
             "bug",
-            "steel",
             "fire",
-            "ice",
-            "poison"
+            "fairy",
+            "grass",
+            "steel",
+            "ice"
         ],
         "weakTo": [
             "dark",
-            "ground",
             "rock",
-            "ghost",
-            "water"
+            "ground",
+            "water",
+            "ghost"
         ]
     },
     "types": [

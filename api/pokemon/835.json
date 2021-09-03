@@ -73,7 +73,7 @@
     "hatchCounter": 20,
     "height": 0.3,
     "id": 835,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/835.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/835.png",
     "name": "yamper",
     "stats": {
         "attack": 45,
@@ -85,9 +85,9 @@
     },
     "type_relations": {
         "resistantTo": [
-            "electric",
+            "steel",
             "flying",
-            "steel"
+            "electric"
         ],
         "weakTo": [
             "ground"

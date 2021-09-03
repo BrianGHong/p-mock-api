@@ -111,7 +111,7 @@
     "hatchCounter": 10,
     "height": 0.8,
     "id": 184,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/184.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/184.png",
     "name": "azumarill",
     "stats": {
         "attack": 50,
@@ -123,16 +123,16 @@
     },
     "type_relations": {
         "resistantTo": [
-            "dark",
             "fighting",
-            "water",
             "bug",
+            "dark",
             "fire",
+            "water",
             "ice"
         ],
         "weakTo": [
-            "poison",
             "grass",
+            "poison",
             "electric"
         ]
     },

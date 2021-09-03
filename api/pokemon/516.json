@@ -78,7 +78,7 @@
     "hatchCounter": 20,
     "height": 1.0,
     "id": 516,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/516.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/516.png",
     "name": "simipour",
     "stats": {
         "attack": 98,
@@ -91,9 +91,9 @@
     "type_relations": {
         "resistantTo": [
             "fire",
-            "ice",
             "water",
-            "steel"
+            "steel",
+            "ice"
         ],
         "weakTo": [
             "grass",

@@ -37,7 +37,7 @@
     "hatchCounter": 120,
     "height": 1.2,
     "id": 894,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/894.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/894.png",
     "name": "regieleki",
     "stats": {
         "attack": 100,
@@ -49,9 +49,9 @@
     },
     "type_relations": {
         "resistantTo": [
-            "electric",
+            "steel",
             "flying",
-            "steel"
+            "electric"
         ],
         "weakTo": [
             "ground"

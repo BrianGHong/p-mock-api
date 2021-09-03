@@ -110,7 +110,7 @@
     "hatchCounter": 20,
     "height": 1.7,
     "id": 6,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/6.png",
     "name": "charizard",
     "stats": {
         "attack": 84,
@@ -123,16 +123,16 @@
     "type_relations": {
         "resistantTo": [
             "fighting",
-            "fairy",
             "bug",
-            "steel",
             "fire",
-            "grass"
+            "fairy",
+            "grass",
+            "steel"
         ],
         "weakTo": [
-            "ground",
-            "rock",
             "electric",
+            "rock",
+            "ground",
             "water"
         ]
     },

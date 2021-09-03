@@ -37,7 +37,7 @@
     "hatchCounter": 120,
     "height": 20.0,
     "id": 890,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/890.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/890.png",
     "name": "eternatus",
     "stats": {
         "attack": 85,
@@ -50,18 +50,18 @@
     "type_relations": {
         "resistantTo": [
             "fighting",
-            "grass",
-            "electric",
+            "poison",
             "bug",
-            "water",
+            "electric",
             "fire",
-            "poison"
+            "grass",
+            "water"
         ],
         "weakTo": [
             "ground",
             "dragon",
-            "ice",
-            "psychic"
+            "psychic",
+            "ice"
         ]
     },
     "types": [

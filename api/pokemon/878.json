@@ -73,7 +73,7 @@
     "hatchCounter": 25,
     "height": 1.2,
     "id": 878,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/878.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/878.png",
     "name": "cufant",
     "stats": {
         "attack": 80,
@@ -85,21 +85,21 @@
     },
     "type_relations": {
         "resistantTo": [
-            "normal",
-            "flying",
-            "fairy",
-            "rock",
-            "dragon",
             "bug",
-            "steel",
-            "ice",
+            "rock",
+            "fairy",
             "grass",
-            "psychic"
+            "flying",
+            "normal",
+            "dragon",
+            "psychic",
+            "steel",
+            "ice"
         ],
         "weakTo": [
             "fire",
-            "ground",
-            "fighting"
+            "fighting",
+            "ground"
         ]
     },
     "types": [

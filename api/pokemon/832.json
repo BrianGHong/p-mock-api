@@ -74,7 +74,7 @@
     "hatchCounter": 15,
     "height": 1.3,
     "id": 832,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/832.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/832.png",
     "name": "dubwool",
     "stats": {
         "attack": 80,

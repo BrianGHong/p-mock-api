@@ -79,7 +79,7 @@
     "hatchCounter": 25,
     "height": 8.8,
     "id": 95,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/95.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/95.png",
     "name": "onix",
     "stats": {
         "attack": 45,
@@ -91,19 +91,19 @@
     },
     "type_relations": {
         "resistantTo": [
-            "normal",
-            "flying",
-            "rock",
+            "poison",
             "fire",
-            "poison"
+            "rock",
+            "flying",
+            "normal"
         ],
         "weakTo": [
-            "ground",
             "fighting",
+            "grass",
+            "ground",
             "water",
             "steel",
-            "ice",
-            "grass"
+            "ice"
         ]
     },
     "types": [

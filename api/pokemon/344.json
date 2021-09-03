@@ -73,7 +73,7 @@
     "hatchCounter": 20,
     "height": 1.5,
     "id": 344,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/344.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/344.png",
     "name": "claydol",
     "stats": {
         "attack": 70,
@@ -85,18 +85,18 @@
     },
     "type_relations": {
         "resistantTo": [
-            "poison",
             "rock",
             "fighting",
+            "poison",
             "psychic"
         ],
         "weakTo": [
-            "dark",
-            "ghost",
             "bug",
+            "dark",
+            "grass",
             "water",
             "ice",
-            "grass"
+            "ghost"
         ]
     },
     "types": [

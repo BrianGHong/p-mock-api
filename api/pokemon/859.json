@@ -105,7 +105,7 @@
     "hatchCounter": 20,
     "height": 0.4,
     "id": 859,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/859.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/859.png",
     "name": "impidimp",
     "stats": {
         "attack": 45,
@@ -117,13 +117,13 @@
     },
     "type_relations": {
         "resistantTo": [
-            "dark",
-            "ghost"
+            "ghost",
+            "dark"
         ],
         "weakTo": [
+            "poison",
             "fairy",
-            "steel",
-            "poison"
+            "steel"
         ]
     },
     "types": [

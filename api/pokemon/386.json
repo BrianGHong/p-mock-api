@@ -37,7 +37,7 @@
     "hatchCounter": 120,
     "height": 1.7,
     "id": 386,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/386.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/386.png",
     "name": "deoxys-normal",
     "stats": {
         "attack": 150,
@@ -53,9 +53,9 @@
             "psychic"
         ],
         "weakTo": [
-            "dark",
             "bug",
-            "ghost"
+            "ghost",
+            "dark"
         ]
     },
     "types": [

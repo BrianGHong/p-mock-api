@@ -113,7 +113,7 @@
     "hatchCounter": 20,
     "height": 2.0,
     "id": 199,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/199.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/199.png",
     "name": "slowking",
     "stats": {
         "attack": 75,
@@ -126,18 +126,18 @@
     "type_relations": {
         "resistantTo": [
             "fighting",
-            "water",
-            "steel",
             "fire",
-            "ice",
-            "psychic"
+            "water",
+            "psychic",
+            "steel",
+            "ice"
         ],
         "weakTo": [
-            "dark",
-            "electric",
-            "ghost",
             "bug",
-            "grass"
+            "electric",
+            "dark",
+            "grass",
+            "ghost"
         ]
     },
     "types": [

@@ -33,7 +33,7 @@
     "hatchCounter": 120,
     "height": 1.7,
     "id": 721,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/721.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/721.png",
     "name": "volcanion",
     "stats": {
         "attack": 110,
@@ -45,16 +45,16 @@
     },
     "type_relations": {
         "resistantTo": [
-            "fairy",
             "bug",
-            "steel",
             "fire",
+            "fairy",
+            "steel",
             "ice"
         ],
         "weakTo": [
-            "ground",
+            "electric",
             "rock",
-            "electric"
+            "ground"
         ]
     },
     "types": [

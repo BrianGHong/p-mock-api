@@ -91,7 +91,7 @@
     "hatchCounter": 20,
     "height": 0.9,
     "id": 215,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/215.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/215.png",
     "name": "sneasel",
     "stats": {
         "attack": 95,
@@ -103,17 +103,17 @@
     },
     "type_relations": {
         "resistantTo": [
-            "dark",
             "ice",
-            "ghost"
+            "ghost",
+            "dark"
         ],
         "weakTo": [
             "fighting",
-            "fairy",
-            "rock",
             "bug",
-            "steel",
-            "fire"
+            "rock",
+            "fairy",
+            "fire",
+            "steel"
         ]
     },
     "types": [

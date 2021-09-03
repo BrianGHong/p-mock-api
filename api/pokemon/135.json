@@ -480,7 +480,7 @@
     "hatchCounter": 35,
     "height": 0.8,
     "id": 135,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/135.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/135.png",
     "name": "jolteon",
     "stats": {
         "attack": 65,
@@ -492,9 +492,9 @@
     },
     "type_relations": {
         "resistantTo": [
-            "electric",
+            "steel",
             "flying",
-            "steel"
+            "electric"
         ],
         "weakTo": [
             "ground"

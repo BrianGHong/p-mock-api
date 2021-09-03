@@ -140,7 +140,7 @@
     "hatchCounter": 120,
     "height": 4.0,
     "id": 792,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/792.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/792.png",
     "name": "lunala",
     "stats": {
         "attack": 113,
@@ -152,13 +152,13 @@
     },
     "type_relations": {
         "resistantTo": [
-            "poison",
             "fighting",
+            "poison",
             "psychic"
         ],
         "weakTo": [
-            "dark",
-            "ghost"
+            "ghost",
+            "dark"
         ]
     },
     "types": [

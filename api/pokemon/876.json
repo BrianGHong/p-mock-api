@@ -49,7 +49,7 @@
     "hatchCounter": 40,
     "height": 0.9,
     "id": 876,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/876.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/876.png",
     "name": "indeedee-male",
     "stats": {
         "attack": 65,
@@ -64,9 +64,9 @@
             "psychic"
         ],
         "weakTo": [
-            "dark",
             "bug",
-            "ghost"
+            "ghost",
+            "dark"
         ]
     },
     "types": [

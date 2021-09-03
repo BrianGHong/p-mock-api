@@ -39,7 +39,7 @@
     "hatchCounter": 120,
     "height": 0.3,
     "id": 798,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/798.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/798.png",
     "name": "kartana",
     "stats": {
         "attack": 181,
@@ -51,20 +51,20 @@
     },
     "type_relations": {
         "resistantTo": [
-            "normal",
-            "fairy",
-            "rock",
             "electric",
+            "rock",
+            "fairy",
+            "grass",
+            "normal",
             "dragon",
             "water",
-            "steel",
-            "grass",
-            "psychic"
+            "psychic",
+            "steel"
         ],
         "weakTo": [
             "fighting",
-            "fire",
-            "poison"
+            "poison",
+            "fire"
         ]
     },
     "types": [

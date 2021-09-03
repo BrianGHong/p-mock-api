@@ -76,7 +76,7 @@
     "hatchCounter": 30,
     "height": 2.5,
     "id": 697,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/697.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/697.png",
     "name": "tyrantrum",
     "stats": {
         "attack": 121,
@@ -88,16 +88,16 @@
     },
     "type_relations": {
         "resistantTo": [
-            "normal",
-            "flying",
+            "poison",
             "electric",
             "fire",
-            "poison"
+            "flying",
+            "normal"
         ],
         "weakTo": [
-            "ground",
             "fighting",
             "fairy",
+            "ground",
             "dragon",
             "steel",
             "ice"

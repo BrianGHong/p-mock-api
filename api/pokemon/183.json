@@ -111,7 +111,7 @@
     "hatchCounter": 10,
     "height": 0.4,
     "id": 183,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/183.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/183.png",
     "name": "marill",
     "stats": {
         "attack": 20,
@@ -123,16 +123,16 @@
     },
     "type_relations": {
         "resistantTo": [
-            "dark",
             "fighting",
-            "water",
             "bug",
+            "dark",
             "fire",
+            "water",
             "ice"
         ],
         "weakTo": [
-            "poison",
             "grass",
+            "poison",
             "electric"
         ]
     },

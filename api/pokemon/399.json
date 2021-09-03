@@ -89,7 +89,7 @@
     "hatchCounter": 15,
     "height": 0.5,
     "id": 399,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/399.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/399.png",
     "name": "bidoof",
     "stats": {
         "attack": 45,

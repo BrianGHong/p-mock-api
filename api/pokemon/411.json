@@ -75,7 +75,7 @@
     "hatchCounter": 30,
     "height": 1.3,
     "id": 411,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/411.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/411.png",
     "name": "bastiodon",
     "stats": {
         "attack": 52,
@@ -87,19 +87,19 @@
     },
     "type_relations": {
         "resistantTo": [
-            "normal",
+            "poison",
+            "bug",
+            "rock",
             "flying",
             "fairy",
-            "rock",
+            "normal",
             "dragon",
-            "bug",
-            "ice",
-            "poison",
-            "psychic"
+            "psychic",
+            "ice"
         ],
         "weakTo": [
-            "ground",
             "fighting",
+            "ground",
             "water"
         ]
     },

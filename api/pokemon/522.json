@@ -76,7 +76,7 @@
     "hatchCounter": 20,
     "height": 0.8,
     "id": 522,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/522.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/522.png",
     "name": "blitzle",
     "stats": {
         "attack": 60,
@@ -88,9 +88,9 @@
     },
     "type_relations": {
         "resistantTo": [
-            "electric",
+            "steel",
             "flying",
-            "steel"
+            "electric"
         ],
         "weakTo": [
             "ground"

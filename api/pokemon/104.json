@@ -99,7 +99,7 @@
     "hatchCounter": 20,
     "height": 0.4,
     "id": 104,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/104.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/104.png",
     "name": "cubone",
     "stats": {
         "attack": 50,
@@ -111,13 +111,13 @@
     },
     "type_relations": {
         "resistantTo": [
-            "poison",
-            "rock"
+            "rock",
+            "poison"
         ],
         "weakTo": [
+            "water",
             "ice",
-            "grass",
-            "water"
+            "grass"
         ]
     },
     "types": [

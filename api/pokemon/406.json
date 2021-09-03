@@ -113,7 +113,7 @@
     "hatchCounter": 20,
     "height": 0.2,
     "id": 406,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/406.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/406.png",
     "name": "budew",
     "stats": {
         "attack": 30,
@@ -126,16 +126,16 @@
     "type_relations": {
         "resistantTo": [
             "fighting",
-            "fairy",
             "electric",
-            "water",
-            "grass"
+            "fairy",
+            "grass",
+            "water"
         ],
         "weakTo": [
-            "flying",
             "fire",
-            "ice",
-            "psychic"
+            "flying",
+            "psychic",
+            "ice"
         ]
     },
     "types": [

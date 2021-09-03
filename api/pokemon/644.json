@@ -39,7 +39,7 @@
     "hatchCounter": 120,
     "height": 2.9,
     "id": 644,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/644.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/644.png",
     "name": "zekrom",
     "stats": {
         "attack": 150,
@@ -51,18 +51,18 @@
     },
     "type_relations": {
         "resistantTo": [
-            "flying",
             "electric",
-            "water",
-            "steel",
             "fire",
-            "grass"
+            "grass",
+            "flying",
+            "water",
+            "steel"
         ],
         "weakTo": [
-            "ice",
-            "ground",
             "dragon",
-            "fairy"
+            "fairy",
+            "ice",
+            "ground"
         ]
     },
     "types": [

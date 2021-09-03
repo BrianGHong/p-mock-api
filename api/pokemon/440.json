@@ -110,7 +110,7 @@
     "hatchCounter": 40,
     "height": 0.6,
     "id": 440,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/440.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/440.png",
     "name": "happiny",
     "stats": {
         "attack": 5,

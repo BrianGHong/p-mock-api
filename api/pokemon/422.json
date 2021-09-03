@@ -77,7 +77,7 @@
     "hatchCounter": 20,
     "height": 0.3,
     "id": 422,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/422.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/422.png",
     "name": "shellos",
     "stats": {
         "attack": 48,
@@ -90,9 +90,9 @@
     "type_relations": {
         "resistantTo": [
             "fire",
-            "ice",
             "water",
-            "steel"
+            "steel",
+            "ice"
         ],
         "weakTo": [
             "grass",

@@ -75,7 +75,7 @@
     "hatchCounter": 20,
     "height": 0.6,
     "id": 591,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/591.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/591.png",
     "name": "amoonguss",
     "stats": {
         "attack": 85,
@@ -88,16 +88,16 @@
     "type_relations": {
         "resistantTo": [
             "fighting",
-            "fairy",
             "electric",
-            "water",
-            "grass"
+            "fairy",
+            "grass",
+            "water"
         ],
         "weakTo": [
-            "flying",
             "fire",
-            "ice",
-            "psychic"
+            "flying",
+            "psychic",
+            "ice"
         ]
     },
     "types": [

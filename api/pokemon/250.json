@@ -40,7 +40,7 @@
     "hatchCounter": 120,
     "height": 3.8,
     "id": 250,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/250.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/250.png",
     "name": "ho-oh",
     "stats": {
         "attack": 130,
@@ -53,16 +53,16 @@
     "type_relations": {
         "resistantTo": [
             "fighting",
-            "fairy",
             "bug",
-            "steel",
             "fire",
-            "grass"
+            "fairy",
+            "grass",
+            "steel"
         ],
         "weakTo": [
-            "ground",
-            "rock",
             "electric",
+            "rock",
+            "ground",
             "water"
         ]
     },

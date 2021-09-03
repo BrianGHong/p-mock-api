@@ -112,7 +112,7 @@
     "hatchCounter": 25,
     "height": 0.8,
     "id": 355,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/355.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/355.png",
     "name": "duskull",
     "stats": {
         "attack": 40,
@@ -128,8 +128,8 @@
             "bug"
         ],
         "weakTo": [
-            "dark",
-            "ghost"
+            "ghost",
+            "dark"
         ]
     },
     "types": [

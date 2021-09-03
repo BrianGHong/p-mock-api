@@ -33,7 +33,7 @@
     "hatchCounter": 120,
     "height": 5.0,
     "id": 718,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/718.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/718.png",
     "name": "zygarde",
     "stats": {
         "attack": 100,
@@ -45,10 +45,10 @@
     },
     "type_relations": {
         "resistantTo": [
-            "rock",
-            "electric",
             "poison",
-            "fire"
+            "electric",
+            "fire",
+            "rock"
         ],
         "weakTo": [
             "fairy",

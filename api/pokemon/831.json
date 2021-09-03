@@ -74,7 +74,7 @@
     "hatchCounter": 15,
     "height": 0.6,
     "id": 831,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/831.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/831.png",
     "name": "wooloo",
     "stats": {
         "attack": 40,

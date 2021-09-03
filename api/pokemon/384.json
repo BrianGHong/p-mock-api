@@ -39,7 +39,7 @@
     "hatchCounter": 120,
     "height": 7.0,
     "id": 384,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/384.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/384.png",
     "name": "rayquaza",
     "stats": {
         "attack": 150,
@@ -52,14 +52,14 @@
     "type_relations": {
         "resistantTo": [
             "fighting",
-            "water",
             "bug",
             "fire",
-            "grass"
+            "grass",
+            "water"
         ],
         "weakTo": [
-            "fairy",
             "rock",
+            "fairy",
             "dragon",
             "ice"
         ]

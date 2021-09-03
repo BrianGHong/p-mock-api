@@ -76,7 +76,7 @@
     "hatchCounter": 20,
     "height": 0.9,
     "id": 340,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/340.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/340.png",
     "name": "whiscash",
     "stats": {
         "attack": 78,
@@ -88,10 +88,10 @@
     },
     "type_relations": {
         "resistantTo": [
-            "rock",
-            "steel",
+            "poison",
             "fire",
-            "poison"
+            "rock",
+            "steel"
         ],
         "weakTo": [
             "grass",

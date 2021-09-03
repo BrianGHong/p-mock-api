@@ -78,7 +78,7 @@
     "hatchCounter": 20,
     "height": 0.8,
     "id": 683,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/683.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/683.png",
     "name": "aromatisse",
     "stats": {
         "attack": 72,
@@ -90,13 +90,13 @@
     },
     "type_relations": {
         "resistantTo": [
-            "dark",
             "fighting",
-            "bug"
+            "bug",
+            "dark"
         ],
         "weakTo": [
-            "poison",
-            "steel"
+            "steel",
+            "poison"
         ]
     },
     "types": [

@@ -69,7 +69,7 @@
     "hatchCounter": 15,
     "height": 1.3,
     "id": 693,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/693.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/693.png",
     "name": "clawitzer",
     "stats": {
         "attack": 73,
@@ -82,9 +82,9 @@
     "type_relations": {
         "resistantTo": [
             "fire",
-            "ice",
             "water",
-            "steel"
+            "steel",
+            "ice"
         ],
         "weakTo": [
             "grass",

@@ -108,7 +108,7 @@
     "hatchCounter": 15,
     "height": 0.4,
     "id": 736,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/736.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/736.png",
     "name": "grubbin",
     "stats": {
         "attack": 62,
@@ -120,13 +120,13 @@
     },
     "type_relations": {
         "resistantTo": [
-            "ground",
             "fighting",
-            "grass"
+            "grass",
+            "ground"
         ],
         "weakTo": [
-            "fire",
             "rock",
+            "fire",
             "flying"
         ]
     },

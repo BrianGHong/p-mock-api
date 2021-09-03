@@ -480,7 +480,7 @@
     "hatchCounter": 35,
     "height": 0.9,
     "id": 136,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/136.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/136.png",
     "name": "flareon",
     "stats": {
         "attack": 130,
@@ -492,17 +492,17 @@
     },
     "type_relations": {
         "resistantTo": [
-            "fairy",
             "bug",
-            "steel",
             "fire",
-            "ice",
-            "grass"
+            "fairy",
+            "grass",
+            "steel",
+            "ice"
         ],
         "weakTo": [
-            "ground",
             "rock",
-            "water"
+            "water",
+            "ground"
         ]
     },
     "types": [

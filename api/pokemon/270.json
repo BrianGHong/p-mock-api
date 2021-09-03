@@ -114,7 +114,7 @@
     "hatchCounter": 15,
     "height": 0.5,
     "id": 270,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/270.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/270.png",
     "name": "lotad",
     "stats": {
         "attack": 30,
@@ -131,9 +131,9 @@
             "steel"
         ],
         "weakTo": [
-            "flying",
+            "poison",
             "bug",
-            "poison"
+            "flying"
         ]
     },
     "types": [

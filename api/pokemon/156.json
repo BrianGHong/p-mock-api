@@ -109,7 +109,7 @@
     "hatchCounter": 20,
     "height": 0.9,
     "id": 156,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/156.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/156.png",
     "name": "quilava",
     "stats": {
         "attack": 64,
@@ -121,17 +121,17 @@
     },
     "type_relations": {
         "resistantTo": [
-            "fairy",
             "bug",
-            "steel",
             "fire",
-            "ice",
-            "grass"
+            "fairy",
+            "grass",
+            "steel",
+            "ice"
         ],
         "weakTo": [
-            "ground",
             "rock",
-            "water"
+            "water",
+            "ground"
         ]
     },
     "types": [

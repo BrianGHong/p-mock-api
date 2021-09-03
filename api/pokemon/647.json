@@ -37,7 +37,7 @@
     "hatchCounter": 80,
     "height": 1.4,
     "id": 647,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/647.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/647.png",
     "name": "keldeo-ordinary",
     "stats": {
         "attack": 72,
@@ -49,19 +49,19 @@
     },
     "type_relations": {
         "resistantTo": [
+            "bug",
             "dark",
+            "fire",
             "rock",
             "water",
-            "bug",
             "steel",
-            "fire",
             "ice"
         ],
         "weakTo": [
-            "fairy",
-            "flying",
             "electric",
+            "fairy",
             "grass",
+            "flying",
             "psychic"
         ]
     },

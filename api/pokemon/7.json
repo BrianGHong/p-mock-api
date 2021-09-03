@@ -110,7 +110,7 @@
     "hatchCounter": 20,
     "height": 0.5,
     "id": 7,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/7.png",
     "name": "squirtle",
     "stats": {
         "attack": 48,
@@ -123,9 +123,9 @@
     "type_relations": {
         "resistantTo": [
             "fire",
-            "ice",
             "water",
-            "steel"
+            "steel",
+            "ice"
         ],
         "weakTo": [
             "grass",

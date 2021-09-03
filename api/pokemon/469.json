@@ -79,7 +79,7 @@
     "hatchCounter": 20,
     "height": 1.9,
     "id": 469,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/469.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/469.png",
     "name": "yanmega",
     "stats": {
         "attack": 76,
@@ -91,16 +91,16 @@
     },
     "type_relations": {
         "resistantTo": [
-            "ground",
             "fighting",
+            "grass",
             "bug",
-            "grass"
+            "ground"
         ],
         "weakTo": [
-            "flying",
-            "rock",
             "electric",
+            "rock",
             "fire",
+            "flying",
             "ice"
         ]
     },

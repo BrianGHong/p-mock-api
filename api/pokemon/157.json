@@ -109,7 +109,7 @@
     "hatchCounter": 20,
     "height": 1.7,
     "id": 157,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/157.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/157.png",
     "name": "typhlosion",
     "stats": {
         "attack": 84,
@@ -121,17 +121,17 @@
     },
     "type_relations": {
         "resistantTo": [
-            "fairy",
             "bug",
-            "steel",
             "fire",
-            "ice",
-            "grass"
+            "fairy",
+            "grass",
+            "steel",
+            "ice"
         ],
         "weakTo": [
-            "ground",
             "rock",
-            "water"
+            "water",
+            "ground"
         ]
     },
     "types": [

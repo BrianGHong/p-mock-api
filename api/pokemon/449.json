@@ -87,7 +87,7 @@
     "hatchCounter": 30,
     "height": 0.8,
     "id": 449,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/449.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/449.png",
     "name": "hippopotas",
     "stats": {
         "attack": 72,
@@ -99,13 +99,13 @@
     },
     "type_relations": {
         "resistantTo": [
-            "poison",
-            "rock"
+            "rock",
+            "poison"
         ],
         "weakTo": [
+            "water",
             "ice",
-            "grass",
-            "water"
+            "grass"
         ]
     },
     "types": [

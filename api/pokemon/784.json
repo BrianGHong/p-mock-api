@@ -110,7 +110,7 @@
     "hatchCounter": 40,
     "height": 1.6,
     "id": 784,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/784.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/784.png",
     "name": "kommo-o",
     "stats": {
         "attack": 110,
@@ -122,20 +122,20 @@
     },
     "type_relations": {
         "resistantTo": [
-            "dark",
-            "rock",
-            "electric",
-            "water",
             "bug",
+            "electric",
+            "dark",
             "fire",
-            "grass"
+            "rock",
+            "grass",
+            "water"
         ],
         "weakTo": [
-            "flying",
             "fairy",
+            "flying",
             "dragon",
-            "ice",
-            "psychic"
+            "psychic",
+            "ice"
         ]
     },
     "types": [

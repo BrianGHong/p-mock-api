@@ -107,7 +107,7 @@
     "hatchCounter": 20,
     "height": 0.8,
     "id": 863,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/863.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/863.png",
     "name": "perrserker",
     "stats": {
         "attack": 110,
@@ -119,21 +119,21 @@
     },
     "type_relations": {
         "resistantTo": [
-            "normal",
-            "flying",
-            "fairy",
-            "rock",
-            "dragon",
             "bug",
-            "steel",
-            "ice",
+            "rock",
+            "fairy",
             "grass",
-            "psychic"
+            "flying",
+            "normal",
+            "dragon",
+            "psychic",
+            "steel",
+            "ice"
         ],
         "weakTo": [
             "fire",
-            "ground",
-            "fighting"
+            "fighting",
+            "ground"
         ]
     },
     "types": [

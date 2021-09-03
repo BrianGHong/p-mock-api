@@ -108,7 +108,7 @@
     "hatchCounter": 20,
     "height": 1.1,
     "id": 329,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/329.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/329.png",
     "name": "vibrava",
     "stats": {
         "attack": 70,
@@ -120,10 +120,10 @@
     },
     "type_relations": {
         "resistantTo": [
-            "rock",
+            "poison",
             "electric",
-            "fire",
-            "poison"
+            "rock",
+            "fire"
         ],
         "weakTo": [
             "fairy",

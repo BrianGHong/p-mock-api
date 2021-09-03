@@ -109,7 +109,7 @@
     "hatchCounter": 40,
     "height": 2.0,
     "id": 248,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/248.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/248.png",
     "name": "tyranitar",
     "stats": {
         "attack": 134,
@@ -121,21 +121,21 @@
     },
     "type_relations": {
         "resistantTo": [
+            "poison",
             "dark",
-            "normal",
-            "flying",
-            "ghost",
             "fire",
-            "poison"
+            "flying",
+            "normal",
+            "ghost"
         ],
         "weakTo": [
-            "ground",
             "fighting",
-            "fairy",
-            "water",
             "bug",
-            "steel",
-            "grass"
+            "fairy",
+            "grass",
+            "ground",
+            "water",
+            "steel"
         ]
     },
     "types": [

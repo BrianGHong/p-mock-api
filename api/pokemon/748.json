@@ -76,7 +76,7 @@
     "hatchCounter": 20,
     "height": 0.7,
     "id": 748,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/748.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/748.png",
     "name": "toxapex",
     "stats": {
         "attack": 63,
@@ -89,18 +89,18 @@
     "type_relations": {
         "resistantTo": [
             "fighting",
-            "fairy",
+            "poison",
             "bug",
+            "fire",
+            "fairy",
             "water",
             "steel",
-            "fire",
-            "ice",
-            "poison"
+            "ice"
         ],
         "weakTo": [
-            "ground",
             "psychic",
-            "electric"
+            "electric",
+            "ground"
         ]
     },
     "types": [

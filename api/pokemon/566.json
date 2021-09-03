@@ -75,7 +75,7 @@
     "hatchCounter": 30,
     "height": 0.5,
     "id": 566,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/566.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/566.png",
     "name": "archen",
     "stats": {
         "attack": 112,
@@ -87,16 +87,16 @@
     },
     "type_relations": {
         "resistantTo": [
-            "normal",
-            "flying",
+            "poison",
             "bug",
             "fire",
-            "poison"
+            "flying",
+            "normal"
         ],
         "weakTo": [
-            "ground",
-            "rock",
             "electric",
+            "rock",
+            "ground",
             "water",
             "steel",
             "ice"

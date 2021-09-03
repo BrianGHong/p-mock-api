@@ -33,7 +33,7 @@
     "hatchCounter": 120,
     "height": 5.8,
     "id": 717,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/717.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/717.png",
     "name": "yveltal",
     "stats": {
         "attack": 131,
@@ -46,13 +46,13 @@
     "type_relations": {
         "resistantTo": [
             "dark",
-            "ghost",
-            "grass"
+            "grass",
+            "ghost"
         ],
         "weakTo": [
-            "fairy",
-            "rock",
             "electric",
+            "rock",
+            "fairy",
             "ice"
         ]
     },

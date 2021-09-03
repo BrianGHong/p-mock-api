@@ -75,7 +75,7 @@
     "hatchCounter": 30,
     "height": 0.5,
     "id": 410,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/410.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/410.png",
     "name": "shieldon",
     "stats": {
         "attack": 42,
@@ -87,19 +87,19 @@
     },
     "type_relations": {
         "resistantTo": [
-            "normal",
+            "poison",
+            "bug",
+            "rock",
             "flying",
             "fairy",
-            "rock",
+            "normal",
             "dragon",
-            "bug",
-            "ice",
-            "poison",
-            "psychic"
+            "psychic",
+            "ice"
         ],
         "weakTo": [
-            "ground",
             "fighting",
+            "ground",
             "water"
         ]
     },

@@ -87,7 +87,7 @@
     "hatchCounter": 20,
     "height": 1.1,
     "id": 232,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/232.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/232.png",
     "name": "donphan",
     "stats": {
         "attack": 120,
@@ -99,13 +99,13 @@
     },
     "type_relations": {
         "resistantTo": [
-            "poison",
-            "rock"
+            "rock",
+            "poison"
         ],
         "weakTo": [
+            "water",
             "ice",
-            "grass",
-            "water"
+            "grass"
         ]
     },
     "types": [

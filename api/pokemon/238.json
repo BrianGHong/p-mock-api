@@ -73,7 +73,7 @@
     "hatchCounter": 25,
     "height": 0.4,
     "id": 238,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/238.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/238.png",
     "name": "smoochum",
     "stats": {
         "attack": 30,
@@ -89,12 +89,12 @@
             "psychic"
         ],
         "weakTo": [
+            "bug",
             "dark",
             "rock",
-            "ghost",
-            "bug",
+            "fire",
             "steel",
-            "fire"
+            "ghost"
         ]
     },
     "types": [

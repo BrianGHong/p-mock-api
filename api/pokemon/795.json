@@ -39,7 +39,7 @@
     "hatchCounter": 120,
     "height": 1.8,
     "id": 795,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/795.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/795.png",
     "name": "pheromosa",
     "stats": {
         "attack": 137,
@@ -51,16 +51,16 @@
     },
     "type_relations": {
         "resistantTo": [
-            "dark",
-            "ground",
             "fighting",
             "bug",
-            "grass"
+            "dark",
+            "grass",
+            "ground"
         ],
         "weakTo": [
+            "fire",
             "fairy",
             "flying",
-            "fire",
             "psychic"
         ]
     },

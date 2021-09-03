@@ -37,7 +37,7 @@
     "hatchCounter": 120,
     "height": 2.0,
     "id": 381,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/381.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/381.png",
     "name": "latios",
     "stats": {
         "attack": 90,
@@ -51,18 +51,18 @@
         "resistantTo": [
             "fighting",
             "electric",
-            "water",
             "fire",
             "grass",
+            "water",
             "psychic"
         ],
         "weakTo": [
+            "bug",
             "dark",
             "fairy",
-            "ghost",
             "dragon",
-            "bug",
-            "ice"
+            "ice",
+            "ghost"
         ]
     },
     "types": [

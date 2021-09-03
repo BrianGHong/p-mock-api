@@ -43,7 +43,7 @@
     "hatchCounter": 20,
     "height": 0.6,
     "id": 303,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/303.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/303.png",
     "name": "mawile",
     "stats": {
         "attack": 85,
@@ -55,21 +55,21 @@
     },
     "type_relations": {
         "resistantTo": [
-            "dark",
-            "normal",
-            "flying",
-            "fairy",
-            "rock",
-            "dragon",
             "bug",
-            "ice",
+            "dark",
+            "rock",
+            "fairy",
             "grass",
-            "psychic"
+            "flying",
+            "normal",
+            "dragon",
+            "psychic",
+            "ice"
         ],
         "weakTo": [
-            "ground",
+            "poison",
             "fire",
-            "poison"
+            "ground"
         ]
     },
     "types": [

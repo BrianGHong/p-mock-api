@@ -104,7 +104,7 @@
     "hatchCounter": 40,
     "height": 0.8,
     "id": 705,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/705.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/705.png",
     "name": "sliggoo",
     "stats": {
         "attack": 75,
@@ -117,14 +117,14 @@
     "type_relations": {
         "resistantTo": [
             "fire",
-            "grass",
+            "water",
             "electric",
-            "water"
+            "grass"
         ],
         "weakTo": [
-            "ice",
             "dragon",
-            "fairy"
+            "fairy",
+            "ice"
         ]
     },
     "types": [

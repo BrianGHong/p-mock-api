@@ -71,7 +71,7 @@
     "hatchCounter": 20,
     "height": 1.8,
     "id": 691,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/691.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/691.png",
     "name": "dragalge",
     "stats": {
         "attack": 75,
@@ -84,18 +84,18 @@
     "type_relations": {
         "resistantTo": [
             "fighting",
-            "grass",
-            "electric",
+            "poison",
             "bug",
-            "water",
+            "electric",
             "fire",
-            "poison"
+            "grass",
+            "water"
         ],
         "weakTo": [
             "ground",
             "dragon",
-            "ice",
-            "psychic"
+            "psychic",
+            "ice"
         ]
     },
     "types": [

@@ -50,7 +50,7 @@
     "hatchCounter": 10,
     "height": 0.3,
     "id": 490,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/490.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/490.png",
     "name": "manaphy",
     "stats": {
         "attack": 100,
@@ -63,9 +63,9 @@
     "type_relations": {
         "resistantTo": [
             "fire",
-            "ice",
             "water",
-            "steel"
+            "steel",
+            "ice"
         ],
         "weakTo": [
             "grass",

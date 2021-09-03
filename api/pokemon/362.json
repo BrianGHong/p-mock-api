@@ -113,7 +113,7 @@
     "hatchCounter": 20,
     "height": 1.5,
     "id": 362,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/362.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/362.png",
     "name": "glalie",
     "stats": {
         "attack": 80,
@@ -128,9 +128,9 @@
             "ice"
         ],
         "weakTo": [
-            "fire",
             "rock",
             "fighting",
+            "fire",
             "steel"
         ]
     },

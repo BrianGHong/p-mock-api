@@ -39,7 +39,7 @@
     "hatchCounter": 80,
     "height": 0.3,
     "id": 482,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/482.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/482.png",
     "name": "azelf",
     "stats": {
         "attack": 125,
@@ -55,9 +55,9 @@
             "psychic"
         ],
         "weakTo": [
-            "dark",
             "bug",
-            "ghost"
+            "ghost",
+            "dark"
         ]
     },
     "types": [

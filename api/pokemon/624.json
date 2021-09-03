@@ -76,7 +76,7 @@
     "hatchCounter": 20,
     "height": 0.5,
     "id": 624,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/624.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/624.png",
     "name": "pawniard",
     "stats": {
         "attack": 85,
@@ -89,20 +89,20 @@
     "type_relations": {
         "resistantTo": [
             "dark",
-            "normal",
-            "flying",
             "rock",
-            "ghost",
+            "grass",
+            "flying",
+            "normal",
             "dragon",
+            "psychic",
             "steel",
             "ice",
-            "grass",
-            "psychic"
+            "ghost"
         ],
         "weakTo": [
-            "ground",
             "fighting",
-            "fire"
+            "fire",
+            "ground"
         ]
     },
     "types": [

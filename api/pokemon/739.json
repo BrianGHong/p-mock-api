@@ -79,7 +79,7 @@
     "hatchCounter": 20,
     "height": 0.6,
     "id": 739,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/739.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/739.png",
     "name": "crabrawler",
     "stats": {
         "attack": 82,
@@ -91,14 +91,14 @@
     },
     "type_relations": {
         "resistantTo": [
-            "dark",
             "rock",
-            "bug"
+            "bug",
+            "dark"
         ],
         "weakTo": [
             "fairy",
-            "psychic",
-            "flying"
+            "flying",
+            "psychic"
         ]
     },
     "types": [

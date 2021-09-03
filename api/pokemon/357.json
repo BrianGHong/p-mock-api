@@ -43,7 +43,7 @@
     "hatchCounter": 25,
     "height": 2.0,
     "id": 357,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/357.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/357.png",
     "name": "tropius",
     "stats": {
         "attack": 68,
@@ -55,17 +55,17 @@
     },
     "type_relations": {
         "resistantTo": [
-            "ground",
             "fighting",
-            "water",
-            "grass"
+            "grass",
+            "ground",
+            "water"
         ],
         "weakTo": [
-            "flying",
-            "rock",
+            "poison",
             "fire",
-            "ice",
-            "poison"
+            "rock",
+            "flying",
+            "ice"
         ]
     },
     "types": [

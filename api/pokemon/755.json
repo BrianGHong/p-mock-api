@@ -76,7 +76,7 @@
     "hatchCounter": 20,
     "height": 0.2,
     "id": 755,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/755.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/755.png",
     "name": "morelull",
     "stats": {
         "attack": 35,
@@ -88,19 +88,19 @@
     },
     "type_relations": {
         "resistantTo": [
-            "dark",
-            "ground",
             "fighting",
             "electric",
-            "water",
-            "grass"
+            "dark",
+            "grass",
+            "ground",
+            "water"
         ],
         "weakTo": [
+            "poison",
+            "fire",
             "flying",
             "steel",
-            "fire",
-            "ice",
-            "poison"
+            "ice"
         ]
     },
     "types": [

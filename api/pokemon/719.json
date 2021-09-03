@@ -33,7 +33,7 @@
     "hatchCounter": 25,
     "height": 0.7,
     "id": 719,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/719.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/719.png",
     "name": "diancie",
     "stats": {
         "attack": 100,
@@ -45,17 +45,17 @@
     },
     "type_relations": {
         "resistantTo": [
-            "dark",
-            "normal",
-            "flying",
             "bug",
-            "fire"
+            "dark",
+            "fire",
+            "flying",
+            "normal"
         ],
         "weakTo": [
+            "grass",
             "ground",
             "water",
-            "steel",
-            "grass"
+            "steel"
         ]
     },
     "types": [

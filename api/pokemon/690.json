@@ -77,7 +77,7 @@
     "hatchCounter": 20,
     "height": 0.5,
     "id": 690,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/690.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/690.png",
     "name": "skrelp",
     "stats": {
         "attack": 60,
@@ -90,18 +90,18 @@
     "type_relations": {
         "resistantTo": [
             "fighting",
-            "fairy",
+            "poison",
             "bug",
+            "fire",
+            "fairy",
             "water",
             "steel",
-            "fire",
-            "ice",
-            "poison"
+            "ice"
         ],
         "weakTo": [
-            "ground",
             "psychic",
-            "electric"
+            "electric",
+            "ground"
         ]
     },
     "types": [

@@ -42,7 +42,7 @@
     "hatchCounter": 20,
     "height": 0.5,
     "id": 324,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/324.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/324.png",
     "name": "torkoal",
     "stats": {
         "attack": 85,
@@ -54,17 +54,17 @@
     },
     "type_relations": {
         "resistantTo": [
-            "fairy",
             "bug",
-            "steel",
             "fire",
-            "ice",
-            "grass"
+            "fairy",
+            "grass",
+            "steel",
+            "ice"
         ],
         "weakTo": [
-            "ground",
             "rock",
-            "water"
+            "water",
+            "ground"
         ]
     },
     "types": [

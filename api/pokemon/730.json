@@ -110,7 +110,7 @@
     "hatchCounter": 15,
     "height": 1.8,
     "id": 730,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/730.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/730.png",
     "name": "primarina",
     "stats": {
         "attack": 74,
@@ -122,16 +122,16 @@
     },
     "type_relations": {
         "resistantTo": [
-            "dark",
             "fighting",
-            "water",
             "bug",
+            "dark",
             "fire",
+            "water",
             "ice"
         ],
         "weakTo": [
-            "poison",
             "grass",
+            "poison",
             "electric"
         ]
     },

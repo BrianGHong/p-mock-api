@@ -70,7 +70,7 @@
     "hatchCounter": 15,
     "height": 1.0,
     "id": 660,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/660.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/660.png",
     "name": "diggersby",
     "stats": {
         "attack": 56,
@@ -82,14 +82,14 @@
     },
     "type_relations": {
         "resistantTo": [
-            "poison",
-            "rock"
+            "rock",
+            "poison"
         ],
         "weakTo": [
-            "ice",
-            "grass",
             "fighting",
-            "water"
+            "water",
+            "ice",
+            "grass"
         ]
     },
     "types": [

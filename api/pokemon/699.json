@@ -69,7 +69,7 @@
     "hatchCounter": 30,
     "height": 2.7,
     "id": 699,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/699.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/699.png",
     "name": "aurorus",
     "stats": {
         "attack": 77,
@@ -81,18 +81,18 @@
     },
     "type_relations": {
         "resistantTo": [
-            "normal",
+            "poison",
             "flying",
-            "ice",
-            "poison"
+            "normal",
+            "ice"
         ],
         "weakTo": [
-            "ground",
             "fighting",
             "rock",
+            "grass",
+            "ground",
             "water",
-            "steel",
-            "grass"
+            "steel"
         ]
     },
     "types": [

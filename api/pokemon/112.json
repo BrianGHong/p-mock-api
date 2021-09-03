@@ -126,7 +126,7 @@
     "hatchCounter": 20,
     "height": 1.9,
     "id": 112,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/112.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/112.png",
     "name": "rhydon",
     "stats": {
         "attack": 130,
@@ -138,19 +138,19 @@
     },
     "type_relations": {
         "resistantTo": [
-            "normal",
-            "flying",
+            "poison",
             "rock",
             "fire",
-            "poison"
+            "flying",
+            "normal"
         ],
         "weakTo": [
-            "ground",
             "fighting",
+            "grass",
+            "ground",
             "water",
             "steel",
-            "ice",
-            "grass"
+            "ice"
         ]
     },
     "types": [

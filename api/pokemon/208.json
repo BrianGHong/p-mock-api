@@ -91,7 +91,7 @@
     "hatchCounter": 25,
     "height": 9.2,
     "id": 208,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/208.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/208.png",
     "name": "steelix",
     "stats": {
         "attack": 85,
@@ -103,21 +103,21 @@
     },
     "type_relations": {
         "resistantTo": [
-            "normal",
-            "flying",
-            "fairy",
-            "rock",
             "poison",
-            "dragon",
             "bug",
-            "steel",
-            "psychic"
+            "rock",
+            "fairy",
+            "flying",
+            "normal",
+            "dragon",
+            "psychic",
+            "steel"
         ],
         "weakTo": [
-            "ground",
             "fighting",
-            "water",
-            "fire"
+            "fire",
+            "ground",
+            "water"
         ]
     },
     "types": [

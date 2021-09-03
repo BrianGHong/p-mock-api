@@ -74,7 +74,7 @@
     "hatchCounter": 20,
     "height": 3.8,
     "id": 844,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/844.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/844.png",
     "name": "sandaconda",
     "stats": {
         "attack": 107,
@@ -86,13 +86,13 @@
     },
     "type_relations": {
         "resistantTo": [
-            "poison",
-            "rock"
+            "rock",
+            "poison"
         ],
         "weakTo": [
+            "water",
             "ice",
-            "grass",
-            "water"
+            "grass"
         ]
     },
     "types": [

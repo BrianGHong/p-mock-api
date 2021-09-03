@@ -122,7 +122,7 @@
     "hatchCounter": 20,
     "height": 0.9,
     "id": 404,
-    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/404.png",
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/404.png",
     "name": "luxio",
     "stats": {
         "attack": 85,
@@ -134,9 +134,9 @@
     },
     "type_relations": {
         "resistantTo": [
-            "electric",
+            "steel",
             "flying",
-            "steel"
+            "electric"
         ],
         "weakTo": [
             "ground"
