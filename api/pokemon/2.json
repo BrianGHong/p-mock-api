@@ -122,17 +122,17 @@
     },
     "type_relations": {
         "resistantTo": [
+            "grass",
             "fighting",
             "fairy",
             "electric",
-            "water",
-            "grass"
+            "water"
         ],
         "weakTo": [
-            "flying",
             "fire",
-            "ice",
-            "psychic"
+            "flying",
+            "psychic",
+            "ice"
         ]
     },
     "types": [
