@@ -12,81 +12,37 @@
         "dragon"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [
+        "end": [
             {
-                "evolution_details": [
-                    {
-                        "gender": null,
-                        "held_item": null,
-                        "item": null,
-                        "known_move": null,
-                        "known_move_type": null,
-                        "location": null,
-                        "min_affection": null,
-                        "min_beauty": null,
-                        "min_happiness": null,
-                        "min_level": 30,
-                        "needs_overworld_rain": false,
-                        "party_species": null,
-                        "party_type": null,
-                        "relative_physical_stats": null,
-                        "time_of_day": "",
-                        "trade_species": null,
-                        "trigger": {
-                            "name": "level-up",
-                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
-                        },
-                        "turn_upside_down": false
-                    }
-                ],
-                "evolves_to": [
-                    {
-                        "evolution_details": [
-                            {
-                                "gender": null,
-                                "held_item": null,
-                                "item": null,
-                                "known_move": null,
-                                "known_move_type": null,
-                                "location": null,
-                                "min_affection": null,
-                                "min_beauty": null,
-                                "min_happiness": null,
-                                "min_level": 55,
-                                "needs_overworld_rain": false,
-                                "party_species": null,
-                                "party_type": null,
-                                "relative_physical_stats": null,
-                                "time_of_day": "",
-                                "trade_species": null,
-                                "trigger": {
-                                    "name": "level-up",
-                                    "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
-                                },
-                                "turn_upside_down": false
-                            }
-                        ],
-                        "evolves_to": [],
-                        "is_baby": false,
-                        "species": {
-                            "name": "dragonite",
-                            "url": "https://pokeapi.co/api/v2/pokemon-species/149/"
-                        }
-                    }
-                ],
-                "is_baby": false,
-                "species": {
-                    "name": "dragonair",
-                    "url": "https://pokeapi.co/api/v2/pokemon-species/148/"
-                }
+                "id": "149",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/149.png",
+                "name": "dragonite",
+                "types": [
+                    "dragon",
+                    "flying"
+                ]
             }
         ],
-        "is_baby": false,
-        "species": {
-            "name": "dratini",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/147/"
-        }
+        "mid": [
+            {
+                "id": "148",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/148.png",
+                "name": "dragonair",
+                "types": [
+                    "dragon"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "147",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/147.png",
+                "name": "dratini",
+                "types": [
+                    "dragon"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -122,17 +78,17 @@
     },
     "type_relations": {
         "resistantTo": [
-            "fighting",
-            "bug",
-            "fire",
             "grass",
-            "water"
+            "water",
+            "bug",
+            "fighting",
+            "fire"
         ],
         "weakTo": [
-            "rock",
             "fairy",
-            "dragon",
-            "ice"
+            "rock",
+            "ice",
+            "dragon"
         ]
     },
     "types": [

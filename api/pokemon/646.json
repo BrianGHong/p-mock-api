@@ -10,13 +10,19 @@
         "no-eggs"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [],
-        "is_baby": false,
-        "species": {
-            "name": "kyurem",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/646/"
-        }
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "646",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/646.png",
+                "name": "kyurem",
+                "types": [
+                    "dragon",
+                    "ice"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -56,10 +62,10 @@
             "water"
         ],
         "weakTo": [
-            "fighting",
-            "rock",
             "fairy",
+            "rock",
             "dragon",
+            "fighting",
             "steel"
         ]
     },

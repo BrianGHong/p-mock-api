@@ -10,13 +10,19 @@
         "no-eggs"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [],
-        "is_baby": false,
-        "species": {
-            "name": "celesteela",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/797/"
-        }
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "797",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/797.png",
+                "name": "celesteela",
+                "types": [
+                    "steel",
+                    "flying"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -51,19 +57,19 @@
     },
     "type_relations": {
         "resistantTo": [
-            "bug",
             "fairy",
             "grass",
-            "flying",
-            "normal",
             "dragon",
+            "bug",
+            "flying",
             "psychic",
+            "normal",
             "steel"
         ],
         "weakTo": [
             "electric",
-            "fire",
-            "ground"
+            "ground",
+            "fire"
         ]
     },
     "types": [

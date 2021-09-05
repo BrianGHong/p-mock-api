@@ -13,13 +13,18 @@
         "fairy"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [],
-        "is_baby": false,
-        "species": {
-            "name": "pachirisu",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/417/"
-        }
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "417",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/417.png",
+                "name": "pachirisu",
+                "types": [
+                    "electric"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -61,9 +66,9 @@
     },
     "type_relations": {
         "resistantTo": [
+            "electric",
             "steel",
-            "flying",
-            "electric"
+            "flying"
         ],
         "weakTo": [
             "ground"

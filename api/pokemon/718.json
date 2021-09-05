@@ -10,13 +10,19 @@
         "no-eggs"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [],
-        "is_baby": false,
-        "species": {
-            "name": "zygarde",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/718/"
-        }
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "718",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/718.png",
+                "name": "zygarde",
+                "types": [
+                    "dragon",
+                    "ground"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -47,13 +53,13 @@
         "resistantTo": [
             "poison",
             "electric",
-            "fire",
-            "rock"
+            "rock",
+            "fire"
         ],
         "weakTo": [
             "fairy",
-            "dragon",
-            "ice"
+            "ice",
+            "dragon"
         ]
     },
     "types": [

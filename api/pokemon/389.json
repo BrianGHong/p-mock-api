@@ -12,81 +12,37 @@
         "plant"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [
+        "end": [
             {
-                "evolution_details": [
-                    {
-                        "gender": null,
-                        "held_item": null,
-                        "item": null,
-                        "known_move": null,
-                        "known_move_type": null,
-                        "location": null,
-                        "min_affection": null,
-                        "min_beauty": null,
-                        "min_happiness": null,
-                        "min_level": 18,
-                        "needs_overworld_rain": false,
-                        "party_species": null,
-                        "party_type": null,
-                        "relative_physical_stats": null,
-                        "time_of_day": "",
-                        "trade_species": null,
-                        "trigger": {
-                            "name": "level-up",
-                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
-                        },
-                        "turn_upside_down": false
-                    }
-                ],
-                "evolves_to": [
-                    {
-                        "evolution_details": [
-                            {
-                                "gender": null,
-                                "held_item": null,
-                                "item": null,
-                                "known_move": null,
-                                "known_move_type": null,
-                                "location": null,
-                                "min_affection": null,
-                                "min_beauty": null,
-                                "min_happiness": null,
-                                "min_level": 32,
-                                "needs_overworld_rain": false,
-                                "party_species": null,
-                                "party_type": null,
-                                "relative_physical_stats": null,
-                                "time_of_day": "",
-                                "trade_species": null,
-                                "trigger": {
-                                    "name": "level-up",
-                                    "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
-                                },
-                                "turn_upside_down": false
-                            }
-                        ],
-                        "evolves_to": [],
-                        "is_baby": false,
-                        "species": {
-                            "name": "torterra",
-                            "url": "https://pokeapi.co/api/v2/pokemon-species/389/"
-                        }
-                    }
-                ],
-                "is_baby": false,
-                "species": {
-                    "name": "grotle",
-                    "url": "https://pokeapi.co/api/v2/pokemon-species/388/"
-                }
+                "id": "389",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/389.png",
+                "name": "torterra",
+                "types": [
+                    "grass",
+                    "ground"
+                ]
             }
         ],
-        "is_baby": false,
-        "species": {
-            "name": "turtwig",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/387/"
-        }
+        "mid": [
+            {
+                "id": "388",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/388.png",
+                "name": "grotle",
+                "types": [
+                    "grass"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "387",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/387.png",
+                "name": "turtwig",
+                "types": [
+                    "grass"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -127,10 +83,10 @@
             "ground"
         ],
         "weakTo": [
+            "ice",
             "bug",
-            "fire",
             "flying",
-            "ice"
+            "fire"
         ]
     },
     "types": [

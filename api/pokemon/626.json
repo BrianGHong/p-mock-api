@@ -12,13 +12,18 @@
         "ground"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [],
-        "is_baby": false,
-        "species": {
-            "name": "bouffalant",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/626/"
-        }
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "626",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/626.png",
+                "name": "bouffalant",
+                "types": [
+                    "normal"
+                ]
+            }
+        ]
     },
     "forms": [
         {

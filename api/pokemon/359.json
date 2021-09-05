@@ -12,13 +12,18 @@
         "ground"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [],
-        "is_baby": false,
-        "species": {
-            "name": "absol",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/359/"
-        }
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "359",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/359.png",
+                "name": "absol",
+                "types": [
+                    "dark"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -54,13 +59,13 @@
     },
     "type_relations": {
         "resistantTo": [
-            "ghost",
-            "dark"
+            "dark",
+            "ghost"
         ],
         "weakTo": [
             "fighting",
-            "bug",
-            "fairy"
+            "fairy",
+            "bug"
         ]
     },
     "types": [

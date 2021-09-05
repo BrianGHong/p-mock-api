@@ -13,13 +13,18 @@
         "water2"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [],
-        "is_baby": false,
-        "species": {
-            "name": "alomomola",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/594/"
-        }
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "594",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/594.png",
+                "name": "alomomola",
+                "types": [
+                    "water"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -55,10 +60,10 @@
     },
     "type_relations": {
         "resistantTo": [
-            "fire",
+            "ice",
             "water",
-            "steel",
-            "ice"
+            "fire",
+            "steel"
         ],
         "weakTo": [
             "grass",

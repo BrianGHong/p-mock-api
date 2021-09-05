@@ -12,13 +12,19 @@
         "flying"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [],
-        "is_baby": false,
-        "species": {
-            "name": "skarmory",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/227/"
-        }
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "227",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/227.png",
+                "name": "skarmory",
+                "types": [
+                    "steel",
+                    "flying"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -54,19 +60,19 @@
     },
     "type_relations": {
         "resistantTo": [
-            "bug",
             "fairy",
             "grass",
-            "flying",
-            "normal",
             "dragon",
+            "bug",
+            "flying",
             "psychic",
+            "normal",
             "steel"
         ],
         "weakTo": [
             "electric",
-            "fire",
-            "ground"
+            "ground",
+            "fire"
         ]
     },
     "types": [

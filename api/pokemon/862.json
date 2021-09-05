@@ -10,81 +10,37 @@
     },
     "eggGroups": [],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [
+        "end": [
             {
-                "evolution_details": [
-                    {
-                        "gender": null,
-                        "held_item": null,
-                        "item": null,
-                        "known_move": null,
-                        "known_move_type": null,
-                        "location": null,
-                        "min_affection": null,
-                        "min_beauty": null,
-                        "min_happiness": null,
-                        "min_level": 20,
-                        "needs_overworld_rain": false,
-                        "party_species": null,
-                        "party_type": null,
-                        "relative_physical_stats": null,
-                        "time_of_day": "",
-                        "trade_species": null,
-                        "trigger": {
-                            "name": "level-up",
-                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
-                        },
-                        "turn_upside_down": false
-                    }
-                ],
-                "evolves_to": [
-                    {
-                        "evolution_details": [
-                            {
-                                "gender": null,
-                                "held_item": null,
-                                "item": null,
-                                "known_move": null,
-                                "known_move_type": null,
-                                "location": null,
-                                "min_affection": null,
-                                "min_beauty": null,
-                                "min_happiness": null,
-                                "min_level": 35,
-                                "needs_overworld_rain": false,
-                                "party_species": null,
-                                "party_type": null,
-                                "relative_physical_stats": null,
-                                "time_of_day": "",
-                                "trade_species": null,
-                                "trigger": {
-                                    "name": "level-up",
-                                    "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
-                                },
-                                "turn_upside_down": false
-                            }
-                        ],
-                        "evolves_to": [],
-                        "is_baby": false,
-                        "species": {
-                            "name": "obstagoon",
-                            "url": "https://pokeapi.co/api/v2/pokemon-species/862/"
-                        }
-                    }
-                ],
-                "is_baby": false,
-                "species": {
-                    "name": "linoone",
-                    "url": "https://pokeapi.co/api/v2/pokemon-species/264/"
-                }
+                "id": "862",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/862.png",
+                "name": "obstagoon",
+                "types": [
+                    "dark",
+                    "normal"
+                ]
             }
         ],
-        "is_baby": false,
-        "species": {
-            "name": "zigzagoon",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/263/"
-        }
+        "mid": [
+            {
+                "id": "264",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/264.png",
+                "name": "linoone",
+                "types": [
+                    "normal"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "263",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/263.png",
+                "name": "zigzagoon",
+                "types": [
+                    "normal"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -120,13 +76,13 @@
     },
     "type_relations": {
         "resistantTo": [
-            "ghost",
-            "dark"
+            "dark",
+            "ghost"
         ],
         "weakTo": [
             "fighting",
-            "bug",
-            "fairy"
+            "fairy",
+            "bug"
         ]
     },
     "types": [

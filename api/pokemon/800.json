@@ -10,13 +10,18 @@
         "no-eggs"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [],
-        "is_baby": false,
-        "species": {
-            "name": "necrozma",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/800/"
-        }
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "800",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/800.png",
+                "name": "necrozma",
+                "types": [
+                    "psychic"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -55,9 +60,9 @@
             "psychic"
         ],
         "weakTo": [
-            "bug",
+            "dark",
             "ghost",
-            "dark"
+            "bug"
         ]
     },
     "types": [

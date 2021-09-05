@@ -10,13 +10,19 @@
         "no-eggs"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [],
-        "is_baby": false,
-        "species": {
-            "name": "nihilego",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/793/"
-        }
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "793",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/793.png",
+                "name": "nihilego",
+                "types": [
+                    "rock",
+                    "poison"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -52,16 +58,16 @@
     "type_relations": {
         "resistantTo": [
             "poison",
-            "bug",
-            "fire",
             "fairy",
+            "bug",
             "flying",
-            "normal"
+            "normal",
+            "fire"
         ],
         "weakTo": [
-            "ground",
             "water",
             "psychic",
+            "ground",
             "steel"
         ]
     },

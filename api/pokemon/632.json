@@ -12,13 +12,19 @@
         "bug"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [],
-        "is_baby": false,
-        "species": {
-            "name": "durant",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/632/"
-        }
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "632",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/632.png",
+                "name": "durant",
+                "types": [
+                    "bug",
+                    "steel"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -54,14 +60,14 @@
     },
     "type_relations": {
         "resistantTo": [
-            "bug",
             "fairy",
+            "ice",
             "grass",
-            "normal",
             "dragon",
+            "bug",
             "psychic",
-            "steel",
-            "ice"
+            "normal",
+            "steel"
         ],
         "weakTo": [
             "fire"

@@ -11,13 +11,19 @@
         "no-eggs"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [],
-        "is_baby": false,
-        "species": {
-            "name": "giratina",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/487/"
-        }
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "487",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/487.png",
+                "name": "giratina-altered",
+                "types": [
+                    "ghost",
+                    "dragon"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -51,18 +57,18 @@
     "type_relations": {
         "resistantTo": [
             "poison",
-            "bug",
             "electric",
-            "fire",
             "grass",
-            "water"
+            "water",
+            "bug",
+            "fire"
         ],
         "weakTo": [
-            "dark",
             "fairy",
-            "dragon",
             "ice",
-            "ghost"
+            "dragon",
+            "ghost",
+            "dark"
         ]
     },
     "types": [

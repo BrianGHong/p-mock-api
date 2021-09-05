@@ -12,13 +12,19 @@
         "humanshape"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [],
-        "is_baby": false,
-        "species": {
-            "name": "sableye",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/302/"
-        }
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "302",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/302.png",
+                "name": "sableye",
+                "types": [
+                    "dark",
+                    "ghost"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -57,8 +63,8 @@
             "poison"
         ],
         "weakTo": [
-            "fighting",
-            "fairy"
+            "fairy",
+            "fighting"
         ]
     },
     "types": [

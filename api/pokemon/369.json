@@ -13,13 +13,19 @@
         "water2"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [],
-        "is_baby": false,
-        "species": {
-            "name": "relicanth",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/369/"
-        }
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "369",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/369.png",
+                "name": "relicanth",
+                "types": [
+                    "water",
+                    "rock"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -68,16 +74,16 @@
     "type_relations": {
         "resistantTo": [
             "poison",
-            "fire",
+            "ice",
             "flying",
             "normal",
-            "ice"
+            "fire"
         ],
         "weakTo": [
-            "fighting",
             "electric",
             "grass",
-            "ground"
+            "ground",
+            "fighting"
         ]
     },
     "types": [

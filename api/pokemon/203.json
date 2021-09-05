@@ -12,13 +12,19 @@
         "ground"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [],
-        "is_baby": false,
-        "species": {
-            "name": "girafarig",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/203/"
-        }
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "203",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/203.png",
+                "name": "girafarig",
+                "types": [
+                    "normal",
+                    "psychic"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -69,9 +75,9 @@
             "psychic"
         ],
         "weakTo": [
-            "bug",
             "ghost",
-            "dark"
+            "dark",
+            "bug"
         ]
     },
     "types": [

@@ -11,13 +11,19 @@
         "no-eggs"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [],
-        "is_baby": false,
-        "species": {
-            "name": "articuno",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/144/"
-        }
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "144",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/144.png",
+                "name": "articuno",
+                "types": [
+                    "ice",
+                    "flying"
+                ]
+            }
+        ]
     },
     "forms": [
         {

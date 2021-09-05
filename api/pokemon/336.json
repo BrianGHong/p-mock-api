@@ -12,13 +12,18 @@
         "dragon"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [],
-        "is_baby": false,
-        "species": {
-            "name": "seviper",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/336/"
-        }
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "336",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/336.png",
+                "name": "seviper",
+                "types": [
+                    "poison"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -54,11 +59,11 @@
     },
     "type_relations": {
         "resistantTo": [
-            "fighting",
             "poison",
-            "bug",
             "fairy",
-            "grass"
+            "grass",
+            "bug",
+            "fighting"
         ],
         "weakTo": [
             "psychic",

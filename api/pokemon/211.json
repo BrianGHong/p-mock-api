@@ -12,13 +12,19 @@
         "water2"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [],
-        "is_baby": false,
-        "species": {
-            "name": "qwilfish",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/211/"
-        }
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "211",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/211.png",
+                "name": "qwilfish",
+                "types": [
+                    "water",
+                    "poison"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -54,18 +60,18 @@
     },
     "type_relations": {
         "resistantTo": [
-            "fighting",
             "poison",
-            "bug",
-            "fire",
             "fairy",
+            "ice",
             "water",
-            "steel",
-            "ice"
+            "bug",
+            "fighting",
+            "fire",
+            "steel"
         ],
         "weakTo": [
-            "psychic",
             "electric",
+            "psychic",
             "ground"
         ]
     },

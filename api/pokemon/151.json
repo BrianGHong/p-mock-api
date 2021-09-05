@@ -10,13 +10,18 @@
         "no-eggs"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [],
-        "is_baby": false,
-        "species": {
-            "name": "mew",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/151/"
-        }
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "151",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/151.png",
+                "name": "mew",
+                "types": [
+                    "psychic"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -55,9 +60,9 @@
             "psychic"
         ],
         "weakTo": [
-            "bug",
+            "dark",
             "ghost",
-            "dark"
+            "bug"
         ]
     },
     "types": [

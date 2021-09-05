@@ -10,13 +10,19 @@
         "indeterminate"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [],
-        "is_baby": false,
-        "species": {
-            "name": "rotom",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/479/"
-        }
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "479",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/479.png",
+                "name": "rotom",
+                "types": [
+                    "electric",
+                    "ghost"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -52,14 +58,14 @@
     "type_relations": {
         "resistantTo": [
             "poison",
-            "bug",
             "electric",
+            "bug",
             "flying",
             "steel"
         ],
         "weakTo": [
-            "ghost",
             "dark",
+            "ghost",
             "ground"
         ]
     },

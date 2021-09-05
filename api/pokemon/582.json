@@ -12,81 +12,36 @@
         "mineral"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [
+        "end": [
             {
-                "evolution_details": [
-                    {
-                        "gender": null,
-                        "held_item": null,
-                        "item": null,
-                        "known_move": null,
-                        "known_move_type": null,
-                        "location": null,
-                        "min_affection": null,
-                        "min_beauty": null,
-                        "min_happiness": null,
-                        "min_level": 35,
-                        "needs_overworld_rain": false,
-                        "party_species": null,
-                        "party_type": null,
-                        "relative_physical_stats": null,
-                        "time_of_day": "",
-                        "trade_species": null,
-                        "trigger": {
-                            "name": "level-up",
-                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
-                        },
-                        "turn_upside_down": false
-                    }
-                ],
-                "evolves_to": [
-                    {
-                        "evolution_details": [
-                            {
-                                "gender": null,
-                                "held_item": null,
-                                "item": null,
-                                "known_move": null,
-                                "known_move_type": null,
-                                "location": null,
-                                "min_affection": null,
-                                "min_beauty": null,
-                                "min_happiness": null,
-                                "min_level": 47,
-                                "needs_overworld_rain": false,
-                                "party_species": null,
-                                "party_type": null,
-                                "relative_physical_stats": null,
-                                "time_of_day": "",
-                                "trade_species": null,
-                                "trigger": {
-                                    "name": "level-up",
-                                    "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
-                                },
-                                "turn_upside_down": false
-                            }
-                        ],
-                        "evolves_to": [],
-                        "is_baby": false,
-                        "species": {
-                            "name": "vanilluxe",
-                            "url": "https://pokeapi.co/api/v2/pokemon-species/584/"
-                        }
-                    }
-                ],
-                "is_baby": false,
-                "species": {
-                    "name": "vanillish",
-                    "url": "https://pokeapi.co/api/v2/pokemon-species/583/"
-                }
+                "id": "584",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/584.png",
+                "name": "vanilluxe",
+                "types": [
+                    "ice"
+                ]
             }
         ],
-        "is_baby": false,
-        "species": {
-            "name": "vanillite",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/582/"
-        }
+        "mid": [
+            {
+                "id": "583",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/583.png",
+                "name": "vanillish",
+                "types": [
+                    "ice"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "582",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/582.png",
+                "name": "vanillite",
+                "types": [
+                    "ice"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -125,9 +80,9 @@
             "ice"
         ],
         "weakTo": [
-            "rock",
             "fighting",
             "fire",
+            "rock",
             "steel"
         ]
     },

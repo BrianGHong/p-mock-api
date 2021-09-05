@@ -12,13 +12,19 @@
         "mineral"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [],
-        "is_baby": false,
-        "species": {
-            "name": "carbink",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/703/"
-        }
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "703",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/703.png",
+                "name": "carbink",
+                "types": [
+                    "rock",
+                    "fairy"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -54,15 +60,15 @@
     "type_relations": {
         "resistantTo": [
             "bug",
-            "dark",
-            "fire",
             "flying",
-            "normal"
+            "dark",
+            "normal",
+            "fire"
         ],
         "weakTo": [
             "grass",
-            "ground",
             "water",
+            "ground",
             "steel"
         ]
     },

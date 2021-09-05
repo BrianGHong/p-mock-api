@@ -10,13 +10,19 @@
         "no-eggs"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [],
-        "is_baby": false,
-        "species": {
-            "name": "latias",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/380/"
-        }
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "380",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/380.png",
+                "name": "latias",
+                "types": [
+                    "dragon",
+                    "psychic"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -49,20 +55,20 @@
     },
     "type_relations": {
         "resistantTo": [
-            "fighting",
             "electric",
-            "fire",
             "grass",
             "water",
-            "psychic"
+            "psychic",
+            "fighting",
+            "fire"
         ],
         "weakTo": [
-            "bug",
-            "dark",
             "fairy",
-            "dragon",
             "ice",
-            "ghost"
+            "dragon",
+            "ghost",
+            "bug",
+            "dark"
         ]
     },
     "types": [

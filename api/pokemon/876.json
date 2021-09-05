@@ -10,13 +10,19 @@
     },
     "eggGroups": [],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [],
-        "is_baby": false,
-        "species": {
-            "name": "indeedee",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/876/"
-        }
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "876",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/876.png",
+                "name": "indeedee-male",
+                "types": [
+                    "psychic",
+                    "normal"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -64,9 +70,9 @@
             "psychic"
         ],
         "weakTo": [
-            "bug",
+            "dark",
             "ghost",
-            "dark"
+            "bug"
         ]
     },
     "types": [

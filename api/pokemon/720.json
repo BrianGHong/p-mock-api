@@ -10,13 +10,19 @@
         "no-eggs"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [],
-        "is_baby": false,
-        "species": {
-            "name": "hoopa",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/720/"
-        }
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "720",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/720.png",
+                "name": "hoopa",
+                "types": [
+                    "psychic",
+                    "ghost"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -51,13 +57,13 @@
     },
     "type_relations": {
         "resistantTo": [
-            "fighting",
             "poison",
+            "fighting",
             "psychic"
         ],
         "weakTo": [
-            "ghost",
-            "dark"
+            "dark",
+            "ghost"
         ]
     },
     "types": [

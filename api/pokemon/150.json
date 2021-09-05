@@ -11,13 +11,18 @@
         "no-eggs"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [],
-        "is_baby": false,
-        "species": {
-            "name": "mewtwo",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/150/"
-        }
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "150",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/150.png",
+                "name": "mewtwo",
+                "types": [
+                    "psychic"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -56,9 +61,9 @@
             "psychic"
         ],
         "weakTo": [
-            "bug",
+            "dark",
             "ghost",
-            "dark"
+            "bug"
         ]
     },
     "types": [

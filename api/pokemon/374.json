@@ -11,81 +11,39 @@
         "mineral"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [
+        "end": [
             {
-                "evolution_details": [
-                    {
-                        "gender": null,
-                        "held_item": null,
-                        "item": null,
-                        "known_move": null,
-                        "known_move_type": null,
-                        "location": null,
-                        "min_affection": null,
-                        "min_beauty": null,
-                        "min_happiness": null,
-                        "min_level": 20,
-                        "needs_overworld_rain": false,
-                        "party_species": null,
-                        "party_type": null,
-                        "relative_physical_stats": null,
-                        "time_of_day": "",
-                        "trade_species": null,
-                        "trigger": {
-                            "name": "level-up",
-                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
-                        },
-                        "turn_upside_down": false
-                    }
-                ],
-                "evolves_to": [
-                    {
-                        "evolution_details": [
-                            {
-                                "gender": null,
-                                "held_item": null,
-                                "item": null,
-                                "known_move": null,
-                                "known_move_type": null,
-                                "location": null,
-                                "min_affection": null,
-                                "min_beauty": null,
-                                "min_happiness": null,
-                                "min_level": 45,
-                                "needs_overworld_rain": false,
-                                "party_species": null,
-                                "party_type": null,
-                                "relative_physical_stats": null,
-                                "time_of_day": "",
-                                "trade_species": null,
-                                "trigger": {
-                                    "name": "level-up",
-                                    "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
-                                },
-                                "turn_upside_down": false
-                            }
-                        ],
-                        "evolves_to": [],
-                        "is_baby": false,
-                        "species": {
-                            "name": "metagross",
-                            "url": "https://pokeapi.co/api/v2/pokemon-species/376/"
-                        }
-                    }
-                ],
-                "is_baby": false,
-                "species": {
-                    "name": "metang",
-                    "url": "https://pokeapi.co/api/v2/pokemon-species/375/"
-                }
+                "id": "376",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/376.png",
+                "name": "metagross",
+                "types": [
+                    "steel",
+                    "psychic"
+                ]
             }
         ],
-        "is_baby": false,
-        "species": {
-            "name": "beldum",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/374/"
-        }
+        "mid": [
+            {
+                "id": "375",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/375.png",
+                "name": "metang",
+                "types": [
+                    "steel",
+                    "psychic"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "374",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/374.png",
+                "name": "beldum",
+                "types": [
+                    "steel",
+                    "psychic"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -120,21 +78,21 @@
     },
     "type_relations": {
         "resistantTo": [
-            "rock",
             "fairy",
+            "rock",
+            "ice",
             "grass",
-            "flying",
-            "normal",
             "dragon",
+            "flying",
             "psychic",
-            "steel",
-            "ice"
+            "normal",
+            "steel"
         ],
         "weakTo": [
+            "ghost",
             "dark",
-            "fire",
             "ground",
-            "ghost"
+            "fire"
         ]
     },
     "types": [

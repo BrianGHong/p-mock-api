@@ -12,13 +12,19 @@
         "water2"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [],
-        "is_baby": false,
-        "species": {
-            "name": "bruxish",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/779/"
-        }
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "779",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/779.png",
+                "name": "bruxish",
+                "types": [
+                    "water",
+                    "psychic"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -54,19 +60,19 @@
     },
     "type_relations": {
         "resistantTo": [
-            "fighting",
-            "fire",
+            "ice",
             "water",
             "psychic",
-            "steel",
-            "ice"
+            "fighting",
+            "fire",
+            "steel"
         ],
         "weakTo": [
-            "bug",
             "electric",
-            "dark",
             "grass",
-            "ghost"
+            "ghost",
+            "bug",
+            "dark"
         ]
     },
     "types": [

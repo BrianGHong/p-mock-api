@@ -12,47 +12,29 @@
         "flying"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [
+        "end": [],
+        "mid": [
             {
-                "evolution_details": [
-                    {
-                        "gender": null,
-                        "held_item": null,
-                        "item": null,
-                        "known_move": null,
-                        "known_move_type": null,
-                        "location": null,
-                        "min_affection": null,
-                        "min_beauty": null,
-                        "min_happiness": null,
-                        "min_level": 25,
-                        "needs_overworld_rain": false,
-                        "party_species": null,
-                        "party_type": null,
-                        "relative_physical_stats": null,
-                        "time_of_day": "",
-                        "trade_species": null,
-                        "trigger": {
-                            "name": "level-up",
-                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
-                        },
-                        "turn_upside_down": false
-                    }
-                ],
-                "evolves_to": [],
-                "is_baby": false,
-                "species": {
-                    "name": "xatu",
-                    "url": "https://pokeapi.co/api/v2/pokemon-species/178/"
-                }
+                "id": "178",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/178.png",
+                "name": "xatu",
+                "types": [
+                    "psychic",
+                    "flying"
+                ]
             }
         ],
-        "is_baby": false,
-        "species": {
-            "name": "natu",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/177/"
-        }
+        "start": [
+            {
+                "id": "177",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/177.png",
+                "name": "natu",
+                "types": [
+                    "psychic",
+                    "flying"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -106,10 +88,10 @@
         ],
         "weakTo": [
             "electric",
-            "dark",
             "rock",
             "ice",
-            "ghost"
+            "ghost",
+            "dark"
         ]
     },
     "types": [

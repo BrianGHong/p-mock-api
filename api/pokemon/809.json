@@ -8,23 +8,27 @@
     },
     "eggGroups": [],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [
+        "end": [],
+        "mid": [
             {
-                "evolution_details": [],
-                "evolves_to": [],
-                "is_baby": false,
-                "species": {
-                    "name": "melmetal",
-                    "url": "https://pokeapi.co/api/v2/pokemon-species/809/"
-                }
+                "id": "809",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/809.png",
+                "name": "melmetal",
+                "types": [
+                    "steel"
+                ]
             }
         ],
-        "is_baby": false,
-        "species": {
-            "name": "meltan",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/808/"
-        }
+        "start": [
+            {
+                "id": "808",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/808.png",
+                "name": "meltan",
+                "types": [
+                    "steel"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -59,20 +63,20 @@
     },
     "type_relations": {
         "resistantTo": [
-            "bug",
-            "rock",
             "fairy",
+            "rock",
+            "ice",
             "grass",
-            "flying",
-            "normal",
             "dragon",
+            "bug",
+            "flying",
             "psychic",
-            "steel",
-            "ice"
+            "normal",
+            "steel"
         ],
         "weakTo": [
-            "fire",
             "fighting",
+            "fire",
             "ground"
         ]
     },

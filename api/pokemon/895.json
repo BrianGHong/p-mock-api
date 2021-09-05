@@ -8,13 +8,18 @@
     },
     "eggGroups": [],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [],
-        "is_baby": false,
-        "species": {
-            "name": "regidrago",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/895/"
-        }
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "895",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/895.png",
+                "name": "regidrago",
+                "types": [
+                    "dragon"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -49,15 +54,15 @@
     },
     "type_relations": {
         "resistantTo": [
-            "fire",
             "water",
-            "electric",
-            "grass"
+            "fire",
+            "grass",
+            "electric"
         ],
         "weakTo": [
+            "ice",
             "dragon",
-            "fairy",
-            "ice"
+            "fairy"
         ]
     },
     "types": [

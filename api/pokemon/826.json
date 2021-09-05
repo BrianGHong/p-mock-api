@@ -10,81 +10,38 @@
     },
     "eggGroups": [],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [
+        "end": [
             {
-                "evolution_details": [
-                    {
-                        "gender": null,
-                        "held_item": null,
-                        "item": null,
-                        "known_move": null,
-                        "known_move_type": null,
-                        "location": null,
-                        "min_affection": null,
-                        "min_beauty": null,
-                        "min_happiness": null,
-                        "min_level": 10,
-                        "needs_overworld_rain": false,
-                        "party_species": null,
-                        "party_type": null,
-                        "relative_physical_stats": null,
-                        "time_of_day": "",
-                        "trade_species": null,
-                        "trigger": {
-                            "name": "level-up",
-                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
-                        },
-                        "turn_upside_down": false
-                    }
-                ],
-                "evolves_to": [
-                    {
-                        "evolution_details": [
-                            {
-                                "gender": null,
-                                "held_item": null,
-                                "item": null,
-                                "known_move": null,
-                                "known_move_type": null,
-                                "location": null,
-                                "min_affection": null,
-                                "min_beauty": null,
-                                "min_happiness": null,
-                                "min_level": 30,
-                                "needs_overworld_rain": false,
-                                "party_species": null,
-                                "party_type": null,
-                                "relative_physical_stats": null,
-                                "time_of_day": "",
-                                "trade_species": null,
-                                "trigger": {
-                                    "name": "level-up",
-                                    "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
-                                },
-                                "turn_upside_down": false
-                            }
-                        ],
-                        "evolves_to": [],
-                        "is_baby": false,
-                        "species": {
-                            "name": "orbeetle",
-                            "url": "https://pokeapi.co/api/v2/pokemon-species/826/"
-                        }
-                    }
-                ],
-                "is_baby": false,
-                "species": {
-                    "name": "dottler",
-                    "url": "https://pokeapi.co/api/v2/pokemon-species/825/"
-                }
+                "id": "826",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/826.png",
+                "name": "orbeetle",
+                "types": [
+                    "bug",
+                    "psychic"
+                ]
             }
         ],
-        "is_baby": false,
-        "species": {
-            "name": "blipbug",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/824/"
-        }
+        "mid": [
+            {
+                "id": "825",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/825.png",
+                "name": "dottler",
+                "types": [
+                    "bug",
+                    "psychic"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "824",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/824.png",
+                "name": "blipbug",
+                "types": [
+                    "bug"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -120,18 +77,18 @@
     },
     "type_relations": {
         "resistantTo": [
-            "psychic",
             "fighting",
             "grass",
+            "psychic",
             "ground"
         ],
         "weakTo": [
-            "bug",
-            "dark",
             "rock",
-            "fire",
+            "ghost",
+            "bug",
             "flying",
-            "ghost"
+            "dark",
+            "fire"
         ]
     },
     "types": [

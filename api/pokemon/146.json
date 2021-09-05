@@ -11,13 +11,19 @@
         "no-eggs"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [],
-        "is_baby": false,
-        "species": {
-            "name": "moltres",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/146/"
-        }
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "146",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/146.png",
+                "name": "moltres",
+                "types": [
+                    "fire",
+                    "flying"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -52,18 +58,18 @@
     },
     "type_relations": {
         "resistantTo": [
-            "fighting",
-            "bug",
-            "fire",
             "fairy",
             "grass",
+            "bug",
+            "fighting",
+            "fire",
             "steel"
         ],
         "weakTo": [
             "electric",
             "rock",
-            "ground",
-            "water"
+            "water",
+            "ground"
         ]
     },
     "types": [

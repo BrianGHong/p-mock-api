@@ -8,13 +8,19 @@
     },
     "eggGroups": [],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [],
-        "is_baby": false,
-        "species": {
-            "name": "calyrex",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/898/"
-        }
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "898",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/898.png",
+                "name": "calyrex",
+                "types": [
+                    "psychic",
+                    "grass"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -49,21 +55,21 @@
     },
     "type_relations": {
         "resistantTo": [
-            "fighting",
             "electric",
             "grass",
-            "ground",
             "water",
-            "psychic"
+            "psychic",
+            "ground",
+            "fighting"
         ],
         "weakTo": [
             "poison",
-            "bug",
-            "dark",
-            "fire",
-            "flying",
             "ice",
-            "ghost"
+            "ghost",
+            "bug",
+            "flying",
+            "dark",
+            "fire"
         ]
     },
     "types": [

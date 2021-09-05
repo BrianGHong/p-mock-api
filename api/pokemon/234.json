@@ -12,13 +12,18 @@
         "ground"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [],
-        "is_baby": false,
-        "species": {
-            "name": "stantler",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/234/"
-        }
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "234",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/234.png",
+                "name": "stantler",
+                "types": [
+                    "normal"
+                ]
+            }
+        ]
     },
     "forms": [
         {

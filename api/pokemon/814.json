@@ -9,81 +9,36 @@
     },
     "eggGroups": [],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [
+        "end": [
             {
-                "evolution_details": [
-                    {
-                        "gender": null,
-                        "held_item": null,
-                        "item": null,
-                        "known_move": null,
-                        "known_move_type": null,
-                        "location": null,
-                        "min_affection": null,
-                        "min_beauty": null,
-                        "min_happiness": null,
-                        "min_level": 16,
-                        "needs_overworld_rain": false,
-                        "party_species": null,
-                        "party_type": null,
-                        "relative_physical_stats": null,
-                        "time_of_day": "",
-                        "trade_species": null,
-                        "trigger": {
-                            "name": "level-up",
-                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
-                        },
-                        "turn_upside_down": false
-                    }
-                ],
-                "evolves_to": [
-                    {
-                        "evolution_details": [
-                            {
-                                "gender": null,
-                                "held_item": null,
-                                "item": null,
-                                "known_move": null,
-                                "known_move_type": null,
-                                "location": null,
-                                "min_affection": null,
-                                "min_beauty": null,
-                                "min_happiness": null,
-                                "min_level": 35,
-                                "needs_overworld_rain": false,
-                                "party_species": null,
-                                "party_type": null,
-                                "relative_physical_stats": null,
-                                "time_of_day": "",
-                                "trade_species": null,
-                                "trigger": {
-                                    "name": "level-up",
-                                    "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
-                                },
-                                "turn_upside_down": false
-                            }
-                        ],
-                        "evolves_to": [],
-                        "is_baby": false,
-                        "species": {
-                            "name": "cinderace",
-                            "url": "https://pokeapi.co/api/v2/pokemon-species/815/"
-                        }
-                    }
-                ],
-                "is_baby": false,
-                "species": {
-                    "name": "raboot",
-                    "url": "https://pokeapi.co/api/v2/pokemon-species/814/"
-                }
+                "id": "815",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/815.png",
+                "name": "cinderace",
+                "types": [
+                    "fire"
+                ]
             }
         ],
-        "is_baby": false,
-        "species": {
-            "name": "scorbunny",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/813/"
-        }
+        "mid": [
+            {
+                "id": "814",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/814.png",
+                "name": "raboot",
+                "types": [
+                    "fire"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "813",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/813.png",
+                "name": "scorbunny",
+                "types": [
+                    "fire"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -119,16 +74,16 @@
     },
     "type_relations": {
         "resistantTo": [
+            "fairy",
+            "ice",
+            "grass",
             "bug",
             "fire",
-            "fairy",
-            "grass",
-            "steel",
-            "ice"
+            "steel"
         ],
         "weakTo": [
-            "rock",
             "water",
+            "rock",
             "ground"
         ]
     },

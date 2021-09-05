@@ -11,13 +11,18 @@
         "water1"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [],
-        "is_baby": false,
-        "species": {
-            "name": "pyukumuku",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/771/"
-        }
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "771",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/771.png",
+                "name": "pyukumuku",
+                "types": [
+                    "water"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -53,10 +58,10 @@
     },
     "type_relations": {
         "resistantTo": [
-            "fire",
+            "ice",
             "water",
-            "steel",
-            "ice"
+            "fire",
+            "steel"
         ],
         "weakTo": [
             "grass",

@@ -10,13 +10,18 @@
         "no-eggs"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [],
-        "is_baby": false,
-        "species": {
-            "name": "azelf",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/482/"
-        }
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "482",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/482.png",
+                "name": "azelf",
+                "types": [
+                    "psychic"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -55,9 +60,9 @@
             "psychic"
         ],
         "weakTo": [
-            "bug",
+            "dark",
             "ghost",
-            "dark"
+            "bug"
         ]
     },
     "types": [

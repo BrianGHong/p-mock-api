@@ -11,13 +11,19 @@
         "no-eggs"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [],
-        "is_baby": false,
-        "species": {
-            "name": "landorus",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/645/"
-        }
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "645",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/645.png",
+                "name": "landorus-incarnate",
+                "types": [
+                    "ground",
+                    "flying"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -50,14 +56,14 @@
     },
     "type_relations": {
         "resistantTo": [
-            "fighting",
             "poison",
-            "bug"
+            "bug",
+            "fighting"
         ],
         "weakTo": [
             "electric",
-            "water",
-            "ice"
+            "ice",
+            "water"
         ]
     },
     "types": [

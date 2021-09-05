@@ -10,13 +10,19 @@
         "no-eggs"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [],
-        "is_baby": false,
-        "species": {
-            "name": "guzzlord",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/799/"
-        }
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "799",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/799.png",
+                "name": "guzzlord",
+                "types": [
+                    "dark",
+                    "dragon"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -51,19 +57,19 @@
     },
     "type_relations": {
         "resistantTo": [
-            "dark",
             "electric",
-            "fire",
             "grass",
+            "ghost",
             "water",
-            "ghost"
+            "dark",
+            "fire"
         ],
         "weakTo": [
-            "fighting",
-            "bug",
             "fairy",
+            "ice",
             "dragon",
-            "ice"
+            "bug",
+            "fighting"
         ]
     },
     "types": [

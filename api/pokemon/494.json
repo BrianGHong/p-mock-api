@@ -10,13 +10,19 @@
         "no-eggs"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [],
-        "is_baby": false,
-        "species": {
-            "name": "victini",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/494/"
-        }
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "494",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/494.png",
+                "name": "victini",
+                "types": [
+                    "psychic",
+                    "fire"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -51,20 +57,20 @@
     },
     "type_relations": {
         "resistantTo": [
-            "fighting",
-            "fire",
             "fairy",
+            "ice",
             "grass",
             "psychic",
-            "steel",
-            "ice"
+            "fighting",
+            "fire",
+            "steel"
         ],
         "weakTo": [
-            "dark",
             "rock",
-            "ground",
+            "ghost",
             "water",
-            "ghost"
+            "dark",
+            "ground"
         ]
     },
     "types": [

@@ -12,13 +12,19 @@
         "ground"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [],
-        "is_baby": false,
-        "species": {
-            "name": "oranguru",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/765/"
-        }
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "765",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/765.png",
+                "name": "oranguru",
+                "types": [
+                    "normal",
+                    "psychic"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -57,9 +63,9 @@
             "psychic"
         ],
         "weakTo": [
-            "bug",
             "ghost",
-            "dark"
+            "dark",
+            "bug"
         ]
     },
     "types": [

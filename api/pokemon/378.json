@@ -11,13 +11,18 @@
         "no-eggs"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [],
-        "is_baby": false,
-        "species": {
-            "name": "regice",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/378/"
-        }
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "378",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/378.png",
+                "name": "regice",
+                "types": [
+                    "ice"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -55,9 +60,9 @@
             "ice"
         ],
         "weakTo": [
-            "rock",
             "fighting",
             "fire",
+            "rock",
             "steel"
         ]
     },

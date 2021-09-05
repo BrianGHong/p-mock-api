@@ -12,47 +12,29 @@
         "ground"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [
+        "end": [],
+        "mid": [
             {
-                "evolution_details": [
-                    {
-                        "gender": null,
-                        "held_item": null,
-                        "item": null,
-                        "known_move": null,
-                        "known_move_type": null,
-                        "location": null,
-                        "min_affection": null,
-                        "min_beauty": null,
-                        "min_happiness": null,
-                        "min_level": 24,
-                        "needs_overworld_rain": false,
-                        "party_species": null,
-                        "party_type": null,
-                        "relative_physical_stats": null,
-                        "time_of_day": "",
-                        "trade_species": null,
-                        "trigger": {
-                            "name": "level-up",
-                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
-                        },
-                        "turn_upside_down": false
-                    }
-                ],
-                "evolves_to": [],
-                "is_baby": false,
-                "species": {
-                    "name": "houndoom",
-                    "url": "https://pokeapi.co/api/v2/pokemon-species/229/"
-                }
+                "id": "229",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/229.png",
+                "name": "houndoom",
+                "types": [
+                    "dark",
+                    "fire"
+                ]
             }
         ],
-        "is_baby": false,
-        "species": {
-            "name": "houndour",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/228/"
-        }
+        "start": [
+            {
+                "id": "228",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/228.png",
+                "name": "houndour",
+                "types": [
+                    "dark",
+                    "fire"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -88,18 +70,18 @@
     },
     "type_relations": {
         "resistantTo": [
+            "ice",
+            "grass",
+            "ghost",
             "dark",
             "fire",
-            "grass",
-            "steel",
-            "ice",
-            "ghost"
+            "steel"
         ],
         "weakTo": [
-            "fighting",
             "rock",
+            "water",
             "ground",
-            "water"
+            "fighting"
         ]
     },
     "types": [

@@ -12,81 +12,36 @@
         "plant"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [
+        "end": [
             {
-                "evolution_details": [
-                    {
-                        "gender": null,
-                        "held_item": null,
-                        "item": null,
-                        "known_move": null,
-                        "known_move_type": null,
-                        "location": null,
-                        "min_affection": null,
-                        "min_beauty": null,
-                        "min_happiness": null,
-                        "min_level": 17,
-                        "needs_overworld_rain": false,
-                        "party_species": null,
-                        "party_type": null,
-                        "relative_physical_stats": null,
-                        "time_of_day": "",
-                        "trade_species": null,
-                        "trigger": {
-                            "name": "level-up",
-                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
-                        },
-                        "turn_upside_down": false
-                    }
-                ],
-                "evolves_to": [
-                    {
-                        "evolution_details": [
-                            {
-                                "gender": null,
-                                "held_item": null,
-                                "item": null,
-                                "known_move": null,
-                                "known_move_type": null,
-                                "location": null,
-                                "min_affection": null,
-                                "min_beauty": null,
-                                "min_happiness": null,
-                                "min_level": 36,
-                                "needs_overworld_rain": false,
-                                "party_species": null,
-                                "party_type": null,
-                                "relative_physical_stats": null,
-                                "time_of_day": "",
-                                "trade_species": null,
-                                "trigger": {
-                                    "name": "level-up",
-                                    "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
-                                },
-                                "turn_upside_down": false
-                            }
-                        ],
-                        "evolves_to": [],
-                        "is_baby": false,
-                        "species": {
-                            "name": "serperior",
-                            "url": "https://pokeapi.co/api/v2/pokemon-species/497/"
-                        }
-                    }
-                ],
-                "is_baby": false,
-                "species": {
-                    "name": "servine",
-                    "url": "https://pokeapi.co/api/v2/pokemon-species/496/"
-                }
+                "id": "497",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/497.png",
+                "name": "serperior",
+                "types": [
+                    "grass"
+                ]
             }
         ],
-        "is_baby": false,
-        "species": {
-            "name": "snivy",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/495/"
-        }
+        "mid": [
+            {
+                "id": "496",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/496.png",
+                "name": "servine",
+                "types": [
+                    "grass"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "495",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/495.png",
+                "name": "snivy",
+                "types": [
+                    "grass"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -122,17 +77,17 @@
     },
     "type_relations": {
         "resistantTo": [
-            "water",
-            "electric",
             "grass",
-            "ground"
+            "water",
+            "ground",
+            "electric"
         ],
         "weakTo": [
             "poison",
+            "ice",
             "bug",
-            "fire",
             "flying",
-            "ice"
+            "fire"
         ]
     },
     "types": [

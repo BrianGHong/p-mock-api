@@ -10,13 +10,19 @@
         "no-eggs"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [],
-        "is_baby": false,
-        "species": {
-            "name": "terrakion",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/639/"
-        }
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "639",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/639.png",
+                "name": "terrakion",
+                "types": [
+                    "rock",
+                    "fighting"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -52,19 +58,19 @@
     "type_relations": {
         "resistantTo": [
             "poison",
+            "rock",
             "bug",
             "dark",
-            "fire",
-            "rock",
-            "normal"
+            "normal",
+            "fire"
         ],
         "weakTo": [
-            "fighting",
             "fairy",
             "grass",
-            "ground",
             "water",
             "psychic",
+            "ground",
+            "fighting",
             "steel"
         ]
     },

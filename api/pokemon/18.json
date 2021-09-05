@@ -12,81 +12,39 @@
         "flying"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [
+        "end": [
             {
-                "evolution_details": [
-                    {
-                        "gender": null,
-                        "held_item": null,
-                        "item": null,
-                        "known_move": null,
-                        "known_move_type": null,
-                        "location": null,
-                        "min_affection": null,
-                        "min_beauty": null,
-                        "min_happiness": null,
-                        "min_level": 18,
-                        "needs_overworld_rain": false,
-                        "party_species": null,
-                        "party_type": null,
-                        "relative_physical_stats": null,
-                        "time_of_day": "",
-                        "trade_species": null,
-                        "trigger": {
-                            "name": "level-up",
-                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
-                        },
-                        "turn_upside_down": false
-                    }
-                ],
-                "evolves_to": [
-                    {
-                        "evolution_details": [
-                            {
-                                "gender": null,
-                                "held_item": null,
-                                "item": null,
-                                "known_move": null,
-                                "known_move_type": null,
-                                "location": null,
-                                "min_affection": null,
-                                "min_beauty": null,
-                                "min_happiness": null,
-                                "min_level": 36,
-                                "needs_overworld_rain": false,
-                                "party_species": null,
-                                "party_type": null,
-                                "relative_physical_stats": null,
-                                "time_of_day": "",
-                                "trade_species": null,
-                                "trigger": {
-                                    "name": "level-up",
-                                    "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
-                                },
-                                "turn_upside_down": false
-                            }
-                        ],
-                        "evolves_to": [],
-                        "is_baby": false,
-                        "species": {
-                            "name": "pidgeot",
-                            "url": "https://pokeapi.co/api/v2/pokemon-species/18/"
-                        }
-                    }
-                ],
-                "is_baby": false,
-                "species": {
-                    "name": "pidgeotto",
-                    "url": "https://pokeapi.co/api/v2/pokemon-species/17/"
-                }
+                "id": "18",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/18.png",
+                "name": "pidgeot",
+                "types": [
+                    "normal",
+                    "flying"
+                ]
             }
         ],
-        "is_baby": false,
-        "species": {
-            "name": "pidgey",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/16/"
-        }
+        "mid": [
+            {
+                "id": "17",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/17.png",
+                "name": "pidgeotto",
+                "types": [
+                    "normal",
+                    "flying"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "16",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/16.png",
+                "name": "pidgey",
+                "types": [
+                    "normal",
+                    "flying"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -126,9 +84,9 @@
             "bug"
         ],
         "weakTo": [
-            "rock",
             "ice",
-            "electric"
+            "electric",
+            "rock"
         ]
     },
     "types": [

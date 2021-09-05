@@ -13,13 +13,19 @@
         "fairy"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [],
-        "is_baby": false,
-        "species": {
-            "name": "dedenne",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/702/"
-        }
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "702",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/702.png",
+                "name": "dedenne",
+                "types": [
+                    "electric",
+                    "fairy"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -55,11 +61,11 @@
     },
     "type_relations": {
         "resistantTo": [
-            "fighting",
-            "bug",
             "electric",
+            "bug",
+            "flying",
             "dark",
-            "flying"
+            "fighting"
         ],
         "weakTo": [
             "poison",

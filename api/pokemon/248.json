@@ -11,81 +11,39 @@
         "monster"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [
+        "end": [
             {
-                "evolution_details": [
-                    {
-                        "gender": null,
-                        "held_item": null,
-                        "item": null,
-                        "known_move": null,
-                        "known_move_type": null,
-                        "location": null,
-                        "min_affection": null,
-                        "min_beauty": null,
-                        "min_happiness": null,
-                        "min_level": 30,
-                        "needs_overworld_rain": false,
-                        "party_species": null,
-                        "party_type": null,
-                        "relative_physical_stats": null,
-                        "time_of_day": "",
-                        "trade_species": null,
-                        "trigger": {
-                            "name": "level-up",
-                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
-                        },
-                        "turn_upside_down": false
-                    }
-                ],
-                "evolves_to": [
-                    {
-                        "evolution_details": [
-                            {
-                                "gender": null,
-                                "held_item": null,
-                                "item": null,
-                                "known_move": null,
-                                "known_move_type": null,
-                                "location": null,
-                                "min_affection": null,
-                                "min_beauty": null,
-                                "min_happiness": null,
-                                "min_level": 55,
-                                "needs_overworld_rain": false,
-                                "party_species": null,
-                                "party_type": null,
-                                "relative_physical_stats": null,
-                                "time_of_day": "",
-                                "trade_species": null,
-                                "trigger": {
-                                    "name": "level-up",
-                                    "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
-                                },
-                                "turn_upside_down": false
-                            }
-                        ],
-                        "evolves_to": [],
-                        "is_baby": false,
-                        "species": {
-                            "name": "tyranitar",
-                            "url": "https://pokeapi.co/api/v2/pokemon-species/248/"
-                        }
-                    }
-                ],
-                "is_baby": false,
-                "species": {
-                    "name": "pupitar",
-                    "url": "https://pokeapi.co/api/v2/pokemon-species/247/"
-                }
+                "id": "248",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/248.png",
+                "name": "tyranitar",
+                "types": [
+                    "rock",
+                    "dark"
+                ]
             }
         ],
-        "is_baby": false,
-        "species": {
-            "name": "larvitar",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/246/"
-        }
+        "mid": [
+            {
+                "id": "247",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/247.png",
+                "name": "pupitar",
+                "types": [
+                    "rock",
+                    "ground"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "246",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/246.png",
+                "name": "larvitar",
+                "types": [
+                    "rock",
+                    "ground"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -122,19 +80,19 @@
     "type_relations": {
         "resistantTo": [
             "poison",
-            "dark",
-            "fire",
+            "ghost",
             "flying",
+            "dark",
             "normal",
-            "ghost"
+            "fire"
         ],
         "weakTo": [
-            "fighting",
-            "bug",
             "fairy",
             "grass",
-            "ground",
             "water",
+            "bug",
+            "ground",
+            "fighting",
             "steel"
         ]
     },

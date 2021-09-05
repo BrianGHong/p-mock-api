@@ -10,13 +10,18 @@
         "plant"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [],
-        "is_baby": false,
-        "species": {
-            "name": "carnivine",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/455/"
-        }
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "455",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/455.png",
+                "name": "carnivine",
+                "types": [
+                    "grass"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -52,17 +57,17 @@
     },
     "type_relations": {
         "resistantTo": [
-            "water",
-            "electric",
             "grass",
-            "ground"
+            "water",
+            "ground",
+            "electric"
         ],
         "weakTo": [
             "poison",
+            "ice",
             "bug",
-            "fire",
             "flying",
-            "ice"
+            "fire"
         ]
     },
     "types": [

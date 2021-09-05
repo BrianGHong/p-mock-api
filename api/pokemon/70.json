@@ -11,84 +11,39 @@
         "plant"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [
+        "end": [
             {
-                "evolution_details": [
-                    {
-                        "gender": null,
-                        "held_item": null,
-                        "item": null,
-                        "known_move": null,
-                        "known_move_type": null,
-                        "location": null,
-                        "min_affection": null,
-                        "min_beauty": null,
-                        "min_happiness": null,
-                        "min_level": 21,
-                        "needs_overworld_rain": false,
-                        "party_species": null,
-                        "party_type": null,
-                        "relative_physical_stats": null,
-                        "time_of_day": "",
-                        "trade_species": null,
-                        "trigger": {
-                            "name": "level-up",
-                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
-                        },
-                        "turn_upside_down": false
-                    }
-                ],
-                "evolves_to": [
-                    {
-                        "evolution_details": [
-                            {
-                                "gender": null,
-                                "held_item": null,
-                                "item": {
-                                    "name": "leaf-stone",
-                                    "url": "https://pokeapi.co/api/v2/item/85/"
-                                },
-                                "known_move": null,
-                                "known_move_type": null,
-                                "location": null,
-                                "min_affection": null,
-                                "min_beauty": null,
-                                "min_happiness": null,
-                                "min_level": null,
-                                "needs_overworld_rain": false,
-                                "party_species": null,
-                                "party_type": null,
-                                "relative_physical_stats": null,
-                                "time_of_day": "",
-                                "trade_species": null,
-                                "trigger": {
-                                    "name": "use-item",
-                                    "url": "https://pokeapi.co/api/v2/evolution-trigger/3/"
-                                },
-                                "turn_upside_down": false
-                            }
-                        ],
-                        "evolves_to": [],
-                        "is_baby": false,
-                        "species": {
-                            "name": "victreebel",
-                            "url": "https://pokeapi.co/api/v2/pokemon-species/71/"
-                        }
-                    }
-                ],
-                "is_baby": false,
-                "species": {
-                    "name": "weepinbell",
-                    "url": "https://pokeapi.co/api/v2/pokemon-species/70/"
-                }
+                "id": "71",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/71.png",
+                "name": "victreebel",
+                "types": [
+                    "grass",
+                    "poison"
+                ]
             }
         ],
-        "is_baby": false,
-        "species": {
-            "name": "bellsprout",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/69/"
-        }
+        "mid": [
+            {
+                "id": "70",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/70.png",
+                "name": "weepinbell",
+                "types": [
+                    "grass",
+                    "poison"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "69",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/69.png",
+                "name": "bellsprout",
+                "types": [
+                    "grass",
+                    "poison"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -124,17 +79,17 @@
     },
     "type_relations": {
         "resistantTo": [
-            "fighting",
             "electric",
             "fairy",
             "grass",
-            "water"
+            "water",
+            "fighting"
         ],
         "weakTo": [
-            "fire",
+            "ice",
             "flying",
             "psychic",
-            "ice"
+            "fire"
         ]
     },
     "types": [

@@ -8,13 +8,18 @@
     },
     "eggGroups": [],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [],
-        "is_baby": false,
-        "species": {
-            "name": "glastrier",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/896/"
-        }
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "896",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/896.png",
+                "name": "glastrier",
+                "types": [
+                    "ice"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -52,9 +57,9 @@
             "ice"
         ],
         "weakTo": [
-            "rock",
             "fighting",
             "fire",
+            "rock",
             "steel"
         ]
     },

@@ -11,13 +11,19 @@
         "mineral"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [],
-        "is_baby": false,
-        "species": {
-            "name": "klefki",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/707/"
-        }
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "707",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/707.png",
+                "name": "klefki",
+                "types": [
+                    "steel",
+                    "fairy"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -53,21 +59,21 @@
     },
     "type_relations": {
         "resistantTo": [
-            "bug",
-            "dark",
-            "rock",
             "fairy",
+            "rock",
+            "ice",
             "grass",
-            "flying",
-            "normal",
             "dragon",
+            "bug",
+            "flying",
+            "dark",
             "psychic",
-            "ice"
+            "normal"
         ],
         "weakTo": [
             "poison",
-            "fire",
-            "ground"
+            "ground",
+            "fire"
         ]
     },
     "types": [

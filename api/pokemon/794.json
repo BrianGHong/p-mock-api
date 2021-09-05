@@ -10,13 +10,19 @@
         "no-eggs"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [],
-        "is_baby": false,
-        "species": {
-            "name": "buzzwole",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/794/"
-        }
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "794",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/794.png",
+                "name": "buzzwole",
+                "types": [
+                    "bug",
+                    "fighting"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -51,17 +57,17 @@
     },
     "type_relations": {
         "resistantTo": [
-            "fighting",
+            "grass",
             "bug",
             "dark",
-            "grass",
-            "ground"
+            "ground",
+            "fighting"
         ],
         "weakTo": [
-            "fire",
             "fairy",
             "flying",
-            "psychic"
+            "psychic",
+            "fire"
         ]
     },
     "types": [

@@ -12,13 +12,18 @@
         "bug"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [],
-        "is_baby": false,
-        "species": {
-            "name": "pinsir",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/127/"
-        }
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "127",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/127.png",
+                "name": "pinsir",
+                "types": [
+                    "bug"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -59,8 +64,8 @@
             "ground"
         ],
         "weakTo": [
-            "rock",
             "fire",
+            "rock",
             "flying"
         ]
     },

@@ -10,13 +10,19 @@
         "no-eggs"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [],
-        "is_baby": false,
-        "species": {
-            "name": "genesect",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/649/"
-        }
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "649",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/649.png",
+                "name": "genesect",
+                "types": [
+                    "bug",
+                    "steel"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -51,14 +57,14 @@
     },
     "type_relations": {
         "resistantTo": [
-            "bug",
             "fairy",
+            "ice",
             "grass",
-            "normal",
             "dragon",
+            "bug",
             "psychic",
-            "steel",
-            "ice"
+            "normal",
+            "steel"
         ],
         "weakTo": [
             "fire"

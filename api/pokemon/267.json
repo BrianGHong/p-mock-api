@@ -11,148 +11,54 @@
         "bug"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [
+        "end": [
             {
-                "evolution_details": [
-                    {
-                        "gender": null,
-                        "held_item": null,
-                        "item": null,
-                        "known_move": null,
-                        "known_move_type": null,
-                        "location": null,
-                        "min_affection": null,
-                        "min_beauty": null,
-                        "min_happiness": null,
-                        "min_level": 7,
-                        "needs_overworld_rain": false,
-                        "party_species": null,
-                        "party_type": null,
-                        "relative_physical_stats": null,
-                        "time_of_day": "",
-                        "trade_species": null,
-                        "trigger": {
-                            "name": "level-up",
-                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
-                        },
-                        "turn_upside_down": false
-                    }
-                ],
-                "evolves_to": [
-                    {
-                        "evolution_details": [
-                            {
-                                "gender": null,
-                                "held_item": null,
-                                "item": null,
-                                "known_move": null,
-                                "known_move_type": null,
-                                "location": null,
-                                "min_affection": null,
-                                "min_beauty": null,
-                                "min_happiness": null,
-                                "min_level": 10,
-                                "needs_overworld_rain": false,
-                                "party_species": null,
-                                "party_type": null,
-                                "relative_physical_stats": null,
-                                "time_of_day": "",
-                                "trade_species": null,
-                                "trigger": {
-                                    "name": "level-up",
-                                    "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
-                                },
-                                "turn_upside_down": false
-                            }
-                        ],
-                        "evolves_to": [],
-                        "is_baby": false,
-                        "species": {
-                            "name": "beautifly",
-                            "url": "https://pokeapi.co/api/v2/pokemon-species/267/"
-                        }
-                    }
-                ],
-                "is_baby": false,
-                "species": {
-                    "name": "silcoon",
-                    "url": "https://pokeapi.co/api/v2/pokemon-species/266/"
-                }
+                "id": "267",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/267.png",
+                "name": "beautifly",
+                "types": [
+                    "bug",
+                    "flying"
+                ]
             },
             {
-                "evolution_details": [
-                    {
-                        "gender": null,
-                        "held_item": null,
-                        "item": null,
-                        "known_move": null,
-                        "known_move_type": null,
-                        "location": null,
-                        "min_affection": null,
-                        "min_beauty": null,
-                        "min_happiness": null,
-                        "min_level": 7,
-                        "needs_overworld_rain": false,
-                        "party_species": null,
-                        "party_type": null,
-                        "relative_physical_stats": null,
-                        "time_of_day": "",
-                        "trade_species": null,
-                        "trigger": {
-                            "name": "level-up",
-                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
-                        },
-                        "turn_upside_down": false
-                    }
-                ],
-                "evolves_to": [
-                    {
-                        "evolution_details": [
-                            {
-                                "gender": null,
-                                "held_item": null,
-                                "item": null,
-                                "known_move": null,
-                                "known_move_type": null,
-                                "location": null,
-                                "min_affection": null,
-                                "min_beauty": null,
-                                "min_happiness": null,
-                                "min_level": 10,
-                                "needs_overworld_rain": false,
-                                "party_species": null,
-                                "party_type": null,
-                                "relative_physical_stats": null,
-                                "time_of_day": "",
-                                "trade_species": null,
-                                "trigger": {
-                                    "name": "level-up",
-                                    "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
-                                },
-                                "turn_upside_down": false
-                            }
-                        ],
-                        "evolves_to": [],
-                        "is_baby": false,
-                        "species": {
-                            "name": "dustox",
-                            "url": "https://pokeapi.co/api/v2/pokemon-species/269/"
-                        }
-                    }
-                ],
-                "is_baby": false,
-                "species": {
-                    "name": "cascoon",
-                    "url": "https://pokeapi.co/api/v2/pokemon-species/268/"
-                }
+                "id": "269",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/269.png",
+                "name": "dustox",
+                "types": [
+                    "bug",
+                    "poison"
+                ]
             }
         ],
-        "is_baby": false,
-        "species": {
-            "name": "wurmple",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/265/"
-        }
+        "mid": [
+            {
+                "id": "266",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/266.png",
+                "name": "silcoon",
+                "types": [
+                    "bug"
+                ]
+            },
+            {
+                "id": "268",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/268.png",
+                "name": "cascoon",
+                "types": [
+                    "bug"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "265",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/265.png",
+                "name": "wurmple",
+                "types": [
+                    "bug"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -202,15 +108,15 @@
         "resistantTo": [
             "fighting",
             "grass",
-            "bug",
-            "ground"
+            "ground",
+            "bug"
         ],
         "weakTo": [
             "electric",
             "rock",
-            "fire",
+            "ice",
             "flying",
-            "ice"
+            "fire"
         ]
     },
     "types": [

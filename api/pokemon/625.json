@@ -12,47 +12,29 @@
         "humanshape"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [
+        "end": [],
+        "mid": [
             {
-                "evolution_details": [
-                    {
-                        "gender": null,
-                        "held_item": null,
-                        "item": null,
-                        "known_move": null,
-                        "known_move_type": null,
-                        "location": null,
-                        "min_affection": null,
-                        "min_beauty": null,
-                        "min_happiness": null,
-                        "min_level": 52,
-                        "needs_overworld_rain": false,
-                        "party_species": null,
-                        "party_type": null,
-                        "relative_physical_stats": null,
-                        "time_of_day": "",
-                        "trade_species": null,
-                        "trigger": {
-                            "name": "level-up",
-                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
-                        },
-                        "turn_upside_down": false
-                    }
-                ],
-                "evolves_to": [],
-                "is_baby": false,
-                "species": {
-                    "name": "bisharp",
-                    "url": "https://pokeapi.co/api/v2/pokemon-species/625/"
-                }
+                "id": "625",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/625.png",
+                "name": "bisharp",
+                "types": [
+                    "dark",
+                    "steel"
+                ]
             }
         ],
-        "is_baby": false,
-        "species": {
-            "name": "pawniard",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/624/"
-        }
+        "start": [
+            {
+                "id": "624",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/624.png",
+                "name": "pawniard",
+                "types": [
+                    "dark",
+                    "steel"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -88,21 +70,21 @@
     },
     "type_relations": {
         "resistantTo": [
-            "dark",
             "rock",
-            "grass",
-            "flying",
-            "normal",
-            "dragon",
-            "psychic",
-            "steel",
             "ice",
-            "ghost"
+            "grass",
+            "ghost",
+            "dragon",
+            "flying",
+            "dark",
+            "psychic",
+            "normal",
+            "steel"
         ],
         "weakTo": [
+            "ground",
             "fighting",
-            "fire",
-            "ground"
+            "fire"
         ]
     },
     "types": [

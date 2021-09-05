@@ -10,13 +10,19 @@
         "no-eggs"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [],
-        "is_baby": false,
-        "species": {
-            "name": "reshiram",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/643/"
-        }
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "643",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/643.png",
+                "name": "reshiram",
+                "types": [
+                    "dragon",
+                    "fire"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -51,16 +57,16 @@
     },
     "type_relations": {
         "resistantTo": [
-            "bug",
             "electric",
-            "fire",
             "grass",
+            "bug",
+            "fire",
             "steel"
         ],
         "weakTo": [
             "rock",
-            "ground",
-            "dragon"
+            "dragon",
+            "ground"
         ]
     },
     "types": [

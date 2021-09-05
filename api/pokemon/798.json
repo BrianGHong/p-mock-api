@@ -10,13 +10,19 @@
         "no-eggs"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [],
-        "is_baby": false,
-        "species": {
-            "name": "kartana",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/798/"
-        }
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "798",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/798.png",
+                "name": "kartana",
+                "types": [
+                    "grass",
+                    "steel"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -52,18 +58,18 @@
     "type_relations": {
         "resistantTo": [
             "electric",
-            "rock",
             "fairy",
+            "rock",
             "grass",
-            "normal",
-            "dragon",
             "water",
+            "dragon",
             "psychic",
+            "normal",
             "steel"
         ],
         "weakTo": [
-            "fighting",
             "poison",
+            "fighting",
             "fire"
         ]
     },

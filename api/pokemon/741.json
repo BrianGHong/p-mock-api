@@ -10,13 +10,19 @@
         "flying"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [],
-        "is_baby": false,
-        "species": {
-            "name": "oricorio",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/741/"
-        }
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "741",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/741.png",
+                "name": "oricorio-baile",
+                "types": [
+                    "fire",
+                    "flying"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -49,18 +55,18 @@
     },
     "type_relations": {
         "resistantTo": [
-            "fighting",
-            "bug",
-            "fire",
             "fairy",
             "grass",
+            "bug",
+            "fighting",
+            "fire",
             "steel"
         ],
         "weakTo": [
             "electric",
             "rock",
-            "ground",
-            "water"
+            "water",
+            "ground"
         ]
     },
     "types": [

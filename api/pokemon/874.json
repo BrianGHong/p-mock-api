@@ -8,13 +8,18 @@
     },
     "eggGroups": [],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [],
-        "is_baby": false,
-        "species": {
-            "name": "stonjourner",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/874/"
-        }
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "874",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/874.png",
+                "name": "stonjourner",
+                "types": [
+                    "rock"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -50,16 +55,16 @@
     },
     "type_relations": {
         "resistantTo": [
+            "poison",
             "fire",
             "flying",
-            "poison",
             "normal"
         ],
         "weakTo": [
-            "fighting",
             "grass",
-            "ground",
             "water",
+            "ground",
+            "fighting",
             "steel"
         ]
     },

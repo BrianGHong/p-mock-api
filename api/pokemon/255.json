@@ -11,81 +11,38 @@
         "ground"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [
+        "end": [
             {
-                "evolution_details": [
-                    {
-                        "gender": null,
-                        "held_item": null,
-                        "item": null,
-                        "known_move": null,
-                        "known_move_type": null,
-                        "location": null,
-                        "min_affection": null,
-                        "min_beauty": null,
-                        "min_happiness": null,
-                        "min_level": 16,
-                        "needs_overworld_rain": false,
-                        "party_species": null,
-                        "party_type": null,
-                        "relative_physical_stats": null,
-                        "time_of_day": "",
-                        "trade_species": null,
-                        "trigger": {
-                            "name": "level-up",
-                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
-                        },
-                        "turn_upside_down": false
-                    }
-                ],
-                "evolves_to": [
-                    {
-                        "evolution_details": [
-                            {
-                                "gender": null,
-                                "held_item": null,
-                                "item": null,
-                                "known_move": null,
-                                "known_move_type": null,
-                                "location": null,
-                                "min_affection": null,
-                                "min_beauty": null,
-                                "min_happiness": null,
-                                "min_level": 36,
-                                "needs_overworld_rain": false,
-                                "party_species": null,
-                                "party_type": null,
-                                "relative_physical_stats": null,
-                                "time_of_day": "",
-                                "trade_species": null,
-                                "trigger": {
-                                    "name": "level-up",
-                                    "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
-                                },
-                                "turn_upside_down": false
-                            }
-                        ],
-                        "evolves_to": [],
-                        "is_baby": false,
-                        "species": {
-                            "name": "blaziken",
-                            "url": "https://pokeapi.co/api/v2/pokemon-species/257/"
-                        }
-                    }
-                ],
-                "is_baby": false,
-                "species": {
-                    "name": "combusken",
-                    "url": "https://pokeapi.co/api/v2/pokemon-species/256/"
-                }
+                "id": "257",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/257.png",
+                "name": "blaziken",
+                "types": [
+                    "fire",
+                    "fighting"
+                ]
             }
         ],
-        "is_baby": false,
-        "species": {
-            "name": "torchic",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/255/"
-        }
+        "mid": [
+            {
+                "id": "256",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/256.png",
+                "name": "combusken",
+                "types": [
+                    "fire",
+                    "fighting"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "255",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/255.png",
+                "name": "torchic",
+                "types": [
+                    "fire"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -133,16 +90,16 @@
     },
     "type_relations": {
         "resistantTo": [
+            "fairy",
+            "ice",
+            "grass",
             "bug",
             "fire",
-            "fairy",
-            "grass",
-            "steel",
-            "ice"
+            "steel"
         ],
         "weakTo": [
-            "rock",
             "water",
+            "rock",
             "ground"
         ]
     },

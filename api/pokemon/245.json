@@ -11,13 +11,18 @@
         "no-eggs"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [],
-        "is_baby": false,
-        "species": {
-            "name": "suicune",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/245/"
-        }
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "245",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/245.png",
+                "name": "suicune",
+                "types": [
+                    "water"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -52,10 +57,10 @@
     },
     "type_relations": {
         "resistantTo": [
-            "fire",
+            "ice",
             "water",
-            "steel",
-            "ice"
+            "fire",
+            "steel"
         ],
         "weakTo": [
             "grass",

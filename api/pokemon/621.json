@@ -13,13 +13,18 @@
         "dragon"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [],
-        "is_baby": false,
-        "species": {
-            "name": "druddigon",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/621/"
-        }
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "621",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/621.png",
+                "name": "druddigon",
+                "types": [
+                    "dragon"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -55,15 +60,15 @@
     },
     "type_relations": {
         "resistantTo": [
-            "fire",
             "water",
-            "electric",
-            "grass"
+            "fire",
+            "grass",
+            "electric"
         ],
         "weakTo": [
+            "ice",
             "dragon",
-            "fairy",
-            "ice"
+            "fairy"
         ]
     },
     "types": [

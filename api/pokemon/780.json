@@ -13,13 +13,19 @@
         "dragon"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [],
-        "is_baby": false,
-        "species": {
-            "name": "drampa",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/780/"
-        }
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "780",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/780.png",
+                "name": "drampa",
+                "types": [
+                    "normal",
+                    "dragon"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -55,15 +61,15 @@
     },
     "type_relations": {
         "resistantTo": [
-            "fire",
             "water",
-            "electric",
-            "grass"
+            "fire",
+            "grass",
+            "electric"
         ],
         "weakTo": [
-            "dragon",
-            "fighting",
             "ice",
+            "fighting",
+            "dragon",
             "fairy"
         ]
     },

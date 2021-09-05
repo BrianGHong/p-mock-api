@@ -11,13 +11,19 @@
         "no-eggs"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [],
-        "is_baby": false,
-        "species": {
-            "name": "tapu-lele",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/786/"
-        }
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "786",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/786.png",
+                "name": "tapu-lele",
+                "types": [
+                    "psychic",
+                    "fairy"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -57,8 +63,8 @@
         ],
         "weakTo": [
             "poison",
-            "steel",
-            "ghost"
+            "ghost",
+            "steel"
         ]
     },
     "types": [

@@ -8,13 +8,19 @@
     },
     "eggGroups": [],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [],
-        "is_baby": false,
-        "species": {
-            "name": "morpeko",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/877/"
-        }
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "877",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/877.png",
+                "name": "morpeko",
+                "types": [
+                    "electric",
+                    "dark"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -51,16 +57,16 @@
     "type_relations": {
         "resistantTo": [
             "electric",
-            "dark",
+            "ghost",
             "flying",
-            "steel",
-            "ghost"
+            "dark",
+            "steel"
         ],
         "weakTo": [
             "fighting",
-            "bug",
             "fairy",
-            "ground"
+            "ground",
+            "bug"
         ]
     },
     "types": [

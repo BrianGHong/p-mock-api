@@ -10,81 +10,39 @@
     },
     "eggGroups": [],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [
+        "end": [
             {
-                "evolution_details": [
-                    {
-                        "gender": null,
-                        "held_item": null,
-                        "item": null,
-                        "known_move": null,
-                        "known_move_type": null,
-                        "location": null,
-                        "min_affection": null,
-                        "min_beauty": null,
-                        "min_happiness": null,
-                        "min_level": 50,
-                        "needs_overworld_rain": false,
-                        "party_species": null,
-                        "party_type": null,
-                        "relative_physical_stats": null,
-                        "time_of_day": "",
-                        "trade_species": null,
-                        "trigger": {
-                            "name": "level-up",
-                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
-                        },
-                        "turn_upside_down": false
-                    }
-                ],
-                "evolves_to": [
-                    {
-                        "evolution_details": [
-                            {
-                                "gender": null,
-                                "held_item": null,
-                                "item": null,
-                                "known_move": null,
-                                "known_move_type": null,
-                                "location": null,
-                                "min_affection": null,
-                                "min_beauty": null,
-                                "min_happiness": null,
-                                "min_level": 60,
-                                "needs_overworld_rain": false,
-                                "party_species": null,
-                                "party_type": null,
-                                "relative_physical_stats": null,
-                                "time_of_day": "",
-                                "trade_species": null,
-                                "trigger": {
-                                    "name": "level-up",
-                                    "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
-                                },
-                                "turn_upside_down": false
-                            }
-                        ],
-                        "evolves_to": [],
-                        "is_baby": false,
-                        "species": {
-                            "name": "dragapult",
-                            "url": "https://pokeapi.co/api/v2/pokemon-species/887/"
-                        }
-                    }
-                ],
-                "is_baby": false,
-                "species": {
-                    "name": "drakloak",
-                    "url": "https://pokeapi.co/api/v2/pokemon-species/886/"
-                }
+                "id": "887",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/887.png",
+                "name": "dragapult",
+                "types": [
+                    "dragon",
+                    "ghost"
+                ]
             }
         ],
-        "is_baby": false,
-        "species": {
-            "name": "dreepy",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/885/"
-        }
+        "mid": [
+            {
+                "id": "886",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/886.png",
+                "name": "drakloak",
+                "types": [
+                    "dragon",
+                    "ghost"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "885",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/885.png",
+                "name": "dreepy",
+                "types": [
+                    "dragon",
+                    "ghost"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -121,18 +79,18 @@
     "type_relations": {
         "resistantTo": [
             "poison",
-            "bug",
             "electric",
-            "fire",
             "grass",
-            "water"
+            "water",
+            "bug",
+            "fire"
         ],
         "weakTo": [
-            "dark",
             "fairy",
-            "dragon",
             "ice",
-            "ghost"
+            "dragon",
+            "ghost",
+            "dark"
         ]
     },
     "types": [

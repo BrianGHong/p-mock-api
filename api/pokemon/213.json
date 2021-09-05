@@ -12,13 +12,19 @@
         "bug"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [],
-        "is_baby": false,
-        "species": {
-            "name": "shuckle",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/213/"
-        }
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "213",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/213.png",
+                "name": "shuckle",
+                "types": [
+                    "bug",
+                    "rock"
+                ]
+            }
+        ]
     },
     "forms": [
         {

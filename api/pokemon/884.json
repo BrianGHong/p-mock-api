@@ -10,13 +10,19 @@
     },
     "eggGroups": [],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [],
-        "is_baby": false,
-        "species": {
-            "name": "duraludon",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/884/"
-        }
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "884",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/884.png",
+                "name": "duraludon",
+                "types": [
+                    "steel",
+                    "dragon"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -52,19 +58,19 @@
     },
     "type_relations": {
         "resistantTo": [
-            "bug",
             "electric",
             "rock",
             "grass",
-            "flying",
-            "normal",
             "water",
+            "bug",
+            "flying",
             "psychic",
+            "normal",
             "steel"
         ],
         "weakTo": [
-            "fighting",
-            "ground"
+            "ground",
+            "fighting"
         ]
     },
     "types": [

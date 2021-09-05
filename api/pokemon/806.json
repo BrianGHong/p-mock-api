@@ -10,13 +10,19 @@
         "no-eggs"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [],
-        "is_baby": false,
-        "species": {
-            "name": "blacephalon",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/806/"
-        }
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "806",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/806.png",
+                "name": "blacephalon",
+                "types": [
+                    "fire",
+                    "ghost"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -52,19 +58,19 @@
     "type_relations": {
         "resistantTo": [
             "poison",
+            "fairy",
+            "ice",
+            "grass",
             "bug",
             "fire",
-            "fairy",
-            "grass",
-            "steel",
-            "ice"
+            "steel"
         ],
         "weakTo": [
-            "dark",
             "rock",
-            "ground",
             "water",
-            "ghost"
+            "ghost",
+            "dark",
+            "ground"
         ]
     },
     "types": [

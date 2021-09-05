@@ -12,13 +12,18 @@
         "ground"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [],
-        "is_baby": false,
-        "species": {
-            "name": "smeargle",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/235/"
-        }
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "235",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/235.png",
+                "name": "smeargle",
+                "types": [
+                    "normal"
+                ]
+            }
+        ]
     },
     "forms": [
         {

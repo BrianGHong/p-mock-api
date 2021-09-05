@@ -12,13 +12,19 @@
         "flying"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [],
-        "is_baby": false,
-        "species": {
-            "name": "aerodactyl",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/142/"
-        }
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "142",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/142.png",
+                "name": "aerodactyl",
+                "types": [
+                    "rock",
+                    "flying"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -56,17 +62,17 @@
         "resistantTo": [
             "poison",
             "bug",
-            "fire",
             "flying",
-            "normal"
+            "normal",
+            "fire"
         ],
         "weakTo": [
             "electric",
             "rock",
-            "ground",
+            "ice",
             "water",
-            "steel",
-            "ice"
+            "ground",
+            "steel"
         ]
     },
     "types": [

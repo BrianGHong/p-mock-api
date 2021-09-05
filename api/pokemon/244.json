@@ -11,13 +11,18 @@
         "no-eggs"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [],
-        "is_baby": false,
-        "species": {
-            "name": "entei",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/244/"
-        }
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "244",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/244.png",
+                "name": "entei",
+                "types": [
+                    "fire"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -52,16 +57,16 @@
     },
     "type_relations": {
         "resistantTo": [
+            "fairy",
+            "ice",
+            "grass",
             "bug",
             "fire",
-            "fairy",
-            "grass",
-            "steel",
-            "ice"
+            "steel"
         ],
         "weakTo": [
-            "rock",
             "water",
+            "rock",
             "ground"
         ]
     },

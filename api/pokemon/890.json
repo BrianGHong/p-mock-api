@@ -8,13 +8,19 @@
     },
     "eggGroups": [],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [],
-        "is_baby": false,
-        "species": {
-            "name": "eternatus",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/890/"
-        }
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "890",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/890.png",
+                "name": "eternatus",
+                "types": [
+                    "poison",
+                    "dragon"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -49,19 +55,19 @@
     },
     "type_relations": {
         "resistantTo": [
-            "fighting",
             "poison",
-            "bug",
             "electric",
-            "fire",
             "grass",
-            "water"
+            "water",
+            "bug",
+            "fighting",
+            "fire"
         ],
         "weakTo": [
-            "ground",
+            "ice",
             "dragon",
             "psychic",
-            "ice"
+            "ground"
         ]
     },
     "types": [

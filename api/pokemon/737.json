@@ -10,81 +10,38 @@
         "bug"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [
+        "end": [
             {
-                "evolution_details": [
-                    {
-                        "gender": null,
-                        "held_item": null,
-                        "item": null,
-                        "known_move": null,
-                        "known_move_type": null,
-                        "location": null,
-                        "min_affection": null,
-                        "min_beauty": null,
-                        "min_happiness": null,
-                        "min_level": 20,
-                        "needs_overworld_rain": false,
-                        "party_species": null,
-                        "party_type": null,
-                        "relative_physical_stats": null,
-                        "time_of_day": "",
-                        "trade_species": null,
-                        "trigger": {
-                            "name": "level-up",
-                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
-                        },
-                        "turn_upside_down": false
-                    }
-                ],
-                "evolves_to": [
-                    {
-                        "evolution_details": [
-                            {
-                                "gender": null,
-                                "held_item": null,
-                                "item": null,
-                                "known_move": null,
-                                "known_move_type": null,
-                                "location": null,
-                                "min_affection": null,
-                                "min_beauty": null,
-                                "min_happiness": null,
-                                "min_level": null,
-                                "needs_overworld_rain": false,
-                                "party_species": null,
-                                "party_type": null,
-                                "relative_physical_stats": null,
-                                "time_of_day": "",
-                                "trade_species": null,
-                                "trigger": {
-                                    "name": "level-up",
-                                    "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
-                                },
-                                "turn_upside_down": false
-                            }
-                        ],
-                        "evolves_to": [],
-                        "is_baby": false,
-                        "species": {
-                            "name": "vikavolt",
-                            "url": "https://pokeapi.co/api/v2/pokemon-species/738/"
-                        }
-                    }
-                ],
-                "is_baby": false,
-                "species": {
-                    "name": "charjabug",
-                    "url": "https://pokeapi.co/api/v2/pokemon-species/737/"
-                }
+                "id": "738",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/738.png",
+                "name": "vikavolt",
+                "types": [
+                    "bug",
+                    "electric"
+                ]
             }
         ],
-        "is_baby": false,
-        "species": {
-            "name": "grubbin",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/736/"
-        }
+        "mid": [
+            {
+                "id": "737",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/737.png",
+                "name": "charjabug",
+                "types": [
+                    "bug",
+                    "electric"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "736",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/736.png",
+                "name": "grubbin",
+                "types": [
+                    "bug"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -120,14 +77,14 @@
     },
     "type_relations": {
         "resistantTo": [
-            "fighting",
             "electric",
             "grass",
+            "fighting",
             "steel"
         ],
         "weakTo": [
-            "rock",
-            "fire"
+            "fire",
+            "rock"
         ]
     },
     "types": [

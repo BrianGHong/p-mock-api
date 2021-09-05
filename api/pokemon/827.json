@@ -10,47 +10,27 @@
     },
     "eggGroups": [],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [
+        "end": [],
+        "mid": [
             {
-                "evolution_details": [
-                    {
-                        "gender": null,
-                        "held_item": null,
-                        "item": null,
-                        "known_move": null,
-                        "known_move_type": null,
-                        "location": null,
-                        "min_affection": null,
-                        "min_beauty": null,
-                        "min_happiness": null,
-                        "min_level": 18,
-                        "needs_overworld_rain": false,
-                        "party_species": null,
-                        "party_type": null,
-                        "relative_physical_stats": null,
-                        "time_of_day": "",
-                        "trade_species": null,
-                        "trigger": {
-                            "name": "level-up",
-                            "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
-                        },
-                        "turn_upside_down": false
-                    }
-                ],
-                "evolves_to": [],
-                "is_baby": false,
-                "species": {
-                    "name": "thievul",
-                    "url": "https://pokeapi.co/api/v2/pokemon-species/828/"
-                }
+                "id": "828",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/828.png",
+                "name": "thievul",
+                "types": [
+                    "dark"
+                ]
             }
         ],
-        "is_baby": false,
-        "species": {
-            "name": "nickit",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/827/"
-        }
+        "start": [
+            {
+                "id": "827",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/827.png",
+                "name": "nickit",
+                "types": [
+                    "dark"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -86,13 +66,13 @@
     },
     "type_relations": {
         "resistantTo": [
-            "ghost",
-            "dark"
+            "dark",
+            "ghost"
         ],
         "weakTo": [
             "fighting",
-            "bug",
-            "fairy"
+            "fairy",
+            "bug"
         ]
     },
     "types": [

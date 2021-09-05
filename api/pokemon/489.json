@@ -11,23 +11,27 @@
         "fairy"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [
+        "end": [],
+        "mid": [
             {
-                "evolution_details": [],
-                "evolves_to": [],
-                "is_baby": false,
-                "species": {
-                    "name": "manaphy",
-                    "url": "https://pokeapi.co/api/v2/pokemon-species/490/"
-                }
+                "id": "490",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/490.png",
+                "name": "manaphy",
+                "types": [
+                    "water"
+                ]
             }
         ],
-        "is_baby": false,
-        "species": {
-            "name": "phione",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/489/"
-        }
+        "start": [
+            {
+                "id": "489",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/489.png",
+                "name": "phione",
+                "types": [
+                    "water"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -62,10 +66,10 @@
     },
     "type_relations": {
         "resistantTo": [
-            "fire",
+            "ice",
             "water",
-            "steel",
-            "ice"
+            "fire",
+            "steel"
         ],
         "weakTo": [
             "grass",

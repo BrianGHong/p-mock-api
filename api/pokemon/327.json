@@ -13,13 +13,18 @@
         "humanshape"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [],
-        "is_baby": false,
-        "species": {
-            "name": "spinda",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/327/"
-        }
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "327",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/327.png",
+                "name": "spinda",
+                "types": [
+                    "normal"
+                ]
+            }
+        ]
     },
     "forms": [
         {

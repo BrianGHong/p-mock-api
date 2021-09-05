@@ -12,13 +12,18 @@
         "humanshape"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [],
-        "is_baby": false,
-        "species": {
-            "name": "sawk",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/539/"
-        }
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "539",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/539.png",
+                "name": "sawk",
+                "types": [
+                    "fighting"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -51,14 +56,14 @@
     },
     "type_relations": {
         "resistantTo": [
+            "dark",
             "rock",
-            "bug",
-            "dark"
+            "bug"
         ],
         "weakTo": [
             "fairy",
-            "flying",
-            "psychic"
+            "psychic",
+            "flying"
         ]
     },
     "types": [

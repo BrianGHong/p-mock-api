@@ -12,13 +12,18 @@
         "plant"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [],
-        "is_baby": false,
-        "species": {
-            "name": "comfey",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/764/"
-        }
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "764",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/764.png",
+                "name": "comfey",
+                "types": [
+                    "fairy"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -55,12 +60,12 @@
     "type_relations": {
         "resistantTo": [
             "fighting",
-            "bug",
-            "dark"
+            "dark",
+            "bug"
         ],
         "weakTo": [
-            "steel",
-            "poison"
+            "poison",
+            "steel"
         ]
     },
     "types": [

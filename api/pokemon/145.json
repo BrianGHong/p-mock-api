@@ -11,13 +11,19 @@
         "no-eggs"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [],
-        "is_baby": false,
-        "species": {
-            "name": "zapdos",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/145/"
-        }
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "145",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/145.png",
+                "name": "zapdos",
+                "types": [
+                    "electric",
+                    "flying"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -52,15 +58,15 @@
     },
     "type_relations": {
         "resistantTo": [
-            "fighting",
-            "bug",
             "grass",
+            "bug",
             "flying",
+            "fighting",
             "steel"
         ],
         "weakTo": [
-            "rock",
             "ice",
+            "rock",
             "ground"
         ]
     },

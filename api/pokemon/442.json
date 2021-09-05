@@ -11,13 +11,19 @@
         "indeterminate"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [],
-        "is_baby": false,
-        "species": {
-            "name": "spiritomb",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/442/"
-        }
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "442",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/442.png",
+                "name": "spiritomb",
+                "types": [
+                    "ghost",
+                    "dark"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -56,8 +62,8 @@
             "poison"
         ],
         "weakTo": [
-            "fighting",
-            "fairy"
+            "fairy",
+            "fighting"
         ]
     },
     "types": [

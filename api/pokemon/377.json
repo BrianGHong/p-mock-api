@@ -11,13 +11,18 @@
         "no-eggs"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [],
-        "is_baby": false,
-        "species": {
-            "name": "regirock",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/377/"
-        }
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "377",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/377.png",
+                "name": "regirock",
+                "types": [
+                    "rock"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -52,16 +57,16 @@
     },
     "type_relations": {
         "resistantTo": [
+            "poison",
             "fire",
             "flying",
-            "poison",
             "normal"
         ],
         "weakTo": [
-            "fighting",
             "grass",
-            "ground",
             "water",
+            "ground",
+            "fighting",
             "steel"
         ]
     },

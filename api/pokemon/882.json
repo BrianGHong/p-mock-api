@@ -10,13 +10,19 @@
     },
     "eggGroups": [],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [],
-        "is_baby": false,
-        "species": {
-            "name": "dracovish",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/882/"
-        }
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "882",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/882.png",
+                "name": "dracovish",
+                "types": [
+                    "water",
+                    "dragon"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -51,8 +57,8 @@
     },
     "type_relations": {
         "resistantTo": [
-            "fire",
             "water",
+            "fire",
             "steel"
         ],
         "weakTo": [

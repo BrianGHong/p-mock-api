@@ -11,13 +11,18 @@
         "no-eggs"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [],
-        "is_baby": false,
-        "species": {
-            "name": "registeel",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/379/"
-        }
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "379",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/379.png",
+                "name": "registeel",
+                "types": [
+                    "steel"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -52,20 +57,20 @@
     },
     "type_relations": {
         "resistantTo": [
-            "bug",
-            "rock",
             "fairy",
+            "rock",
+            "ice",
             "grass",
-            "flying",
-            "normal",
             "dragon",
+            "bug",
+            "flying",
             "psychic",
-            "steel",
-            "ice"
+            "normal",
+            "steel"
         ],
         "weakTo": [
-            "fire",
             "fighting",
+            "fire",
             "ground"
         ]
     },

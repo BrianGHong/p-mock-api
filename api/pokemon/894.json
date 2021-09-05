@@ -8,13 +8,18 @@
     },
     "eggGroups": [],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [],
-        "is_baby": false,
-        "species": {
-            "name": "regieleki",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/894/"
-        }
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "894",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/894.png",
+                "name": "regieleki",
+                "types": [
+                    "electric"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -49,9 +54,9 @@
     },
     "type_relations": {
         "resistantTo": [
+            "electric",
             "steel",
-            "flying",
-            "electric"
+            "flying"
         ],
         "weakTo": [
             "ground"

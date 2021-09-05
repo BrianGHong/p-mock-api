@@ -10,13 +10,19 @@
         "no-eggs"
     ],
     "evolution": {
-        "evolution_details": [],
-        "evolves_to": [],
-        "is_baby": false,
-        "species": {
-            "name": "stakataka",
-            "url": "https://pokeapi.co/api/v2/pokemon-species/805/"
-        }
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "805",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/805.png",
+                "name": "stakataka",
+                "types": [
+                    "rock",
+                    "steel"
+                ]
+            }
+        ]
     },
     "forms": [
         {
@@ -52,19 +58,19 @@
     "type_relations": {
         "resistantTo": [
             "poison",
-            "bug",
-            "rock",
-            "flying",
             "fairy",
-            "normal",
+            "rock",
+            "ice",
             "dragon",
+            "bug",
+            "flying",
             "psychic",
-            "ice"
+            "normal"
         ],
         "weakTo": [
-            "fighting",
+            "water",
             "ground",
-            "water"
+            "fighting"
         ]
     },
     "types": [
