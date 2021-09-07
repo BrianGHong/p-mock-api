@@ -7627,7 +7627,7 @@
     },
     {
         "id": 10001,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/899.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10001.png",
         "name": "deoxys-attack",
         "types": [
             "psychic"
@@ -7635,7 +7635,7 @@
     },
     {
         "id": 10002,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/900.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10002.png",
         "name": "deoxys-defense",
         "types": [
             "psychic"
@@ -7643,7 +7643,7 @@
     },
     {
         "id": 10003,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/901.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10003.png",
         "name": "deoxys-speed",
         "types": [
             "psychic"
@@ -7651,7 +7651,7 @@
     },
     {
         "id": 10004,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/902.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10004.png",
         "name": "wormadam-sandy",
         "types": [
             "bug",
@@ -7660,7 +7660,7 @@
     },
     {
         "id": 10005,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/903.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10005.png",
         "name": "wormadam-trash",
         "types": [
             "bug",
@@ -7669,7 +7669,7 @@
     },
     {
         "id": 10006,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/904.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10006.png",
         "name": "shaymin-sky",
         "types": [
             "grass",
@@ -7678,7 +7678,7 @@
     },
     {
         "id": 10007,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/905.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10007.png",
         "name": "giratina-origin",
         "types": [
             "ghost",
@@ -7687,7 +7687,7 @@
     },
     {
         "id": 10008,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/906.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10008.png",
         "name": "rotom-heat",
         "types": [
             "electric",
@@ -7696,7 +7696,7 @@
     },
     {
         "id": 10009,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/907.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10009.png",
         "name": "rotom-wash",
         "types": [
             "electric",
@@ -7705,7 +7705,7 @@
     },
     {
         "id": 10010,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/908.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10010.png",
         "name": "rotom-frost",
         "types": [
             "electric",
@@ -7714,7 +7714,7 @@
     },
     {
         "id": 10011,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/909.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10011.png",
         "name": "rotom-fan",
         "types": [
             "electric",
@@ -7723,7 +7723,7 @@
     },
     {
         "id": 10012,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/910.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10012.png",
         "name": "rotom-mow",
         "types": [
             "electric",
@@ -7732,7 +7732,7 @@
     },
     {
         "id": 10013,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/911.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10013.png",
         "name": "castform-sunny",
         "types": [
             "fire"
@@ -7740,7 +7740,7 @@
     },
     {
         "id": 10014,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/912.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10014.png",
         "name": "castform-rainy",
         "types": [
             "water"
@@ -7748,7 +7748,7 @@
     },
     {
         "id": 10015,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/913.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10015.png",
         "name": "castform-snowy",
         "types": [
             "ice"
@@ -7756,7 +7756,7 @@
     },
     {
         "id": 10016,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/914.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10016.png",
         "name": "basculin-blue-striped",
         "types": [
             "water"
@@ -7764,7 +7764,7 @@
     },
     {
         "id": 10017,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/915.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10017.png",
         "name": "darmanitan-zen",
         "types": [
             "fire",
@@ -7773,7 +7773,7 @@
     },
     {
         "id": 10018,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/916.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10018.png",
         "name": "meloetta-pirouette",
         "types": [
             "normal",
@@ -7782,7 +7782,7 @@
     },
     {
         "id": 10019,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/917.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10019.png",
         "name": "tornadus-therian",
         "types": [
             "flying"
@@ -7790,7 +7790,7 @@
     },
     {
         "id": 10020,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/918.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10020.png",
         "name": "thundurus-therian",
         "types": [
             "electric",
@@ -7799,7 +7799,7 @@
     },
     {
         "id": 10021,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/919.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10021.png",
         "name": "landorus-therian",
         "types": [
             "ground",
@@ -7808,7 +7808,7 @@
     },
     {
         "id": 10022,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/920.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10022.png",
         "name": "kyurem-black",
         "types": [
             "dragon",
@@ -7817,7 +7817,7 @@
     },
     {
         "id": 10023,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/921.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10023.png",
         "name": "kyurem-white",
         "types": [
             "dragon",
@@ -7826,7 +7826,7 @@
     },
     {
         "id": 10024,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/922.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10024.png",
         "name": "keldeo-resolute",
         "types": [
             "water",
@@ -7835,7 +7835,7 @@
     },
     {
         "id": 10025,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/923.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10025.png",
         "name": "meowstic-female",
         "types": [
             "psychic"
@@ -7843,7 +7843,7 @@
     },
     {
         "id": 10026,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/924.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10026.png",
         "name": "aegislash-blade",
         "types": [
             "steel",
@@ -7852,7 +7852,7 @@
     },
     {
         "id": 10027,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/925.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10027.png",
         "name": "pumpkaboo-small",
         "types": [
             "ghost",
@@ -7861,7 +7861,7 @@
     },
     {
         "id": 10028,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/926.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10028.png",
         "name": "pumpkaboo-large",
         "types": [
             "ghost",
@@ -7870,7 +7870,7 @@
     },
     {
         "id": 10029,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/927.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10029.png",
         "name": "pumpkaboo-super",
         "types": [
             "ghost",
@@ -7879,7 +7879,7 @@
     },
     {
         "id": 10030,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/928.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10030.png",
         "name": "gourgeist-small",
         "types": [
             "ghost",
@@ -7888,7 +7888,7 @@
     },
     {
         "id": 10031,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/929.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10031.png",
         "name": "gourgeist-large",
         "types": [
             "ghost",
@@ -7897,7 +7897,7 @@
     },
     {
         "id": 10032,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/930.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10032.png",
         "name": "gourgeist-super",
         "types": [
             "ghost",
@@ -7906,7 +7906,7 @@
     },
     {
         "id": 10033,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/931.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10033.png",
         "name": "venusaur-mega",
         "types": [
             "grass",
@@ -7915,7 +7915,7 @@
     },
     {
         "id": 10034,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/932.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10034.png",
         "name": "charizard-mega-x",
         "types": [
             "fire",
@@ -7924,7 +7924,7 @@
     },
     {
         "id": 10035,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/933.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10035.png",
         "name": "charizard-mega-y",
         "types": [
             "fire",
@@ -7933,7 +7933,7 @@
     },
     {
         "id": 10036,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/934.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10036.png",
         "name": "blastoise-mega",
         "types": [
             "water"
@@ -7941,7 +7941,7 @@
     },
     {
         "id": 10037,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/935.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10037.png",
         "name": "alakazam-mega",
         "types": [
             "psychic"
@@ -7949,7 +7949,7 @@
     },
     {
         "id": 10038,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/936.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10038.png",
         "name": "gengar-mega",
         "types": [
             "ghost",
@@ -7958,7 +7958,7 @@
     },
     {
         "id": 10039,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/937.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10039.png",
         "name": "kangaskhan-mega",
         "types": [
             "normal"
@@ -7966,7 +7966,7 @@
     },
     {
         "id": 10040,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/938.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10040.png",
         "name": "pinsir-mega",
         "types": [
             "bug",
@@ -7975,7 +7975,7 @@
     },
     {
         "id": 10041,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/939.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10041.png",
         "name": "gyarados-mega",
         "types": [
             "water",
@@ -7984,7 +7984,7 @@
     },
     {
         "id": 10042,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/940.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10042.png",
         "name": "aerodactyl-mega",
         "types": [
             "rock",
@@ -7993,7 +7993,7 @@
     },
     {
         "id": 10043,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/941.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10043.png",
         "name": "mewtwo-mega-x",
         "types": [
             "psychic",
@@ -8002,7 +8002,7 @@
     },
     {
         "id": 10044,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/942.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10044.png",
         "name": "mewtwo-mega-y",
         "types": [
             "psychic"
@@ -8010,7 +8010,7 @@
     },
     {
         "id": 10045,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/943.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10045.png",
         "name": "ampharos-mega",
         "types": [
             "electric",
@@ -8019,7 +8019,7 @@
     },
     {
         "id": 10046,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/944.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10046.png",
         "name": "scizor-mega",
         "types": [
             "bug",
@@ -8028,7 +8028,7 @@
     },
     {
         "id": 10047,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/945.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10047.png",
         "name": "heracross-mega",
         "types": [
             "bug",
@@ -8037,7 +8037,7 @@
     },
     {
         "id": 10048,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/946.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10048.png",
         "name": "houndoom-mega",
         "types": [
             "dark",
@@ -8046,7 +8046,7 @@
     },
     {
         "id": 10049,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/947.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10049.png",
         "name": "tyranitar-mega",
         "types": [
             "rock",
@@ -8055,7 +8055,7 @@
     },
     {
         "id": 10050,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/948.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10050.png",
         "name": "blaziken-mega",
         "types": [
             "fire",
@@ -8064,7 +8064,7 @@
     },
     {
         "id": 10051,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/949.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10051.png",
         "name": "gardevoir-mega",
         "types": [
             "psychic",
@@ -8073,7 +8073,7 @@
     },
     {
         "id": 10052,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/950.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10052.png",
         "name": "mawile-mega",
         "types": [
             "steel",
@@ -8082,7 +8082,7 @@
     },
     {
         "id": 10053,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/951.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10053.png",
         "name": "aggron-mega",
         "types": [
             "steel"
@@ -8090,7 +8090,7 @@
     },
     {
         "id": 10054,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/952.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10054.png",
         "name": "medicham-mega",
         "types": [
             "fighting",
@@ -8099,7 +8099,7 @@
     },
     {
         "id": 10055,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/953.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10055.png",
         "name": "manectric-mega",
         "types": [
             "electric"
@@ -8107,7 +8107,7 @@
     },
     {
         "id": 10056,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/954.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10056.png",
         "name": "banette-mega",
         "types": [
             "ghost"
@@ -8115,7 +8115,7 @@
     },
     {
         "id": 10057,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/955.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10057.png",
         "name": "absol-mega",
         "types": [
             "dark"
@@ -8123,7 +8123,7 @@
     },
     {
         "id": 10058,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/956.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10058.png",
         "name": "garchomp-mega",
         "types": [
             "dragon",
@@ -8132,7 +8132,7 @@
     },
     {
         "id": 10059,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/957.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10059.png",
         "name": "lucario-mega",
         "types": [
             "fighting",
@@ -8141,7 +8141,7 @@
     },
     {
         "id": 10060,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/958.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10060.png",
         "name": "abomasnow-mega",
         "types": [
             "grass",
@@ -8150,7 +8150,7 @@
     },
     {
         "id": 10061,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/959.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10061.png",
         "name": "floette-eternal",
         "types": [
             "fairy"
@@ -8158,7 +8158,7 @@
     },
     {
         "id": 10062,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/960.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10062.png",
         "name": "latias-mega",
         "types": [
             "dragon",
@@ -8167,7 +8167,7 @@
     },
     {
         "id": 10063,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/961.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10063.png",
         "name": "latios-mega",
         "types": [
             "dragon",
@@ -8176,7 +8176,7 @@
     },
     {
         "id": 10064,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/962.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10064.png",
         "name": "swampert-mega",
         "types": [
             "water",
@@ -8185,7 +8185,7 @@
     },
     {
         "id": 10065,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/963.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10065.png",
         "name": "sceptile-mega",
         "types": [
             "grass",
@@ -8194,7 +8194,7 @@
     },
     {
         "id": 10066,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/964.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10066.png",
         "name": "sableye-mega",
         "types": [
             "dark",
@@ -8203,7 +8203,7 @@
     },
     {
         "id": 10067,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/965.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10067.png",
         "name": "altaria-mega",
         "types": [
             "dragon",
@@ -8212,7 +8212,7 @@
     },
     {
         "id": 10068,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/966.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10068.png",
         "name": "gallade-mega",
         "types": [
             "psychic",
@@ -8221,7 +8221,7 @@
     },
     {
         "id": 10069,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/967.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10069.png",
         "name": "audino-mega",
         "types": [
             "normal",
@@ -8230,7 +8230,7 @@
     },
     {
         "id": 10070,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/968.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10070.png",
         "name": "sharpedo-mega",
         "types": [
             "water",
@@ -8239,7 +8239,7 @@
     },
     {
         "id": 10071,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/969.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10071.png",
         "name": "slowbro-mega",
         "types": [
             "water",
@@ -8248,7 +8248,7 @@
     },
     {
         "id": 10072,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/970.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10072.png",
         "name": "steelix-mega",
         "types": [
             "steel",
@@ -8257,7 +8257,7 @@
     },
     {
         "id": 10073,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/971.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10073.png",
         "name": "pidgeot-mega",
         "types": [
             "normal",
@@ -8266,7 +8266,7 @@
     },
     {
         "id": 10074,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/972.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10074.png",
         "name": "glalie-mega",
         "types": [
             "ice"
@@ -8274,7 +8274,7 @@
     },
     {
         "id": 10075,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/973.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10075.png",
         "name": "diancie-mega",
         "types": [
             "rock",
@@ -8283,7 +8283,7 @@
     },
     {
         "id": 10076,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/974.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10076.png",
         "name": "metagross-mega",
         "types": [
             "steel",
@@ -8292,7 +8292,7 @@
     },
     {
         "id": 10077,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/975.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10077.png",
         "name": "kyogre-primal",
         "types": [
             "water"
@@ -8300,7 +8300,7 @@
     },
     {
         "id": 10078,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/976.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10078.png",
         "name": "groudon-primal",
         "types": [
             "ground",
@@ -8309,7 +8309,7 @@
     },
     {
         "id": 10079,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/977.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10079.png",
         "name": "rayquaza-mega",
         "types": [
             "dragon",
@@ -8318,7 +8318,7 @@
     },
     {
         "id": 10080,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/978.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10080.png",
         "name": "pikachu-rock-star",
         "types": [
             "electric"
@@ -8326,7 +8326,7 @@
     },
     {
         "id": 10081,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/979.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10081.png",
         "name": "pikachu-belle",
         "types": [
             "electric"
@@ -8334,7 +8334,7 @@
     },
     {
         "id": 10082,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/980.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10082.png",
         "name": "pikachu-pop-star",
         "types": [
             "electric"
@@ -8342,7 +8342,7 @@
     },
     {
         "id": 10083,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/981.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10083.png",
         "name": "pikachu-phd",
         "types": [
             "electric"
@@ -8350,7 +8350,7 @@
     },
     {
         "id": 10084,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/982.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10084.png",
         "name": "pikachu-libre",
         "types": [
             "electric"
@@ -8358,7 +8358,7 @@
     },
     {
         "id": 10085,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/983.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10085.png",
         "name": "pikachu-cosplay",
         "types": [
             "electric"
@@ -8366,7 +8366,7 @@
     },
     {
         "id": 10086,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/984.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10086.png",
         "name": "hoopa-unbound",
         "types": [
             "psychic",
@@ -8375,7 +8375,7 @@
     },
     {
         "id": 10087,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/985.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10087.png",
         "name": "camerupt-mega",
         "types": [
             "fire",
@@ -8384,7 +8384,7 @@
     },
     {
         "id": 10088,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/986.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10088.png",
         "name": "lopunny-mega",
         "types": [
             "normal",
@@ -8393,7 +8393,7 @@
     },
     {
         "id": 10089,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/987.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10089.png",
         "name": "salamence-mega",
         "types": [
             "dragon",
@@ -8402,7 +8402,7 @@
     },
     {
         "id": 10090,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/988.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10090.png",
         "name": "beedrill-mega",
         "types": [
             "bug",
@@ -8411,7 +8411,7 @@
     },
     {
         "id": 10091,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/989.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10091.png",
         "name": "rattata-alola",
         "types": [
             "dark",
@@ -8420,7 +8420,7 @@
     },
     {
         "id": 10092,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/990.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10092.png",
         "name": "raticate-alola",
         "types": [
             "dark",
@@ -8429,7 +8429,7 @@
     },
     {
         "id": 10093,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/991.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10093.png",
         "name": "raticate-totem-alola",
         "types": [
             "dark",
@@ -8438,7 +8438,7 @@
     },
     {
         "id": 10094,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/992.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10094.png",
         "name": "pikachu-original-cap",
         "types": [
             "electric"
@@ -8446,7 +8446,7 @@
     },
     {
         "id": 10095,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/993.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10095.png",
         "name": "pikachu-hoenn-cap",
         "types": [
             "electric"
@@ -8454,7 +8454,7 @@
     },
     {
         "id": 10096,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/994.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10096.png",
         "name": "pikachu-sinnoh-cap",
         "types": [
             "electric"
@@ -8462,7 +8462,7 @@
     },
     {
         "id": 10097,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/995.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10097.png",
         "name": "pikachu-unova-cap",
         "types": [
             "electric"
@@ -8470,7 +8470,7 @@
     },
     {
         "id": 10098,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/996.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10098.png",
         "name": "pikachu-kalos-cap",
         "types": [
             "electric"
@@ -8478,7 +8478,7 @@
     },
     {
         "id": 10099,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/997.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10099.png",
         "name": "pikachu-alola-cap",
         "types": [
             "electric"
@@ -8486,7 +8486,7 @@
     },
     {
         "id": 10100,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/998.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10100.png",
         "name": "raichu-alola",
         "types": [
             "electric",
@@ -8495,7 +8495,7 @@
     },
     {
         "id": 10101,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/999.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10101.png",
         "name": "sandshrew-alola",
         "types": [
             "ice",
@@ -8504,7 +8504,7 @@
     },
     {
         "id": 10102,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1000.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10102.png",
         "name": "sandslash-alola",
         "types": [
             "ice",
@@ -8513,7 +8513,7 @@
     },
     {
         "id": 10103,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1001.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10103.png",
         "name": "vulpix-alola",
         "types": [
             "ice"
@@ -8521,7 +8521,7 @@
     },
     {
         "id": 10104,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1002.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10104.png",
         "name": "ninetales-alola",
         "types": [
             "ice",
@@ -8530,7 +8530,7 @@
     },
     {
         "id": 10105,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1003.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10105.png",
         "name": "diglett-alola",
         "types": [
             "ground",
@@ -8539,7 +8539,7 @@
     },
     {
         "id": 10106,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1004.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10106.png",
         "name": "dugtrio-alola",
         "types": [
             "ground",
@@ -8548,7 +8548,7 @@
     },
     {
         "id": 10107,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1005.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10107.png",
         "name": "meowth-alola",
         "types": [
             "dark"
@@ -8556,7 +8556,7 @@
     },
     {
         "id": 10108,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1006.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10108.png",
         "name": "persian-alola",
         "types": [
             "dark"
@@ -8564,7 +8564,7 @@
     },
     {
         "id": 10109,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1007.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10109.png",
         "name": "geodude-alola",
         "types": [
             "rock",
@@ -8573,7 +8573,7 @@
     },
     {
         "id": 10110,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1008.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10110.png",
         "name": "graveler-alola",
         "types": [
             "rock",
@@ -8582,7 +8582,7 @@
     },
     {
         "id": 10111,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1009.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10111.png",
         "name": "golem-alola",
         "types": [
             "rock",
@@ -8591,7 +8591,7 @@
     },
     {
         "id": 10112,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1010.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10112.png",
         "name": "grimer-alola",
         "types": [
             "poison",
@@ -8600,7 +8600,7 @@
     },
     {
         "id": 10113,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1011.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10113.png",
         "name": "muk-alola",
         "types": [
             "poison",
@@ -8609,7 +8609,7 @@
     },
     {
         "id": 10114,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1012.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10114.png",
         "name": "exeggutor-alola",
         "types": [
             "grass",
@@ -8618,7 +8618,7 @@
     },
     {
         "id": 10115,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1013.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10115.png",
         "name": "marowak-alola",
         "types": [
             "fire",
@@ -8627,7 +8627,7 @@
     },
     {
         "id": 10116,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1014.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10116.png",
         "name": "greninja-battle-bond",
         "types": [
             "water",
@@ -8636,7 +8636,7 @@
     },
     {
         "id": 10117,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1015.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10117.png",
         "name": "greninja-ash",
         "types": [
             "water",
@@ -8645,7 +8645,7 @@
     },
     {
         "id": 10118,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1016.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10118.png",
         "name": "zygarde-10",
         "types": [
             "dragon",
@@ -8654,7 +8654,7 @@
     },
     {
         "id": 10119,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1017.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10119.png",
         "name": "zygarde-50",
         "types": [
             "dragon",
@@ -8663,7 +8663,7 @@
     },
     {
         "id": 10120,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1018.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10120.png",
         "name": "zygarde-complete",
         "types": [
             "dragon",
@@ -8672,7 +8672,7 @@
     },
     {
         "id": 10121,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1019.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10121.png",
         "name": "gumshoos-totem",
         "types": [
             "normal"
@@ -8680,7 +8680,7 @@
     },
     {
         "id": 10122,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1020.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10122.png",
         "name": "vikavolt-totem",
         "types": [
             "bug",
@@ -8689,7 +8689,7 @@
     },
     {
         "id": 10123,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1021.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10123.png",
         "name": "oricorio-pom-pom",
         "types": [
             "electric",
@@ -8698,7 +8698,7 @@
     },
     {
         "id": 10124,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1022.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10124.png",
         "name": "oricorio-pau",
         "types": [
             "psychic",
@@ -8707,7 +8707,7 @@
     },
     {
         "id": 10125,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1023.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10125.png",
         "name": "oricorio-sensu",
         "types": [
             "ghost",
@@ -8716,7 +8716,7 @@
     },
     {
         "id": 10126,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1024.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10126.png",
         "name": "lycanroc-midnight",
         "types": [
             "rock"
@@ -8724,7 +8724,7 @@
     },
     {
         "id": 10127,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1025.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10127.png",
         "name": "wishiwashi-school",
         "types": [
             "water"
@@ -8732,7 +8732,7 @@
     },
     {
         "id": 10128,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1026.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10128.png",
         "name": "lurantis-totem",
         "types": [
             "grass"
@@ -8740,7 +8740,7 @@
     },
     {
         "id": 10129,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1027.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10129.png",
         "name": "salazzle-totem",
         "types": [
             "poison",
@@ -8749,7 +8749,7 @@
     },
     {
         "id": 10130,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1028.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10130.png",
         "name": "minior-orange-meteor",
         "types": [
             "rock",
@@ -8758,7 +8758,7 @@
     },
     {
         "id": 10131,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1029.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10131.png",
         "name": "minior-yellow-meteor",
         "types": [
             "rock",
@@ -8767,7 +8767,7 @@
     },
     {
         "id": 10132,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1030.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10132.png",
         "name": "minior-green-meteor",
         "types": [
             "rock",
@@ -8776,7 +8776,7 @@
     },
     {
         "id": 10133,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1031.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10133.png",
         "name": "minior-blue-meteor",
         "types": [
             "rock",
@@ -8785,7 +8785,7 @@
     },
     {
         "id": 10134,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1032.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10134.png",
         "name": "minior-indigo-meteor",
         "types": [
             "rock",
@@ -8794,7 +8794,7 @@
     },
     {
         "id": 10135,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1033.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10135.png",
         "name": "minior-violet-meteor",
         "types": [
             "rock",
@@ -8803,7 +8803,7 @@
     },
     {
         "id": 10136,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1034.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10136.png",
         "name": "minior-red",
         "types": [
             "rock",
@@ -8812,7 +8812,7 @@
     },
     {
         "id": 10137,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1035.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10137.png",
         "name": "minior-orange",
         "types": [
             "rock",
@@ -8821,7 +8821,7 @@
     },
     {
         "id": 10138,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1036.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10138.png",
         "name": "minior-yellow",
         "types": [
             "rock",
@@ -8830,7 +8830,7 @@
     },
     {
         "id": 10139,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1037.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10139.png",
         "name": "minior-green",
         "types": [
             "rock",
@@ -8839,7 +8839,7 @@
     },
     {
         "id": 10140,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1038.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10140.png",
         "name": "minior-blue",
         "types": [
             "rock",
@@ -8848,7 +8848,7 @@
     },
     {
         "id": 10141,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1039.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10141.png",
         "name": "minior-indigo",
         "types": [
             "rock",
@@ -8857,7 +8857,7 @@
     },
     {
         "id": 10142,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1040.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10142.png",
         "name": "minior-violet",
         "types": [
             "rock",
@@ -8866,7 +8866,7 @@
     },
     {
         "id": 10143,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1041.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10143.png",
         "name": "mimikyu-busted",
         "types": [
             "ghost",
@@ -8875,7 +8875,7 @@
     },
     {
         "id": 10144,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1042.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10144.png",
         "name": "mimikyu-totem-disguised",
         "types": [
             "ghost",
@@ -8884,7 +8884,7 @@
     },
     {
         "id": 10145,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1043.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10145.png",
         "name": "mimikyu-totem-busted",
         "types": [
             "ghost",
@@ -8893,7 +8893,7 @@
     },
     {
         "id": 10146,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1044.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10146.png",
         "name": "kommo-o-totem",
         "types": [
             "dragon",
@@ -8902,7 +8902,7 @@
     },
     {
         "id": 10147,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1045.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10147.png",
         "name": "magearna-original",
         "types": [
             "steel",
@@ -8911,7 +8911,7 @@
     },
     {
         "id": 10148,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1046.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10148.png",
         "name": "pikachu-partner-cap",
         "types": [
             "electric"
@@ -8919,7 +8919,7 @@
     },
     {
         "id": 10149,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1047.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10149.png",
         "name": "marowak-totem",
         "types": [
             "fire",
@@ -8928,7 +8928,7 @@
     },
     {
         "id": 10150,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1048.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10150.png",
         "name": "ribombee-totem",
         "types": [
             "bug",
@@ -8937,7 +8937,7 @@
     },
     {
         "id": 10151,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1049.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10151.png",
         "name": "rockruff-own-tempo",
         "types": [
             "rock"
@@ -8945,7 +8945,7 @@
     },
     {
         "id": 10152,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1050.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10152.png",
         "name": "lycanroc-dusk",
         "types": [
             "rock"
@@ -8953,7 +8953,7 @@
     },
     {
         "id": 10153,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1051.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10153.png",
         "name": "araquanid-totem",
         "types": [
             "water",
@@ -8962,7 +8962,7 @@
     },
     {
         "id": 10154,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1052.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10154.png",
         "name": "togedemaru-totem",
         "types": [
             "electric",
@@ -8971,7 +8971,7 @@
     },
     {
         "id": 10155,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1053.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10155.png",
         "name": "necrozma-dusk",
         "types": [
             "psychic",
@@ -8980,7 +8980,7 @@
     },
     {
         "id": 10156,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1054.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10156.png",
         "name": "necrozma-dawn",
         "types": [
             "psychic",
@@ -8989,7 +8989,7 @@
     },
     {
         "id": 10157,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1055.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10157.png",
         "name": "necrozma-ultra",
         "types": [
             "psychic",
@@ -8998,7 +8998,7 @@
     },
     {
         "id": 10158,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1056.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10158.png",
         "name": "meowth-galar",
         "types": [
             "steel"
@@ -9006,7 +9006,7 @@
     },
     {
         "id": 10159,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1057.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10159.png",
         "name": "ponyta-galar",
         "types": [
             "psychic"
@@ -9014,7 +9014,7 @@
     },
     {
         "id": 10160,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1058.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10160.png",
         "name": "rapidash-galar",
         "types": [
             "psychic",
@@ -9023,7 +9023,7 @@
     },
     {
         "id": 10161,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1059.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10161.png",
         "name": "slowpoke-galar",
         "types": [
             "psychic"
@@ -9031,7 +9031,7 @@
     },
     {
         "id": 10162,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1060.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10162.png",
         "name": "slowbro-galar",
         "types": [
             "poison",
@@ -9040,7 +9040,7 @@
     },
     {
         "id": 10163,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1061.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10163.png",
         "name": "farfetchd-galar",
         "types": [
             "fighting"
@@ -9048,7 +9048,7 @@
     },
     {
         "id": 10164,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1062.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10164.png",
         "name": "weezing-galar",
         "types": [
             "poison",
@@ -9057,7 +9057,7 @@
     },
     {
         "id": 10165,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1063.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10165.png",
         "name": "mr-mime-galar",
         "types": [
             "ice",
@@ -9066,7 +9066,7 @@
     },
     {
         "id": 10166,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1064.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10166.png",
         "name": "articuno-galar",
         "types": [
             "psychic",
@@ -9075,7 +9075,7 @@
     },
     {
         "id": 10167,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1065.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10167.png",
         "name": "zapdos-galar",
         "types": [
             "fighting",
@@ -9084,7 +9084,7 @@
     },
     {
         "id": 10168,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1066.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10168.png",
         "name": "moltres-galar",
         "types": [
             "dark",
@@ -9093,7 +9093,7 @@
     },
     {
         "id": 10169,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1067.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10169.png",
         "name": "slowking-galar",
         "types": [
             "poison",
@@ -9102,7 +9102,7 @@
     },
     {
         "id": 10170,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1068.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10170.png",
         "name": "corsola-galar",
         "types": [
             "ghost"
@@ -9110,7 +9110,7 @@
     },
     {
         "id": 10171,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1069.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10171.png",
         "name": "zigzagoon-galar",
         "types": [
             "dark",
@@ -9119,7 +9119,7 @@
     },
     {
         "id": 10172,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1070.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10172.png",
         "name": "linoone-galar",
         "types": [
             "dark",
@@ -9128,7 +9128,7 @@
     },
     {
         "id": 10173,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1071.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10173.png",
         "name": "darumaka-galar",
         "types": [
             "ice"
@@ -9136,7 +9136,7 @@
     },
     {
         "id": 10174,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1072.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10174.png",
         "name": "darmanitan-standard-galar",
         "types": [
             "ice"
@@ -9144,7 +9144,7 @@
     },
     {
         "id": 10175,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1073.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10175.png",
         "name": "darmanitan-zen-galar",
         "types": [
             "ice",
@@ -9153,7 +9153,7 @@
     },
     {
         "id": 10176,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1074.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10176.png",
         "name": "yamask-galar",
         "types": [
             "ground",
@@ -9162,7 +9162,7 @@
     },
     {
         "id": 10177,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1075.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10177.png",
         "name": "stunfisk-galar",
         "types": [
             "ground",
@@ -9171,7 +9171,7 @@
     },
     {
         "id": 10178,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1076.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10178.png",
         "name": "toxtricity-low-key",
         "types": [
             "electric",
@@ -9180,7 +9180,7 @@
     },
     {
         "id": 10179,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1077.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10179.png",
         "name": "eiscue-noice",
         "types": [
             "ice"
@@ -9188,7 +9188,7 @@
     },
     {
         "id": 10180,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1078.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10180.png",
         "name": "indeedee-female",
         "types": [
             "psychic",
@@ -9197,7 +9197,7 @@
     },
     {
         "id": 10181,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1079.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10181.png",
         "name": "zacian-crowned",
         "types": [
             "fairy",
@@ -9206,7 +9206,7 @@
     },
     {
         "id": 10182,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1080.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10182.png",
         "name": "zamazenta-crowned",
         "types": [
             "fighting",
@@ -9215,7 +9215,7 @@
     },
     {
         "id": 10183,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1081.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10183.png",
         "name": "urshifu-rapid-strike",
         "types": [
             "fighting",
@@ -9224,7 +9224,7 @@
     },
     {
         "id": 10184,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1082.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10184.png",
         "name": "calyrex-ice-rider",
         "types": [
             "psychic",
@@ -9233,7 +9233,7 @@
     },
     {
         "id": 10185,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1083.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10185.png",
         "name": "calyrex-shadow-rider",
         "types": [
             "psychic",
@@ -9242,7 +9242,7 @@
     },
     {
         "id": 10186,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1084.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10186.png",
         "name": "venusaur-gmax",
         "types": [
             "grass",
@@ -9251,7 +9251,7 @@
     },
     {
         "id": 10187,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1085.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10187.png",
         "name": "charizard-gmax",
         "types": [
             "fire",
@@ -9260,7 +9260,7 @@
     },
     {
         "id": 10188,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1086.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10188.png",
         "name": "blastoise-gmax",
         "types": [
             "water"
@@ -9268,7 +9268,7 @@
     },
     {
         "id": 10189,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1087.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10189.png",
         "name": "butterfree-gmax",
         "types": [
             "bug",
@@ -9277,7 +9277,7 @@
     },
     {
         "id": 10190,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1088.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10190.png",
         "name": "pikachu-gmax",
         "types": [
             "electric"
@@ -9285,7 +9285,7 @@
     },
     {
         "id": 10191,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1089.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10191.png",
         "name": "meowth-gmax",
         "types": [
             "normal"
@@ -9293,7 +9293,7 @@
     },
     {
         "id": 10192,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1090.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10192.png",
         "name": "machamp-gmax",
         "types": [
             "fighting"
@@ -9301,7 +9301,7 @@
     },
     {
         "id": 10193,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1091.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10193.png",
         "name": "gengar-gmax",
         "types": [
             "ghost",
@@ -9310,7 +9310,7 @@
     },
     {
         "id": 10194,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1092.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10194.png",
         "name": "kingler-gmax",
         "types": [
             "water"
@@ -9318,7 +9318,7 @@
     },
     {
         "id": 10195,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1093.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10195.png",
         "name": "lapras-gmax",
         "types": [
             "water",
@@ -9327,7 +9327,7 @@
     },
     {
         "id": 10196,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1094.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10196.png",
         "name": "eevee-gmax",
         "types": [
             "normal"
@@ -9335,7 +9335,7 @@
     },
     {
         "id": 10197,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1095.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10197.png",
         "name": "snorlax-gmax",
         "types": [
             "normal"
@@ -9343,7 +9343,7 @@
     },
     {
         "id": 10198,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1096.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10198.png",
         "name": "garbodor-gmax",
         "types": [
             "poison"
@@ -9351,7 +9351,7 @@
     },
     {
         "id": 10199,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1097.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10199.png",
         "name": "melmetal-gmax",
         "types": [
             "steel"
@@ -9359,7 +9359,7 @@
     },
     {
         "id": 10200,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1098.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10200.png",
         "name": "rillaboom-gmax",
         "types": [
             "grass"
@@ -9367,7 +9367,7 @@
     },
     {
         "id": 10201,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1099.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10201.png",
         "name": "cinderace-gmax",
         "types": [
             "fire"
@@ -9375,7 +9375,7 @@
     },
     {
         "id": 10202,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1100.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10202.png",
         "name": "inteleon-gmax",
         "types": [
             "water"
@@ -9383,7 +9383,7 @@
     },
     {
         "id": 10203,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1101.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10203.png",
         "name": "corviknight-gmax",
         "types": [
             "flying",
@@ -9392,7 +9392,7 @@
     },
     {
         "id": 10204,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1102.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10204.png",
         "name": "orbeetle-gmax",
         "types": [
             "bug",
@@ -9401,7 +9401,7 @@
     },
     {
         "id": 10205,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1103.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10205.png",
         "name": "drednaw-gmax",
         "types": [
             "water",
@@ -9410,7 +9410,7 @@
     },
     {
         "id": 10206,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1104.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10206.png",
         "name": "coalossal-gmax",
         "types": [
             "rock",
@@ -9419,7 +9419,7 @@
     },
     {
         "id": 10207,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1105.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10207.png",
         "name": "flapple-gmax",
         "types": [
             "grass",
@@ -9428,7 +9428,7 @@
     },
     {
         "id": 10208,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1106.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10208.png",
         "name": "appletun-gmax",
         "types": [
             "grass",
@@ -9437,7 +9437,7 @@
     },
     {
         "id": 10209,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1107.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10209.png",
         "name": "sandaconda-gmax",
         "types": [
             "ground"
@@ -9445,7 +9445,7 @@
     },
     {
         "id": 10210,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1108.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10210.png",
         "name": "toxtricity-amped-gmax",
         "types": [
             "electric",
@@ -9454,7 +9454,7 @@
     },
     {
         "id": 10211,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1109.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10211.png",
         "name": "centiskorch-gmax",
         "types": [
             "fire",
@@ -9463,7 +9463,7 @@
     },
     {
         "id": 10212,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1110.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10212.png",
         "name": "hatterene-gmax",
         "types": [
             "psychic",
@@ -9472,7 +9472,7 @@
     },
     {
         "id": 10213,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1111.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10213.png",
         "name": "grimmsnarl-gmax",
         "types": [
             "dark",
@@ -9481,7 +9481,7 @@
     },
     {
         "id": 10214,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1112.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10214.png",
         "name": "alcremie-gmax",
         "types": [
             "fairy"
@@ -9489,7 +9489,7 @@
     },
     {
         "id": 10215,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1113.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10215.png",
         "name": "copperajah-gmax",
         "types": [
             "steel"
@@ -9497,7 +9497,7 @@
     },
     {
         "id": 10216,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1114.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10216.png",
         "name": "duraludon-gmax",
         "types": [
             "steel",
@@ -9506,7 +9506,7 @@
     },
     {
         "id": 10217,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1115.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10217.png",
         "name": "eternatus-eternamax",
         "types": [
             "poison",
@@ -9515,7 +9515,7 @@
     },
     {
         "id": 10218,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1116.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10218.png",
         "name": "urshifu-single-strike-gmax",
         "types": [
             "fighting",
@@ -9524,7 +9524,7 @@
     },
     {
         "id": 10219,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1117.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10219.png",
         "name": "urshifu-rapid-strike-gmax",
         "types": [
             "fighting",
@@ -9533,7 +9533,7 @@
     },
     {
         "id": 10220,
-        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1118.png",
+        "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10220.png",
         "name": "toxtricity-low-key-gmax",
         "types": [
             "electric",
