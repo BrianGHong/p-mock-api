@@ -1,0 +1,76 @@
+{
+    "abilities": {
+        "defiant": "Boosts the Pok\u00e9mon\u2019s Attack stat sharply when its\nstats are lowered."
+    },
+    "description": {
+        "game": "red",
+        "text": "A legendary bird\nPOK\u00e9MON that is\nsaid to appear\ffrom clouds while\ndropping enormous\nlightning bolts."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "145",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/145.png",
+                "name": "zapdos",
+                "types": [
+                    "electric",
+                    "flying"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10167.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10167.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10167.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10167.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Electric Pok\u00e9mon",
+    "hatchCounter": 80,
+    "height": 1.6,
+    "id": 10167,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10167.png",
+    "name": "zapdos-galar",
+    "stats": {
+        "attack": 125,
+        "defense": 90,
+        "hp": 90,
+        "specialAttack": 85,
+        "specialDefense": 90,
+        "speed": 100
+    },
+    "type_relations": {
+        "resistantTo": [
+            "dark",
+            "bug",
+            "fighting",
+            "grass"
+        ],
+        "weakTo": [
+            "ice",
+            "fairy",
+            "electric",
+            "psychic",
+            "flying"
+        ]
+    },
+    "types": [
+        "fighting",
+        "flying"
+    ],
+    "weight": 58.2
+}

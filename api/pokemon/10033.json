@@ -1,0 +1,100 @@
+{
+    "abilities": {
+        "thick-fat": "The Pok\u00e9mon is protected by a layer of thick fat,\nwhich halves the damage taken from Fire- and\nIce-type moves."
+    },
+    "description": {
+        "game": "red",
+        "text": "The plant blooms\nwhen it is\nabsorbing solar\fenergy. It stays\non the move to\nseek sunlight."
+    },
+    "eggGroups": [
+        "monster",
+        "plant"
+    ],
+    "evolution": {
+        "end": [
+            {
+                "id": "3",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/3.png",
+                "name": "venusaur",
+                "types": [
+                    "grass",
+                    "poison"
+                ]
+            }
+        ],
+        "mid": [
+            {
+                "id": "2",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/2.png",
+                "name": "ivysaur",
+                "types": [
+                    "grass",
+                    "poison"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "1",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1.png",
+                "name": "bulbasaur",
+                "types": [
+                    "grass",
+                    "poison"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10033.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10033.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10033.png"
+        },
+        {
+            "front_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/10033.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10033.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Seed Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 2.4,
+    "id": 10033,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10033.png",
+    "name": "venusaur-mega",
+    "stats": {
+        "attack": 100,
+        "defense": 123,
+        "hp": 80,
+        "specialAttack": 122,
+        "specialDefense": 120,
+        "speed": 80
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fighting",
+            "fairy",
+            "electric",
+            "water",
+            "grass"
+        ],
+        "weakTo": [
+            "ice",
+            "fire",
+            "psychic",
+            "flying"
+        ]
+    },
+    "types": [
+        "grass",
+        "poison"
+    ],
+    "weight": 155.5
+}

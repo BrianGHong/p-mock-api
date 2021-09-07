@@ -1,0 +1,90 @@
+{
+    "abilities": {
+        "adaptability": "Powers up moves of the same type as the Pok\u00e9mon."
+    },
+    "description": {
+        "game": "red",
+        "text": "Flies at high\nspeed and attacks\nusing its large\fvenomous stingers\non its forelegs\nand tail."
+    },
+    "eggGroups": [
+        "bug"
+    ],
+    "evolution": {
+        "end": [
+            {
+                "id": "15",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/15.png",
+                "name": "beedrill",
+                "types": [
+                    "bug",
+                    "poison"
+                ]
+            }
+        ],
+        "mid": [
+            {
+                "id": "14",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/14.png",
+                "name": "kakuna",
+                "types": [
+                    "bug",
+                    "poison"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "13",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/13.png",
+                "name": "weedle",
+                "types": [
+                    "bug",
+                    "poison"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10090.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10090.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Poison Bee Pok\u00e9mon",
+    "hatchCounter": 15,
+    "height": 1.4,
+    "id": 10090,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10090.png",
+    "name": "beedrill-mega",
+    "stats": {
+        "attack": 150,
+        "defense": 40,
+        "hp": 65,
+        "specialAttack": 15,
+        "specialDefense": 80,
+        "speed": 145
+    },
+    "type_relations": {
+        "resistantTo": [
+            "bug",
+            "fighting",
+            "fairy",
+            "poison",
+            "grass"
+        ],
+        "weakTo": [
+            "fire",
+            "rock",
+            "flying",
+            "psychic"
+        ]
+    },
+    "types": [
+        "bug",
+        "poison"
+    ],
+    "weight": 40.5
+}

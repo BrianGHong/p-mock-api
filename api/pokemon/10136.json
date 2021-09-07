@@ -1,0 +1,78 @@
+{
+    "abilities": {
+        "shields-down": "When its HP becomes half or less, the Pok\u00e9mon\u2019s\nshell breaks and it becomes aggressive."
+    },
+    "description": {
+        "game": "sun",
+        "text": "Originally making its home in the ozone layer,\nit hurtles to the ground when the shell enclosing\nits body grows too heavy."
+    },
+    "eggGroups": [
+        "mineral"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "774",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/774.png",
+                "name": "minior-red-meteor",
+                "types": [
+                    "rock",
+                    "flying"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10136.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10136.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10136.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10136.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Meteor Pok\u00e9mon",
+    "hatchCounter": 25,
+    "height": 0.3,
+    "id": 10136,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10136.png",
+    "name": "minior-red",
+    "stats": {
+        "attack": 100,
+        "defense": 60,
+        "hp": 60,
+        "specialAttack": 100,
+        "specialDefense": 60,
+        "speed": 120
+    },
+    "type_relations": {
+        "resistantTo": [
+            "bug",
+            "fire",
+            "poison",
+            "normal",
+            "flying"
+        ],
+        "weakTo": [
+            "ice",
+            "rock",
+            "electric",
+            "water",
+            "ground",
+            "steel"
+        ]
+    },
+    "types": [
+        "rock",
+        "flying"
+    ],
+    "weight": 0.3
+}

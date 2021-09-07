@@ -1,0 +1,88 @@
+{
+    "abilities": {
+        "sniper": "Powers up moves if they become critical hits\nwhen attacking.",
+        "torrent": "Powers up Water-type moves when the Pok\u00e9mon\u2019s\nHP is low."
+    },
+    "description": {
+        "game": "sword",
+        "text": "Gigantamax Inteleon\u2019s Water Gun move fires at\nMach 7. As the Pok\u00e9mon takes aim, it uses the\ncrest on its head to gauge wind and temperature."
+    },
+    "eggGroups": [],
+    "evolution": {
+        "end": [
+            {
+                "id": "818",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/818.png",
+                "name": "inteleon",
+                "types": [
+                    "water"
+                ]
+            }
+        ],
+        "mid": [
+            {
+                "id": "817",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/817.png",
+                "name": "drizzile",
+                "types": [
+                    "water"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "816",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/816.png",
+                "name": "sobble",
+                "types": [
+                    "water"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10202.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10202.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10202.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10202.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Secret Agent Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 40.0,
+    "id": 10202,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10202.png",
+    "name": "inteleon-gmax",
+    "stats": {
+        "attack": 85,
+        "defense": 65,
+        "hp": 70,
+        "specialAttack": 125,
+        "specialDefense": 65,
+        "speed": 120
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fire",
+            "water",
+            "ice",
+            "steel"
+        ],
+        "weakTo": [
+            "grass",
+            "electric"
+        ]
+    },
+    "types": [
+        "water"
+    ],
+    "weight": 1000.0
+}

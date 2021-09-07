@@ -1,0 +1,81 @@
+{
+    "abilities": {
+        "solar-power": "Boosts the Sp. Atk stat in harsh sunlight, but HP\ndecreases every turn."
+    },
+    "description": {
+        "game": "gold",
+        "text": "If you are burned\nby the flames it\nshoots from its\fmouth, the pain\nwill never go\naway."
+    },
+    "eggGroups": [
+        "ground"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [
+            {
+                "id": "229",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/229.png",
+                "name": "houndoom",
+                "types": [
+                    "dark",
+                    "fire"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "228",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/228.png",
+                "name": "houndour",
+                "types": [
+                    "dark",
+                    "fire"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10048.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10048.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Dark Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 1.9,
+    "id": 10048,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10048.png",
+    "name": "houndoom-mega",
+    "stats": {
+        "attack": 90,
+        "defense": 90,
+        "hp": 75,
+        "specialAttack": 140,
+        "specialDefense": 90,
+        "speed": 115
+    },
+    "type_relations": {
+        "resistantTo": [
+            "dark",
+            "ghost",
+            "ice",
+            "fire",
+            "grass",
+            "steel"
+        ],
+        "weakTo": [
+            "fighting",
+            "rock",
+            "water",
+            "ground"
+        ]
+    },
+    "types": [
+        "dark",
+        "fire"
+    ],
+    "weight": 49.5
+}

@@ -1,0 +1,97 @@
+{
+    "abilities": {
+        "pickup": "The Pok\u00e9mon may pick up the item an opposing\nPok\u00e9mon used during a battle. It may pick up items\noutside of battle, too.",
+        "tough-claws": "Powers up moves that make direct contact.",
+        "unnerve": "Unnerves opposing Pok\u00e9mon and makes them unable\nto eat Berries."
+    },
+    "description": {
+        "game": "red",
+        "text": "Adores circular\nobjects. Wanders\nthe streets on a\fnightly basis to\nlook for dropped\nloose change."
+    },
+    "eggGroups": [
+        "ground"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [
+            {
+                "id": "53",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/53.png",
+                "name": "persian",
+                "types": [
+                    "normal"
+                ]
+            },
+            {
+                "id": "863",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/863.png",
+                "name": "perrserker",
+                "types": [
+                    "steel"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "52",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/52.png",
+                "name": "meowth",
+                "types": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10158.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10158.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10158.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10158.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Scratch Cat Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 0.4,
+    "id": 10158,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10158.png",
+    "name": "meowth-galar",
+    "stats": {
+        "attack": 65,
+        "defense": 55,
+        "hp": 50,
+        "specialAttack": 40,
+        "specialDefense": 40,
+        "speed": 40
+    },
+    "type_relations": {
+        "resistantTo": [
+            "ice",
+            "bug",
+            "fairy",
+            "rock",
+            "dragon",
+            "grass",
+            "psychic",
+            "normal",
+            "flying",
+            "steel"
+        ],
+        "weakTo": [
+            "fighting",
+            "fire",
+            "ground"
+        ]
+    },
+    "types": [
+        "steel"
+    ],
+    "weight": 7.5
+}

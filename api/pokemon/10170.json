@@ -1,0 +1,81 @@
+{
+    "abilities": {
+        "cursed-body": "May disable a move used on the Pok\u00e9mon.",
+        "weak-armor": "Physical attacks to the Pok\u00e9mon lower its Defense\nstat but sharply raise its Speed stat."
+    },
+    "description": {
+        "game": "gold",
+        "text": "It continuously\nsheds and grows.\nThe tip of its\fhead is prized as\na treasure for its\nbeauty."
+    },
+    "eggGroups": [
+        "water1",
+        "water3"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [
+            {
+                "id": "864",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/864.png",
+                "name": "cursola",
+                "types": [
+                    "ghost"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "222",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/222.png",
+                "name": "corsola",
+                "types": [
+                    "water",
+                    "rock"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10170.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10170.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10170.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10170.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Coral Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 0.6,
+    "id": 10170,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10170.png",
+    "name": "corsola-galar",
+    "stats": {
+        "attack": 55,
+        "defense": 100,
+        "hp": 60,
+        "specialAttack": 65,
+        "specialDefense": 100,
+        "speed": 30
+    },
+    "type_relations": {
+        "resistantTo": [
+            "poison",
+            "bug"
+        ],
+        "weakTo": [
+            "dark",
+            "ghost"
+        ]
+    },
+    "types": [
+        "ghost"
+    ],
+    "weight": 0.5
+}

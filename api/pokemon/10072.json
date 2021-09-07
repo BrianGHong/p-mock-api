@@ -1,0 +1,84 @@
+{
+    "abilities": {
+        "sand-force": "Boosts the power of Rock-, Ground-, and Steel-type\nmoves in a sandstorm."
+    },
+    "description": {
+        "game": "gold",
+        "text": "Its body has been\ncompressed deep\nunder the ground.\fAs a result, it is\neven harder than a\ndiamond."
+    },
+    "eggGroups": [
+        "mineral"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [
+            {
+                "id": "208",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/208.png",
+                "name": "steelix",
+                "types": [
+                    "steel",
+                    "ground"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "95",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/95.png",
+                "name": "onix",
+                "types": [
+                    "rock",
+                    "ground"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10072.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10072.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Iron Snake Pok\u00e9mon",
+    "hatchCounter": 25,
+    "height": 10.5,
+    "id": 10072,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10072.png",
+    "name": "steelix-mega",
+    "stats": {
+        "attack": 125,
+        "defense": 230,
+        "hp": 75,
+        "specialAttack": 55,
+        "specialDefense": 95,
+        "speed": 30
+    },
+    "type_relations": {
+        "resistantTo": [
+            "bug",
+            "fairy",
+            "rock",
+            "poison",
+            "dragon",
+            "psychic",
+            "normal",
+            "flying",
+            "steel"
+        ],
+        "weakTo": [
+            "fighting",
+            "fire",
+            "water",
+            "ground"
+        ]
+    },
+    "types": [
+        "steel",
+        "ground"
+    ],
+    "weight": 740.0
+}

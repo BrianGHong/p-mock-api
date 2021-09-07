@@ -1,0 +1,76 @@
+{
+    "abilities": {
+        "gluttony": "Makes the Pok\u00e9mon eat a held Berry when its HP\ndrops to half or less, which is sooner than usual.",
+        "hustle": "Boosts the Attack stat, but lowers accuracy.",
+        "thick-fat": "The Pok\u00e9mon is protected by a layer of thick fat,\nwhich halves the damage taken from Fire- and\nIce-type moves."
+    },
+    "description": {
+        "game": "red",
+        "text": "It uses its whis\u00ad\nkers to maintain\nits balance.\fIt apparently\nslows down if\nthey are cut off."
+    },
+    "eggGroups": [
+        "ground"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [
+            {
+                "id": "20",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/20.png",
+                "name": "raticate",
+                "types": [
+                    "normal"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "19",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/19.png",
+                "name": "rattata",
+                "types": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10093.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/20-totem-alola.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Mouse Pok\u00e9mon",
+    "hatchCounter": 15,
+    "height": 1.4,
+    "id": 10093,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10093.png",
+    "name": "raticate-totem-alola",
+    "stats": {
+        "attack": 71,
+        "defense": 70,
+        "hp": 75,
+        "specialAttack": 40,
+        "specialDefense": 80,
+        "speed": 77
+    },
+    "type_relations": {
+        "resistantTo": [
+            "dark",
+            "ghost"
+        ],
+        "weakTo": [
+            "fighting",
+            "fairy",
+            "bug"
+        ]
+    },
+    "types": [
+        "dark",
+        "normal"
+    ],
+    "weight": 105.0
+}

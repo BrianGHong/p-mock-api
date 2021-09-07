@@ -1,0 +1,69 @@
+{
+    "abilities": {
+        "aerilate": "Normal-type moves become Flying-type moves.\nThe power of those moves is boosted a little."
+    },
+    "description": {
+        "game": "red",
+        "text": "If it fails to\ncrush the victim\nin its pincers,\fit will swing it\naround and toss\nit hard."
+    },
+    "eggGroups": [
+        "bug"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "127",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/127.png",
+                "name": "pinsir",
+                "types": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10040.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10040.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Stag Beetle Pok\u00e9mon",
+    "hatchCounter": 25,
+    "height": 1.7,
+    "id": 10040,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10040.png",
+    "name": "pinsir-mega",
+    "stats": {
+        "attack": 155,
+        "defense": 120,
+        "hp": 65,
+        "specialAttack": 65,
+        "specialDefense": 90,
+        "speed": 105
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fighting",
+            "bug",
+            "ground",
+            "grass"
+        ],
+        "weakTo": [
+            "ice",
+            "fire",
+            "rock",
+            "electric",
+            "flying"
+        ]
+    },
+    "types": [
+        "bug",
+        "flying"
+    ],
+    "weight": 59.0
+}

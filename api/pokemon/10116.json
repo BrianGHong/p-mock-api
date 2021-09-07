@@ -1,0 +1,96 @@
+{
+    "abilities": {
+        "battle-bond": "Defeating an opposing Pok\u00e9mon strengthens the\nPok\u00e9mon\u2019s bond with its Trainer, and it becomes\nAsh-Greninja. Water Shuriken gets more powerful."
+    },
+    "description": {
+        "game": "x",
+        "text": "It creates throwing stars out of compressed water.\nWhen it spins them and throws them at high speed,\nthese stars can split metal in two."
+    },
+    "eggGroups": [
+        "water1"
+    ],
+    "evolution": {
+        "end": [
+            {
+                "id": "658",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/658.png",
+                "name": "greninja",
+                "types": [
+                    "water",
+                    "dark"
+                ]
+            }
+        ],
+        "mid": [
+            {
+                "id": "657",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/657.png",
+                "name": "frogadier",
+                "types": [
+                    "water"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "656",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/656.png",
+                "name": "froakie",
+                "types": [
+                    "water"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10116.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10116.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10116.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10116.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Ninja Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 1.5,
+    "id": 10116,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10116.png",
+    "name": "greninja-battle-bond",
+    "stats": {
+        "attack": 95,
+        "defense": 67,
+        "hp": 72,
+        "specialAttack": 103,
+        "specialDefense": 71,
+        "speed": 122
+    },
+    "type_relations": {
+        "resistantTo": [
+            "dark",
+            "ghost",
+            "ice",
+            "fire",
+            "water",
+            "steel"
+        ],
+        "weakTo": [
+            "bug",
+            "fighting",
+            "fairy",
+            "electric",
+            "grass"
+        ]
+    },
+    "types": [
+        "water",
+        "dark"
+    ],
+    "weight": 40.0
+}

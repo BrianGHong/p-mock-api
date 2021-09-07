@@ -1,0 +1,84 @@
+{
+    "abilities": {
+        "honey-gather": "The Pok\u00e9mon may gather Honey after a battle.",
+        "shield-dust": "This Pok\u00e9mon\u2019s dust blocks the additional effects of\nattacks taken.",
+        "sweet-veil": "Prevents itself and ally Pok\u00e9mon from falling asleep."
+    },
+    "description": {
+        "game": "sun",
+        "text": "It rolls up pollen into puffs. It makes many\ndifferent varieties, some used as food and\nothers used in battle."
+    },
+    "eggGroups": [
+        "bug",
+        "fairy"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [
+            {
+                "id": "743",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/743.png",
+                "name": "ribombee",
+                "types": [
+                    "bug",
+                    "fairy"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "742",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/742.png",
+                "name": "cutiefly",
+                "types": [
+                    "bug",
+                    "fairy"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10150.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/743-totem.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Bee Fly Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 0.4,
+    "id": 10150,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10150.png",
+    "name": "ribombee-totem",
+    "stats": {
+        "attack": 55,
+        "defense": 60,
+        "hp": 60,
+        "specialAttack": 95,
+        "specialDefense": 70,
+        "speed": 124
+    },
+    "type_relations": {
+        "resistantTo": [
+            "dark",
+            "bug",
+            "fighting",
+            "grass",
+            "ground"
+        ],
+        "weakTo": [
+            "fire",
+            "rock",
+            "poison",
+            "flying",
+            "steel"
+        ]
+    },
+    "types": [
+        "bug",
+        "fairy"
+    ],
+    "weight": 2.0
+}

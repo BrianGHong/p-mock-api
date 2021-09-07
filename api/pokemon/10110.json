@@ -1,0 +1,98 @@
+{
+    "abilities": {
+        "galvanize": "Normal-type moves become Electric-type moves.\nThe power of those moves is boosted a little.",
+        "magnet-pull": "Prevents Steel-type Pok\u00e9mon from escaping using\nits magnetic force.",
+        "sturdy": "It cannot be knocked out with one hit. One-hit KO\nmoves cannot knock it out, either."
+    },
+    "description": {
+        "game": "red",
+        "text": "Rolls down slopes\nto move. It rolls\nover any obstacle\fwithout slowing\nor changing its\ndirection."
+    },
+    "eggGroups": [
+        "mineral"
+    ],
+    "evolution": {
+        "end": [
+            {
+                "id": "76",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/76.png",
+                "name": "golem",
+                "types": [
+                    "rock",
+                    "ground"
+                ]
+            }
+        ],
+        "mid": [
+            {
+                "id": "75",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/75.png",
+                "name": "graveler",
+                "types": [
+                    "rock",
+                    "ground"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "74",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/74.png",
+                "name": "geodude",
+                "types": [
+                    "rock",
+                    "ground"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10110.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10110.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10110.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10110.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Rock Pok\u00e9mon",
+    "hatchCounter": 15,
+    "height": 1.0,
+    "id": 10110,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10110.png",
+    "name": "graveler-alola",
+    "stats": {
+        "attack": 95,
+        "defense": 115,
+        "hp": 55,
+        "specialAttack": 45,
+        "specialDefense": 45,
+        "speed": 35
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fire",
+            "poison",
+            "electric",
+            "normal",
+            "flying"
+        ],
+        "weakTo": [
+            "fighting",
+            "water",
+            "grass",
+            "ground"
+        ]
+    },
+    "types": [
+        "rock",
+        "electric"
+    ],
+    "weight": 110.0
+}

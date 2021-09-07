@@ -1,0 +1,72 @@
+{
+    "abilities": {
+        "competitive": "Boosts the Sp. Atk stat sharply when a stat\nis lowered.",
+        "infiltrator": "Passes through the opposing Pok\u00e9mon\u2019s barrier,\nsubstitute, and the like and strikes.",
+        "keen-eye": "Keen eyes prevent other Pok\u00e9mon from lowering this\nPok\u00e9mon\u2019s accuracy."
+    },
+    "description": {
+        "game": "x",
+        "text": "When in danger, it raises its ears and\nreleases enough psychic power to\ngrind a 10-ton truck into dust."
+    },
+    "eggGroups": [
+        "ground"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [
+            {
+                "id": "678",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/678.png",
+                "name": "meowstic-male",
+                "types": [
+                    "psychic"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "677",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/677.png",
+                "name": "espurr",
+                "types": [
+                    "psychic"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10025.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Constraint Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 0.6,
+    "id": 10025,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10025.png",
+    "name": "meowstic-female",
+    "stats": {
+        "attack": 48,
+        "defense": 76,
+        "hp": 74,
+        "specialAttack": 83,
+        "specialDefense": 81,
+        "speed": 104
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fighting",
+            "psychic"
+        ],
+        "weakTo": [
+            "dark",
+            "ghost",
+            "bug"
+        ]
+    },
+    "types": [
+        "psychic"
+    ],
+    "weight": 8.5
+}

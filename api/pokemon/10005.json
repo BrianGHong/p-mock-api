@@ -1,0 +1,95 @@
+{
+    "abilities": {
+        "anticipation": "The Pok\u00e9mon can sense an opposing Pok\u00e9mon\u2019s\ndangerous moves.",
+        "overcoat": "Protects the Pok\u00e9mon from things like sand, hail,\nand powder."
+    },
+    "description": {
+        "game": "diamond",
+        "text": "When BURMY evolved, its cloak\nbecame a part of this Pok\u00e9mon\u2019s\nbody. The cloak is never shed."
+    },
+    "eggGroups": [
+        "bug"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [
+            {
+                "id": "413",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/413.png",
+                "name": "wormadam-plant",
+                "types": [
+                    "bug",
+                    "grass"
+                ]
+            },
+            {
+                "id": "414",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/414.png",
+                "name": "mothim",
+                "types": [
+                    "bug",
+                    "flying"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "412",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/412.png",
+                "name": "burmy",
+                "types": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/413-trash.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/413-trash.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10005.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/413-trash.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Bagworm Pok\u00e9mon",
+    "hatchCounter": 15,
+    "height": 0.5,
+    "id": 10005,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10005.png",
+    "name": "wormadam-trash",
+    "stats": {
+        "attack": 69,
+        "defense": 95,
+        "hp": 60,
+        "specialAttack": 69,
+        "specialDefense": 95,
+        "speed": 36
+    },
+    "type_relations": {
+        "resistantTo": [
+            "grass",
+            "ice",
+            "bug",
+            "fairy",
+            "dragon",
+            "psychic",
+            "normal",
+            "steel"
+        ],
+        "weakTo": [
+            "fire"
+        ]
+    },
+    "types": [
+        "bug",
+        "steel"
+    ],
+    "weight": 6.5
+}

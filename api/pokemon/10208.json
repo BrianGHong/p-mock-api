@@ -1,0 +1,87 @@
+{
+    "abilities": {
+        "gluttony": "Makes the Pok\u00e9mon eat a held Berry when its HP\ndrops to half or less, which is sooner than usual.",
+        "ripen": "Ripens Berries and doubles their effect.",
+        "thick-fat": "The Pok\u00e9mon is protected by a layer of thick fat,\nwhich halves the damage taken from Fire- and\nIce-type moves."
+    },
+    "description": {
+        "game": "sword",
+        "text": "Eating a sweet apple caused its evolution.\nA nectarous scent wafts from its body, luring in\nthe bug Pok\u00e9mon it preys on."
+    },
+    "eggGroups": [],
+    "evolution": {
+        "end": [],
+        "mid": [
+            {
+                "id": "841",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/841.png",
+                "name": "flapple",
+                "types": [
+                    "grass",
+                    "dragon"
+                ]
+            },
+            {
+                "id": "842",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/842.png",
+                "name": "appletun",
+                "types": [
+                    "grass",
+                    "dragon"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "840",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/840.png",
+                "name": "applin",
+                "types": [
+                    "grass",
+                    "dragon"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10208.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Apple Nectar Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 24.0,
+    "id": 10208,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10208.png",
+    "name": "appletun-gmax",
+    "stats": {
+        "attack": 85,
+        "defense": 80,
+        "hp": 110,
+        "specialAttack": 100,
+        "specialDefense": 80,
+        "speed": 30
+    },
+    "type_relations": {
+        "resistantTo": [
+            "electric",
+            "water",
+            "grass",
+            "ground"
+        ],
+        "weakTo": [
+            "ice",
+            "bug",
+            "fairy",
+            "poison",
+            "dragon",
+            "flying"
+        ]
+    },
+    "types": [
+        "grass",
+        "dragon"
+    ],
+    "weight": 1000.0
+}

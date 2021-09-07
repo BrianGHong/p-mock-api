@@ -1,0 +1,71 @@
+{
+    "abilities": {
+        "prism-armor": "Reduces the power of supereffective attacks taken."
+    },
+    "description": {
+        "game": "sun",
+        "text": "Reminiscent of the Ultra Beasts, this life-form,\napparently asleep underground, is thought to\nhave come from another world in ancient times."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "800",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/800.png",
+                "name": "necrozma",
+                "types": [
+                    "psychic"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10156.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10156.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10156.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10156.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Prism Pok\u00e9mon",
+    "hatchCounter": 120,
+    "height": 4.2,
+    "id": 10156,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10156.png",
+    "name": "necrozma-dawn",
+    "stats": {
+        "attack": 113,
+        "defense": 109,
+        "hp": 97,
+        "specialAttack": 157,
+        "specialDefense": 127,
+        "speed": 77
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fighting",
+            "psychic",
+            "poison"
+        ],
+        "weakTo": [
+            "dark",
+            "ghost"
+        ]
+    },
+    "types": [
+        "psychic",
+        "ghost"
+    ],
+    "weight": 350.0
+}

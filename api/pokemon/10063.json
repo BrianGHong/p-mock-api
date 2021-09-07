@@ -1,0 +1,73 @@
+{
+    "abilities": {
+        "levitate": "By floating in the air, the Pok\u00e9mon receives full\nimmunity to all Ground-type moves."
+    },
+    "description": {
+        "game": "ruby",
+        "text": "LATIOS has the ability to make its foe\nsee an image of what it has seen or\nimagines in its head.\fThis POK\u00e9MON is intelligent and\nunderstands human speech."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "381",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/381.png",
+                "name": "latios",
+                "types": [
+                    "dragon",
+                    "psychic"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10063.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10063.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Eon Pok\u00e9mon",
+    "hatchCounter": 120,
+    "height": 2.3,
+    "id": 10063,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10063.png",
+    "name": "latios-mega",
+    "stats": {
+        "attack": 130,
+        "defense": 100,
+        "hp": 80,
+        "specialAttack": 160,
+        "specialDefense": 120,
+        "speed": 110
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fire",
+            "fighting",
+            "electric",
+            "water",
+            "grass",
+            "psychic"
+        ],
+        "weakTo": [
+            "dark",
+            "ghost",
+            "ice",
+            "bug",
+            "fairy",
+            "dragon"
+        ]
+    },
+    "types": [
+        "dragon",
+        "psychic"
+    ],
+    "weight": 70.0
+}

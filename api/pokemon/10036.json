@@ -1,0 +1,84 @@
+{
+    "abilities": {
+        "mega-launcher": "Powers up aura and pulse moves."
+    },
+    "description": {
+        "game": "gold",
+        "text": "It deliberately\nmakes itself heavy\nso it can with\u00ad\fstand the recoil\nof the water jets\nit fires."
+    },
+    "eggGroups": [
+        "monster",
+        "water1"
+    ],
+    "evolution": {
+        "end": [
+            {
+                "id": "9",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/9.png",
+                "name": "blastoise",
+                "types": [
+                    "water"
+                ]
+            }
+        ],
+        "mid": [
+            {
+                "id": "8",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/8.png",
+                "name": "wartortle",
+                "types": [
+                    "water"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "7",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/7.png",
+                "name": "squirtle",
+                "types": [
+                    "water"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10036.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10036.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Shellfish Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 1.6,
+    "id": 10036,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10036.png",
+    "name": "blastoise-mega",
+    "stats": {
+        "attack": 103,
+        "defense": 120,
+        "hp": 79,
+        "specialAttack": 135,
+        "specialDefense": 115,
+        "speed": 78
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fire",
+            "water",
+            "ice",
+            "steel"
+        ],
+        "weakTo": [
+            "grass",
+            "electric"
+        ]
+    },
+    "types": [
+        "water"
+    ],
+    "weight": 101.1
+}

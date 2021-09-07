@@ -1,0 +1,75 @@
+{
+    "abilities": {
+        "turboblaze": "Moves can be used on the target regardless of\nits Abilities."
+    },
+    "description": {
+        "game": "black",
+        "text": "It generates a powerful, freezing\nenergy inside itself, but its body became\nfrozen when the energy leaked out."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "646",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/646.png",
+                "name": "kyurem",
+                "types": [
+                    "dragon",
+                    "ice"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/646-white.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/646-white.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10023.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/646-white.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Boundary Pok\u00e9mon",
+    "hatchCounter": 120,
+    "height": 3.6,
+    "id": 10023,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10023.png",
+    "name": "kyurem-white",
+    "stats": {
+        "attack": 120,
+        "defense": 90,
+        "hp": 125,
+        "specialAttack": 170,
+        "specialDefense": 100,
+        "speed": 95
+    },
+    "type_relations": {
+        "resistantTo": [
+            "electric",
+            "water",
+            "grass"
+        ],
+        "weakTo": [
+            "fighting",
+            "fairy",
+            "rock",
+            "dragon",
+            "steel"
+        ]
+    },
+    "types": [
+        "dragon",
+        "ice"
+    ],
+    "weight": 325.0
+}

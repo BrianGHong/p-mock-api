@@ -1,0 +1,75 @@
+{
+    "abilities": {
+        "dauntless-shield": "Boosts the Pok\u00e9mon's Defense stat when the Pok\u00e9mon enters a battle."
+    },
+    "description": {
+        "game": "sword",
+        "text": "In times past, it worked together with a king of\nthe people to save the Galar region. It absorbs\nmetal that it then uses in battle."
+    },
+    "eggGroups": [],
+    "evolution": {
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "889",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/889.png",
+                "name": "zamazenta-hero",
+                "types": [
+                    "fighting"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10182.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10182.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10182.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10182.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Warrior Pok\u00e9mon",
+    "hatchCounter": 120,
+    "height": 2.9,
+    "id": 10182,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10182.png",
+    "name": "zamazenta-crowned",
+    "stats": {
+        "attack": 130,
+        "defense": 145,
+        "hp": 92,
+        "specialAttack": 80,
+        "specialDefense": 145,
+        "speed": 128
+    },
+    "type_relations": {
+        "resistantTo": [
+            "dark",
+            "ice",
+            "bug",
+            "rock",
+            "dragon",
+            "grass",
+            "normal",
+            "steel"
+        ],
+        "weakTo": [
+            "fighting",
+            "fire",
+            "ground"
+        ]
+    },
+    "types": [
+        "fighting",
+        "steel"
+    ],
+    "weight": 785.0
+}

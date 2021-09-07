@@ -1,0 +1,83 @@
+{
+    "abilities": {
+        "aftermath": "Damages the attacker if it contacts the Pok\u00e9mon\nwith a finishing hit.",
+        "stench": "By releasing stench when attacking, this Pok\u00e9mon\nmay cause the target to flinch.",
+        "weak-armor": "Physical attacks to the Pok\u00e9mon lower its Defense\nstat but sharply raise its Speed stat."
+    },
+    "description": {
+        "game": "black",
+        "text": "It clenches opponents with its left arm\nand finishes them off with foul-smelling\npoison gas belched from its mouth."
+    },
+    "eggGroups": [
+        "mineral"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [
+            {
+                "id": "569",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/569.png",
+                "name": "garbodor",
+                "types": [
+                    "poison"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "568",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/568.png",
+                "name": "trubbish",
+                "types": [
+                    "poison"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10198.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10198.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10198.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10198.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Trash Heap Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 21.0,
+    "id": 10198,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10198.png",
+    "name": "garbodor-gmax",
+    "stats": {
+        "attack": 95,
+        "defense": 82,
+        "hp": 80,
+        "specialAttack": 60,
+        "specialDefense": 82,
+        "speed": 75
+    },
+    "type_relations": {
+        "resistantTo": [
+            "bug",
+            "fighting",
+            "fairy",
+            "poison",
+            "grass"
+        ],
+        "weakTo": [
+            "psychic",
+            "ground"
+        ]
+    },
+    "types": [
+        "poison"
+    ],
+    "weight": 1000.0
+}

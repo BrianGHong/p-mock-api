@@ -1,0 +1,79 @@
+{
+    "abilities": {
+        "sand-spit": "The Pok\u00e9mon creates a sandstorm when it's hit by an attack.",
+        "sand-veil": "Boosts the Pok\u00e9mon\u2019s evasion in a sandstorm.",
+        "shed-skin": "The Pok\u00e9mon may heal its own status conditions\nby shedding its skin."
+    },
+    "description": {
+        "game": "sword",
+        "text": "Its sand pouch has grown to tremendous\nproportions. More than 1,000,000 tons of sand\nnow swirl around its body."
+    },
+    "eggGroups": [],
+    "evolution": {
+        "end": [],
+        "mid": [
+            {
+                "id": "844",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/844.png",
+                "name": "sandaconda",
+                "types": [
+                    "ground"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "843",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/843.png",
+                "name": "silicobra",
+                "types": [
+                    "ground"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10209.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10209.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10209.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10209.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Sand Snake Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 22.0,
+    "id": 10209,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10209.png",
+    "name": "sandaconda-gmax",
+    "stats": {
+        "attack": 107,
+        "defense": 125,
+        "hp": 72,
+        "specialAttack": 65,
+        "specialDefense": 70,
+        "speed": 71
+    },
+    "type_relations": {
+        "resistantTo": [
+            "rock",
+            "poison"
+        ],
+        "weakTo": [
+            "grass",
+            "water",
+            "ice"
+        ]
+    },
+    "types": [
+        "ground"
+    ],
+    "weight": 1000.0
+}

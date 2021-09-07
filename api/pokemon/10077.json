@@ -1,0 +1,65 @@
+{
+    "abilities": {
+        "primordial-sea": "The Pok\u00e9mon changes the weather to nullify\nFire-type attacks."
+    },
+    "description": {
+        "game": "ruby",
+        "text": "KYOGRE has the power to create massive\nrain clouds that cover the entire sky\nand bring about torrential downpours.\fThis POK\u00e9MON saved people who were\nsuffering from droughts."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "382",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/382.png",
+                "name": "kyogre",
+                "types": [
+                    "water"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10077.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10077.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Sea Basin Pok\u00e9mon",
+    "hatchCounter": 120,
+    "height": 9.8,
+    "id": 10077,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10077.png",
+    "name": "kyogre-primal",
+    "stats": {
+        "attack": 150,
+        "defense": 90,
+        "hp": 100,
+        "specialAttack": 180,
+        "specialDefense": 160,
+        "speed": 90
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fire",
+            "water",
+            "ice",
+            "steel"
+        ],
+        "weakTo": [
+            "grass",
+            "electric"
+        ]
+    },
+    "types": [
+        "water"
+    ],
+    "weight": 430.0
+}

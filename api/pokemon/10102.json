@@ -1,0 +1,87 @@
+{
+    "abilities": {
+        "slush-rush": "Boosts the Pok\u00e9mon\u2019s Speed stat in a hailstorm.",
+        "snow-cloak": "Boosts evasion in a hailstorm."
+    },
+    "description": {
+        "game": "red",
+        "text": "Curls up into a\nspiny ball when\nthreatened. It\fcan roll while\ncurled up to\nattack or escape."
+    },
+    "eggGroups": [
+        "ground"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [
+            {
+                "id": "28",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/28.png",
+                "name": "sandslash",
+                "types": [
+                    "ground"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "27",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/27.png",
+                "name": "sandshrew",
+                "types": [
+                    "ground"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10102.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10102.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10102.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10102.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Mouse Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 1.2,
+    "id": 10102,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10102.png",
+    "name": "sandslash-alola",
+    "stats": {
+        "attack": 100,
+        "defense": 120,
+        "hp": 75,
+        "specialAttack": 25,
+        "specialDefense": 65,
+        "speed": 65
+    },
+    "type_relations": {
+        "resistantTo": [
+            "ice",
+            "bug",
+            "fairy",
+            "dragon",
+            "grass",
+            "psychic",
+            "normal",
+            "flying"
+        ],
+        "weakTo": [
+            "fighting",
+            "fire",
+            "ground"
+        ]
+    },
+    "types": [
+        "ice",
+        "steel"
+    ],
+    "weight": 55.0
+}

@@ -1,0 +1,94 @@
+{
+    "abilities": {
+        "sand-stream": "The Pok\u00e9mon summons a sandstorm when it enters\na battle."
+    },
+    "description": {
+        "game": "gold",
+        "text": "Its body can't be\nharmed by any sort\nof attack, so it\fis very eager to\nmake challenges\nagainst enemies."
+    },
+    "eggGroups": [
+        "monster"
+    ],
+    "evolution": {
+        "end": [
+            {
+                "id": "248",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/248.png",
+                "name": "tyranitar",
+                "types": [
+                    "rock",
+                    "dark"
+                ]
+            }
+        ],
+        "mid": [
+            {
+                "id": "247",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/247.png",
+                "name": "pupitar",
+                "types": [
+                    "rock",
+                    "ground"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "246",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/246.png",
+                "name": "larvitar",
+                "types": [
+                    "rock",
+                    "ground"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10049.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10049.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Armor Pok\u00e9mon",
+    "hatchCounter": 40,
+    "height": 2.5,
+    "id": 10049,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10049.png",
+    "name": "tyranitar-mega",
+    "stats": {
+        "attack": 164,
+        "defense": 150,
+        "hp": 100,
+        "specialAttack": 95,
+        "specialDefense": 120,
+        "speed": 71
+    },
+    "type_relations": {
+        "resistantTo": [
+            "dark",
+            "ghost",
+            "fire",
+            "poison",
+            "normal",
+            "flying"
+        ],
+        "weakTo": [
+            "bug",
+            "fighting",
+            "fairy",
+            "water",
+            "grass",
+            "ground",
+            "steel"
+        ]
+    },
+    "types": [
+        "rock",
+        "dark"
+    ],
+    "weight": 255.0
+}

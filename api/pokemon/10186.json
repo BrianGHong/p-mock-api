@@ -1,0 +1,98 @@
+{
+    "abilities": {
+        "chlorophyll": "Boosts the Pok\u00e9mon\u2019s Speed stat in harsh sunlight.",
+        "overgrow": "Powers up Grass-type moves when the Pok\u00e9mon\u2019s\nHP is low."
+    },
+    "description": {
+        "game": "red",
+        "text": "The plant blooms\nwhen it is\nabsorbing solar\fenergy. It stays\non the move to\nseek sunlight."
+    },
+    "eggGroups": [
+        "monster",
+        "plant"
+    ],
+    "evolution": {
+        "end": [
+            {
+                "id": "3",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/3.png",
+                "name": "venusaur",
+                "types": [
+                    "grass",
+                    "poison"
+                ]
+            }
+        ],
+        "mid": [
+            {
+                "id": "2",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/2.png",
+                "name": "ivysaur",
+                "types": [
+                    "grass",
+                    "poison"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "1",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/1.png",
+                "name": "bulbasaur",
+                "types": [
+                    "grass",
+                    "poison"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10186.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10186.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10186.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10186.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Seed Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 24.0,
+    "id": 10186,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10186.png",
+    "name": "venusaur-gmax",
+    "stats": {
+        "attack": 82,
+        "defense": 83,
+        "hp": 80,
+        "specialAttack": 100,
+        "specialDefense": 100,
+        "speed": 80
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fighting",
+            "fairy",
+            "electric",
+            "water",
+            "grass"
+        ],
+        "weakTo": [
+            "ice",
+            "fire",
+            "psychic",
+            "flying"
+        ]
+    },
+    "types": [
+        "grass",
+        "poison"
+    ],
+    "weight": 1000.0
+}

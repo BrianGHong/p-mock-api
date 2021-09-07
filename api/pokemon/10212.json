@@ -1,0 +1,90 @@
+{
+    "abilities": {
+        "anticipation": "The Pok\u00e9mon can sense an opposing Pok\u00e9mon\u2019s\ndangerous moves.",
+        "healer": "Sometimes heals an ally\u2019s status condition.",
+        "magic-bounce": "Reflects status moves, instead of getting hit\nby them."
+    },
+    "description": {
+        "game": "sword",
+        "text": "It emits psychic power strong enough to cause\nheadaches as a deterrent to the approach\nof others."
+    },
+    "eggGroups": [],
+    "evolution": {
+        "end": [
+            {
+                "id": "858",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/858.png",
+                "name": "hatterene",
+                "types": [
+                    "psychic",
+                    "fairy"
+                ]
+            }
+        ],
+        "mid": [
+            {
+                "id": "857",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/857.png",
+                "name": "hattrem",
+                "types": [
+                    "psychic"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "856",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/856.png",
+                "name": "hatenna",
+                "types": [
+                    "psychic"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10212.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10212.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10212.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10212.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Silent Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 26.0,
+    "id": 10212,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10212.png",
+    "name": "hatterene-gmax",
+    "stats": {
+        "attack": 90,
+        "defense": 95,
+        "hp": 57,
+        "specialAttack": 136,
+        "specialDefense": 103,
+        "speed": 29
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fighting",
+            "psychic"
+        ],
+        "weakTo": [
+            "ghost",
+            "poison",
+            "steel"
+        ]
+    },
+    "types": [
+        "psychic",
+        "fairy"
+    ],
+    "weight": 1000.0
+}

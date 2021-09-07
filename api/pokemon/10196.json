@@ -1,0 +1,132 @@
+{
+    "abilities": {
+        "adaptability": "Powers up moves of the same type as the Pok\u00e9mon.",
+        "anticipation": "The Pok\u00e9mon can sense an opposing Pok\u00e9mon\u2019s\ndangerous moves.",
+        "run-away": "Enables a sure getaway from wild Pok\u00e9mon."
+    },
+    "description": {
+        "game": "red",
+        "text": "Its genetic code\nis irregular.\nIt may mutate if\fit is exposed to\nradiation from\nelement STONEs."
+    },
+    "eggGroups": [
+        "ground"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [
+            {
+                "id": "134",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/134.png",
+                "name": "vaporeon",
+                "types": [
+                    "water"
+                ]
+            },
+            {
+                "id": "135",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/135.png",
+                "name": "jolteon",
+                "types": [
+                    "electric"
+                ]
+            },
+            {
+                "id": "136",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/136.png",
+                "name": "flareon",
+                "types": [
+                    "fire"
+                ]
+            },
+            {
+                "id": "196",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/196.png",
+                "name": "espeon",
+                "types": [
+                    "psychic"
+                ]
+            },
+            {
+                "id": "197",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/197.png",
+                "name": "umbreon",
+                "types": [
+                    "dark"
+                ]
+            },
+            {
+                "id": "470",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/470.png",
+                "name": "leafeon",
+                "types": [
+                    "grass"
+                ]
+            },
+            {
+                "id": "471",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/471.png",
+                "name": "glaceon",
+                "types": [
+                    "ice"
+                ]
+            },
+            {
+                "id": "700",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/700.png",
+                "name": "sylveon",
+                "types": [
+                    "fairy"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "133",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/133.png",
+                "name": "eevee",
+                "types": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10196.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10196.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10196.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10196.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Evolution Pok\u00e9mon",
+    "hatchCounter": 35,
+    "height": 18.0,
+    "id": 10196,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10196.png",
+    "name": "eevee-gmax",
+    "stats": {
+        "attack": 55,
+        "defense": 50,
+        "hp": 55,
+        "specialAttack": 45,
+        "specialDefense": 65,
+        "speed": 55
+    },
+    "type_relations": {
+        "resistantTo": [],
+        "weakTo": [
+            "fighting"
+        ]
+    },
+    "types": [
+        "normal"
+    ],
+    "weight": 1000.0
+}

@@ -1,0 +1,71 @@
+{
+    "abilities": {
+        "contrary": "Makes stat changes have an opposite effect.",
+        "leaf-guard": "Prevents status conditions in harsh sunlight."
+    },
+    "description": {
+        "game": "sun",
+        "text": "It requires a lot of effort to maintain Lurantis\u2019s\nvivid coloring, but some collectors enjoy this\nwork and treat it as their hobby."
+    },
+    "eggGroups": [
+        "plant"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [
+            {
+                "id": "754",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/754.png",
+                "name": "lurantis",
+                "types": [
+                    "grass"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "753",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/753.png",
+                "name": "fomantis",
+                "types": [
+                    "grass"
+                ]
+            }
+        ]
+    },
+    "forms": [],
+    "gender": {},
+    "genera": "Bloom Sickle Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 1.5,
+    "id": 10128,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10128.png",
+    "name": "lurantis-totem",
+    "stats": {
+        "attack": 105,
+        "defense": 90,
+        "hp": 70,
+        "specialAttack": 80,
+        "specialDefense": 90,
+        "speed": 45
+    },
+    "type_relations": {
+        "resistantTo": [
+            "grass",
+            "water",
+            "ground",
+            "electric"
+        ],
+        "weakTo": [
+            "ice",
+            "bug",
+            "fire",
+            "poison",
+            "flying"
+        ]
+    },
+    "types": [
+        "grass"
+    ],
+    "weight": 58.0
+}

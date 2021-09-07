@@ -1,0 +1,72 @@
+{
+    "abilities": {
+        "tough-claws": "Powers up moves that make direct contact."
+    },
+    "description": {
+        "game": "red",
+        "text": "A ferocious, pre\u00ad\nhistoric POK\u00e9MON\nthat goes for the\fenemy's throat\nwith its serrated\nsaw-like fangs."
+    },
+    "eggGroups": [
+        "flying"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "142",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/142.png",
+                "name": "aerodactyl",
+                "types": [
+                    "rock",
+                    "flying"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10042.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10042.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Fossil Pok\u00e9mon",
+    "hatchCounter": 35,
+    "height": 2.1,
+    "id": 10042,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10042.png",
+    "name": "aerodactyl-mega",
+    "stats": {
+        "attack": 135,
+        "defense": 85,
+        "hp": 80,
+        "specialAttack": 70,
+        "specialDefense": 95,
+        "speed": 150
+    },
+    "type_relations": {
+        "resistantTo": [
+            "bug",
+            "fire",
+            "poison",
+            "normal",
+            "flying"
+        ],
+        "weakTo": [
+            "ice",
+            "rock",
+            "electric",
+            "water",
+            "ground",
+            "steel"
+        ]
+    },
+    "types": [
+        "rock",
+        "flying"
+    ],
+    "weight": 79.0
+}

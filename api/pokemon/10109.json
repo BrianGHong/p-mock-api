@@ -1,0 +1,98 @@
+{
+    "abilities": {
+        "galvanize": "Normal-type moves become Electric-type moves.\nThe power of those moves is boosted a little.",
+        "magnet-pull": "Prevents Steel-type Pok\u00e9mon from escaping using\nits magnetic force.",
+        "sturdy": "It cannot be knocked out with one hit. One-hit KO\nmoves cannot knock it out, either."
+    },
+    "description": {
+        "game": "red",
+        "text": "Found in fields\nand mountains.\nMistaking them\ffor boulders,\npeople often step\nor trip on them."
+    },
+    "eggGroups": [
+        "mineral"
+    ],
+    "evolution": {
+        "end": [
+            {
+                "id": "76",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/76.png",
+                "name": "golem",
+                "types": [
+                    "rock",
+                    "ground"
+                ]
+            }
+        ],
+        "mid": [
+            {
+                "id": "75",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/75.png",
+                "name": "graveler",
+                "types": [
+                    "rock",
+                    "ground"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "74",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/74.png",
+                "name": "geodude",
+                "types": [
+                    "rock",
+                    "ground"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10109.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10109.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10109.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10109.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Rock Pok\u00e9mon",
+    "hatchCounter": 15,
+    "height": 0.4,
+    "id": 10109,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10109.png",
+    "name": "geodude-alola",
+    "stats": {
+        "attack": 80,
+        "defense": 100,
+        "hp": 40,
+        "specialAttack": 30,
+        "specialDefense": 30,
+        "speed": 20
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fire",
+            "poison",
+            "electric",
+            "normal",
+            "flying"
+        ],
+        "weakTo": [
+            "fighting",
+            "water",
+            "grass",
+            "ground"
+        ]
+    },
+    "types": [
+        "rock",
+        "electric"
+    ],
+    "weight": 20.3
+}

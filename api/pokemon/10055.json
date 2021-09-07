@@ -1,0 +1,72 @@
+{
+    "abilities": {
+        "intimidate": "The Pok\u00e9mon intimidates opposing Pok\u00e9mon upon\nentering battle, lowering their Attack stat."
+    },
+    "description": {
+        "game": "firered",
+        "text": "It rarely appears before people.\nIt is said to nest where lightning has\nfallen."
+    },
+    "eggGroups": [
+        "ground"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [
+            {
+                "id": "310",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/310.png",
+                "name": "manectric",
+                "types": [
+                    "electric"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "309",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/309.png",
+                "name": "electrike",
+                "types": [
+                    "electric"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10055.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10055.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Discharge Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 1.8,
+    "id": 10055,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10055.png",
+    "name": "manectric-mega",
+    "stats": {
+        "attack": 75,
+        "defense": 80,
+        "hp": 70,
+        "specialAttack": 135,
+        "specialDefense": 80,
+        "speed": 135
+    },
+    "type_relations": {
+        "resistantTo": [
+            "electric",
+            "flying",
+            "steel"
+        ],
+        "weakTo": [
+            "ground"
+        ]
+    },
+    "types": [
+        "electric"
+    ],
+    "weight": 44.0
+}

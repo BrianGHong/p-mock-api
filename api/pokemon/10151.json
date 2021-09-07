@@ -1,0 +1,77 @@
+{
+    "abilities": {
+        "own-tempo": "This Pok\u00e9mon has its own tempo, and that prevents\nit from becoming confused."
+    },
+    "description": {
+        "game": "sun",
+        "text": "It\u2019s considered to be a good Pok\u00e9mon for\nbeginners because of its friendliness, but its\ndisposition grows rougher as it grows up."
+    },
+    "eggGroups": [
+        "ground"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [
+            {
+                "id": "745",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/745.png",
+                "name": "lycanroc-midday",
+                "types": [
+                    "rock"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "744",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/744.png",
+                "name": "rockruff",
+                "types": [
+                    "rock"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10151.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/744-own-tempo.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Puppy Pok\u00e9mon",
+    "hatchCounter": 15,
+    "height": 0.5,
+    "id": 10151,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10151.png",
+    "name": "rockruff-own-tempo",
+    "stats": {
+        "attack": 65,
+        "defense": 40,
+        "hp": 45,
+        "specialAttack": 30,
+        "specialDefense": 40,
+        "speed": 60
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fire",
+            "normal",
+            "flying",
+            "poison"
+        ],
+        "weakTo": [
+            "fighting",
+            "water",
+            "grass",
+            "ground",
+            "steel"
+        ]
+    },
+    "types": [
+        "rock"
+    ],
+    "weight": 9.2
+}

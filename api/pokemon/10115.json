@@ -1,0 +1,89 @@
+{
+    "abilities": {
+        "cursed-body": "May disable a move used on the Pok\u00e9mon.",
+        "lightning-rod": "The Pok\u00e9mon draws in all Electric-type moves. \nInstead of being hit by Electric-type moves, \nit boosts its Sp. Atk.",
+        "rock-head": "Protects the Pok\u00e9mon from recoil damage."
+    },
+    "description": {
+        "game": "red",
+        "text": "The bone it holds\nis its key weapon.\nIt throws the\fbone skillfully\nlike a boomerang\nto KO targets."
+    },
+    "eggGroups": [
+        "monster"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [
+            {
+                "id": "105",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/105.png",
+                "name": "marowak",
+                "types": [
+                    "ground"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "104",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/104.png",
+                "name": "cubone",
+                "types": [
+                    "ground"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10115.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10115.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10115.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10115.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Bone Keeper Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 1.0,
+    "id": 10115,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10115.png",
+    "name": "marowak-alola",
+    "stats": {
+        "attack": 80,
+        "defense": 110,
+        "hp": 60,
+        "specialAttack": 50,
+        "specialDefense": 80,
+        "speed": 45
+    },
+    "type_relations": {
+        "resistantTo": [
+            "ice",
+            "bug",
+            "fire",
+            "fairy",
+            "poison",
+            "grass",
+            "steel"
+        ],
+        "weakTo": [
+            "dark",
+            "ghost",
+            "rock",
+            "water",
+            "ground"
+        ]
+    },
+    "types": [
+        "fire",
+        "ghost"
+    ],
+    "weight": 34.0
+}

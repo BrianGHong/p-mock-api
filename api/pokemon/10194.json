@@ -1,0 +1,82 @@
+{
+    "abilities": {
+        "hyper-cutter": "The Pok\u00e9mon\u2019s proud of its powerful pincers. They\nprevent other Pok\u00e9mon from lowering its Attack stat.",
+        "sheer-force": "Removes additional effects to increase the power\nof moves when attacking.",
+        "shell-armor": "A hard shell protects the Pok\u00e9mon from critical hits."
+    },
+    "description": {
+        "game": "red",
+        "text": "The large pincer\nhas 10000 hp of\ncrushing power.\fHowever, its huge\nsize makes it\nunwieldy to use."
+    },
+    "eggGroups": [
+        "water3"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [
+            {
+                "id": "99",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/99.png",
+                "name": "kingler",
+                "types": [
+                    "water"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "98",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/98.png",
+                "name": "krabby",
+                "types": [
+                    "water"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10194.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10194.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10194.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10194.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Pincer Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 19.0,
+    "id": 10194,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10194.png",
+    "name": "kingler-gmax",
+    "stats": {
+        "attack": 130,
+        "defense": 115,
+        "hp": 55,
+        "specialAttack": 50,
+        "specialDefense": 50,
+        "speed": 75
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fire",
+            "water",
+            "ice",
+            "steel"
+        ],
+        "weakTo": [
+            "grass",
+            "electric"
+        ]
+    },
+    "types": [
+        "water"
+    ],
+    "weight": 1000.0
+}

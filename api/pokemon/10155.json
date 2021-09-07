@@ -1,0 +1,79 @@
+{
+    "abilities": {
+        "prism-armor": "Reduces the power of supereffective attacks taken."
+    },
+    "description": {
+        "game": "sun",
+        "text": "Reminiscent of the Ultra Beasts, this life-form,\napparently asleep underground, is thought to\nhave come from another world in ancient times."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "800",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/800.png",
+                "name": "necrozma",
+                "types": [
+                    "psychic"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10155.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10155.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10155.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10155.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Prism Pok\u00e9mon",
+    "hatchCounter": 120,
+    "height": 3.8,
+    "id": 10155,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10155.png",
+    "name": "necrozma-dusk",
+    "stats": {
+        "attack": 157,
+        "defense": 127,
+        "hp": 97,
+        "specialAttack": 113,
+        "specialDefense": 109,
+        "speed": 77
+    },
+    "type_relations": {
+        "resistantTo": [
+            "ice",
+            "fairy",
+            "rock",
+            "dragon",
+            "grass",
+            "psychic",
+            "normal",
+            "flying",
+            "steel"
+        ],
+        "weakTo": [
+            "dark",
+            "ghost",
+            "fire",
+            "ground"
+        ]
+    },
+    "types": [
+        "psychic",
+        "steel"
+    ],
+    "weight": 460.0
+}

@@ -1,0 +1,73 @@
+{
+    "abilities": {
+        "levitate": "By floating in the air, the Pok\u00e9mon receives full\nimmunity to all Ground-type moves."
+    },
+    "description": {
+        "game": "ruby",
+        "text": "LATIAS is highly sensitive to the\nemotions of people. If it senses any\nhostility, this POK\u00e9MON ruffles the\ffeathers all over its body and cries\nshrilly to intimidate the foe."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "380",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/380.png",
+                "name": "latias",
+                "types": [
+                    "dragon",
+                    "psychic"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10062.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10062.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Eon Pok\u00e9mon",
+    "hatchCounter": 120,
+    "height": 1.8,
+    "id": 10062,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10062.png",
+    "name": "latias-mega",
+    "stats": {
+        "attack": 100,
+        "defense": 120,
+        "hp": 80,
+        "specialAttack": 140,
+        "specialDefense": 150,
+        "speed": 110
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fire",
+            "fighting",
+            "electric",
+            "water",
+            "grass",
+            "psychic"
+        ],
+        "weakTo": [
+            "dark",
+            "ghost",
+            "ice",
+            "bug",
+            "fairy",
+            "dragon"
+        ]
+    },
+    "types": [
+        "dragon",
+        "psychic"
+    ],
+    "weight": 52.0
+}

@@ -1,0 +1,91 @@
+{
+    "abilities": {
+        "grassy-surge": "Turns the ground into Grassy Terrain when\nthe Pok\u00e9mon enters a battle.",
+        "overgrow": "Powers up Grass-type moves when the Pok\u00e9mon\u2019s\nHP is low."
+    },
+    "description": {
+        "game": "sword",
+        "text": "By drumming, it taps into the power of its special\ntree stump. The roots of the stump follow its\ndirection in battle."
+    },
+    "eggGroups": [],
+    "evolution": {
+        "end": [
+            {
+                "id": "812",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/812.png",
+                "name": "rillaboom",
+                "types": [
+                    "grass"
+                ]
+            }
+        ],
+        "mid": [
+            {
+                "id": "811",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/811.png",
+                "name": "thwackey",
+                "types": [
+                    "grass"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "810",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/810.png",
+                "name": "grookey",
+                "types": [
+                    "grass"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10200.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10200.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10200.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10200.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Drummer Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 28.0,
+    "id": 10200,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10200.png",
+    "name": "rillaboom-gmax",
+    "stats": {
+        "attack": 125,
+        "defense": 90,
+        "hp": 100,
+        "specialAttack": 60,
+        "specialDefense": 70,
+        "speed": 85
+    },
+    "type_relations": {
+        "resistantTo": [
+            "grass",
+            "water",
+            "ground",
+            "electric"
+        ],
+        "weakTo": [
+            "ice",
+            "bug",
+            "fire",
+            "poison",
+            "flying"
+        ]
+    },
+    "types": [
+        "grass"
+    ],
+    "weight": 1000.0
+}

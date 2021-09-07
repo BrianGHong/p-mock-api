@@ -1,0 +1,78 @@
+{
+    "abilities": {
+        "aroma-veil": "Protects itself and its allies from attacks that limit\ntheir move choices.",
+        "sweet-veil": "Prevents itself and ally Pok\u00e9mon from falling asleep."
+    },
+    "description": {
+        "game": "sword",
+        "text": "Cream pours endlessly from this Pok\u00e9mon\u2019s body.\nThe cream stiffens when compressed by an\nimpact. A harder impact results in harder cream."
+    },
+    "eggGroups": [],
+    "evolution": {
+        "end": [],
+        "mid": [
+            {
+                "id": "869",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/869.png",
+                "name": "alcremie",
+                "types": [
+                    "fairy"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "868",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/868.png",
+                "name": "milcery",
+                "types": [
+                    "fairy"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10214.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10214.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10214.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10214.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Cream Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 30.0,
+    "id": 10214,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10214.png",
+    "name": "alcremie-gmax",
+    "stats": {
+        "attack": 60,
+        "defense": 75,
+        "hp": 65,
+        "specialAttack": 110,
+        "specialDefense": 121,
+        "speed": 64
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fighting",
+            "dark",
+            "bug"
+        ],
+        "weakTo": [
+            "poison",
+            "steel"
+        ]
+    },
+    "types": [
+        "fairy"
+    ],
+    "weight": 1000.0
+}

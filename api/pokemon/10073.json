@@ -1,0 +1,86 @@
+{
+    "abilities": {
+        "no-guard": "The Pok\u00e9mon employs no-guard tactics to ensure\nincoming and outgoing attacks always land."
+    },
+    "description": {
+        "game": "red",
+        "text": "When hunting, it\nskims the surface\nof water at high\fspeed to pick off\nunwary prey such\nas MAGIKARP."
+    },
+    "eggGroups": [
+        "flying"
+    ],
+    "evolution": {
+        "end": [
+            {
+                "id": "18",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/18.png",
+                "name": "pidgeot",
+                "types": [
+                    "normal",
+                    "flying"
+                ]
+            }
+        ],
+        "mid": [
+            {
+                "id": "17",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/17.png",
+                "name": "pidgeotto",
+                "types": [
+                    "normal",
+                    "flying"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "16",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/16.png",
+                "name": "pidgey",
+                "types": [
+                    "normal",
+                    "flying"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10073.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10073.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Bird Pok\u00e9mon",
+    "hatchCounter": 15,
+    "height": 2.2,
+    "id": 10073,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10073.png",
+    "name": "pidgeot-mega",
+    "stats": {
+        "attack": 80,
+        "defense": 80,
+        "hp": 83,
+        "specialAttack": 135,
+        "specialDefense": 80,
+        "speed": 121
+    },
+    "type_relations": {
+        "resistantTo": [
+            "grass",
+            "bug"
+        ],
+        "weakTo": [
+            "ice",
+            "rock",
+            "electric"
+        ]
+    },
+    "types": [
+        "normal",
+        "flying"
+    ],
+    "weight": 50.5
+}

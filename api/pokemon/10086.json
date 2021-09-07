@@ -1,0 +1,64 @@
+{
+    "abilities": {
+        "magician": "The Pok\u00e9mon steals the held item of a Pok\u00e9mon it\nhits with a move."
+    },
+    "description": {
+        "game": "x",
+        "text": "This troublemaker sends anything\nand everything to faraway places\nusing its loop, which can warp space."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "720",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/720.png",
+                "name": "hoopa",
+                "types": [
+                    "psychic",
+                    "ghost"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10086.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10086.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Mischief Pok\u00e9mon",
+    "hatchCounter": 120,
+    "height": 6.5,
+    "id": 10086,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10086.png",
+    "name": "hoopa-unbound",
+    "stats": {
+        "attack": 160,
+        "defense": 60,
+        "hp": 80,
+        "specialAttack": 170,
+        "specialDefense": 130,
+        "speed": 80
+    },
+    "type_relations": {
+        "resistantTo": [
+            "psychic"
+        ],
+        "weakTo": [
+            "bug",
+            "fairy"
+        ]
+    },
+    "types": [
+        "psychic",
+        "dark"
+    ],
+    "weight": 490.0
+}

@@ -1,0 +1,90 @@
+{
+    "abilities": {
+        "sand-force": "Boosts the power of Rock-, Ground-, and Steel-type\nmoves in a sandstorm.",
+        "sand-veil": "Boosts the Pok\u00e9mon\u2019s evasion in a sandstorm.",
+        "tangling-hair": "Contact with the Pok\u00e9mon lowers the attacker\u2019s\nSpeed stat."
+    },
+    "description": {
+        "game": "red",
+        "text": "A team of DIGLETT\ntriplets.\nIt triggers huge\fearthquakes by\nburrowing 60 miles\nunderground."
+    },
+    "eggGroups": [
+        "ground"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [
+            {
+                "id": "51",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/51.png",
+                "name": "dugtrio",
+                "types": [
+                    "ground"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "50",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/50.png",
+                "name": "diglett",
+                "types": [
+                    "ground"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10106.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10106.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10106.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10106.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Mole Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 0.7,
+    "id": 10106,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10106.png",
+    "name": "dugtrio-alola",
+    "stats": {
+        "attack": 100,
+        "defense": 60,
+        "hp": 35,
+        "specialAttack": 50,
+        "specialDefense": 70,
+        "speed": 110
+    },
+    "type_relations": {
+        "resistantTo": [
+            "bug",
+            "fairy",
+            "rock",
+            "poison",
+            "dragon",
+            "psychic",
+            "normal",
+            "flying",
+            "steel"
+        ],
+        "weakTo": [
+            "fighting",
+            "fire",
+            "water",
+            "ground"
+        ]
+    },
+    "types": [
+        "ground",
+        "steel"
+    ],
+    "weight": 66.6
+}

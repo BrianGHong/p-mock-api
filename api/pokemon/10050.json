@@ -1,0 +1,90 @@
+{
+    "abilities": {
+        "speed-boost": "Its Speed stat is boosted every turn."
+    },
+    "description": {
+        "game": "ruby",
+        "text": "In battle, BLAZIKEN blows out intense\nflames from its wrists and attacks foes\ncourageously.\fThe stronger the foe, the more\nintensely this POK\u00e9MON\u2019s wrists burn."
+    },
+    "eggGroups": [
+        "ground"
+    ],
+    "evolution": {
+        "end": [
+            {
+                "id": "257",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/257.png",
+                "name": "blaziken",
+                "types": [
+                    "fire",
+                    "fighting"
+                ]
+            }
+        ],
+        "mid": [
+            {
+                "id": "256",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/256.png",
+                "name": "combusken",
+                "types": [
+                    "fire",
+                    "fighting"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "255",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/255.png",
+                "name": "torchic",
+                "types": [
+                    "fire"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10050.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10050.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Blaze Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 1.9,
+    "id": 10050,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10050.png",
+    "name": "blaziken-mega",
+    "stats": {
+        "attack": 160,
+        "defense": 80,
+        "hp": 80,
+        "specialAttack": 130,
+        "specialDefense": 80,
+        "speed": 100
+    },
+    "type_relations": {
+        "resistantTo": [
+            "dark",
+            "ice",
+            "bug",
+            "fire",
+            "grass",
+            "steel"
+        ],
+        "weakTo": [
+            "water",
+            "ground",
+            "psychic",
+            "flying"
+        ]
+    },
+    "types": [
+        "fire",
+        "fighting"
+    ],
+    "weight": 52.0
+}

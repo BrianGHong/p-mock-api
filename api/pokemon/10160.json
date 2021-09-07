@@ -1,0 +1,82 @@
+{
+    "abilities": {
+        "anticipation": "The Pok\u00e9mon can sense an opposing Pok\u00e9mon\u2019s\ndangerous moves.",
+        "pastel-veil": "Protects the Pok\u00e9mon and its ally Pok\u00e9mon from being poisoned.",
+        "run-away": "Enables a sure getaway from wild Pok\u00e9mon."
+    },
+    "description": {
+        "game": "red",
+        "text": "Very competitive,\nthis POK\u00e9MON will\nchase anything\fthat moves fast\nin the hopes of\nracing it."
+    },
+    "eggGroups": [
+        "ground"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [
+            {
+                "id": "78",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/78.png",
+                "name": "rapidash",
+                "types": [
+                    "fire"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "77",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/77.png",
+                "name": "ponyta",
+                "types": [
+                    "fire"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10160.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10160.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10160.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10160.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Fire Horse Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 1.7,
+    "id": 10160,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10160.png",
+    "name": "rapidash-galar",
+    "stats": {
+        "attack": 100,
+        "defense": 70,
+        "hp": 65,
+        "specialAttack": 80,
+        "specialDefense": 80,
+        "speed": 105
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fighting",
+            "psychic"
+        ],
+        "weakTo": [
+            "ghost",
+            "poison",
+            "steel"
+        ]
+    },
+    "types": [
+        "psychic",
+        "fairy"
+    ],
+    "weight": 80.0
+}

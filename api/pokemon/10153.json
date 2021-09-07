@@ -1,0 +1,74 @@
+{
+    "abilities": {
+        "water-absorb": "Restores HP if hit by a Water-type move, instead of\ntaking damage.",
+        "water-bubble": "Lowers the power of Fire-type moves done to the\nPok\u00e9mon and prevents the Pok\u00e9mon from getting\na burn."
+    },
+    "description": {
+        "game": "sun",
+        "text": "It delivers headbutts with the water bubble\non its head. Small Pok\u00e9mon get sucked into\nthe bubble, where they drown."
+    },
+    "eggGroups": [
+        "water1",
+        "bug"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [
+            {
+                "id": "752",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/752.png",
+                "name": "araquanid",
+                "types": [
+                    "water",
+                    "bug"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "751",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/751.png",
+                "name": "dewpider",
+                "types": [
+                    "water",
+                    "bug"
+                ]
+            }
+        ]
+    },
+    "forms": [],
+    "gender": {},
+    "genera": "Water Bubble Pok\u00e9mon",
+    "hatchCounter": 15,
+    "height": 3.1,
+    "id": 10153,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10153.png",
+    "name": "araquanid-totem",
+    "stats": {
+        "attack": 70,
+        "defense": 92,
+        "hp": 68,
+        "specialAttack": 50,
+        "specialDefense": 132,
+        "speed": 42
+    },
+    "type_relations": {
+        "resistantTo": [
+            "ice",
+            "fighting",
+            "water",
+            "ground",
+            "steel"
+        ],
+        "weakTo": [
+            "rock",
+            "electric",
+            "flying"
+        ]
+    },
+    "types": [
+        "water",
+        "bug"
+    ],
+    "weight": 217.5
+}

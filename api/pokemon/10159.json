@@ -1,0 +1,81 @@
+{
+    "abilities": {
+        "anticipation": "The Pok\u00e9mon can sense an opposing Pok\u00e9mon\u2019s\ndangerous moves.",
+        "pastel-veil": "Protects the Pok\u00e9mon and its ally Pok\u00e9mon from being poisoned.",
+        "run-away": "Enables a sure getaway from wild Pok\u00e9mon."
+    },
+    "description": {
+        "game": "red",
+        "text": "Its hooves are 10\ntimes harder than\ndiamonds. It can\ftrample anything\ncompletely flat\nin little time."
+    },
+    "eggGroups": [
+        "ground"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [
+            {
+                "id": "78",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/78.png",
+                "name": "rapidash",
+                "types": [
+                    "fire"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "77",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/77.png",
+                "name": "ponyta",
+                "types": [
+                    "fire"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10159.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10159.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10159.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10159.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Fire Horse Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 0.8,
+    "id": 10159,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10159.png",
+    "name": "ponyta-galar",
+    "stats": {
+        "attack": 85,
+        "defense": 55,
+        "hp": 50,
+        "specialAttack": 65,
+        "specialDefense": 65,
+        "speed": 90
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fighting",
+            "psychic"
+        ],
+        "weakTo": [
+            "dark",
+            "ghost",
+            "bug"
+        ]
+    },
+    "types": [
+        "psychic"
+    ],
+    "weight": 24.0
+}

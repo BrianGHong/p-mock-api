@@ -1,0 +1,94 @@
+{
+    "abilities": {
+        "tough-claws": "Powers up moves that make direct contact."
+    },
+    "description": {
+        "game": "ruby",
+        "text": "METAGROSS has four brains in total.\nCombined, the four brains can breeze\nthrough difficult calculations faster\fthan a supercomputer.\nThis POK\u00e9MON can float in the air by\ntucking in its four legs."
+    },
+    "eggGroups": [
+        "mineral"
+    ],
+    "evolution": {
+        "end": [
+            {
+                "id": "376",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/376.png",
+                "name": "metagross",
+                "types": [
+                    "steel",
+                    "psychic"
+                ]
+            }
+        ],
+        "mid": [
+            {
+                "id": "375",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/375.png",
+                "name": "metang",
+                "types": [
+                    "steel",
+                    "psychic"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "374",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/374.png",
+                "name": "beldum",
+                "types": [
+                    "steel",
+                    "psychic"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10076.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10076.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Iron Leg Pok\u00e9mon",
+    "hatchCounter": 40,
+    "height": 2.5,
+    "id": 10076,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10076.png",
+    "name": "metagross-mega",
+    "stats": {
+        "attack": 145,
+        "defense": 150,
+        "hp": 80,
+        "specialAttack": 105,
+        "specialDefense": 110,
+        "speed": 110
+    },
+    "type_relations": {
+        "resistantTo": [
+            "ice",
+            "fairy",
+            "rock",
+            "dragon",
+            "grass",
+            "psychic",
+            "normal",
+            "flying",
+            "steel"
+        ],
+        "weakTo": [
+            "dark",
+            "ghost",
+            "fire",
+            "ground"
+        ]
+    },
+    "types": [
+        "steel",
+        "psychic"
+    ],
+    "weight": 942.9
+}

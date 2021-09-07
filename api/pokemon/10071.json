@@ -1,0 +1,92 @@
+{
+    "abilities": {
+        "shell-armor": "A hard shell protects the Pok\u00e9mon from critical hits."
+    },
+    "description": {
+        "game": "red",
+        "text": "The SHELLDER that\nis latched onto\nSLOWPOKE's tail\fis said to feed\non the host's left\nover scraps."
+    },
+    "eggGroups": [
+        "monster",
+        "water1"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [
+            {
+                "id": "80",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/80.png",
+                "name": "slowbro",
+                "types": [
+                    "water",
+                    "psychic"
+                ]
+            },
+            {
+                "id": "199",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/199.png",
+                "name": "slowking",
+                "types": [
+                    "water",
+                    "psychic"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "79",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/79.png",
+                "name": "slowpoke",
+                "types": [
+                    "water",
+                    "psychic"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10071.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10071.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Hermit Crab Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 2.0,
+    "id": 10071,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10071.png",
+    "name": "slowbro-mega",
+    "stats": {
+        "attack": 75,
+        "defense": 180,
+        "hp": 95,
+        "specialAttack": 130,
+        "specialDefense": 80,
+        "speed": 30
+    },
+    "type_relations": {
+        "resistantTo": [
+            "ice",
+            "fire",
+            "fighting",
+            "water",
+            "psychic",
+            "steel"
+        ],
+        "weakTo": [
+            "dark",
+            "ghost",
+            "bug",
+            "electric",
+            "grass"
+        ]
+    },
+    "types": [
+        "water",
+        "psychic"
+    ],
+    "weight": 120.0
+}

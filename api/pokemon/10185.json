@@ -1,0 +1,70 @@
+{
+    "abilities": {
+        "as-one": "This Ability combines the effects of both Calyrex's Unnerve Ability and Spectrier's Grim Neigh Ability."
+    },
+    "description": {
+        "game": "sword",
+        "text": "Calyrex is a merciful Pok\u00e9mon, capable of providing healing and blessings. It reigned over the Galar region in times of yore."
+    },
+    "eggGroups": [],
+    "evolution": {
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "898",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/898.png",
+                "name": "calyrex",
+                "types": [
+                    "psychic",
+                    "grass"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10185.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10185.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10185.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10185.png"
+        }
+    ],
+    "gender": {},
+    "genera": "King Pok\u00e9mon",
+    "hatchCounter": 120,
+    "height": 2.4,
+    "id": 10185,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10185.png",
+    "name": "calyrex-shadow-rider",
+    "stats": {
+        "attack": 85,
+        "defense": 80,
+        "hp": 100,
+        "specialAttack": 165,
+        "specialDefense": 100,
+        "speed": 150
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fighting",
+            "psychic",
+            "poison"
+        ],
+        "weakTo": [
+            "dark",
+            "ghost"
+        ]
+    },
+    "types": [
+        "psychic",
+        "ghost"
+    ],
+    "weight": 53.6
+}

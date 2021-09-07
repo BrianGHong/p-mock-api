@@ -1,0 +1,78 @@
+{
+    "abilities": {
+        "sheer-force": "Removes additional effects to increase the power\nof moves when attacking."
+    },
+    "description": {
+        "game": "ruby",
+        "text": "CAMERUPT has a volcano inside its body.\nMagma of 18,000 degrees F courses\nthrough its body.\fOccasionally, the humps on this\nPOK\u00e9MON\u2019s back erupt, spewing the\nsuperheated magma."
+    },
+    "eggGroups": [
+        "ground"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [
+            {
+                "id": "323",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/323.png",
+                "name": "camerupt",
+                "types": [
+                    "fire",
+                    "ground"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "322",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/322.png",
+                "name": "numel",
+                "types": [
+                    "fire",
+                    "ground"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10087.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10087.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Eruption Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 2.5,
+    "id": 10087,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10087.png",
+    "name": "camerupt-mega",
+    "stats": {
+        "attack": 120,
+        "defense": 100,
+        "hp": 70,
+        "specialAttack": 145,
+        "specialDefense": 105,
+        "speed": 20
+    },
+    "type_relations": {
+        "resistantTo": [
+            "bug",
+            "fire",
+            "fairy",
+            "poison",
+            "steel"
+        ],
+        "weakTo": [
+            "water",
+            "ground"
+        ]
+    },
+    "types": [
+        "fire",
+        "ground"
+    ],
+    "weight": 320.5
+}

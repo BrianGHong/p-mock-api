@@ -1,0 +1,64 @@
+{
+    "abilities": {
+        "healer": "Sometimes heals an ally\u2019s status condition."
+    },
+    "description": {
+        "game": "black",
+        "text": "It touches others with the feelers on\nits ears, using the sound of their\nheartbeats to tell how they are feeling."
+    },
+    "eggGroups": [
+        "fairy"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "531",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/531.png",
+                "name": "audino",
+                "types": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10069.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10069.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Hearing Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 1.5,
+    "id": 10069,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10069.png",
+    "name": "audino-mega",
+    "stats": {
+        "attack": 60,
+        "defense": 126,
+        "hp": 103,
+        "specialAttack": 80,
+        "specialDefense": 126,
+        "speed": 50
+    },
+    "type_relations": {
+        "resistantTo": [
+            "dark",
+            "bug"
+        ],
+        "weakTo": [
+            "poison",
+            "steel"
+        ]
+    },
+    "types": [
+        "normal",
+        "fairy"
+    ],
+    "weight": 32.0
+}

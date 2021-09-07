@@ -1,0 +1,90 @@
+{
+    "abilities": {
+        "sand-force": "Boosts the power of Rock-, Ground-, and Steel-type\nmoves in a sandstorm.",
+        "sand-veil": "Boosts the Pok\u00e9mon\u2019s evasion in a sandstorm.",
+        "tangling-hair": "Contact with the Pok\u00e9mon lowers the attacker\u2019s\nSpeed stat."
+    },
+    "description": {
+        "game": "red",
+        "text": "Lives about one\nyard underground\nwhere it feeds on\fplant roots. It\nsometimes appears\nabove ground."
+    },
+    "eggGroups": [
+        "ground"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [
+            {
+                "id": "51",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/51.png",
+                "name": "dugtrio",
+                "types": [
+                    "ground"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "50",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/50.png",
+                "name": "diglett",
+                "types": [
+                    "ground"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10105.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10105.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10105.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10105.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Mole Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 0.2,
+    "id": 10105,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10105.png",
+    "name": "diglett-alola",
+    "stats": {
+        "attack": 55,
+        "defense": 30,
+        "hp": 10,
+        "specialAttack": 35,
+        "specialDefense": 45,
+        "speed": 90
+    },
+    "type_relations": {
+        "resistantTo": [
+            "bug",
+            "fairy",
+            "rock",
+            "poison",
+            "dragon",
+            "psychic",
+            "normal",
+            "flying",
+            "steel"
+        ],
+        "weakTo": [
+            "fighting",
+            "fire",
+            "water",
+            "ground"
+        ]
+    },
+    "types": [
+        "ground",
+        "steel"
+    ],
+    "weight": 1.0
+}

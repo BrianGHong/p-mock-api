@@ -1,0 +1,97 @@
+{
+    "abilities": {
+        "flame-body": "Contact with the Pok\u00e9mon may burn the attacker.",
+        "flash-fire": "Powers up the Pok\u00e9mon\u2019s Fire-type moves if it\u2019s hit\nby one.",
+        "steam-engine": "Boosts the Pok\u00e9mon's Speed stat drastically if hit by a Fire- or Water-type move."
+    },
+    "description": {
+        "game": "sword",
+        "text": "Its body is a colossal stove. With Gigantamax\nenergy stoking the fire, this Pok\u00e9mon\u2019s flame\nburns hotter than 3,600 degrees Fahrenheit."
+    },
+    "eggGroups": [],
+    "evolution": {
+        "end": [
+            {
+                "id": "839",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/839.png",
+                "name": "coalossal",
+                "types": [
+                    "rock",
+                    "fire"
+                ]
+            }
+        ],
+        "mid": [
+            {
+                "id": "838",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/838.png",
+                "name": "carkol",
+                "types": [
+                    "rock",
+                    "fire"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "837",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/837.png",
+                "name": "rolycoly",
+                "types": [
+                    "rock"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10206.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10206.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10206.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10206.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Coal Pok\u00e9mon",
+    "hatchCounter": 15,
+    "height": 42.0,
+    "id": 10206,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10206.png",
+    "name": "coalossal-gmax",
+    "stats": {
+        "attack": 80,
+        "defense": 120,
+        "hp": 110,
+        "specialAttack": 80,
+        "specialDefense": 90,
+        "speed": 30
+    },
+    "type_relations": {
+        "resistantTo": [
+            "ice",
+            "bug",
+            "fire",
+            "fairy",
+            "poison",
+            "normal",
+            "flying"
+        ],
+        "weakTo": [
+            "fighting",
+            "rock",
+            "water",
+            "ground"
+        ]
+    },
+    "types": [
+        "rock",
+        "fire"
+    ],
+    "weight": 1000.0
+}

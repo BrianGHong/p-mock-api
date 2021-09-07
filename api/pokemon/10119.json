@@ -1,0 +1,74 @@
+{
+    "abilities": {
+        "power-construct": "Other Cells gather to aid when its HP becomes\nhalf or less. Then the Pok\u00e9mon changes\nits form to Complete Forme."
+    },
+    "description": {
+        "game": "x",
+        "text": "When the Kalos region\u2019s ecosystem falls into\ndisarray, it appears and reveals its secret power."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "718",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/718.png",
+                "name": "zygarde",
+                "types": [
+                    "dragon",
+                    "ground"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10119.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10119.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10119.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10119.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Order Pok\u00e9mon",
+    "hatchCounter": 120,
+    "height": 5.0,
+    "id": 10119,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10119.png",
+    "name": "zygarde-50",
+    "stats": {
+        "attack": 100,
+        "defense": 121,
+        "hp": 108,
+        "specialAttack": 81,
+        "specialDefense": 95,
+        "speed": 95
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fire",
+            "poison",
+            "electric",
+            "rock"
+        ],
+        "weakTo": [
+            "ice",
+            "fairy",
+            "dragon"
+        ]
+    },
+    "types": [
+        "dragon",
+        "ground"
+    ],
+    "weight": 305.0
+}

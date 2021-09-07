@@ -1,0 +1,85 @@
+{
+    "abilities": {
+        "iron-fist": "Powers up punching moves."
+    },
+    "description": {
+        "game": "lets-go-pikachu",
+        "text": "Revered long ago for its capacity to create iron\nfrom nothing, for some reason it has come back\nto life after 3,000 years."
+    },
+    "eggGroups": [],
+    "evolution": {
+        "end": [],
+        "mid": [
+            {
+                "id": "809",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/809.png",
+                "name": "melmetal",
+                "types": [
+                    "steel"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "808",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/808.png",
+                "name": "meltan",
+                "types": [
+                    "steel"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10199.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10199.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10199.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10199.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Hex Nut Pok\u00e9mon",
+    "hatchCounter": 120,
+    "height": 25.0,
+    "id": 10199,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10199.png",
+    "name": "melmetal-gmax",
+    "stats": {
+        "attack": 143,
+        "defense": 143,
+        "hp": 135,
+        "specialAttack": 80,
+        "specialDefense": 65,
+        "speed": 34
+    },
+    "type_relations": {
+        "resistantTo": [
+            "ice",
+            "bug",
+            "fairy",
+            "rock",
+            "dragon",
+            "grass",
+            "psychic",
+            "normal",
+            "flying",
+            "steel"
+        ],
+        "weakTo": [
+            "fighting",
+            "fire",
+            "ground"
+        ]
+    },
+    "types": [
+        "steel"
+    ],
+    "weight": 1000.0
+}

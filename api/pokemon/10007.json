@@ -1,0 +1,78 @@
+{
+    "abilities": {
+        "levitate": "By floating in the air, the Pok\u00e9mon receives full\nimmunity to all Ground-type moves."
+    },
+    "description": {
+        "game": "diamond",
+        "text": "A Pok\u00e9mon that is said to live in a\nworld on the reverse side of ours.\nIt appears in an ancient cemetery."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "487",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/487.png",
+                "name": "giratina-altered",
+                "types": [
+                    "ghost",
+                    "dragon"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/487-origin.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/487-origin.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10007.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/487-origin.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Renegade Pok\u00e9mon",
+    "hatchCounter": 120,
+    "height": 6.9,
+    "id": 10007,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10007.png",
+    "name": "giratina-origin",
+    "stats": {
+        "attack": 120,
+        "defense": 100,
+        "hp": 150,
+        "specialAttack": 120,
+        "specialDefense": 100,
+        "speed": 90
+    },
+    "type_relations": {
+        "resistantTo": [
+            "bug",
+            "fire",
+            "poison",
+            "electric",
+            "water",
+            "grass"
+        ],
+        "weakTo": [
+            "dark",
+            "ghost",
+            "ice",
+            "fairy",
+            "dragon"
+        ]
+    },
+    "types": [
+        "ghost",
+        "dragon"
+    ],
+    "weight": 650.0
+}

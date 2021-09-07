@@ -1,0 +1,89 @@
+{
+    "abilities": {
+        "sand-force": "Boosts the power of Rock-, Ground-, and Steel-type\nmoves in a sandstorm."
+    },
+    "description": {
+        "game": "diamond",
+        "text": "When it folds up its body and\nextends its wings, it looks like a\njet plane. It flies at sonic speed."
+    },
+    "eggGroups": [
+        "monster",
+        "dragon"
+    ],
+    "evolution": {
+        "end": [
+            {
+                "id": "445",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/445.png",
+                "name": "garchomp",
+                "types": [
+                    "dragon",
+                    "ground"
+                ]
+            }
+        ],
+        "mid": [
+            {
+                "id": "444",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/444.png",
+                "name": "gabite",
+                "types": [
+                    "dragon",
+                    "ground"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "443",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/443.png",
+                "name": "gible",
+                "types": [
+                    "dragon",
+                    "ground"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10058.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10058.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Mach Pok\u00e9mon",
+    "hatchCounter": 40,
+    "height": 1.9,
+    "id": 10058,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10058.png",
+    "name": "garchomp-mega",
+    "stats": {
+        "attack": 170,
+        "defense": 115,
+        "hp": 108,
+        "specialAttack": 120,
+        "specialDefense": 95,
+        "speed": 92
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fire",
+            "poison",
+            "electric",
+            "rock"
+        ],
+        "weakTo": [
+            "ice",
+            "fairy",
+            "dragon"
+        ]
+    },
+    "types": [
+        "dragon",
+        "ground"
+    ],
+    "weight": 95.0
+}

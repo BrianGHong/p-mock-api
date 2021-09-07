@@ -1,0 +1,92 @@
+{
+    "abilities": {
+        "gluttony": "Makes the Pok\u00e9mon eat a held Berry when its HP\ndrops to half or less, which is sooner than usual.",
+        "pickup": "The Pok\u00e9mon may pick up the item an opposing\nPok\u00e9mon used during a battle. It may pick up items\noutside of battle, too.",
+        "quick-feet": "Boosts the Speed stat if the Pok\u00e9mon has a\nstatus condition."
+    },
+    "description": {
+        "game": "ruby",
+        "text": "LINOONE always runs full speed and only\nin straight lines. If facing an obstacle,\nit makes a right-angle turn to evade it.\fThis POK\u00e9MON is very challenged by\ngently curving roads."
+    },
+    "eggGroups": [
+        "ground"
+    ],
+    "evolution": {
+        "end": [
+            {
+                "id": "862",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/862.png",
+                "name": "obstagoon",
+                "types": [
+                    "dark",
+                    "normal"
+                ]
+            }
+        ],
+        "mid": [
+            {
+                "id": "264",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/264.png",
+                "name": "linoone",
+                "types": [
+                    "normal"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "263",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/263.png",
+                "name": "zigzagoon",
+                "types": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10172.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10172.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10172.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10172.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Rushing Pok\u00e9mon",
+    "hatchCounter": 15,
+    "height": 0.5,
+    "id": 10172,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10172.png",
+    "name": "linoone-galar",
+    "stats": {
+        "attack": 70,
+        "defense": 61,
+        "hp": 78,
+        "specialAttack": 50,
+        "specialDefense": 61,
+        "speed": 100
+    },
+    "type_relations": {
+        "resistantTo": [
+            "dark",
+            "ghost"
+        ],
+        "weakTo": [
+            "fighting",
+            "fairy",
+            "bug"
+        ]
+    },
+    "types": [
+        "dark",
+        "normal"
+    ],
+    "weight": 32.5
+}

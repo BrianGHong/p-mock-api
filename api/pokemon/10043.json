@@ -1,0 +1,65 @@
+{
+    "abilities": {
+        "steadfast": "The Pok\u00e9mon\u2019s determination boosts the Speed\nstat each time the Pok\u00e9mon flinches."
+    },
+    "description": {
+        "game": "red",
+        "text": "It was created by\na scientist after\nyears of horrific\fgene splicing and\nDNA engineering\nexperiments."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "150",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/150.png",
+                "name": "mewtwo",
+                "types": [
+                    "psychic"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10043.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/150-mega-x.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Genetic Pok\u00e9mon",
+    "hatchCounter": 120,
+    "height": 2.3,
+    "id": 10043,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10043.png",
+    "name": "mewtwo-mega-x",
+    "stats": {
+        "attack": 190,
+        "defense": 100,
+        "hp": 106,
+        "specialAttack": 154,
+        "specialDefense": 100,
+        "speed": 130
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fighting",
+            "rock"
+        ],
+        "weakTo": [
+            "ghost",
+            "fairy",
+            "flying"
+        ]
+    },
+    "types": [
+        "psychic",
+        "fighting"
+    ],
+    "weight": 127.0
+}

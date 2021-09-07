@@ -1,0 +1,75 @@
+{
+    "abilities": {
+        "volt-absorb": "Restores HP if hit by an Electric-type move, instead\nof taking damage."
+    },
+    "description": {
+        "game": "black",
+        "text": "Countless charred remains mar the\nlandscape of places through which\nThundurus has passed."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "642",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/642.png",
+                "name": "thundurus-incarnate",
+                "types": [
+                    "electric",
+                    "flying"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/642-therian.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/642-therian.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10020.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/642-therian.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Bolt Strike Pok\u00e9mon",
+    "hatchCounter": 120,
+    "height": 3.0,
+    "id": 10020,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10020.png",
+    "name": "thundurus-therian",
+    "stats": {
+        "attack": 105,
+        "defense": 70,
+        "hp": 79,
+        "specialAttack": 145,
+        "specialDefense": 80,
+        "speed": 101
+    },
+    "type_relations": {
+        "resistantTo": [
+            "bug",
+            "fighting",
+            "grass",
+            "flying",
+            "steel"
+        ],
+        "weakTo": [
+            "ice",
+            "ground",
+            "rock"
+        ]
+    },
+    "types": [
+        "electric",
+        "flying"
+    ],
+    "weight": 61.0
+}

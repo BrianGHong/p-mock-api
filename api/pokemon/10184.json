@@ -1,0 +1,73 @@
+{
+    "abilities": {
+        "as-one": "This Ability combines the effects of both Calyrex's Unnerve Ability and Glastrier's Chilling Neigh Ability."
+    },
+    "description": {
+        "game": "sword",
+        "text": "Calyrex is a merciful Pok\u00e9mon, capable of providing healing and blessings. It reigned over the Galar region in times of yore."
+    },
+    "eggGroups": [],
+    "evolution": {
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "898",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/898.png",
+                "name": "calyrex",
+                "types": [
+                    "psychic",
+                    "grass"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10184.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10184.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10184.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10184.png"
+        }
+    ],
+    "gender": {},
+    "genera": "King Pok\u00e9mon",
+    "hatchCounter": 120,
+    "height": 2.4,
+    "id": 10184,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10184.png",
+    "name": "calyrex-ice-rider",
+    "stats": {
+        "attack": 165,
+        "defense": 150,
+        "hp": 100,
+        "specialAttack": 85,
+        "specialDefense": 130,
+        "speed": 50
+    },
+    "type_relations": {
+        "resistantTo": [
+            "psychic",
+            "ice"
+        ],
+        "weakTo": [
+            "dark",
+            "ghost",
+            "bug",
+            "fire",
+            "rock",
+            "steel"
+        ]
+    },
+    "types": [
+        "psychic",
+        "ice"
+    ],
+    "weight": 809.1
+}

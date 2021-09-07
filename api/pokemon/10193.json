@@ -1,0 +1,96 @@
+{
+    "abilities": {
+        "cursed-body": "May disable a move used on the Pok\u00e9mon."
+    },
+    "description": {
+        "game": "red",
+        "text": "Under a full moon,\nthis POK\u00e9MON\nlikes to mimic\fthe shadows of\npeople and laugh\nat their fright."
+    },
+    "eggGroups": [
+        "indeterminate"
+    ],
+    "evolution": {
+        "end": [
+            {
+                "id": "94",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/94.png",
+                "name": "gengar",
+                "types": [
+                    "ghost",
+                    "poison"
+                ]
+            }
+        ],
+        "mid": [
+            {
+                "id": "93",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/93.png",
+                "name": "haunter",
+                "types": [
+                    "ghost",
+                    "poison"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "92",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/92.png",
+                "name": "gastly",
+                "types": [
+                    "ghost",
+                    "poison"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10193.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10193.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10193.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10193.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Shadow Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 20.0,
+    "id": 10193,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10193.png",
+    "name": "gengar-gmax",
+    "stats": {
+        "attack": 65,
+        "defense": 60,
+        "hp": 60,
+        "specialAttack": 130,
+        "specialDefense": 75,
+        "speed": 110
+    },
+    "type_relations": {
+        "resistantTo": [
+            "bug",
+            "fighting",
+            "fairy",
+            "poison",
+            "grass"
+        ],
+        "weakTo": [
+            "dark",
+            "psychic",
+            "ground",
+            "ghost"
+        ]
+    },
+    "types": [
+        "ghost",
+        "poison"
+    ],
+    "weight": 1000.0
+}

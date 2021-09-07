@@ -1,0 +1,82 @@
+{
+    "abilities": {
+        "mold-breaker": "Moves can be used on the target regardless of\nits Abilities."
+    },
+    "description": {
+        "game": "red",
+        "text": "Rarely seen in\nthe wild. Huge\nand vicious, it\fis capable of\ndestroying entire\ncities in a rage."
+    },
+    "eggGroups": [
+        "water2",
+        "dragon"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [
+            {
+                "id": "130",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/130.png",
+                "name": "gyarados",
+                "types": [
+                    "water",
+                    "flying"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "129",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/129.png",
+                "name": "magikarp",
+                "types": [
+                    "water"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10041.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10041.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Atrocious Pok\u00e9mon",
+    "hatchCounter": 5,
+    "height": 6.5,
+    "id": 10041,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10041.png",
+    "name": "gyarados-mega",
+    "stats": {
+        "attack": 155,
+        "defense": 109,
+        "hp": 95,
+        "specialAttack": 70,
+        "specialDefense": 130,
+        "speed": 81
+    },
+    "type_relations": {
+        "resistantTo": [
+            "dark",
+            "ghost",
+            "ice",
+            "fire",
+            "water",
+            "steel"
+        ],
+        "weakTo": [
+            "bug",
+            "fighting",
+            "fairy",
+            "electric",
+            "grass"
+        ]
+    },
+    "types": [
+        "water",
+        "dark"
+    ],
+    "weight": 305.0
+}

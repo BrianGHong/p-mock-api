@@ -1,0 +1,95 @@
+{
+    "abilities": {
+        "pixilate": "Normal-type moves become Fairy-type moves.\nThe power of those moves is boosted a little."
+    },
+    "description": {
+        "game": "ruby",
+        "text": "GARDEVOIR has the ability to read the\nfuture. If it senses impending danger\nto its TRAINER, this POK\u00e9MON is said to\funleash its psychokinetic energy at\nfull power."
+    },
+    "eggGroups": [
+        "indeterminate"
+    ],
+    "evolution": {
+        "end": [
+            {
+                "id": "282",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/282.png",
+                "name": "gardevoir",
+                "types": [
+                    "psychic",
+                    "fairy"
+                ]
+            },
+            {
+                "id": "475",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/475.png",
+                "name": "gallade",
+                "types": [
+                    "psychic",
+                    "fighting"
+                ]
+            }
+        ],
+        "mid": [
+            {
+                "id": "281",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/281.png",
+                "name": "kirlia",
+                "types": [
+                    "psychic",
+                    "fairy"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "280",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/280.png",
+                "name": "ralts",
+                "types": [
+                    "psychic",
+                    "fairy"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10051.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10051.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Embrace Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 1.6,
+    "id": 10051,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10051.png",
+    "name": "gardevoir-mega",
+    "stats": {
+        "attack": 85,
+        "defense": 65,
+        "hp": 68,
+        "specialAttack": 165,
+        "specialDefense": 135,
+        "speed": 100
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fighting",
+            "psychic"
+        ],
+        "weakTo": [
+            "ghost",
+            "poison",
+            "steel"
+        ]
+    },
+    "types": [
+        "psychic",
+        "fairy"
+    ],
+    "weight": 48.4
+}

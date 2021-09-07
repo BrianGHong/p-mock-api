@@ -1,0 +1,85 @@
+{
+    "abilities": {
+        "keen-eye": "Keen eyes prevent other Pok\u00e9mon from lowering this\nPok\u00e9mon\u2019s accuracy.",
+        "no-guard": "The Pok\u00e9mon employs no-guard tactics to ensure\nincoming and outgoing attacks always land.",
+        "vital-spirit": "The Pok\u00e9mon is full of vitality, and that prevents\nit from falling asleep."
+    },
+    "description": {
+        "game": "sun",
+        "text": "Its quick movements confuse its enemies.\nWell equipped with claws and fangs, it also uses\nthe sharp rocks in its mane as weapons."
+    },
+    "eggGroups": [
+        "ground"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [
+            {
+                "id": "745",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/745.png",
+                "name": "lycanroc-midday",
+                "types": [
+                    "rock"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "744",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/744.png",
+                "name": "rockruff",
+                "types": [
+                    "rock"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10126.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10126.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10126.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10126.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Wolf Pok\u00e9mon",
+    "hatchCounter": 15,
+    "height": 1.1,
+    "id": 10126,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10126.png",
+    "name": "lycanroc-midnight",
+    "stats": {
+        "attack": 115,
+        "defense": 75,
+        "hp": 85,
+        "specialAttack": 55,
+        "specialDefense": 75,
+        "speed": 82
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fire",
+            "normal",
+            "flying",
+            "poison"
+        ],
+        "weakTo": [
+            "fighting",
+            "water",
+            "grass",
+            "ground",
+            "steel"
+        ]
+    },
+    "types": [
+        "rock"
+    ],
+    "weight": 25.0
+}

@@ -1,0 +1,88 @@
+{
+    "abilities": {
+        "trace": "When it enters a battle, the Pok\u00e9mon copies an\nopposing Pok\u00e9mon\u2019s Ability."
+    },
+    "description": {
+        "game": "red",
+        "text": "Its brain can out\u00ad\nperform a super\u00ad\ncomputer.\fIts intelligence\nquotient is said\nto be 5,000."
+    },
+    "eggGroups": [
+        "humanshape"
+    ],
+    "evolution": {
+        "end": [
+            {
+                "id": "65",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/65.png",
+                "name": "alakazam",
+                "types": [
+                    "psychic"
+                ]
+            }
+        ],
+        "mid": [
+            {
+                "id": "64",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/64.png",
+                "name": "kadabra",
+                "types": [
+                    "psychic"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "63",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/63.png",
+                "name": "abra",
+                "types": [
+                    "psychic"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10037.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10037.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10037.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10037.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Psi Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 1.2,
+    "id": 10037,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10037.png",
+    "name": "alakazam-mega",
+    "stats": {
+        "attack": 50,
+        "defense": 65,
+        "hp": 55,
+        "specialAttack": 175,
+        "specialDefense": 105,
+        "speed": 150
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fighting",
+            "psychic"
+        ],
+        "weakTo": [
+            "dark",
+            "ghost",
+            "bug"
+        ]
+    },
+    "types": [
+        "psychic"
+    ],
+    "weight": 48.0
+}

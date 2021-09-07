@@ -1,0 +1,89 @@
+{
+    "abilities": {
+        "refrigerate": "Normal-type moves become Ice-type moves.\nThe power of those moves is boosted a little."
+    },
+    "description": {
+        "game": "ruby",
+        "text": "GLALIE has a body made of rock, which it\nhardens with an armor of ice.\nThis POK\u00e9MON has the ability to freeze\fmoisture in the atmosphere into any\nshape it desires."
+    },
+    "eggGroups": [
+        "fairy",
+        "mineral"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [
+            {
+                "id": "362",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/362.png",
+                "name": "glalie",
+                "types": [
+                    "ice"
+                ]
+            },
+            {
+                "id": "478",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/478.png",
+                "name": "froslass",
+                "types": [
+                    "ice",
+                    "ghost"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "361",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/361.png",
+                "name": "snorunt",
+                "types": [
+                    "ice"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10074.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10074.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10074.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10074.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Face Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 2.1,
+    "id": 10074,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10074.png",
+    "name": "glalie-mega",
+    "stats": {
+        "attack": 120,
+        "defense": 80,
+        "hp": 80,
+        "specialAttack": 120,
+        "specialDefense": 80,
+        "speed": 100
+    },
+    "type_relations": {
+        "resistantTo": [
+            "ice"
+        ],
+        "weakTo": [
+            "fighting",
+            "fire",
+            "rock",
+            "steel"
+        ]
+    },
+    "types": [
+        "ice"
+    ],
+    "weight": 350.2
+}

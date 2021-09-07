@@ -1,0 +1,83 @@
+{
+    "abilities": {
+        "snow-warning": "The Pok\u00e9mon summons a hailstorm when it enters\na battle."
+    },
+    "description": {
+        "game": "diamond",
+        "text": "It whips up blizzards in mountains\nthat are always buried in snow.\nIt is the abominable snowman."
+    },
+    "eggGroups": [
+        "monster",
+        "plant"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [
+            {
+                "id": "460",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/460.png",
+                "name": "abomasnow",
+                "types": [
+                    "grass",
+                    "ice"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "459",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/459.png",
+                "name": "snover",
+                "types": [
+                    "grass",
+                    "ice"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10060.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10060.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Frost Tree Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 2.7,
+    "id": 10060,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10060.png",
+    "name": "abomasnow-mega",
+    "stats": {
+        "attack": 132,
+        "defense": 105,
+        "hp": 90,
+        "specialAttack": 132,
+        "specialDefense": 105,
+        "speed": 30
+    },
+    "type_relations": {
+        "resistantTo": [
+            "electric",
+            "water",
+            "grass",
+            "ground"
+        ],
+        "weakTo": [
+            "bug",
+            "fire",
+            "fighting",
+            "poison",
+            "rock",
+            "flying",
+            "steel"
+        ]
+    },
+    "types": [
+        "grass",
+        "ice"
+    ],
+    "weight": 185.0
+}

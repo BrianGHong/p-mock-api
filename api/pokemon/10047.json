@@ -1,0 +1,76 @@
+{
+    "abilities": {
+        "skill-link": "Maximizes the number of times multi-strike\nmoves hit."
+    },
+    "description": {
+        "game": "gold",
+        "text": "This powerful\nPOK\u00e9MON thrusts\nits prized horn\funder its enemies\u2019\nbellies then lifts\nand throws them."
+    },
+    "eggGroups": [
+        "bug"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "214",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/214.png",
+                "name": "heracross",
+                "types": [
+                    "bug",
+                    "fighting"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10047.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10047.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10047.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10047.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Single Horn Pok\u00e9mon",
+    "hatchCounter": 25,
+    "height": 1.7,
+    "id": 10047,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10047.png",
+    "name": "heracross-mega",
+    "stats": {
+        "attack": 185,
+        "defense": 115,
+        "hp": 80,
+        "specialAttack": 40,
+        "specialDefense": 105,
+        "speed": 75
+    },
+    "type_relations": {
+        "resistantTo": [
+            "dark",
+            "bug",
+            "fighting",
+            "grass",
+            "ground"
+        ],
+        "weakTo": [
+            "fire",
+            "fairy",
+            "psychic",
+            "flying"
+        ]
+    },
+    "types": [
+        "bug",
+        "fighting"
+    ],
+    "weight": 62.5
+}

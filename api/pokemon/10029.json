@@ -1,0 +1,82 @@
+{
+    "abilities": {
+        "frisk": "When it enters a battle, the Pok\u00e9mon can check an\nopposing Pok\u00e9mon\u2019s held item.",
+        "insomnia": "The Pok\u00e9mon is suffering from insomnia and cannot\nfall asleep.",
+        "pickup": "The Pok\u00e9mon may pick up the item an opposing\nPok\u00e9mon used during a battle. It may pick up items\noutside of battle, too."
+    },
+    "description": {
+        "game": "shield",
+        "text": "Small Pumpkaboo are said to be the product of\nareas where few lost souls lingered."
+    },
+    "eggGroups": [
+        "indeterminate"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [
+            {
+                "id": "711",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/711.png",
+                "name": "gourgeist-average",
+                "types": [
+                    "ghost",
+                    "grass"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "710",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/710.png",
+                "name": "pumpkaboo-average",
+                "types": [
+                    "ghost",
+                    "grass"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10029.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/710-super.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Pumpkin Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 0.8,
+    "id": 10029,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10029.png",
+    "name": "pumpkaboo-super",
+    "stats": {
+        "attack": 66,
+        "defense": 70,
+        "hp": 59,
+        "specialAttack": 44,
+        "specialDefense": 55,
+        "speed": 41
+    },
+    "type_relations": {
+        "resistantTo": [
+            "electric",
+            "water",
+            "grass",
+            "ground"
+        ],
+        "weakTo": [
+            "dark",
+            "ghost",
+            "ice",
+            "fire",
+            "flying"
+        ]
+    },
+    "types": [
+        "ghost",
+        "grass"
+    ],
+    "weight": 15.0
+}

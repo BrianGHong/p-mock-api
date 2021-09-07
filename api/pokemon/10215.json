@@ -1,0 +1,86 @@
+{
+    "abilities": {
+        "heavy-metal": "Doubles the Pok\u00e9mon\u2019s weight.",
+        "sheer-force": "Removes additional effects to increase the power\nof moves when attacking."
+    },
+    "description": {
+        "game": "sword",
+        "text": "So much power is packed within its trunk that if it\nwere to unleash that power, the resulting blast\ncould level mountains and change the landscape."
+    },
+    "eggGroups": [],
+    "evolution": {
+        "end": [],
+        "mid": [
+            {
+                "id": "879",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/879.png",
+                "name": "copperajah",
+                "types": [
+                    "steel"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "878",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/878.png",
+                "name": "cufant",
+                "types": [
+                    "steel"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10215.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10215.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10215.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10215.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Copperderm Pok\u00e9mon",
+    "hatchCounter": 25,
+    "height": 23.0,
+    "id": 10215,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10215.png",
+    "name": "copperajah-gmax",
+    "stats": {
+        "attack": 130,
+        "defense": 69,
+        "hp": 122,
+        "specialAttack": 80,
+        "specialDefense": 69,
+        "speed": 30
+    },
+    "type_relations": {
+        "resistantTo": [
+            "ice",
+            "bug",
+            "fairy",
+            "rock",
+            "dragon",
+            "grass",
+            "psychic",
+            "normal",
+            "flying",
+            "steel"
+        ],
+        "weakTo": [
+            "fighting",
+            "fire",
+            "ground"
+        ]
+    },
+    "types": [
+        "steel"
+    ],
+    "weight": 1000.0
+}

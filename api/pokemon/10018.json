@@ -1,0 +1,74 @@
+{
+    "abilities": {
+        "serene-grace": "Boosts the likelihood of additional effects occurring \nwhen attacking."
+    },
+    "description": {
+        "game": "black",
+        "text": "Its melodies are sung with a special\nvocalization method that can control\nthe feelings of those who hear it."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "648",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/648.png",
+                "name": "meloetta-aria",
+                "types": [
+                    "normal",
+                    "psychic"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/648-pirouette.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/648-pirouette.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10018.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/648-pirouette.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Melody Pok\u00e9mon",
+    "hatchCounter": 120,
+    "height": 0.6,
+    "id": 10018,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10018.png",
+    "name": "meloetta-pirouette",
+    "stats": {
+        "attack": 128,
+        "defense": 90,
+        "hp": 100,
+        "specialAttack": 77,
+        "specialDefense": 77,
+        "speed": 128
+    },
+    "type_relations": {
+        "resistantTo": [
+            "dark",
+            "rock",
+            "bug"
+        ],
+        "weakTo": [
+            "fighting",
+            "psychic",
+            "fairy",
+            "flying"
+        ]
+    },
+    "types": [
+        "normal",
+        "fighting"
+    ],
+    "weight": 6.5
+}

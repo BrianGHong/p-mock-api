@@ -1,0 +1,87 @@
+{
+    "abilities": {
+        "minus": "Boosts the Sp. Atk stat of the Pok\u00e9mon if an ally\nwith the Plus or Minus Ability is also in battle.",
+        "punk-rock": "Boosts the power of sound-based moves. The Pok\u00e9mon also takes half the damage from these kinds of moves.",
+        "technician": "Powers up the Pok\u00e9mon\u2019s weaker moves."
+    },
+    "description": {
+        "game": "sword",
+        "text": "Capable of generating 15,000 volts of\nelectricity, this Pok\u00e9mon looks down on\nall that would challenge it."
+    },
+    "eggGroups": [],
+    "evolution": {
+        "end": [],
+        "mid": [
+            {
+                "id": "849",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/849.png",
+                "name": "toxtricity-amped",
+                "types": [
+                    "electric",
+                    "poison"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "848",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/848.png",
+                "name": "toxel",
+                "types": [
+                    "electric",
+                    "poison"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10178.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10178.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10178.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10178.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Punk Pok\u00e9mon",
+    "hatchCounter": 25,
+    "height": 1.6,
+    "id": 10178,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10178.png",
+    "name": "toxtricity-low-key",
+    "stats": {
+        "attack": 98,
+        "defense": 70,
+        "hp": 75,
+        "specialAttack": 114,
+        "specialDefense": 70,
+        "speed": 75
+    },
+    "type_relations": {
+        "resistantTo": [
+            "bug",
+            "fighting",
+            "fairy",
+            "poison",
+            "electric",
+            "grass",
+            "flying",
+            "steel"
+        ],
+        "weakTo": [
+            "psychic",
+            "ground"
+        ]
+    },
+    "types": [
+        "electric",
+        "poison"
+    ],
+    "weight": 40.0
+}

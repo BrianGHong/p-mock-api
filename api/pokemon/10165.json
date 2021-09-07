@@ -1,0 +1,97 @@
+{
+    "abilities": {
+        "ice-body": "The Pok\u00e9mon gradually regains HP in a hailstorm.",
+        "screen-cleaner": "When the Pok\u00e9mon enters a battle, the effects of Light Screen, Reflect, and Aurora Veil are nullified for both opposing and ally Pok\u00e9mon.",
+        "vital-spirit": "The Pok\u00e9mon is full of vitality, and that prevents\nit from falling asleep."
+    },
+    "description": {
+        "game": "red",
+        "text": "If interrupted\nwhile it is\nmiming, it will\fslap around the\noffender with its\nbroad hands."
+    },
+    "eggGroups": [
+        "humanshape"
+    ],
+    "evolution": {
+        "end": [
+            {
+                "id": "866",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/866.png",
+                "name": "mr-rime",
+                "types": [
+                    "ice",
+                    "psychic"
+                ]
+            }
+        ],
+        "mid": [
+            {
+                "id": "122",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/122.png",
+                "name": "mr-mime",
+                "types": [
+                    "psychic",
+                    "fairy"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "439",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/439.png",
+                "name": "mime-jr",
+                "types": [
+                    "psychic",
+                    "fairy"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10165.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10165.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10165.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10165.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Barrier Pok\u00e9mon",
+    "hatchCounter": 25,
+    "height": 1.4,
+    "id": 10165,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10165.png",
+    "name": "mr-mime-galar",
+    "stats": {
+        "attack": 65,
+        "defense": 65,
+        "hp": 50,
+        "specialAttack": 90,
+        "specialDefense": 90,
+        "speed": 100
+    },
+    "type_relations": {
+        "resistantTo": [
+            "psychic",
+            "ice"
+        ],
+        "weakTo": [
+            "dark",
+            "ghost",
+            "bug",
+            "fire",
+            "rock",
+            "steel"
+        ]
+    },
+    "types": [
+        "ice",
+        "psychic"
+    ],
+    "weight": 56.8
+}

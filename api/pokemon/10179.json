@@ -1,0 +1,68 @@
+{
+    "abilities": {
+        "ice-face": "The Pok\u00e9mon's ice head can take a physical attack as a substitute, but the attack also changes the Pok\u00e9mon's appearance. The ice will be restored when it hails."
+    },
+    "description": {
+        "game": "sword",
+        "text": "It drifted in on the flow of ocean waters from a\nfrigid place. It keeps its head iced constantly to\nmake sure it stays nice and cold."
+    },
+    "eggGroups": [],
+    "evolution": {
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "875",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/875.png",
+                "name": "eiscue-ice",
+                "types": [
+                    "ice"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10179.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10179.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10179.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10179.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Penguin Pok\u00e9mon",
+    "hatchCounter": 25,
+    "height": 1.4,
+    "id": 10179,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10179.png",
+    "name": "eiscue-noice",
+    "stats": {
+        "attack": 80,
+        "defense": 70,
+        "hp": 75,
+        "specialAttack": 65,
+        "specialDefense": 50,
+        "speed": 130
+    },
+    "type_relations": {
+        "resistantTo": [
+            "ice"
+        ],
+        "weakTo": [
+            "fighting",
+            "fire",
+            "rock",
+            "steel"
+        ]
+    },
+    "types": [
+        "ice"
+    ],
+    "weight": 89.0
+}

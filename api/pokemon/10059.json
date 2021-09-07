@@ -1,0 +1,82 @@
+{
+    "abilities": {
+        "adaptability": "Powers up moves of the same type as the Pok\u00e9mon."
+    },
+    "description": {
+        "game": "diamond",
+        "text": "It has the ability to sense the\nauras of all things.\nIt understands human speech."
+    },
+    "eggGroups": [
+        "ground",
+        "humanshape"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [
+            {
+                "id": "448",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/448.png",
+                "name": "lucario",
+                "types": [
+                    "fighting",
+                    "steel"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "447",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/447.png",
+                "name": "riolu",
+                "types": [
+                    "fighting"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10059.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10059.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Aura Pok\u00e9mon",
+    "hatchCounter": 25,
+    "height": 1.3,
+    "id": 10059,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10059.png",
+    "name": "lucario-mega",
+    "stats": {
+        "attack": 145,
+        "defense": 88,
+        "hp": 70,
+        "specialAttack": 140,
+        "specialDefense": 70,
+        "speed": 112
+    },
+    "type_relations": {
+        "resistantTo": [
+            "dark",
+            "ice",
+            "bug",
+            "rock",
+            "dragon",
+            "grass",
+            "normal",
+            "steel"
+        ],
+        "weakTo": [
+            "fighting",
+            "fire",
+            "ground"
+        ]
+    },
+    "types": [
+        "fighting",
+        "steel"
+    ],
+    "weight": 57.5
+}

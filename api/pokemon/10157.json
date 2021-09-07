@@ -1,0 +1,78 @@
+{
+    "abilities": {
+        "neuroforce": "Powers up moves that are super effective."
+    },
+    "description": {
+        "game": "sun",
+        "text": "Reminiscent of the Ultra Beasts, this life-form,\napparently asleep underground, is thought to\nhave come from another world in ancient times."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "800",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/800.png",
+                "name": "necrozma",
+                "types": [
+                    "psychic"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10157.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10157.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10157.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10157.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Prism Pok\u00e9mon",
+    "hatchCounter": 120,
+    "height": 7.5,
+    "id": 10157,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10157.png",
+    "name": "necrozma-ultra",
+    "stats": {
+        "attack": 167,
+        "defense": 97,
+        "hp": 97,
+        "specialAttack": 167,
+        "specialDefense": 97,
+        "speed": 129
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fighting",
+            "fire",
+            "electric",
+            "water",
+            "grass",
+            "psychic"
+        ],
+        "weakTo": [
+            "dark",
+            "ghost",
+            "ice",
+            "bug",
+            "fairy",
+            "dragon"
+        ]
+    },
+    "types": [
+        "psychic",
+        "dragon"
+    ],
+    "weight": 230.0
+}

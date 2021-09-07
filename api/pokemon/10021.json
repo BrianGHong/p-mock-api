@@ -1,0 +1,73 @@
+{
+    "abilities": {
+        "intimidate": "The Pok\u00e9mon intimidates opposing Pok\u00e9mon upon\nentering battle, lowering their Attack stat."
+    },
+    "description": {
+        "game": "x",
+        "text": "Lands visited by Landorus grant such bountiful\ncrops that it has been hailed as \u201cThe Guardian of\nthe Fields.\u201d"
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "645",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/645.png",
+                "name": "landorus-incarnate",
+                "types": [
+                    "ground",
+                    "flying"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/645-therian.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/645-therian.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10021.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/645-therian.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Abundance Pok\u00e9mon",
+    "hatchCounter": 120,
+    "height": 1.3,
+    "id": 10021,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10021.png",
+    "name": "landorus-therian",
+    "stats": {
+        "attack": 145,
+        "defense": 90,
+        "hp": 89,
+        "specialAttack": 105,
+        "specialDefense": 80,
+        "speed": 91
+    },
+    "type_relations": {
+        "resistantTo": [
+            "bug",
+            "fighting",
+            "poison"
+        ],
+        "weakTo": [
+            "ice",
+            "electric",
+            "water"
+        ]
+    },
+    "types": [
+        "ground",
+        "flying"
+    ],
+    "weight": 68.0
+}

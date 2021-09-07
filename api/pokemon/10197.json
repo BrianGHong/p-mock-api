@@ -1,0 +1,76 @@
+{
+    "abilities": {
+        "gluttony": "Makes the Pok\u00e9mon eat a held Berry when its HP\ndrops to half or less, which is sooner than usual.",
+        "immunity": "The immune system of the Pok\u00e9mon prevents it from\ngetting poisoned.",
+        "thick-fat": "The Pok\u00e9mon is protected by a layer of thick fat,\nwhich halves the damage taken from Fire- and\nIce-type moves."
+    },
+    "description": {
+        "game": "red",
+        "text": "Very lazy. Just\neats and sleeps.\nAs its rotund\fbulk builds, it\nbecomes steadily\nmore slothful."
+    },
+    "eggGroups": [
+        "monster"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [
+            {
+                "id": "143",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/143.png",
+                "name": "snorlax",
+                "types": [
+                    "normal"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "446",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/446.png",
+                "name": "munchlax",
+                "types": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10197.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10197.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10197.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10197.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Sleeping Pok\u00e9mon",
+    "hatchCounter": 40,
+    "height": 35.0,
+    "id": 10197,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10197.png",
+    "name": "snorlax-gmax",
+    "stats": {
+        "attack": 110,
+        "defense": 65,
+        "hp": 160,
+        "specialAttack": 65,
+        "specialDefense": 110,
+        "speed": 30
+    },
+    "type_relations": {
+        "resistantTo": [],
+        "weakTo": [
+            "fighting"
+        ]
+    },
+    "types": [
+        "normal"
+    ],
+    "weight": 1000.0
+}

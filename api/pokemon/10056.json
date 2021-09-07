@@ -1,0 +1,78 @@
+{
+    "abilities": {
+        "prankster": "Gives priority to a status move."
+    },
+    "description": {
+        "game": "ruby",
+        "text": "BANETTE generates energy for laying\nstrong curses by sticking pins into its\nown body.\fThis POK\u00e9MON was originally a pitiful\nplush doll that was thrown away."
+    },
+    "eggGroups": [
+        "indeterminate"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [
+            {
+                "id": "354",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/354.png",
+                "name": "banette",
+                "types": [
+                    "ghost"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "353",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/353.png",
+                "name": "shuppet",
+                "types": [
+                    "ghost"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10056.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10056.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10056.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10056.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Marionette Pok\u00e9mon",
+    "hatchCounter": 25,
+    "height": 1.2,
+    "id": 10056,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10056.png",
+    "name": "banette-mega",
+    "stats": {
+        "attack": 165,
+        "defense": 75,
+        "hp": 64,
+        "specialAttack": 93,
+        "specialDefense": 83,
+        "speed": 75
+    },
+    "type_relations": {
+        "resistantTo": [
+            "poison",
+            "bug"
+        ],
+        "weakTo": [
+            "dark",
+            "ghost"
+        ]
+    },
+    "types": [
+        "ghost"
+    ],
+    "weight": 13.0
+}

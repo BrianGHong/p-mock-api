@@ -1,0 +1,91 @@
+{
+    "abilities": {
+        "rain-dish": "The Pok\u00e9mon gradually regains HP in rain.",
+        "torrent": "Powers up Water-type moves when the Pok\u00e9mon\u2019s\nHP is low."
+    },
+    "description": {
+        "game": "gold",
+        "text": "It deliberately\nmakes itself heavy\nso it can with\u00ad\fstand the recoil\nof the water jets\nit fires."
+    },
+    "eggGroups": [
+        "monster",
+        "water1"
+    ],
+    "evolution": {
+        "end": [
+            {
+                "id": "9",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/9.png",
+                "name": "blastoise",
+                "types": [
+                    "water"
+                ]
+            }
+        ],
+        "mid": [
+            {
+                "id": "8",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/8.png",
+                "name": "wartortle",
+                "types": [
+                    "water"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "7",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/7.png",
+                "name": "squirtle",
+                "types": [
+                    "water"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10188.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10188.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10188.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10188.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Shellfish Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 25.0,
+    "id": 10188,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10188.png",
+    "name": "blastoise-gmax",
+    "stats": {
+        "attack": 83,
+        "defense": 100,
+        "hp": 79,
+        "specialAttack": 85,
+        "specialDefense": 105,
+        "speed": 78
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fire",
+            "water",
+            "ice",
+            "steel"
+        ],
+        "weakTo": [
+            "grass",
+            "electric"
+        ]
+    },
+    "types": [
+        "water"
+    ],
+    "weight": 1000.0
+}

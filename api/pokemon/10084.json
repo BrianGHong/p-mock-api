@@ -1,0 +1,89 @@
+{
+    "abilities": {
+        "lightning-rod": "The Pok\u00e9mon draws in all Electric-type moves. \nInstead of being hit by Electric-type moves, \nit boosts its Sp. Atk.",
+        "static": "The Pok\u00e9mon is charged with static electricity, so\ncontact with it may cause paralysis."
+    },
+    "description": {
+        "game": "red",
+        "text": "When several of\nthese POK\u00e9MON\ngather, their\felectricity could\nbuild and cause\nlightning storms."
+    },
+    "eggGroups": [
+        "ground",
+        "fairy"
+    ],
+    "evolution": {
+        "end": [
+            {
+                "id": "26",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/26.png",
+                "name": "raichu",
+                "types": [
+                    "electric"
+                ]
+            }
+        ],
+        "mid": [
+            {
+                "id": "25",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/25.png",
+                "name": "pikachu",
+                "types": [
+                    "electric"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "172",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/172.png",
+                "name": "pichu",
+                "types": [
+                    "electric"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10084.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10084.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10084.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10084.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Mouse Pok\u00e9mon",
+    "hatchCounter": 10,
+    "height": 0.4,
+    "id": 10084,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10084.png",
+    "name": "pikachu-libre",
+    "stats": {
+        "attack": 55,
+        "defense": 40,
+        "hp": 35,
+        "specialAttack": 50,
+        "specialDefense": 50,
+        "speed": 90
+    },
+    "type_relations": {
+        "resistantTo": [
+            "electric",
+            "flying",
+            "steel"
+        ],
+        "weakTo": [
+            "ground"
+        ]
+    },
+    "types": [
+        "electric"
+    ],
+    "weight": 6.0
+}

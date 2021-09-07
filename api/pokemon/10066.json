@@ -1,0 +1,64 @@
+{
+    "abilities": {
+        "magic-bounce": "Reflects status moves, instead of getting hit\nby them."
+    },
+    "description": {
+        "game": "ruby",
+        "text": "SABLEYE lead quiet lives deep inside\ncaverns. They are feared, however,\nbecause these POK\u00e9MON are thought to\fsteal the spirits of people when their\neyes burn with a sinister glow in the\ndarkness."
+    },
+    "eggGroups": [
+        "humanshape"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "302",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/302.png",
+                "name": "sableye",
+                "types": [
+                    "dark",
+                    "ghost"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10066.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10066.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Darkness Pok\u00e9mon",
+    "hatchCounter": 25,
+    "height": 0.5,
+    "id": 10066,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10066.png",
+    "name": "sableye-mega",
+    "stats": {
+        "attack": 85,
+        "defense": 125,
+        "hp": 50,
+        "specialAttack": 85,
+        "specialDefense": 115,
+        "speed": 20
+    },
+    "type_relations": {
+        "resistantTo": [
+            "poison"
+        ],
+        "weakTo": [
+            "fighting",
+            "fairy"
+        ]
+    },
+    "types": [
+        "dark",
+        "ghost"
+    ],
+    "weight": 161.0
+}

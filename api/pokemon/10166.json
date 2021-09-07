@@ -1,0 +1,75 @@
+{
+    "abilities": {
+        "competitive": "Boosts the Sp. Atk stat sharply when a stat\nis lowered."
+    },
+    "description": {
+        "game": "red",
+        "text": "A legendary bird\nPOK\u00e9MON that is\nsaid to appear to\fdoomed people who\nare lost in icy\nmountains."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "144",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/144.png",
+                "name": "articuno",
+                "types": [
+                    "ice",
+                    "flying"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10166.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10166.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10166.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10166.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Freeze Pok\u00e9mon",
+    "hatchCounter": 80,
+    "height": 1.7,
+    "id": 10166,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10166.png",
+    "name": "articuno-galar",
+    "stats": {
+        "attack": 85,
+        "defense": 85,
+        "hp": 90,
+        "specialAttack": 125,
+        "specialDefense": 100,
+        "speed": 95
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fighting",
+            "psychic",
+            "grass"
+        ],
+        "weakTo": [
+            "dark",
+            "ghost",
+            "ice",
+            "rock",
+            "electric"
+        ]
+    },
+    "types": [
+        "psychic",
+        "flying"
+    ],
+    "weight": 50.9
+}

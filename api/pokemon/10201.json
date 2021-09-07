@@ -1,0 +1,91 @@
+{
+    "abilities": {
+        "blaze": "Powers up Fire-type moves when the Pok\u00e9mon\u2019s HP\nis low.",
+        "libero": "Changes the Pok\u00e9mon's type to the type of the move it's about to use."
+    },
+    "description": {
+        "game": "sword",
+        "text": "Infused with Cinderace\u2019s fighting spirit, the\ngigantic Pyro Ball never misses its targets and\ncompletely roasts opponents."
+    },
+    "eggGroups": [],
+    "evolution": {
+        "end": [
+            {
+                "id": "815",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/815.png",
+                "name": "cinderace",
+                "types": [
+                    "fire"
+                ]
+            }
+        ],
+        "mid": [
+            {
+                "id": "814",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/814.png",
+                "name": "raboot",
+                "types": [
+                    "fire"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "813",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/813.png",
+                "name": "scorbunny",
+                "types": [
+                    "fire"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10201.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10201.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10201.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10201.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Striker Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 27.0,
+    "id": 10201,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10201.png",
+    "name": "cinderace-gmax",
+    "stats": {
+        "attack": 116,
+        "defense": 75,
+        "hp": 80,
+        "specialAttack": 65,
+        "specialDefense": 75,
+        "speed": 119
+    },
+    "type_relations": {
+        "resistantTo": [
+            "ice",
+            "bug",
+            "fire",
+            "fairy",
+            "grass",
+            "steel"
+        ],
+        "weakTo": [
+            "water",
+            "ground",
+            "rock"
+        ]
+    },
+    "types": [
+        "fire"
+    ],
+    "weight": 1000.0
+}

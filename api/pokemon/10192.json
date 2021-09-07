@@ -1,0 +1,91 @@
+{
+    "abilities": {
+        "guts": "It\u2019s so gutsy that having a status condition boosts\nthe Pok\u00e9mon\u2019s Attack stat.",
+        "no-guard": "The Pok\u00e9mon employs no-guard tactics to ensure\nincoming and outgoing attacks always land.",
+        "steadfast": "The Pok\u00e9mon\u2019s determination boosts the Speed\nstat each time the Pok\u00e9mon flinches."
+    },
+    "description": {
+        "game": "red",
+        "text": "Using its heavy\nmuscles, it throws\npowerful punches\fthat can send the\nvictim clear over\nthe horizon."
+    },
+    "eggGroups": [
+        "humanshape"
+    ],
+    "evolution": {
+        "end": [
+            {
+                "id": "68",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/68.png",
+                "name": "machamp",
+                "types": [
+                    "fighting"
+                ]
+            }
+        ],
+        "mid": [
+            {
+                "id": "67",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/67.png",
+                "name": "machoke",
+                "types": [
+                    "fighting"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "66",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/66.png",
+                "name": "machop",
+                "types": [
+                    "fighting"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10192.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10192.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10192.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10192.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Superpower Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 25.0,
+    "id": 10192,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10192.png",
+    "name": "machamp-gmax",
+    "stats": {
+        "attack": 130,
+        "defense": 80,
+        "hp": 90,
+        "specialAttack": 65,
+        "specialDefense": 85,
+        "speed": 55
+    },
+    "type_relations": {
+        "resistantTo": [
+            "dark",
+            "rock",
+            "bug"
+        ],
+        "weakTo": [
+            "psychic",
+            "fairy",
+            "flying"
+        ]
+    },
+    "types": [
+        "fighting"
+    ],
+    "weight": 1000.0
+}

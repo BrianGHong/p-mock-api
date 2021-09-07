@@ -1,0 +1,94 @@
+{
+    "abilities": {
+        "surge-surfer": "Doubles the Pok\u00e9mon\u2019s Speed stat on\nElectric Terrain."
+    },
+    "description": {
+        "game": "white-2",
+        "text": "Its tail discharges electricity into\nthe ground, protecting it from\ngetting shocked."
+    },
+    "eggGroups": [
+        "ground",
+        "fairy"
+    ],
+    "evolution": {
+        "end": [
+            {
+                "id": "26",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/26.png",
+                "name": "raichu",
+                "types": [
+                    "electric"
+                ]
+            }
+        ],
+        "mid": [
+            {
+                "id": "25",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/25.png",
+                "name": "pikachu",
+                "types": [
+                    "electric"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "172",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/172.png",
+                "name": "pichu",
+                "types": [
+                    "electric"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10100.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10100.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10100.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10100.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Mouse Pok\u00e9mon",
+    "hatchCounter": 10,
+    "height": 0.7,
+    "id": 10100,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10100.png",
+    "name": "raichu-alola",
+    "stats": {
+        "attack": 85,
+        "defense": 50,
+        "hp": 60,
+        "specialAttack": 95,
+        "specialDefense": 85,
+        "speed": 110
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fighting",
+            "electric",
+            "psychic",
+            "flying",
+            "steel"
+        ],
+        "weakTo": [
+            "dark",
+            "ground",
+            "ghost",
+            "bug"
+        ]
+    },
+    "types": [
+        "electric",
+        "psychic"
+    ],
+    "weight": 21.0
+}

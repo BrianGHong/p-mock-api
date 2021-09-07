@@ -1,0 +1,86 @@
+{
+    "abilities": {
+        "flame-body": "Contact with the Pok\u00e9mon may burn the attacker.",
+        "flash-fire": "Powers up the Pok\u00e9mon\u2019s Fire-type moves if it\u2019s hit\nby one.",
+        "white-smoke": "The Pok\u00e9mon is protected by its white smoke, which\nprevents other Pok\u00e9mon from lowering its stats."
+    },
+    "description": {
+        "game": "sword",
+        "text": "Gigantamax energy has evoked a rise in its body\ntemperature, now reaching over 1,800 degrees\nFahrenheit. Its heat waves incinerate its enemies."
+    },
+    "eggGroups": [],
+    "evolution": {
+        "end": [],
+        "mid": [
+            {
+                "id": "851",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/851.png",
+                "name": "centiskorch",
+                "types": [
+                    "fire",
+                    "bug"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "850",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/850.png",
+                "name": "sizzlipede",
+                "types": [
+                    "fire",
+                    "bug"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10211.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10211.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10211.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10211.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Radiator Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 75.0,
+    "id": 10211,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10211.png",
+    "name": "centiskorch-gmax",
+    "stats": {
+        "attack": 115,
+        "defense": 65,
+        "hp": 100,
+        "specialAttack": 90,
+        "specialDefense": 90,
+        "speed": 65
+    },
+    "type_relations": {
+        "resistantTo": [
+            "ice",
+            "bug",
+            "fighting",
+            "fairy",
+            "grass",
+            "steel"
+        ],
+        "weakTo": [
+            "rock",
+            "water",
+            "flying"
+        ]
+    },
+    "types": [
+        "fire",
+        "bug"
+    ],
+    "weight": 1000.0
+}

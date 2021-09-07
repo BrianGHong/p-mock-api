@@ -1,0 +1,83 @@
+{
+    "abilities": {
+        "gluttony": "Makes the Pok\u00e9mon eat a held Berry when its HP\ndrops to half or less, which is sooner than usual.",
+        "poison-touch": "May poison a target when the Pok\u00e9mon\nmakes contact.",
+        "power-of-alchemy": "The Pok\u00e9mon copies the Ability of a defeated ally."
+    },
+    "description": {
+        "game": "red",
+        "text": "Thickly covered\nwith a filthy,\nvile sludge. It\fis so toxic, even\nits footprints\ncontain poison."
+    },
+    "eggGroups": [
+        "indeterminate"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [
+            {
+                "id": "89",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/89.png",
+                "name": "muk",
+                "types": [
+                    "poison"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "88",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/88.png",
+                "name": "grimer",
+                "types": [
+                    "poison"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10113.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10113.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10113.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10113.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Sludge Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 1.0,
+    "id": 10113,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10113.png",
+    "name": "muk-alola",
+    "stats": {
+        "attack": 105,
+        "defense": 75,
+        "hp": 105,
+        "specialAttack": 65,
+        "specialDefense": 100,
+        "speed": 50
+    },
+    "type_relations": {
+        "resistantTo": [
+            "dark",
+            "ghost",
+            "poison",
+            "grass"
+        ],
+        "weakTo": [
+            "psychic",
+            "ground"
+        ]
+    },
+    "types": [
+        "poison",
+        "dark"
+    ],
+    "weight": 52.0
+}

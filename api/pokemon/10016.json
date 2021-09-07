@@ -1,0 +1,73 @@
+{
+    "abilities": {
+        "adaptability": "Powers up moves of the same type as the Pok\u00e9mon.",
+        "mold-breaker": "Moves can be used on the target regardless of\nits Abilities.",
+        "rock-head": "Protects the Pok\u00e9mon from recoil damage."
+    },
+    "description": {
+        "game": "black",
+        "text": "Red and blue Basculin get along so\npoorly, they\u2019ll start fighting instantly.\nThese Pok\u00e9mon are very hostile."
+    },
+    "eggGroups": [
+        "water2"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "550",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/550.png",
+                "name": "basculin-red-striped",
+                "types": [
+                    "water"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/550-blue-striped.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/550-blue-striped.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10016.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/550-blue-striped.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Hostile Pok\u00e9mon",
+    "hatchCounter": 40,
+    "height": 1.0,
+    "id": 10016,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10016.png",
+    "name": "basculin-blue-striped",
+    "stats": {
+        "attack": 92,
+        "defense": 65,
+        "hp": 70,
+        "specialAttack": 80,
+        "specialDefense": 55,
+        "speed": 98
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fire",
+            "water",
+            "ice",
+            "steel"
+        ],
+        "weakTo": [
+            "grass",
+            "electric"
+        ]
+    },
+    "types": [
+        "water"
+    ],
+    "weight": 18.0
+}

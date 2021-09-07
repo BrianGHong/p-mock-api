@@ -1,0 +1,77 @@
+{
+    "abilities": {
+        "intrepid-sword": "Boosts the Pok\u00e9mon's Attack stat when the Pok\u00e9mon enters a battle."
+    },
+    "description": {
+        "game": "sword",
+        "text": "Known as a legendary hero, this Pok\u00e9mon\nabsorbs metal particles, transforming them\ninto a weapon it uses to battle."
+    },
+    "eggGroups": [],
+    "evolution": {
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "888",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/888.png",
+                "name": "zacian-hero",
+                "types": [
+                    "fairy"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10181.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10181.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10181.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10181.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Warrior Pok\u00e9mon",
+    "hatchCounter": 120,
+    "height": 2.8,
+    "id": 10181,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10181.png",
+    "name": "zacian-crowned",
+    "stats": {
+        "attack": 170,
+        "defense": 115,
+        "hp": 92,
+        "specialAttack": 80,
+        "specialDefense": 115,
+        "speed": 148
+    },
+    "type_relations": {
+        "resistantTo": [
+            "dark",
+            "ice",
+            "bug",
+            "fairy",
+            "rock",
+            "dragon",
+            "grass",
+            "psychic",
+            "normal",
+            "flying"
+        ],
+        "weakTo": [
+            "fire",
+            "poison",
+            "ground"
+        ]
+    },
+    "types": [
+        "fairy",
+        "steel"
+    ],
+    "weight": 355.0
+}

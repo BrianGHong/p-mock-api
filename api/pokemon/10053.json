@@ -1,0 +1,93 @@
+{
+    "abilities": {
+        "filter": "Reduces the power of supereffective attacks taken."
+    },
+    "description": {
+        "game": "ruby",
+        "text": "AGGRON claims an entire mountain as its\nown territory. It mercilessly beats up\nanything that violates its environment.\fThis POK\u00e9MON vigilantly patrols its\nterritory at all times."
+    },
+    "eggGroups": [
+        "monster"
+    ],
+    "evolution": {
+        "end": [
+            {
+                "id": "306",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/306.png",
+                "name": "aggron",
+                "types": [
+                    "steel",
+                    "rock"
+                ]
+            }
+        ],
+        "mid": [
+            {
+                "id": "305",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/305.png",
+                "name": "lairon",
+                "types": [
+                    "steel",
+                    "rock"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "304",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/304.png",
+                "name": "aron",
+                "types": [
+                    "steel",
+                    "rock"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10053.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10053.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Iron Armor Pok\u00e9mon",
+    "hatchCounter": 35,
+    "height": 2.2,
+    "id": 10053,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10053.png",
+    "name": "aggron-mega",
+    "stats": {
+        "attack": 140,
+        "defense": 230,
+        "hp": 70,
+        "specialAttack": 60,
+        "specialDefense": 80,
+        "speed": 50
+    },
+    "type_relations": {
+        "resistantTo": [
+            "ice",
+            "bug",
+            "fairy",
+            "rock",
+            "dragon",
+            "grass",
+            "psychic",
+            "normal",
+            "flying",
+            "steel"
+        ],
+        "weakTo": [
+            "fighting",
+            "fire",
+            "ground"
+        ]
+    },
+    "types": [
+        "steel"
+    ],
+    "weight": 395.0
+}

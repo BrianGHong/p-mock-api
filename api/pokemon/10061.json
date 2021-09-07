@@ -1,0 +1,89 @@
+{
+    "abilities": {
+        "flower-veil": "Ally Grass-type Pok\u00e9mon are protected from\nstatus conditions and the lowering of their stats.",
+        "symbiosis": "The Pok\u00e9mon passes its item to an ally that has\nused up an item."
+    },
+    "description": {
+        "game": "x",
+        "text": "It flutters around fields of flowers and cares for\nflowers that are starting to wilt. It draws\nout the hidden power of flowers to battle."
+    },
+    "eggGroups": [
+        "fairy"
+    ],
+    "evolution": {
+        "end": [
+            {
+                "id": "671",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/671.png",
+                "name": "florges",
+                "types": [
+                    "fairy"
+                ]
+            }
+        ],
+        "mid": [
+            {
+                "id": "670",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/670.png",
+                "name": "floette",
+                "types": [
+                    "fairy"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "669",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/669.png",
+                "name": "flabebe",
+                "types": [
+                    "fairy"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10061.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10061.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10061.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10061.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Single Bloom Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 0.2,
+    "id": 10061,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10061.png",
+    "name": "floette-eternal",
+    "stats": {
+        "attack": 65,
+        "defense": 67,
+        "hp": 74,
+        "specialAttack": 125,
+        "specialDefense": 128,
+        "speed": 92
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fighting",
+            "dark",
+            "bug"
+        ],
+        "weakTo": [
+            "poison",
+            "steel"
+        ]
+    },
+    "types": [
+        "fairy"
+    ],
+    "weight": 0.9
+}

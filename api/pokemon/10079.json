@@ -1,0 +1,76 @@
+{
+    "abilities": {
+        "delta-stream": "The Pok\u00e9mon changes the weather to eliminate all\nof the Flying type\u2019s weaknesses."
+    },
+    "description": {
+        "game": "ruby",
+        "text": "RAYQUAZA lived for hundreds of millions\nof years in the earth\u2019s ozone layer, \nnever descending to the ground.\fThis POK\u00e9MON appears to feed on water\nand particles in the atmosphere."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "384",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/384.png",
+                "name": "rayquaza",
+                "types": [
+                    "dragon",
+                    "flying"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10079.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10079.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10079.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10079.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Sky High Pok\u00e9mon",
+    "hatchCounter": 120,
+    "height": 10.8,
+    "id": 10079,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10079.png",
+    "name": "rayquaza-mega",
+    "stats": {
+        "attack": 180,
+        "defense": 100,
+        "hp": 105,
+        "specialAttack": 180,
+        "specialDefense": 100,
+        "speed": 115
+    },
+    "type_relations": {
+        "resistantTo": [
+            "bug",
+            "fire",
+            "fighting",
+            "water",
+            "grass"
+        ],
+        "weakTo": [
+            "ice",
+            "fairy",
+            "rock",
+            "dragon"
+        ]
+    },
+    "types": [
+        "dragon",
+        "flying"
+    ],
+    "weight": 392.0
+}

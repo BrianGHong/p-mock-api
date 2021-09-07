@@ -1,0 +1,71 @@
+{
+    "abilities": {
+        "regenerator": "Restores a little HP when withdrawn from battle."
+    },
+    "description": {
+        "game": "black",
+        "text": "The lower half of its body is wrapped in\na cloud of energy. It zooms through\nthe sky at 200 mph."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "641",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/641.png",
+                "name": "tornadus-incarnate",
+                "types": [
+                    "flying"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/641-therian.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/641-therian.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10019.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/641-therian.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Cyclone Pok\u00e9mon",
+    "hatchCounter": 120,
+    "height": 1.4,
+    "id": 10019,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10019.png",
+    "name": "tornadus-therian",
+    "stats": {
+        "attack": 100,
+        "defense": 80,
+        "hp": 79,
+        "specialAttack": 110,
+        "specialDefense": 90,
+        "speed": 121
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fighting",
+            "grass",
+            "bug"
+        ],
+        "weakTo": [
+            "ice",
+            "rock",
+            "electric"
+        ]
+    },
+    "types": [
+        "flying"
+    ],
+    "weight": 63.0
+}

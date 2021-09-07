@@ -1,0 +1,89 @@
+{
+    "abilities": {
+        "fur-coat": "Halves the damage from physical moves.",
+        "rattled": "Dark-, Ghost-, and Bug-type moves scare the\nPok\u00e9mon and boost its Speed stat.",
+        "technician": "Powers up the Pok\u00e9mon\u2019s weaker moves."
+    },
+    "description": {
+        "game": "red",
+        "text": "Although its fur\nhas many admirers,\nit is tough to\fraise as a pet\nbecause of its\nfickle meanness."
+    },
+    "eggGroups": [
+        "ground"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [
+            {
+                "id": "53",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/53.png",
+                "name": "persian",
+                "types": [
+                    "normal"
+                ]
+            },
+            {
+                "id": "863",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/863.png",
+                "name": "perrserker",
+                "types": [
+                    "steel"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "52",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/52.png",
+                "name": "meowth",
+                "types": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10108.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10108.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10108.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10108.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Classy Cat Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 1.1,
+    "id": 10108,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10108.png",
+    "name": "persian-alola",
+    "stats": {
+        "attack": 60,
+        "defense": 60,
+        "hp": 65,
+        "specialAttack": 75,
+        "specialDefense": 65,
+        "speed": 115
+    },
+    "type_relations": {
+        "resistantTo": [
+            "dark",
+            "ghost"
+        ],
+        "weakTo": [
+            "fighting",
+            "fairy",
+            "bug"
+        ]
+    },
+    "types": [
+        "dark"
+    ],
+    "weight": 33.0
+}

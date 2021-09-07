@@ -1,0 +1,87 @@
+{
+    "abilities": {
+        "swift-swim": "Boosts the Pok\u00e9mon\u2019s Speed stat in rain."
+    },
+    "description": {
+        "game": "ruby",
+        "text": "SWAMPERT is very strong. It has enough\npower to easily drag a boulder weighing\nmore than a ton.\fThis POK\u00e9MON also has powerful vision\nthat lets it see even in murky water."
+    },
+    "eggGroups": [
+        "monster",
+        "water1"
+    ],
+    "evolution": {
+        "end": [
+            {
+                "id": "260",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/260.png",
+                "name": "swampert",
+                "types": [
+                    "water",
+                    "ground"
+                ]
+            }
+        ],
+        "mid": [
+            {
+                "id": "259",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/259.png",
+                "name": "marshtomp",
+                "types": [
+                    "water",
+                    "ground"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "258",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/258.png",
+                "name": "mudkip",
+                "types": [
+                    "water"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10064.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10064.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Mud Fish Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 1.9,
+    "id": 10064,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10064.png",
+    "name": "swampert-mega",
+    "stats": {
+        "attack": 150,
+        "defense": 110,
+        "hp": 100,
+        "specialAttack": 95,
+        "specialDefense": 110,
+        "speed": 70
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fire",
+            "poison",
+            "rock",
+            "steel"
+        ],
+        "weakTo": [
+            "grass",
+            "electric"
+        ]
+    },
+    "types": [
+        "water",
+        "ground"
+    ],
+    "weight": 102.0
+}

@@ -1,0 +1,83 @@
+{
+    "abilities": {
+        "scrappy": "The Pok\u00e9mon can hit Ghost-type Pok\u00e9mon with\nNormal- and Fighting-type moves.",
+        "steadfast": "The Pok\u00e9mon\u2019s determination boosts the Speed\nstat each time the Pok\u00e9mon flinches."
+    },
+    "description": {
+        "game": "red",
+        "text": "The sprig of\ngreen onions it\nholds is its\fweapon. It is\nused much like a\nmetal sword."
+    },
+    "eggGroups": [
+        "flying",
+        "ground"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [
+            {
+                "id": "865",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/865.png",
+                "name": "sirfetchd",
+                "types": [
+                    "fighting"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "83",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/83.png",
+                "name": "farfetchd",
+                "types": [
+                    "normal",
+                    "flying"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10163.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10163.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10163.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10163.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Wild Duck Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 0.8,
+    "id": 10163,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10163.png",
+    "name": "farfetchd-galar",
+    "stats": {
+        "attack": 95,
+        "defense": 55,
+        "hp": 52,
+        "specialAttack": 58,
+        "specialDefense": 62,
+        "speed": 55
+    },
+    "type_relations": {
+        "resistantTo": [
+            "dark",
+            "rock",
+            "bug"
+        ],
+        "weakTo": [
+            "psychic",
+            "fairy",
+            "flying"
+        ]
+    },
+    "types": [
+        "fighting"
+    ],
+    "weight": 42.0
+}

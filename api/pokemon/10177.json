@@ -1,0 +1,81 @@
+{
+    "abilities": {
+        "mimicry": "Changes the Pok\u00e9mon's type depending on the terrain."
+    },
+    "description": {
+        "game": "black",
+        "text": "Its skin is very hard, so it is unhurt\neven if stepped on by sumo wrestlers.\nIt smiles when transmitting electricity."
+    },
+    "eggGroups": [
+        "water1",
+        "indeterminate"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "618",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/618.png",
+                "name": "stunfisk",
+                "types": [
+                    "ground",
+                    "electric"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10177.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10177.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10177.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10177.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Trap Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 0.7,
+    "id": 10177,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10177.png",
+    "name": "stunfisk-galar",
+    "stats": {
+        "attack": 81,
+        "defense": 99,
+        "hp": 109,
+        "specialAttack": 66,
+        "specialDefense": 84,
+        "speed": 32
+    },
+    "type_relations": {
+        "resistantTo": [
+            "bug",
+            "fairy",
+            "rock",
+            "poison",
+            "dragon",
+            "psychic",
+            "normal",
+            "flying",
+            "steel"
+        ],
+        "weakTo": [
+            "fighting",
+            "fire",
+            "water",
+            "ground"
+        ]
+    },
+    "types": [
+        "ground",
+        "steel"
+    ],
+    "weight": 20.5
+}

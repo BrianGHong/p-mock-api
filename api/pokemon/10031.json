@@ -1,0 +1,82 @@
+{
+    "abilities": {
+        "frisk": "When it enters a battle, the Pok\u00e9mon can check an\nopposing Pok\u00e9mon\u2019s held item.",
+        "insomnia": "The Pok\u00e9mon is suffering from insomnia and cannot\nfall asleep.",
+        "pickup": "The Pok\u00e9mon may pick up the item an opposing\nPok\u00e9mon used during a battle. It may pick up items\noutside of battle, too."
+    },
+    "description": {
+        "game": "x",
+        "text": "Singing in eerie voices, they wander\ntown streets on the night of the new moon.\nAnyone who hears their song is cursed."
+    },
+    "eggGroups": [
+        "indeterminate"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [
+            {
+                "id": "711",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/711.png",
+                "name": "gourgeist-average",
+                "types": [
+                    "ghost",
+                    "grass"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "710",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/710.png",
+                "name": "pumpkaboo-average",
+                "types": [
+                    "ghost",
+                    "grass"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10031.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/711-large.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Pumpkin Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 1.1,
+    "id": 10031,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10031.png",
+    "name": "gourgeist-large",
+    "stats": {
+        "attack": 95,
+        "defense": 122,
+        "hp": 75,
+        "specialAttack": 58,
+        "specialDefense": 75,
+        "speed": 69
+    },
+    "type_relations": {
+        "resistantTo": [
+            "electric",
+            "water",
+            "grass",
+            "ground"
+        ],
+        "weakTo": [
+            "dark",
+            "ghost",
+            "ice",
+            "fire",
+            "flying"
+        ]
+    },
+    "types": [
+        "ghost",
+        "grass"
+    ],
+    "weight": 14.0
+}

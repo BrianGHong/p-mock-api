@@ -1,0 +1,95 @@
+{
+    "abilities": {
+        "inner-focus": "The Pok\u00e9mon\u2019s intensely focused, and that protects\nthe Pok\u00e9mon from flinching."
+    },
+    "description": {
+        "game": "diamond",
+        "text": "A master of courtesy and\nswordsmanship, it fights using\nextending swords on its elbows."
+    },
+    "eggGroups": [
+        "indeterminate"
+    ],
+    "evolution": {
+        "end": [
+            {
+                "id": "282",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/282.png",
+                "name": "gardevoir",
+                "types": [
+                    "psychic",
+                    "fairy"
+                ]
+            },
+            {
+                "id": "475",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/475.png",
+                "name": "gallade",
+                "types": [
+                    "psychic",
+                    "fighting"
+                ]
+            }
+        ],
+        "mid": [
+            {
+                "id": "281",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/281.png",
+                "name": "kirlia",
+                "types": [
+                    "psychic",
+                    "fairy"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "280",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/280.png",
+                "name": "ralts",
+                "types": [
+                    "psychic",
+                    "fairy"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10068.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/475-mega.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Blade Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 1.6,
+    "id": 10068,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10068.png",
+    "name": "gallade-mega",
+    "stats": {
+        "attack": 165,
+        "defense": 95,
+        "hp": 68,
+        "specialAttack": 65,
+        "specialDefense": 115,
+        "speed": 110
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fighting",
+            "rock"
+        ],
+        "weakTo": [
+            "ghost",
+            "fairy",
+            "flying"
+        ]
+    },
+    "types": [
+        "psychic",
+        "fighting"
+    ],
+    "weight": 56.4
+}

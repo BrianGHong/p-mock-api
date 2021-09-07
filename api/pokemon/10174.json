@@ -1,0 +1,80 @@
+{
+    "abilities": {
+        "gorilla-tactics": "Boosts the Pok\u00e9mon's Attack stat but only allows the use of the first selected move.",
+        "zen-mode": "Changes the Pok\u00e9mon\u2019s shape when HP is half\nor less."
+    },
+    "description": {
+        "game": "black",
+        "text": "Its internal fire burns at 2,500\u00b0 F,\nmaking enough power that it can\ndestroy a dump truck with one punch."
+    },
+    "eggGroups": [
+        "ground"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [
+            {
+                "id": "555",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/555.png",
+                "name": "darmanitan-standard",
+                "types": [
+                    "fire"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "554",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/554.png",
+                "name": "darumaka",
+                "types": [
+                    "fire"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10174.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10174.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10174.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10174.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Blazing Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 1.7,
+    "id": 10174,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10174.png",
+    "name": "darmanitan-standard-galar",
+    "stats": {
+        "attack": 140,
+        "defense": 55,
+        "hp": 105,
+        "specialAttack": 30,
+        "specialDefense": 55,
+        "speed": 95
+    },
+    "type_relations": {
+        "resistantTo": [
+            "ice"
+        ],
+        "weakTo": [
+            "fighting",
+            "fire",
+            "rock",
+            "steel"
+        ]
+    },
+    "types": [
+        "ice"
+    ],
+    "weight": 120.0
+}

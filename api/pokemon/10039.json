@@ -1,0 +1,65 @@
+{
+    "abilities": {
+        "parental-bond": "Parent and child each attacks."
+    },
+    "description": {
+        "game": "blue",
+        "text": "The infant rarely\nventures out of\nits mother's\fprotective pouch\nuntil it is 3\nyears old."
+    },
+    "eggGroups": [
+        "monster"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "115",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/115.png",
+                "name": "kangaskhan",
+                "types": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10039.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10039.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10039.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10039.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Parent Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 2.2,
+    "id": 10039,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10039.png",
+    "name": "kangaskhan-mega",
+    "stats": {
+        "attack": 125,
+        "defense": 100,
+        "hp": 105,
+        "specialAttack": 60,
+        "specialDefense": 100,
+        "speed": 100
+    },
+    "type_relations": {
+        "resistantTo": [],
+        "weakTo": [
+            "fighting"
+        ]
+    },
+    "types": [
+        "normal"
+    ],
+    "weight": 100.0
+}

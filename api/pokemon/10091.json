@@ -1,0 +1,82 @@
+{
+    "abilities": {
+        "gluttony": "Makes the Pok\u00e9mon eat a held Berry when its HP\ndrops to half or less, which is sooner than usual.",
+        "hustle": "Boosts the Attack stat, but lowers accuracy.",
+        "thick-fat": "The Pok\u00e9mon is protected by a layer of thick fat,\nwhich halves the damage taken from Fire- and\nIce-type moves."
+    },
+    "description": {
+        "game": "red",
+        "text": "Bites anything\nwhen it attacks.\nSmall and very\fquick, it is a\ncommon sight in\nmany places."
+    },
+    "eggGroups": [
+        "ground"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [
+            {
+                "id": "20",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/20.png",
+                "name": "raticate",
+                "types": [
+                    "normal"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "19",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/19.png",
+                "name": "rattata",
+                "types": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10091.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10091.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10091.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10091.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Mouse Pok\u00e9mon",
+    "hatchCounter": 15,
+    "height": 0.3,
+    "id": 10091,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10091.png",
+    "name": "rattata-alola",
+    "stats": {
+        "attack": 56,
+        "defense": 35,
+        "hp": 30,
+        "specialAttack": 25,
+        "specialDefense": 35,
+        "speed": 72
+    },
+    "type_relations": {
+        "resistantTo": [
+            "dark",
+            "ghost"
+        ],
+        "weakTo": [
+            "fighting",
+            "fairy",
+            "bug"
+        ]
+    },
+    "types": [
+        "dark",
+        "normal"
+    ],
+    "weight": 3.8
+}

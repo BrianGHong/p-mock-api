@@ -1,0 +1,80 @@
+{
+    "abilities": {
+        "technician": "Powers up the Pok\u00e9mon\u2019s weaker moves."
+    },
+    "description": {
+        "game": "gold",
+        "text": "It swings its eye-\npatterned pincers\nup to scare its\ffoes. This makes\nit look like it\nhas three heads."
+    },
+    "eggGroups": [
+        "bug"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [
+            {
+                "id": "212",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/212.png",
+                "name": "scizor",
+                "types": [
+                    "bug",
+                    "steel"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "123",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/123.png",
+                "name": "scyther",
+                "types": [
+                    "bug",
+                    "flying"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10046.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10046.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Pincer Pok\u00e9mon",
+    "hatchCounter": 25,
+    "height": 2.0,
+    "id": 10046,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10046.png",
+    "name": "scizor-mega",
+    "stats": {
+        "attack": 150,
+        "defense": 140,
+        "hp": 70,
+        "specialAttack": 65,
+        "specialDefense": 100,
+        "speed": 75
+    },
+    "type_relations": {
+        "resistantTo": [
+            "grass",
+            "ice",
+            "bug",
+            "fairy",
+            "dragon",
+            "psychic",
+            "normal",
+            "steel"
+        ],
+        "weakTo": [
+            "fire"
+        ]
+    },
+    "types": [
+        "bug",
+        "steel"
+    ],
+    "weight": 125.0
+}

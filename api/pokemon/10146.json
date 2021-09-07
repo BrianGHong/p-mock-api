@@ -1,0 +1,87 @@
+{
+    "abilities": {
+        "bulletproof": "Protects the Pok\u00e9mon from some ball and\nbomb moves.",
+        "overcoat": "Protects the Pok\u00e9mon from things like sand, hail,\nand powder.",
+        "soundproof": "Soundproofing of the Pok\u00e9mon itself gives full \nimmunity to all sound-based moves."
+    },
+    "description": {
+        "game": "sun",
+        "text": "When it spots enemies, it threatens them by\njingling the scales on its tail. Weak opponents\nwill crack and flee in panic."
+    },
+    "eggGroups": [
+        "dragon"
+    ],
+    "evolution": {
+        "end": [
+            {
+                "id": "784",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/784.png",
+                "name": "kommo-o",
+                "types": [
+                    "dragon",
+                    "fighting"
+                ]
+            }
+        ],
+        "mid": [
+            {
+                "id": "783",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/783.png",
+                "name": "hakamo-o",
+                "types": [
+                    "dragon",
+                    "fighting"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "782",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/782.png",
+                "name": "jangmo-o",
+                "types": [
+                    "dragon"
+                ]
+            }
+        ]
+    },
+    "forms": [],
+    "gender": {},
+    "genera": "Scaly Pok\u00e9mon",
+    "hatchCounter": 40,
+    "height": 2.4,
+    "id": 10146,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10146.png",
+    "name": "kommo-o-totem",
+    "stats": {
+        "attack": 110,
+        "defense": 125,
+        "hp": 75,
+        "specialAttack": 100,
+        "specialDefense": 105,
+        "speed": 85
+    },
+    "type_relations": {
+        "resistantTo": [
+            "dark",
+            "bug",
+            "fire",
+            "rock",
+            "electric",
+            "water",
+            "grass"
+        ],
+        "weakTo": [
+            "ice",
+            "fairy",
+            "dragon",
+            "psychic",
+            "flying"
+        ]
+    },
+    "types": [
+        "dragon",
+        "fighting"
+    ],
+    "weight": 207.5
+}

@@ -1,0 +1,78 @@
+{
+    "abilities": {
+        "corrosion": "The Pok\u00e9mon can poison the target even if it\u2019s\na Steel or Poison type.",
+        "oblivious": "The Pok\u00e9mon is oblivious, and that keeps it from\nbeing infatuated or falling for taunts."
+    },
+    "description": {
+        "game": "sun",
+        "text": "For some reason, only females have been found.\nIt creates a reverse harem of male Salandit that\nit lives with."
+    },
+    "eggGroups": [
+        "monster",
+        "dragon"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [
+            {
+                "id": "758",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/758.png",
+                "name": "salazzle",
+                "types": [
+                    "poison",
+                    "fire"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "757",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/757.png",
+                "name": "salandit",
+                "types": [
+                    "poison",
+                    "fire"
+                ]
+            }
+        ]
+    },
+    "forms": [],
+    "gender": {},
+    "genera": "Toxic Lizard Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 2.1,
+    "id": 10129,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10129.png",
+    "name": "salazzle-totem",
+    "stats": {
+        "attack": 64,
+        "defense": 60,
+        "hp": 68,
+        "specialAttack": 111,
+        "specialDefense": 60,
+        "speed": 117
+    },
+    "type_relations": {
+        "resistantTo": [
+            "ice",
+            "bug",
+            "fighting",
+            "fire",
+            "fairy",
+            "poison",
+            "grass",
+            "steel"
+        ],
+        "weakTo": [
+            "psychic",
+            "water",
+            "ground",
+            "rock"
+        ]
+    },
+    "types": [
+        "poison",
+        "fire"
+    ],
+    "weight": 81.0
+}

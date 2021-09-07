@@ -1,0 +1,62 @@
+{
+    "abilities": {
+        "own-tempo": "This Pok\u00e9mon has its own tempo, and that prevents\nit from becoming confused.",
+        "psychic-surge": "Turns the ground into Psychic Terrain when\nthe Pok\u00e9mon enters a battle.",
+        "synchronize": "The attacker will receive the same status condition if\nit inflicts a burn, poison, or paralysis to the Pok\u00e9mon."
+    },
+    "description": {
+        "game": "sword",
+        "text": "It uses the horns on its head to sense the\nemotions of others. Males will act as valets for\nthose they serve, looking after their every need."
+    },
+    "eggGroups": [],
+    "evolution": {
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "876",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/876.png",
+                "name": "indeedee-male",
+                "types": [
+                    "psychic",
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10180.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Emotion Pok\u00e9mon",
+    "hatchCounter": 40,
+    "height": 0.9,
+    "id": 10180,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10180.png",
+    "name": "indeedee-female",
+    "stats": {
+        "attack": 55,
+        "defense": 65,
+        "hp": 70,
+        "specialAttack": 95,
+        "specialDefense": 105,
+        "speed": 85
+    },
+    "type_relations": {
+        "resistantTo": [
+            "psychic"
+        ],
+        "weakTo": [
+            "dark",
+            "ghost",
+            "bug"
+        ]
+    },
+    "types": [
+        "psychic",
+        "normal"
+    ],
+    "weight": 2.8
+}

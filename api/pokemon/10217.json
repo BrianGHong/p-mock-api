@@ -1,0 +1,67 @@
+{
+    "abilities": {
+        "pressure": "By putting pressure on the opposing Pok\u00e9mon, it\nraises their PP usage."
+    },
+    "description": {
+        "game": "sword",
+        "text": "As a result of Rose\u2019s meddling, Eternatus\nabsorbed all the energy in the Galar region.\nIt\u2019s now in a state of power overload."
+    },
+    "eggGroups": [],
+    "evolution": {
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "890",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/890.png",
+                "name": "eternatus",
+                "types": [
+                    "poison",
+                    "dragon"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10217.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Gigantic Pok\u00e9mon",
+    "hatchCounter": 120,
+    "height": 100.0,
+    "id": 10217,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10217.png",
+    "name": "eternatus-eternamax",
+    "stats": {
+        "attack": 115,
+        "defense": 250,
+        "hp": 255,
+        "specialAttack": 125,
+        "specialDefense": 250,
+        "speed": 130
+    },
+    "type_relations": {
+        "resistantTo": [
+            "bug",
+            "fighting",
+            "fire",
+            "poison",
+            "electric",
+            "water",
+            "grass"
+        ],
+        "weakTo": [
+            "ice",
+            "dragon",
+            "psychic",
+            "ground"
+        ]
+    },
+    "types": [
+        "poison",
+        "dragon"
+    ],
+    "weight": 1000.0
+}

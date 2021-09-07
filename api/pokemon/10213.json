@@ -1,0 +1,92 @@
+{
+    "abilities": {
+        "frisk": "When it enters a battle, the Pok\u00e9mon can check an\nopposing Pok\u00e9mon\u2019s held item.",
+        "pickpocket": "Steals an item from an attacker that made\ndirect contact.",
+        "prankster": "Gives priority to a status move."
+    },
+    "description": {
+        "game": "sword",
+        "text": "By transforming its leg hair, this Pok\u00e9mon delivers\npower-packed drill kicks that can bore huge\nholes in Galar\u2019s terrain."
+    },
+    "eggGroups": [],
+    "evolution": {
+        "end": [
+            {
+                "id": "861",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/861.png",
+                "name": "grimmsnarl",
+                "types": [
+                    "dark",
+                    "fairy"
+                ]
+            }
+        ],
+        "mid": [
+            {
+                "id": "860",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/860.png",
+                "name": "morgrem",
+                "types": [
+                    "dark",
+                    "fairy"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "859",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/859.png",
+                "name": "impidimp",
+                "types": [
+                    "dark",
+                    "fairy"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10213.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10213.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10213.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10213.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Bulk Up Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 32.0,
+    "id": 10213,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10213.png",
+    "name": "grimmsnarl-gmax",
+    "stats": {
+        "attack": 120,
+        "defense": 65,
+        "hp": 95,
+        "specialAttack": 95,
+        "specialDefense": 75,
+        "speed": 60
+    },
+    "type_relations": {
+        "resistantTo": [
+            "dark",
+            "ghost"
+        ],
+        "weakTo": [
+            "fairy",
+            "poison",
+            "steel"
+        ]
+    },
+    "types": [
+        "dark",
+        "fairy"
+    ],
+    "weight": 1000.0
+}

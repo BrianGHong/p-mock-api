@@ -1,0 +1,71 @@
+{
+    "abilities": {
+        "disguise": "Once per battle, the shroud that covers the\nPok\u00e9mon can protect it from an attack."
+    },
+    "description": {
+        "game": "sun",
+        "text": "Its actual appearance is unknown. A scholar\nwho saw what was under its rag was\noverwhelmed by terror and died from the shock."
+    },
+    "eggGroups": [
+        "indeterminate"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "778",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/778.png",
+                "name": "mimikyu-disguised",
+                "types": [
+                    "ghost",
+                    "fairy"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10143.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10143.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10143.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10143.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Disguise Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 0.2,
+    "id": 10143,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10143.png",
+    "name": "mimikyu-busted",
+    "stats": {
+        "attack": 90,
+        "defense": 80,
+        "hp": 55,
+        "specialAttack": 50,
+        "specialDefense": 105,
+        "speed": 96
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fighting",
+            "bug"
+        ],
+        "weakTo": [
+            "ghost",
+            "steel"
+        ]
+    },
+    "types": [
+        "ghost",
+        "fairy"
+    ],
+    "weight": 0.7
+}

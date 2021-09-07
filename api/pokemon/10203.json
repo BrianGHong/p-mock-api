@@ -1,0 +1,96 @@
+{
+    "abilities": {
+        "mirror-armor": "Bounces back only the stat-lowering effects that the Pok\u00e9mon receives.",
+        "pressure": "By putting pressure on the opposing Pok\u00e9mon, it\nraises their PP usage.",
+        "unnerve": "Unnerves opposing Pok\u00e9mon and makes them unable\nto eat Berries."
+    },
+    "description": {
+        "game": "sword",
+        "text": "Imbued with Gigantamax energy, its wings can\nwhip up winds more forceful than any a hurricane\ncould muster. The gusts blow everything away."
+    },
+    "eggGroups": [],
+    "evolution": {
+        "end": [
+            {
+                "id": "823",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/823.png",
+                "name": "corviknight",
+                "types": [
+                    "flying",
+                    "steel"
+                ]
+            }
+        ],
+        "mid": [
+            {
+                "id": "822",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/822.png",
+                "name": "corvisquire",
+                "types": [
+                    "flying"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "821",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/821.png",
+                "name": "rookidee",
+                "types": [
+                    "flying"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10203.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10203.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10203.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10203.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Raven Pok\u00e9mon",
+    "hatchCounter": 15,
+    "height": 14.0,
+    "id": 10203,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10203.png",
+    "name": "corviknight-gmax",
+    "stats": {
+        "attack": 87,
+        "defense": 105,
+        "hp": 98,
+        "specialAttack": 53,
+        "specialDefense": 85,
+        "speed": 67
+    },
+    "type_relations": {
+        "resistantTo": [
+            "bug",
+            "fairy",
+            "dragon",
+            "grass",
+            "psychic",
+            "normal",
+            "flying",
+            "steel"
+        ],
+        "weakTo": [
+            "fire",
+            "electric",
+            "ground"
+        ]
+    },
+    "types": [
+        "flying",
+        "steel"
+    ],
+    "weight": 1000.0
+}

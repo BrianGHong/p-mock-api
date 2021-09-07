@@ -1,0 +1,80 @@
+{
+    "abilities": {
+        "hustle": "Boosts the Attack stat, but lowers accuracy.",
+        "inner-focus": "The Pok\u00e9mon\u2019s intensely focused, and that protects\nthe Pok\u00e9mon from flinching."
+    },
+    "description": {
+        "game": "black",
+        "text": "When its internal fire is burning, it\ncannot calm down and it runs around.\nWhen the fire diminishes, it falls asleep."
+    },
+    "eggGroups": [
+        "ground"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [
+            {
+                "id": "555",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/555.png",
+                "name": "darmanitan-standard",
+                "types": [
+                    "fire"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "554",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/554.png",
+                "name": "darumaka",
+                "types": [
+                    "fire"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10173.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10173.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10173.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10173.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Zen Charm Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 0.7,
+    "id": 10173,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10173.png",
+    "name": "darumaka-galar",
+    "stats": {
+        "attack": 90,
+        "defense": 45,
+        "hp": 70,
+        "specialAttack": 15,
+        "specialDefense": 45,
+        "speed": 50
+    },
+    "type_relations": {
+        "resistantTo": [
+            "ice"
+        ],
+        "weakTo": [
+            "fighting",
+            "fire",
+            "rock",
+            "steel"
+        ]
+    },
+    "types": [
+        "ice"
+    ],
+    "weight": 40.0
+}

@@ -1,0 +1,70 @@
+{
+    "abilities": {
+        "adaptability": "Powers up moves of the same type as the Pok\u00e9mon.",
+        "stakeout": "Doubles the damage dealt to the target\u2019s\nreplacement if the target switches out.",
+        "strong-jaw": "The Pok\u00e9mon\u2019s strong jaw boosts the power of its\nbiting moves."
+    },
+    "description": {
+        "game": "sun",
+        "text": "When it finds a trace of its prey, it patiently\nstakes out the location...but it\u2019s always snoozing\nby nightfall."
+    },
+    "eggGroups": [
+        "ground"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [
+            {
+                "id": "735",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/735.png",
+                "name": "gumshoos",
+                "types": [
+                    "normal"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "734",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/734.png",
+                "name": "yungoos",
+                "types": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10121.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/735-totem.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Stakeout Pok\u00e9mon",
+    "hatchCounter": 15,
+    "height": 1.4,
+    "id": 10121,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10121.png",
+    "name": "gumshoos-totem",
+    "stats": {
+        "attack": 110,
+        "defense": 60,
+        "hp": 88,
+        "specialAttack": 55,
+        "specialDefense": 60,
+        "speed": 45
+    },
+    "type_relations": {
+        "resistantTo": [],
+        "weakTo": [
+            "fighting"
+        ]
+    },
+    "types": [
+        "normal"
+    ],
+    "weight": 60.0
+}

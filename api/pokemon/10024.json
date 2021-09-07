@@ -1,0 +1,79 @@
+{
+    "abilities": {
+        "justified": "Being hit by a Dark-type move boosts the Attack\nstat of the Pok\u00e9mon, for justice."
+    },
+    "description": {
+        "game": "black",
+        "text": "By blasting water from its hooves, it can\nglide across water. It excels at using\nleg moves while battling."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "647",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/647.png",
+                "name": "keldeo-ordinary",
+                "types": [
+                    "water",
+                    "fighting"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/647-resolute.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/647-resolute.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10024.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/647-resolute.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Colt Pok\u00e9mon",
+    "hatchCounter": 80,
+    "height": 1.4,
+    "id": 10024,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10024.png",
+    "name": "keldeo-resolute",
+    "stats": {
+        "attack": 72,
+        "defense": 90,
+        "hp": 91,
+        "specialAttack": 129,
+        "specialDefense": 90,
+        "speed": 108
+    },
+    "type_relations": {
+        "resistantTo": [
+            "dark",
+            "ice",
+            "bug",
+            "fire",
+            "rock",
+            "water",
+            "steel"
+        ],
+        "weakTo": [
+            "fairy",
+            "electric",
+            "grass",
+            "psychic",
+            "flying"
+        ]
+    },
+    "types": [
+        "water",
+        "fighting"
+    ],
+    "weight": 48.5
+}

@@ -1,0 +1,97 @@
+{
+    "abilities": {
+        "blaze": "Powers up Fire-type moves when the Pok\u00e9mon\u2019s HP\nis low.",
+        "solar-power": "Boosts the Sp. Atk stat in harsh sunlight, but HP\ndecreases every turn."
+    },
+    "description": {
+        "game": "red",
+        "text": "Spits fire that\nis hot enough to\nmelt boulders.\fKnown to cause\nforest fires\nunintentionally."
+    },
+    "eggGroups": [
+        "monster",
+        "dragon"
+    ],
+    "evolution": {
+        "end": [
+            {
+                "id": "6",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/6.png",
+                "name": "charizard",
+                "types": [
+                    "fire",
+                    "flying"
+                ]
+            }
+        ],
+        "mid": [
+            {
+                "id": "5",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/5.png",
+                "name": "charmeleon",
+                "types": [
+                    "fire"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "4",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/4.png",
+                "name": "charmander",
+                "types": [
+                    "fire"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10187.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10187.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10187.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10187.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Flame Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 28.0,
+    "id": 10187,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10187.png",
+    "name": "charizard-gmax",
+    "stats": {
+        "attack": 84,
+        "defense": 78,
+        "hp": 78,
+        "specialAttack": 109,
+        "specialDefense": 85,
+        "speed": 100
+    },
+    "type_relations": {
+        "resistantTo": [
+            "bug",
+            "fire",
+            "fighting",
+            "fairy",
+            "grass",
+            "steel"
+        ],
+        "weakTo": [
+            "rock",
+            "electric",
+            "water",
+            "ground"
+        ]
+    },
+    "types": [
+        "fire",
+        "flying"
+    ],
+    "weight": 1000.0
+}

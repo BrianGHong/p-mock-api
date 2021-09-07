@@ -1,0 +1,96 @@
+{
+    "abilities": {
+        "frisk": "When it enters a battle, the Pok\u00e9mon can check an\nopposing Pok\u00e9mon\u2019s held item.",
+        "swarm": "Powers up Bug-type moves when the Pok\u00e9mon\u2019s HP\nis low.",
+        "telepathy": "Anticipates an ally\u2019s attack and dodges it."
+    },
+    "description": {
+        "game": "sword",
+        "text": "Its brain has grown to a gargantuan size, as has\nthe rest of its body. This Pok\u00e9mon\u2019s intellect and\npsychic abilities are overpowering."
+    },
+    "eggGroups": [],
+    "evolution": {
+        "end": [
+            {
+                "id": "826",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/826.png",
+                "name": "orbeetle",
+                "types": [
+                    "bug",
+                    "psychic"
+                ]
+            }
+        ],
+        "mid": [
+            {
+                "id": "825",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/825.png",
+                "name": "dottler",
+                "types": [
+                    "bug",
+                    "psychic"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "824",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/824.png",
+                "name": "blipbug",
+                "types": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10204.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10204.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10204.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10204.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Seven Spot Pok\u00e9mon",
+    "hatchCounter": 15,
+    "height": 14.0,
+    "id": 10204,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10204.png",
+    "name": "orbeetle-gmax",
+    "stats": {
+        "attack": 45,
+        "defense": 110,
+        "hp": 60,
+        "specialAttack": 80,
+        "specialDefense": 120,
+        "speed": 90
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fighting",
+            "psychic",
+            "ground",
+            "grass"
+        ],
+        "weakTo": [
+            "dark",
+            "ghost",
+            "bug",
+            "fire",
+            "rock",
+            "flying"
+        ]
+    },
+    "types": [
+        "bug",
+        "psychic"
+    ],
+    "weight": 1000.0
+}

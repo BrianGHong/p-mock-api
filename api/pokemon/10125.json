@@ -1,0 +1,76 @@
+{
+    "abilities": {
+        "dancer": "When another Pok\u00e9mon uses a dance move,\nit can use a dance move following it regardless\nof its Speed."
+    },
+    "description": {
+        "game": "sun",
+        "text": "It beats its wings together to create fire.\nAs it moves in the steps of its beautiful dance,\nit bathes opponents in intense flames."
+    },
+    "eggGroups": [
+        "flying"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "741",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/741.png",
+                "name": "oricorio-baile",
+                "types": [
+                    "fire",
+                    "flying"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10125.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10125.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10125.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10125.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Dancing Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 0.6,
+    "id": 10125,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10125.png",
+    "name": "oricorio-sensu",
+    "stats": {
+        "attack": 70,
+        "defense": 70,
+        "hp": 75,
+        "specialAttack": 98,
+        "specialDefense": 70,
+        "speed": 93
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fighting",
+            "grass",
+            "poison",
+            "bug"
+        ],
+        "weakTo": [
+            "dark",
+            "ghost",
+            "ice",
+            "rock",
+            "electric"
+        ]
+    },
+    "types": [
+        "ghost",
+        "flying"
+    ],
+    "weight": 3.4
+}

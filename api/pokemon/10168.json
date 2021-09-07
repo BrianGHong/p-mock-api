@@ -1,0 +1,74 @@
+{
+    "abilities": {
+        "berserk": "Boosts the Pok\u00e9mon\u2019s Sp. Atk stat when it takes a \nhit that causes its HP to become half or less."
+    },
+    "description": {
+        "game": "x",
+        "text": "It is said to be the legendary bird Pok\u00e9mon of fire.\nEvery flap of its wings creates a dazzling flare\nof flames."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "146",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/146.png",
+                "name": "moltres",
+                "types": [
+                    "fire",
+                    "flying"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10168.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10168.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10168.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10168.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Flame Pok\u00e9mon",
+    "hatchCounter": 80,
+    "height": 2.0,
+    "id": 10168,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10168.png",
+    "name": "moltres-galar",
+    "stats": {
+        "attack": 85,
+        "defense": 90,
+        "hp": 90,
+        "specialAttack": 100,
+        "specialDefense": 125,
+        "speed": 90
+    },
+    "type_relations": {
+        "resistantTo": [
+            "dark",
+            "ghost",
+            "grass"
+        ],
+        "weakTo": [
+            "ice",
+            "fairy",
+            "rock",
+            "electric"
+        ]
+    },
+    "types": [
+        "dark",
+        "flying"
+    ],
+    "weight": 66.0
+}

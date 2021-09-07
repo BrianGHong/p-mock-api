@@ -1,0 +1,72 @@
+{
+    "abilities": {
+        "unseen-fist": "If the Pok\u00e9mon uses moves that make direct contact, it can attack the target even if the target protects itself."
+    },
+    "description": {
+        "game": "sword",
+        "text": "As it waits for the right moment to unleash its\nGigantamax power, this Pok\u00e9mon maintains a\nperfect one-legged stance. It won\u2019t even twitch."
+    },
+    "eggGroups": [],
+    "evolution": {
+        "end": [],
+        "mid": [
+            {
+                "id": "892",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/892.png",
+                "name": "urshifu-single-strike",
+                "types": [
+                    "fighting",
+                    "dark"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "891",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/891.png",
+                "name": "kubfu",
+                "types": [
+                    "fighting"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10218.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Wushu Pok\u00e9mon",
+    "hatchCounter": 120,
+    "height": 29.0,
+    "id": 10218,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10218.png",
+    "name": "urshifu-single-strike-gmax",
+    "stats": {
+        "attack": 130,
+        "defense": 100,
+        "hp": 100,
+        "specialAttack": 63,
+        "specialDefense": 60,
+        "speed": 97
+    },
+    "type_relations": {
+        "resistantTo": [
+            "dark",
+            "ghost",
+            "rock"
+        ],
+        "weakTo": [
+            "fighting",
+            "fairy",
+            "psychic",
+            "flying"
+        ]
+    },
+    "types": [
+        "fighting",
+        "dark"
+    ],
+    "weight": 1000.0
+}

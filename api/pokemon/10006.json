@@ -1,0 +1,75 @@
+{
+    "abilities": {
+        "serene-grace": "Boosts the likelihood of additional effects occurring \nwhen attacking."
+    },
+    "description": {
+        "game": "diamond",
+        "text": "It lives in flower patches and\navoids detection by curling up\nto look like a flowering plant."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "492",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/492.png",
+                "name": "shaymin-land",
+                "types": [
+                    "grass"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/492-sky.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/492-sky.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10006.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/492-sky.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Gratitude Pok\u00e9mon",
+    "hatchCounter": 120,
+    "height": 0.4,
+    "id": 10006,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10006.png",
+    "name": "shaymin-sky",
+    "stats": {
+        "attack": 103,
+        "defense": 75,
+        "hp": 100,
+        "specialAttack": 120,
+        "specialDefense": 75,
+        "speed": 127
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fighting",
+            "water",
+            "grass",
+            "ground"
+        ],
+        "weakTo": [
+            "ice",
+            "fire",
+            "poison",
+            "rock",
+            "flying"
+        ]
+    },
+    "types": [
+        "grass",
+        "flying"
+    ],
+    "weight": 5.2
+}

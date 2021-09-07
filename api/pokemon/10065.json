@@ -1,0 +1,89 @@
+{
+    "abilities": {
+        "lightning-rod": "The Pok\u00e9mon draws in all Electric-type moves. \nInstead of being hit by Electric-type moves, \nit boosts its Sp. Atk."
+    },
+    "description": {
+        "game": "ruby",
+        "text": "The leaves growing on SCEPTILE\u2019s body\nare very sharp edged. This POK\u00e9MON is\nvery agile - it leaps all over the\fbranches of trees and jumps on its foe\nfrom above or behind."
+    },
+    "eggGroups": [
+        "monster",
+        "dragon"
+    ],
+    "evolution": {
+        "end": [
+            {
+                "id": "254",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/254.png",
+                "name": "sceptile",
+                "types": [
+                    "grass"
+                ]
+            }
+        ],
+        "mid": [
+            {
+                "id": "253",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/253.png",
+                "name": "grovyle",
+                "types": [
+                    "grass"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "252",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/252.png",
+                "name": "treecko",
+                "types": [
+                    "grass"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10065.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10065.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Forest Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 1.9,
+    "id": 10065,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10065.png",
+    "name": "sceptile-mega",
+    "stats": {
+        "attack": 110,
+        "defense": 75,
+        "hp": 70,
+        "specialAttack": 145,
+        "specialDefense": 85,
+        "speed": 145
+    },
+    "type_relations": {
+        "resistantTo": [
+            "electric",
+            "water",
+            "grass",
+            "ground"
+        ],
+        "weakTo": [
+            "ice",
+            "bug",
+            "fairy",
+            "poison",
+            "dragon",
+            "flying"
+        ]
+    },
+    "types": [
+        "grass",
+        "dragon"
+    ],
+    "weight": 55.2
+}

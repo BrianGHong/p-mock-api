@@ -1,0 +1,80 @@
+{
+    "abilities": {
+        "snow-cloak": "Boosts evasion in a hailstorm.",
+        "snow-warning": "The Pok\u00e9mon summons a hailstorm when it enters\na battle."
+    },
+    "description": {
+        "game": "red",
+        "text": "At the time of\nbirth, it has\njust one tail.\fThe tail splits\nfrom its tip as\nit grows older."
+    },
+    "eggGroups": [
+        "ground"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [
+            {
+                "id": "38",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/38.png",
+                "name": "ninetales",
+                "types": [
+                    "fire"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "37",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/37.png",
+                "name": "vulpix",
+                "types": [
+                    "fire"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10103.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10103.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10103.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10103.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Fox Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 0.6,
+    "id": 10103,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10103.png",
+    "name": "vulpix-alola",
+    "stats": {
+        "attack": 41,
+        "defense": 40,
+        "hp": 38,
+        "specialAttack": 50,
+        "specialDefense": 65,
+        "speed": 65
+    },
+    "type_relations": {
+        "resistantTo": [
+            "ice"
+        ],
+        "weakTo": [
+            "fighting",
+            "fire",
+            "rock",
+            "steel"
+        ]
+    },
+    "types": [
+        "ice"
+    ],
+    "weight": 9.9
+}

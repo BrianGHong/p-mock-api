@@ -1,0 +1,72 @@
+{
+    "abilities": {
+        "shields-down": "When its HP becomes half or less, the Pok\u00e9mon\u2019s\nshell breaks and it becomes aggressive."
+    },
+    "description": {
+        "game": "sun",
+        "text": "Originally making its home in the ozone layer,\nit hurtles to the ground when the shell enclosing\nits body grows too heavy."
+    },
+    "eggGroups": [
+        "mineral"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "774",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/774.png",
+                "name": "minior-red-meteor",
+                "types": [
+                    "rock",
+                    "flying"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10133.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/774-blue-meteor.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Meteor Pok\u00e9mon",
+    "hatchCounter": 25,
+    "height": 0.3,
+    "id": 10133,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10133.png",
+    "name": "minior-blue-meteor",
+    "stats": {
+        "attack": 60,
+        "defense": 100,
+        "hp": 60,
+        "specialAttack": 60,
+        "specialDefense": 100,
+        "speed": 60
+    },
+    "type_relations": {
+        "resistantTo": [
+            "bug",
+            "fire",
+            "poison",
+            "normal",
+            "flying"
+        ],
+        "weakTo": [
+            "ice",
+            "rock",
+            "electric",
+            "water",
+            "ground",
+            "steel"
+        ]
+    },
+    "types": [
+        "rock",
+        "flying"
+    ],
+    "weight": 40.0
+}

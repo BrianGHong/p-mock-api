@@ -1,0 +1,83 @@
+{
+    "abilities": {
+        "gluttony": "Makes the Pok\u00e9mon eat a held Berry when its HP\ndrops to half or less, which is sooner than usual.",
+        "poison-touch": "May poison a target when the Pok\u00e9mon\nmakes contact.",
+        "power-of-alchemy": "The Pok\u00e9mon copies the Ability of a defeated ally."
+    },
+    "description": {
+        "game": "red",
+        "text": "Appears in filthy\nareas. Thrives by\nsucking up\fpolluted sludge\nthat is pumped\nout of factories."
+    },
+    "eggGroups": [
+        "indeterminate"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [
+            {
+                "id": "89",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/89.png",
+                "name": "muk",
+                "types": [
+                    "poison"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "88",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/88.png",
+                "name": "grimer",
+                "types": [
+                    "poison"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10112.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10112.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10112.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10112.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Sludge Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 0.7,
+    "id": 10112,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10112.png",
+    "name": "grimer-alola",
+    "stats": {
+        "attack": 80,
+        "defense": 50,
+        "hp": 80,
+        "specialAttack": 40,
+        "specialDefense": 50,
+        "speed": 25
+    },
+    "type_relations": {
+        "resistantTo": [
+            "dark",
+            "ghost",
+            "poison",
+            "grass"
+        ],
+        "weakTo": [
+            "psychic",
+            "ground"
+        ]
+    },
+    "types": [
+        "poison",
+        "dark"
+    ],
+    "weight": 42.0
+}

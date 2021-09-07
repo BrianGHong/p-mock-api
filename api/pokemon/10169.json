@@ -1,0 +1,96 @@
+{
+    "abilities": {
+        "curious-medicine": "When the Pok\u00e9mon enters a battle, it scatters medicine from its shell, which removes all stat changes from allies.",
+        "own-tempo": "This Pok\u00e9mon has its own tempo, and that prevents\nit from becoming confused.",
+        "regenerator": "Restores a little HP when withdrawn from battle."
+    },
+    "description": {
+        "game": "gold",
+        "text": "It has incredible\nintellect and in\u00ad\ntuition. Whatever\fthe situation, it\nremains calm and\ncollected."
+    },
+    "eggGroups": [
+        "monster",
+        "water1"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [
+            {
+                "id": "80",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/80.png",
+                "name": "slowbro",
+                "types": [
+                    "water",
+                    "psychic"
+                ]
+            },
+            {
+                "id": "199",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/199.png",
+                "name": "slowking",
+                "types": [
+                    "water",
+                    "psychic"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "79",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/79.png",
+                "name": "slowpoke",
+                "types": [
+                    "water",
+                    "psychic"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10169.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10169.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10169.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10169.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Royal Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 1.8,
+    "id": 10169,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10169.png",
+    "name": "slowking-galar",
+    "stats": {
+        "attack": 65,
+        "defense": 80,
+        "hp": 95,
+        "specialAttack": 110,
+        "specialDefense": 110,
+        "speed": 30
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fighting",
+            "fairy",
+            "poison",
+            "grass"
+        ],
+        "weakTo": [
+            "dark",
+            "ghost",
+            "ground"
+        ]
+    },
+    "types": [
+        "poison",
+        "psychic"
+    ],
+    "weight": 79.5
+}

@@ -1,0 +1,70 @@
+{
+    "abilities": {
+        "magic-bounce": "Reflects status moves, instead of getting hit\nby them."
+    },
+    "description": {
+        "game": "x",
+        "text": "A sudden transformation of Carbink,\nits pink, glimmering body is said to be\nthe loveliest sight in the whole world."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "719",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/719.png",
+                "name": "diancie",
+                "types": [
+                    "rock",
+                    "fairy"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10075.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/719-mega.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Jewel Pok\u00e9mon",
+    "hatchCounter": 25,
+    "height": 1.1,
+    "id": 10075,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10075.png",
+    "name": "diancie-mega",
+    "stats": {
+        "attack": 160,
+        "defense": 110,
+        "hp": 50,
+        "specialAttack": 160,
+        "specialDefense": 110,
+        "speed": 110
+    },
+    "type_relations": {
+        "resistantTo": [
+            "dark",
+            "bug",
+            "fire",
+            "normal",
+            "flying"
+        ],
+        "weakTo": [
+            "water",
+            "grass",
+            "ground",
+            "steel"
+        ]
+    },
+    "types": [
+        "rock",
+        "fairy"
+    ],
+    "weight": 27.8
+}

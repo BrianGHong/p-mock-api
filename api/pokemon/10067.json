@@ -1,0 +1,90 @@
+{
+    "abilities": {
+        "pixilate": "Normal-type moves become Fairy-type moves.\nThe power of those moves is boosted a little."
+    },
+    "description": {
+        "game": "ruby",
+        "text": "ALTARIA dances and wheels through the\nsky among billowing, cotton-like clouds.\nBy singing melodies in its crystal-clear\fvoice, this POK\u00e9MON makes its listeners\nexperience dreamy wonderment."
+    },
+    "eggGroups": [
+        "flying",
+        "dragon"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [
+            {
+                "id": "334",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/334.png",
+                "name": "altaria",
+                "types": [
+                    "dragon",
+                    "flying"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "333",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/333.png",
+                "name": "swablu",
+                "types": [
+                    "normal",
+                    "flying"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10067.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10067.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10067.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10067.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Humming Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 1.5,
+    "id": 10067,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10067.png",
+    "name": "altaria-mega",
+    "stats": {
+        "attack": 110,
+        "defense": 110,
+        "hp": 75,
+        "specialAttack": 110,
+        "specialDefense": 105,
+        "speed": 80
+    },
+    "type_relations": {
+        "resistantTo": [
+            "dark",
+            "bug",
+            "fire",
+            "fighting",
+            "electric",
+            "water",
+            "grass"
+        ],
+        "weakTo": [
+            "ice",
+            "fairy",
+            "poison",
+            "dragon",
+            "steel"
+        ]
+    },
+    "types": [
+        "dragon",
+        "fairy"
+    ],
+    "weight": 20.6
+}

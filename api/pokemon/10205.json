@@ -1,0 +1,85 @@
+{
+    "abilities": {
+        "shell-armor": "A hard shell protects the Pok\u00e9mon from critical hits.",
+        "strong-jaw": "The Pok\u00e9mon\u2019s strong jaw boosts the power of its\nbiting moves.",
+        "swift-swim": "Boosts the Pok\u00e9mon\u2019s Speed stat in rain."
+    },
+    "description": {
+        "game": "sword",
+        "text": "It responded to Gigantamax energy by becoming\nbipedal. First it comes crashing down on foes,\nand then it finishes them off with its massive jaws."
+    },
+    "eggGroups": [],
+    "evolution": {
+        "end": [],
+        "mid": [
+            {
+                "id": "834",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/834.png",
+                "name": "drednaw",
+                "types": [
+                    "water",
+                    "rock"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "833",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/833.png",
+                "name": "chewtle",
+                "types": [
+                    "water"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10205.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10205.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10205.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10205.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Bite Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 24.0,
+    "id": 10205,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10205.png",
+    "name": "drednaw-gmax",
+    "stats": {
+        "attack": 115,
+        "defense": 90,
+        "hp": 90,
+        "specialAttack": 48,
+        "specialDefense": 68,
+        "speed": 74
+    },
+    "type_relations": {
+        "resistantTo": [
+            "ice",
+            "fire",
+            "poison",
+            "normal",
+            "flying"
+        ],
+        "weakTo": [
+            "fighting",
+            "electric",
+            "grass",
+            "ground"
+        ]
+    },
+    "types": [
+        "water",
+        "rock"
+    ],
+    "weight": 1000.0
+}

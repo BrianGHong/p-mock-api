@@ -1,0 +1,87 @@
+{
+    "abilities": {
+        "gluttony": "Makes the Pok\u00e9mon eat a held Berry when its HP\ndrops to half or less, which is sooner than usual.",
+        "hustle": "Boosts the Attack stat, but lowers accuracy.",
+        "ripen": "Ripens Berries and doubles their effect."
+    },
+    "description": {
+        "game": "sword",
+        "text": "It ate a sour apple, and that induced its\nevolution. In its cheeks, it stores an acid\ncapable of causing chemical burns."
+    },
+    "eggGroups": [],
+    "evolution": {
+        "end": [],
+        "mid": [
+            {
+                "id": "841",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/841.png",
+                "name": "flapple",
+                "types": [
+                    "grass",
+                    "dragon"
+                ]
+            },
+            {
+                "id": "842",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/842.png",
+                "name": "appletun",
+                "types": [
+                    "grass",
+                    "dragon"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "840",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/840.png",
+                "name": "applin",
+                "types": [
+                    "grass",
+                    "dragon"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10207.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Apple Wing Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 24.0,
+    "id": 10207,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10207.png",
+    "name": "flapple-gmax",
+    "stats": {
+        "attack": 110,
+        "defense": 80,
+        "hp": 70,
+        "specialAttack": 95,
+        "specialDefense": 60,
+        "speed": 70
+    },
+    "type_relations": {
+        "resistantTo": [
+            "electric",
+            "water",
+            "grass",
+            "ground"
+        ],
+        "weakTo": [
+            "ice",
+            "bug",
+            "fairy",
+            "poison",
+            "dragon",
+            "flying"
+        ]
+    },
+    "types": [
+        "grass",
+        "dragon"
+    ],
+    "weight": 1000.0
+}

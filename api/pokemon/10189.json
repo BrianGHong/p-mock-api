@@ -1,0 +1,95 @@
+{
+    "abilities": {
+        "compound-eyes": "The Pok\u00e9mon\u2019s compound eyes boost its accuracy.",
+        "tinted-lens": "The Pok\u00e9mon can use \u201cnot very effective\u201d moves\nto deal regular damage. "
+    },
+    "description": {
+        "game": "red",
+        "text": "In battle, it\nflaps its wings\nat high speed to\frelease highly\ntoxic dust into\nthe air."
+    },
+    "eggGroups": [
+        "bug"
+    ],
+    "evolution": {
+        "end": [
+            {
+                "id": "12",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/12.png",
+                "name": "butterfree",
+                "types": [
+                    "bug",
+                    "flying"
+                ]
+            }
+        ],
+        "mid": [
+            {
+                "id": "11",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/11.png",
+                "name": "metapod",
+                "types": [
+                    "bug"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "10",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10.png",
+                "name": "caterpie",
+                "types": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10189.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10189.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10189.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10189.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Butterfly Pok\u00e9mon",
+    "hatchCounter": 15,
+    "height": 17.0,
+    "id": 10189,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10189.png",
+    "name": "butterfree-gmax",
+    "stats": {
+        "attack": 45,
+        "defense": 50,
+        "hp": 60,
+        "specialAttack": 90,
+        "specialDefense": 80,
+        "speed": 70
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fighting",
+            "bug",
+            "ground",
+            "grass"
+        ],
+        "weakTo": [
+            "ice",
+            "fire",
+            "rock",
+            "electric",
+            "flying"
+        ]
+    },
+    "types": [
+        "bug",
+        "flying"
+    ],
+    "weight": 1000.0
+}

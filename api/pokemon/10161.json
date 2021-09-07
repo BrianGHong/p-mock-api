@@ -1,0 +1,93 @@
+{
+    "abilities": {
+        "gluttony": "Makes the Pok\u00e9mon eat a held Berry when its HP\ndrops to half or less, which is sooner than usual.",
+        "own-tempo": "This Pok\u00e9mon has its own tempo, and that prevents\nit from becoming confused.",
+        "regenerator": "Restores a little HP when withdrawn from battle."
+    },
+    "description": {
+        "game": "red",
+        "text": "Incredibly slow\nand dopey. It\ntakes 5 seconds\ffor it to feel\npain when under\nattack."
+    },
+    "eggGroups": [
+        "monster",
+        "water1"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [
+            {
+                "id": "80",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/80.png",
+                "name": "slowbro",
+                "types": [
+                    "water",
+                    "psychic"
+                ]
+            },
+            {
+                "id": "199",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/199.png",
+                "name": "slowking",
+                "types": [
+                    "water",
+                    "psychic"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "79",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/79.png",
+                "name": "slowpoke",
+                "types": [
+                    "water",
+                    "psychic"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10161.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10161.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10161.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10161.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Dopey Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 1.2,
+    "id": 10161,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10161.png",
+    "name": "slowpoke-galar",
+    "stats": {
+        "attack": 65,
+        "defense": 65,
+        "hp": 90,
+        "specialAttack": 40,
+        "specialDefense": 40,
+        "speed": 15
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fighting",
+            "psychic"
+        ],
+        "weakTo": [
+            "dark",
+            "ghost",
+            "bug"
+        ]
+    },
+    "types": [
+        "psychic"
+    ],
+    "weight": 36.0
+}

@@ -1,0 +1,70 @@
+{
+    "abilities": {
+        "pressure": "By putting pressure on the opposing Pok\u00e9mon, it\nraises their PP usage."
+    },
+    "description": {
+        "game": "ruby",
+        "text": "The DNA of a space virus underwent a\nsudden mutation upon exposure to a\nlaser beam and resulted in DEOXYS.\fThe crystalline organ on this POK\u00e9MON\u2019s\nchest appears to be its brain."
+    },
+    "eggGroups": [
+        "no-eggs"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "386",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/386.png",
+                "name": "deoxys-normal",
+                "types": [
+                    "psychic"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/386-defense.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/386-defense.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10002.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/386-defense.png"
+        }
+    ],
+    "gender": {},
+    "genera": "DNA Pok\u00e9mon",
+    "hatchCounter": 120,
+    "height": 1.7,
+    "id": 10002,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10002.png",
+    "name": "deoxys-defense",
+    "stats": {
+        "attack": 70,
+        "defense": 160,
+        "hp": 50,
+        "specialAttack": 70,
+        "specialDefense": 160,
+        "speed": 90
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fighting",
+            "psychic"
+        ],
+        "weakTo": [
+            "dark",
+            "ghost",
+            "bug"
+        ]
+    },
+    "types": [
+        "psychic"
+    ],
+    "weight": 60.8
+}

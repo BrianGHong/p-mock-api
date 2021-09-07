@@ -1,0 +1,88 @@
+{
+    "abilities": {
+        "frisk": "When it enters a battle, the Pok\u00e9mon can check an\nopposing Pok\u00e9mon\u2019s held item.",
+        "harvest": "May create another Berry after one is used."
+    },
+    "description": {
+        "game": "red",
+        "text": "Legend has it that\non rare occasions,\none of its heads\fwill drop off and\ncontinue on as an\nEXEGGCUTE."
+    },
+    "eggGroups": [
+        "plant"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [
+            {
+                "id": "103",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/103.png",
+                "name": "exeggutor",
+                "types": [
+                    "grass",
+                    "psychic"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "102",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/102.png",
+                "name": "exeggcute",
+                "types": [
+                    "grass",
+                    "psychic"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10114.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10114.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10114.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10114.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Coconut Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 10.9,
+    "id": 10114,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10114.png",
+    "name": "exeggutor-alola",
+    "stats": {
+        "attack": 105,
+        "defense": 85,
+        "hp": 95,
+        "specialAttack": 125,
+        "specialDefense": 75,
+        "speed": 45
+    },
+    "type_relations": {
+        "resistantTo": [
+            "electric",
+            "water",
+            "grass",
+            "ground"
+        ],
+        "weakTo": [
+            "ice",
+            "bug",
+            "fairy",
+            "poison",
+            "dragon",
+            "flying"
+        ]
+    },
+    "types": [
+        "grass",
+        "dragon"
+    ],
+    "weight": 415.6
+}

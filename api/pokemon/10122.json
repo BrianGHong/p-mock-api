@@ -1,0 +1,86 @@
+{
+    "abilities": {
+        "levitate": "By floating in the air, the Pok\u00e9mon receives full\nimmunity to all Ground-type moves."
+    },
+    "description": {
+        "game": "sun",
+        "text": "It zips around, on sharp lookout for an opening.\nIt concentrates electrical energy within its large\njaws and uses it to zap its enemies."
+    },
+    "eggGroups": [
+        "bug"
+    ],
+    "evolution": {
+        "end": [
+            {
+                "id": "738",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/738.png",
+                "name": "vikavolt",
+                "types": [
+                    "bug",
+                    "electric"
+                ]
+            }
+        ],
+        "mid": [
+            {
+                "id": "737",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/737.png",
+                "name": "charjabug",
+                "types": [
+                    "bug",
+                    "electric"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "736",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/736.png",
+                "name": "grubbin",
+                "types": [
+                    "bug"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10122.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/738-totem.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Stag Beetle Pok\u00e9mon",
+    "hatchCounter": 15,
+    "height": 2.6,
+    "id": 10122,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10122.png",
+    "name": "vikavolt-totem",
+    "stats": {
+        "attack": 70,
+        "defense": 90,
+        "hp": 77,
+        "specialAttack": 145,
+        "specialDefense": 75,
+        "speed": 43
+    },
+    "type_relations": {
+        "resistantTo": [
+            "grass",
+            "fighting",
+            "electric",
+            "steel"
+        ],
+        "weakTo": [
+            "fire",
+            "rock"
+        ]
+    },
+    "types": [
+        "bug",
+        "electric"
+    ],
+    "weight": 147.5
+}

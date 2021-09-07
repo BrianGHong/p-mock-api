@@ -1,0 +1,76 @@
+{
+    "abilities": {
+        "pure-power": "Using its pure power, the Pok\u00e9mon doubles its\nAttack stat."
+    },
+    "description": {
+        "game": "ruby",
+        "text": "It is said that through meditation,\nMEDICHAM heightens energy inside\nits body and sharpens its sixth sense.\fThis POK\u00e9MON hides its presence by\nmerging itself with fields and\nmountains."
+    },
+    "eggGroups": [
+        "humanshape"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [
+            {
+                "id": "308",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/308.png",
+                "name": "medicham",
+                "types": [
+                    "fighting",
+                    "psychic"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "307",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/307.png",
+                "name": "meditite",
+                "types": [
+                    "fighting",
+                    "psychic"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10054.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10054.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Meditate Pok\u00e9mon",
+    "hatchCounter": 20,
+    "height": 1.3,
+    "id": 10054,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10054.png",
+    "name": "medicham-mega",
+    "stats": {
+        "attack": 100,
+        "defense": 85,
+        "hp": 60,
+        "specialAttack": 80,
+        "specialDefense": 85,
+        "speed": 100
+    },
+    "type_relations": {
+        "resistantTo": [
+            "fighting",
+            "rock"
+        ],
+        "weakTo": [
+            "ghost",
+            "fairy",
+            "flying"
+        ]
+    },
+    "types": [
+        "fighting",
+        "psychic"
+    ],
+    "weight": 31.5
+}

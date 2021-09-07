@@ -1,0 +1,93 @@
+{
+    "abilities": {
+        "wandering-spirit": "The Pok\u00e9mon exchanges Abilities with a Pok\u00e9mon that hits it with a move that makes direct contact."
+    },
+    "description": {
+        "game": "black",
+        "text": "Each of them carries a mask that used\nto be its face when it was human.\nSometimes they look at it and cry."
+    },
+    "eggGroups": [
+        "mineral",
+        "indeterminate"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [
+            {
+                "id": "563",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/563.png",
+                "name": "cofagrigus",
+                "types": [
+                    "ghost"
+                ]
+            },
+            {
+                "id": "867",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/867.png",
+                "name": "runerigus",
+                "types": [
+                    "ground",
+                    "ghost"
+                ]
+            }
+        ],
+        "start": [
+            {
+                "id": "562",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/562.png",
+                "name": "yamask",
+                "types": [
+                    "ghost"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10176.png"
+        },
+        {
+            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10176.png"
+        },
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10176.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10176.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Spirit Pok\u00e9mon",
+    "hatchCounter": 25,
+    "height": 0.5,
+    "id": 10176,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10176.png",
+    "name": "yamask-galar",
+    "stats": {
+        "attack": 55,
+        "defense": 85,
+        "hp": 38,
+        "specialAttack": 30,
+        "specialDefense": 65,
+        "speed": 30
+    },
+    "type_relations": {
+        "resistantTo": [
+            "rock",
+            "poison",
+            "bug"
+        ],
+        "weakTo": [
+            "dark",
+            "ghost",
+            "ice",
+            "water",
+            "grass"
+        ]
+    },
+    "types": [
+        "ground",
+        "ghost"
+    ],
+    "weight": 1.5
+}

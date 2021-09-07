@@ -1,0 +1,64 @@
+{
+    "abilities": {
+        "magic-bounce": "Reflects status moves, instead of getting hit\nby them."
+    },
+    "description": {
+        "game": "ruby",
+        "text": "Every time ABSOL appears before people,\nit is followed by a disaster such as an\nearthquake or a tidal wave.\fAs a result, it came to be known as the\ndisaster POK\u00e9MON."
+    },
+    "eggGroups": [
+        "ground"
+    ],
+    "evolution": {
+        "end": [],
+        "mid": [],
+        "start": [
+            {
+                "id": "359",
+                "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/359.png",
+                "name": "absol",
+                "types": [
+                    "dark"
+                ]
+            }
+        ]
+    },
+    "forms": [
+        {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10057.png"
+        },
+        {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10057.png"
+        }
+    ],
+    "gender": {},
+    "genera": "Disaster Pok\u00e9mon",
+    "hatchCounter": 25,
+    "height": 1.2,
+    "id": 10057,
+    "img": "https://raw.githubusercontent.com/BrianGHong/p-mock-api/main/api/img/10057.png",
+    "name": "absol-mega",
+    "stats": {
+        "attack": 150,
+        "defense": 60,
+        "hp": 65,
+        "specialAttack": 115,
+        "specialDefense": 60,
+        "speed": 115
+    },
+    "type_relations": {
+        "resistantTo": [
+            "dark",
+            "ghost"
+        ],
+        "weakTo": [
+            "fighting",
+            "fairy",
+            "bug"
+        ]
+    },
+    "types": [
+        "dark"
+    ],
+    "weight": 49.0
+}
